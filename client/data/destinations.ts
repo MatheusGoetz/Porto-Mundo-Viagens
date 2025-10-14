@@ -299,10 +299,57 @@ const baseDestinations: Record<string, Destination[]> = {
   Spain: [
     {
       city: "Barcelona",
-      title: "Gaudí e mediterrâneo",
-      description: "Sagrada Família, Las Ramblas e praias ensolaradas.",
-      image:
-        "https://images.unsplash.com/photo-1528909514045-2fa4ac7a08ba?auto=format&fit=crop&w=1600&q=80",
+      title: "Barcelona",
+      description: "Cidade vibrante e artística, famosa pelas obras de Gaudí, como a Sagrada Família e o Parque Güell, além de praias e vida noturna intensa.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Sagrada%20Familia%20Barcelona%20Spain.jpg",
+    },
+    {
+      city: "Madri",
+      title: "Madri",
+      description: "A capital espanhola combina elegância e cultura, com museus renomados como o Prado e o Reina Sofía, além de praças e palácios impressionantes.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Plaza%20Mayor%20Madrid%20Spain.jpg",
+    },
+    {
+      city: "Sevilha",
+      title: "Sevilha",
+      description: "Coração da Andaluzia, Sevilha é sinônimo de flamenco, arquitetura mourisca e da icônica Catedral com a torre Giralda.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Seville%20Cathedral%20and%20Giralda.jpg",
+    },
+    {
+      city: "Granada",
+      title: "Granada",
+      description: "Lar da magnífica Alhambra, Granada oferece vistas deslumbrantes da Sierra Nevada e um rico legado árabe.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Alhambra%20Granada%20Spain.jpg",
+    },
+    {
+      city: "Valência",
+      title: "Valência",
+      description: "Cidade futurista à beira-mar, famosa pela Cidade das Artes e das Ciências, e pela autêntica paella valenciana.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/City%20of%20Arts%20and%20Sciences%20Valencia.jpg",
+    },
+    {
+      city: "Bilbao",
+      title: "Bilbao",
+      description: "Símbolo da modernidade no País Basco, Bilbao é lar do icônico Museu Guggenheim e de uma cena gastronômica de alto nível.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Guggenheim%20Museum%20Bilbao%20Spain.jpg",
+    },
+    {
+      city: "Santiago de Compostela",
+      title: "Santiago de Compostela",
+      description: "Destino final do famoso Caminho de Santiago, a cidade é marcada por espiritualidade, história e uma imponente catedral.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Cathedral%20of%20Santiago%20de%20Compostela%20Spain.jpg",
+    },
+    {
+      city: "Toledo",
+      title: "Toledo",
+      description: "Antiga capital espanhola, Toledo é um labirinto medieval que mistura heranças cristãs, judaicas e islâmicas.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Toledo%20Spain%20panorama.jpg",
+    },
+    {
+      city: "Ilhas Baleares (Mallorca, Ibiza, Menorca)",
+      title: "Ilhas Baleares (Mallorca, Ibiza, Menorca)",
+      description: "Arquipélago paradisíaco no Mediterrâneo, com praias cristalinas, vida noturna animada e paisagens deslumbrantes.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Ibiza%20old%20town%20and%20harbour.jpg",
     },
   ],
   Argentina: [
@@ -973,7 +1020,7 @@ const baseDestinations: Record<string, Destination[]> = {
     {
       city: "Ilha Santa Cruz",
       title: "Ilha Santa Cruz",
-      description: "Lar da Estaç��o Científica Charles Darwin e tartarugas gigantes.",
+      description: "Lar da Estação Científica Charles Darwin e tartarugas gigantes.",
       image: "https://commons.wikimedia.org/wiki/Special:FilePath/Santa%20Cruz%20Island%20Galapagos.jpg",
     },
     {
@@ -1969,7 +2016,7 @@ const baseDestinations: Record<string, Destination[]> = {
     },
     {
       city: "Copán Ruinas",
-      title: "Copán Ruinas",
+      title: "Cop��n Ruinas",
       description:
         "Antigo centro maia com esculturas e hieróglifos detalhados — um dos sítios arqueológicos mais importantes da Mesoamérica.",
       image:
@@ -3268,7 +3315,7 @@ const baseDestinations: Record<string, Destination[]> = {
       city: "DMZ (Zona Desmilitarizada)",
       title: "DMZ (Zona Desmilitarizada)",
       description:
-        "Fronteira entre as duas Coreias, onde é possível visitar pontos de observa��ão e túneis históricos.",
+        "Fronteira entre as duas Coreias, onde é possível visitar pontos de observação e túneis históricos.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/DMZ%20South%20Korea%20Panmunjom.jpg",
     },
