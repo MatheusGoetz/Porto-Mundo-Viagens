@@ -178,7 +178,7 @@ const baseDestinations: Record<string, Destination[]> = {
     {
       city: "Porto",
       title: "Porto",
-      description: "Famosa por suas caves de vinho do Porto e pela ponte Dom Luís I, a cidade combina arquitetura histórica e um clima acolhedor às margens do Douro.",
+      description: "Famosa por suas caves de vinho do Porto e pela ponte Dom Lu��s I, a cidade combina arquitetura histórica e um clima acolhedor às margens do Douro.",
       image: "https://commons.wikimedia.org/wiki/Special:FilePath/Porto%20city%20view%20from%20Vila%20Nova%20de%20Gaia.jpg",
     },
     {
@@ -390,6 +390,62 @@ const baseDestinations: Record<string, Destination[]> = {
       title: "Castelo de Neuschwanstein",
       description: "Inspirou o castelo da Disney e é um dos cartões-postais mais famosos do mundo, situado entre montanhas e lagos da Baviera.",
       image: "https://commons.wikimedia.org/wiki/Special:FilePath/Neuschwanstein%20Castle%20Bavaria%20Germany.jpg",
+    },
+  ],
+  "United Kingdom": [
+    {
+      city: "Londres",
+      title: "Londres",
+      description: "A capital britânica é uma metrópole global repleta de ícones como o Big Ben, o Palácio de Buckingham, o London Eye e o Museu Britânico.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Houses%20of%20Parliament%20London%20-%20Feb%202007.jpg",
+    },
+    {
+      city: "Edimburgo",
+      title: "Edimburgo",
+      description: "Capital da Escócia, Edimburgo combina história medieval e charme literário, com o famoso Castelo de Edimburgo e o festival Fringe.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Edinburgh%20Castle%20from%20Princes%20Street%20Gardens.jpg",
+    },
+    {
+      city: "Lago Ness (Loch Ness)",
+      title: "Lago Ness (Loch Ness)",
+      description: "Um dos lagos mais famosos do mundo, cercado por montanhas e lendas sobre o misterioso monstro Nessie, no coração das Highlands escocesas.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Loch%20Ness%20Urquhart%20Castle%20view.jpg",
+    },
+    {
+      city: "Stonehenge",
+      title: "Stonehenge",
+      description: "Um dos monumentos pré-históricos mais enigmáticos do planeta, localizado no condado de Wiltshire, na Inglaterra.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Stonehenge2007%2007%2029.jpg",
+    },
+    {
+      city: "Liverpool",
+      title: "Liverpool",
+      description: "Cidade natal dos Beatles, Liverpool é um centro cultural com museus, pubs musicais e uma rica herança marítima.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Liverpool%20Waterfront%202015.jpg",
+    },
+    {
+      city: "Oxford",
+      title: "Oxford",
+      description: "Famosa por sua universidade centenária, Oxford é uma cidade encantadora repleta de arquitetura gótica e tradição acadêmica.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Oxford%20Radcliffe%20Camera%20from%20St%20Marys%20Church.jpg",
+    },
+    {
+      city: "Bath",
+      title: "Bath",
+      description: "Cidade romana com banhos termais históricos e arquitetura georgiana elegante, reconhecida como Patrimônio Mundial da UNESCO.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Roman%20Baths%20Bath%20England%20-%20July%202006.jpg",
+    },
+    {
+      city: "Cardiff",
+      title: "Cardiff",
+      description: "A capital do País de Gales combina castelos medievais, cultura galesa e uma vibrante cena moderna à beira-mar.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Cardiff%20Castle%20keep%20and%20walls.jpg",
+    },
+    {
+      city: "Belfast",
+      title: "Belfast",
+      description: "Capital da Irlanda do Norte, famosa por sua história industrial e pelo Titanic Belfast, museu dedicado ao navio que ali foi construído.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Titanic%20Belfast%20Building%202012.jpg",
     },
   ],
   Spain: [
@@ -940,7 +996,7 @@ const baseDestinations: Record<string, Destination[]> = {
       image: "https://commons.wikimedia.org/wiki/Special:FilePath/Filadelfia%20Chaco%20Paraguay.jpg",
     },
     {
-      city: "Areguá",
+      city: "Aregu��",
       title: "Areguá",
       description: "Charmosa cidade colonial às margens do Lago Ypacaraí, famosa por seu artesanato em cerâmica e festival de morangos.",
       image: "https://commons.wikimedia.org/wiki/Special:FilePath/Aregua%20Paraguay.jpg",
@@ -2220,7 +2276,7 @@ const baseDestinations: Record<string, Destination[]> = {
       city: "San José",
       title: "San José",
       description:
-        "A capital do país, com museus, mercados e arquitetura histórica, além de ser ponto de partida para explorar o interior.",
+        "A capital do país, com museus, mercados e arquitetura histórica, al��m de ser ponto de partida para explorar o interior.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/San%20Jose%20Costa%20Rica%20downtown.jpg",
     },
@@ -4618,7 +4674,7 @@ const baseDestinations: Record<string, Destination[]> = {
         "https://commons.wikimedia.org/wiki/Special:FilePath/Riyadh%20Skyline%20at%20Night.jpg",
     },
     {
-      city: "Jidá",
+      city: "Jid��",
       title: "Jidá",
       description:
         "Principal cidade costeira do Mar Vermelho, conhecida pelo calçadão Corniche, pela histórica Al-Balad e pelo icônico King Fahd Fountain.",
