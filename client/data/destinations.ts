@@ -284,7 +284,7 @@ const baseDestinations: Record<string, Destination[]> = {
     {
       city: "Roma",
       title: "Roma",
-      description: "A capital italiana é um verdadeiro museu a céu aberto, lar do Coliseu, do Vaticano, da Fontana di Trevi e de séculos de história.",
+      description: "A capital italiana é um verdadeiro museu a céu aberto, lar do Coliseu, do Vaticano, da Fontana di Trevi e de séculos de hist��ria.",
       image: "https://commons.wikimedia.org/wiki/Special:FilePath/Colosseum%20in%20Rome%20Italy%20April%202007.jpg",
     },
     {
@@ -334,6 +334,62 @@ const baseDestinations: Record<string, Destination[]> = {
       title: "Cinque Terre",
       description: "Cinco vilas coloridas à beira-mar formam uma das paisagens mais pitorescas da Itália, ideais para trilhas e fotografia.",
       image: "https://commons.wikimedia.org/wiki/Special:FilePath/Cinque%20Terre%20Vernazza%20Italy.jpg",
+    },
+  ],
+  Germany: [
+    {
+      city: "Berlim",
+      title: "Berlim",
+      description: "A capital alemã é vibrante e repleta de história, arte e inovação. O Muro de Berlim, o Portão de Brandemburgo e o Reichstag são ícones imperdíveis.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Brandenburg%20Gate%20Berlin%20Germany.jpg",
+    },
+    {
+      city: "Munique",
+      title: "Munique",
+      description: "Lar da Oktoberfest, Munique combina tradição bávara com modernidade, cercada pelos Alpes e cheia de cervejarias lendárias.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Marienplatz%20Munich%20Germany.jpg",
+    },
+    {
+      city: "Hamburgo",
+      title: "Hamburgo",
+      description: "Importante cidade portuária, Hamburgo encanta com seus canais, a moderna Elbphilharmonie e uma atmosfera cosmopolita.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Hamburg%20Elbphilharmonie%20and%20harbour.jpg",
+    },
+    {
+      city: "Colônia (Köln)",
+      title: "Colônia (Köln)",
+      description: "Famosa por sua imponente catedral gótica às margens do Reno, Colônia é uma cidade vibrante e cheia de festivais.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Cologne%20Cathedral%20Germany.jpg",
+    },
+    {
+      city: "Heidelberg",
+      title: "Heidelberg",
+      description: "Cidade universitária romântica, conhecida por seu castelo em ruínas e pela charmosa cidade velha às margens do rio Neckar.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Heidelberg%20Castle%20Germany.jpg",
+    },
+    {
+      city: "Dresden",
+      title: "Dresden",
+      description: "Reconstruída após a Segunda Guerra, Dresden é uma joia barroca com igrejas e palácios deslumbrantes às margens do rio Elba.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Dresden%20skyline%20at%20night.jpg",
+    },
+    {
+      city: "Nuremberg (Nürnberg)",
+      title: "Nuremberg (Nürnberg)",
+      description: "Cheia de história medieval e mercados de Natal famosos, Nuremberg combina charme antigo e importância histórica moderna.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Nuremberg%20castle%20view.jpg",
+    },
+    {
+      city: "Rota Romântica (Romantische Straße)",
+      title: "Rota Romântica (Romantische Straße)",
+      description: "Rota cênica que liga Würzburg a Füssen, passando por vilas medievais, castelos e paisagens dos Alpes bávaros.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Rothenburg%20ob%20der%20Tauber%20Germany.jpg",
+    },
+    {
+      city: "Castelo de Neuschwanstein",
+      title: "Castelo de Neuschwanstein",
+      description: "Inspirou o castelo da Disney e é um dos cartões-postais mais famosos do mundo, situado entre montanhas e lagos da Baviera.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Neuschwanstein%20Castle%20Bavaria%20Germany.jpg",
     },
   ],
   Spain: [
@@ -1904,7 +1960,7 @@ const baseDestinations: Record<string, Destination[]> = {
       city: "Santa Ana",
       title: "Santa Ana",
       description:
-        "Cidade colonial charmosa próxima ao vulcão de mesmo nome e ao Lago Coatepeque, um dos cartões-postais do país.",
+        "Cidade colonial charmosa próxima ao vulcão de mesmo nome e ao Lago Coatepeque, um dos cart��es-postais do país.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/Santa%20Ana%20El%20Salvador.jpg",
     },
@@ -2624,7 +2680,7 @@ const baseDestinations: Record<string, Destination[]> = {
       city: "Nine Mile",
       title: "Nine Mile",
       description:
-        "Pequena vila nas montanhas onde nasceu e está enterrado Bob Marley — local de peregrinação para fãs do reggae.",
+        "Pequena vila nas montanhas onde nasceu e est�� enterrado Bob Marley — local de peregrinação para fãs do reggae.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/Nine%20Mile%20Bob%20Marley%20Mausoleum%20Jamaica.jpg",
     },
@@ -3973,7 +4029,7 @@ const baseDestinations: Record<string, Destination[]> = {
       city: "Pirâmides de Gizé",
       title: "Pirâmides de Gizé",
       description:
-        "O símbolo máximo do Egito, abrigando as Pirâmides de Quéops, Quéfren e Miquerinos, além da icônica Esfinge.",
+        "O símbolo máximo do Egito, abrigando as Pirâmides de Quéops, Quéfren e Miquerinos, além da ic��nica Esfinge.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/Pyramids%20of%20Giza%20Egypt.jpg",
     },
@@ -5191,7 +5247,7 @@ const extraRaw: {
     country: "Brazil",
     destinations: [
       {
-        name: "Rio de Janeiro (Cristo Redentor e P��o de Açúcar)",
+        name: "Rio de Janeiro (Cristo Redentor e P��o de Aç��car)",
         description:
           "Praias icônicas, samba e vistas que definem a alma brasileira — pura energia.",
         image:
