@@ -178,7 +178,7 @@ const baseDestinations: Record<string, Destination[]> = {
     {
       city: "Porto",
       title: "Porto",
-      description: "Famosa por suas caves de vinho do Porto e pela ponte Dom Lu��s I, a cidade combina arquitetura histórica e um clima acolhedor às margens do Douro.",
+      description: "Famosa por suas caves de vinho do Porto e pela ponte Dom Luís I, a cidade combina arquitetura histórica e um clima acolhedor às margens do Douro.",
       image: "https://commons.wikimedia.org/wiki/Special:FilePath/Porto%20city%20view%20from%20Vila%20Nova%20de%20Gaia.jpg",
     },
     {
@@ -390,6 +390,62 @@ const baseDestinations: Record<string, Destination[]> = {
       title: "Castelo de Neuschwanstein",
       description: "Inspirou o castelo da Disney e é um dos cartões-postais mais famosos do mundo, situado entre montanhas e lagos da Baviera.",
       image: "https://commons.wikimedia.org/wiki/Special:FilePath/Neuschwanstein%20Castle%20Bavaria%20Germany.jpg",
+    },
+  ],
+  Switzerland: [
+    {
+      city: "Zurique",
+      title: "Zurique",
+      description: "Centro financeiro e cultural da Suíça, Zurique combina modernidade e charme histórico, com ruas antigas, museus de arte e vida noturna vibrante às margens do lago.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Zürich%20Grossmünster%20and%20Limmat.jpg",
+    },
+    {
+      city: "Genebra",
+      title: "Genebra",
+      description: "Sede de organizações internacionais, Genebra é cosmopolita, elegante e repleta de história, com o famoso Jet d’Eau e o Lago Léman.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Jet%20d%27Eau%20Geneva%20view.jpg",
+    },
+    {
+      city: "Lucerna",
+      title: "Lucerna",
+      description: "Com sua icônica Kapellbrücke (Ponte da Capela) e o Lago Lucerna cercado pelos Alpes, a cidade é um dos cartões-postais mais famosos do país.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Lucerne%20Kapellbrücke%20and%20Water%20Tower.jpg",
+    },
+    {
+      city: "Interlaken",
+      title: "Interlaken",
+      description: "Entre dois lagos cristalinos e rodeada por montanhas, Interlaken é o destino perfeito para esportes radicais e passeios panorâmicos pelos Alpes.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Interlaken%20aerial%20view.jpg",
+    },
+    {
+      city: "Zermatt",
+      title: "Zermatt",
+      description: "Lar do icônico Matterhorn, Zermatt é um dos destinos alpinos mais prestigiados do mundo, ideal para esqui e trilhas de verão.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Matterhorn%20Zermatt%20sunset.jpg",
+    },
+    {
+      city: "Berna",
+      title: "Berna",
+      description: "A capital suíça encanta com seu centro histórico medieval preservado, o Zytglogge (torre do relógio) e o rio Aar serpenteando a cidade.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Bern%20Old%20Town%20view.jpg",
+    },
+    {
+      city: "Montreux",
+      title: "Montreux",
+      description: "Cidade às margens do Lago Léman, famosa por seu festival de jazz e o Castelo de Chillon, um dos monumentos mais visitados da Suíça.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Chillon%20Castle%20Montreux.jpg",
+    },
+    {
+      city: "Lugano",
+      title: "Lugano",
+      description: "No sul do país, próxima à fronteira italiana, Lugano oferece um clima mais mediterrâneo, com palmeiras, montanhas e gastronomia incrível.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Lugano%20Lake%20and%20city%20view.jpg",
+    },
+    {
+      city: "Grindelwald",
+      title: "Grindelwald",
+      description: "Uma vila alpina pitoresca no coração das montanhas Jungfrau, ideal para trilhas, esqui e paisagens cinematográficas.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Grindelwald%20Bernese%20Oberland.jpg",
     },
   ],
   "United Kingdom": [
@@ -996,7 +1052,7 @@ const baseDestinations: Record<string, Destination[]> = {
       image: "https://commons.wikimedia.org/wiki/Special:FilePath/Filadelfia%20Chaco%20Paraguay.jpg",
     },
     {
-      city: "Aregu��",
+      city: "Areguá",
       title: "Areguá",
       description: "Charmosa cidade colonial às margens do Lago Ypacaraí, famosa por seu artesanato em cerâmica e festival de morangos.",
       image: "https://commons.wikimedia.org/wiki/Special:FilePath/Aregua%20Paraguay.jpg",
@@ -1608,7 +1664,7 @@ const baseDestinations: Record<string, Destination[]> = {
       city: "St. Lawrence Gap",
       title: "St. Lawrence Gap",
       description:
-        "Área turística animada, conhecida por bares, restaurantes e vida noturna intensa.",
+        "Área tur��stica animada, conhecida por bares, restaurantes e vida noturna intensa.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/St.%20Lawrence%20Gap%20Barbados.jpg",
     },
@@ -2276,7 +2332,7 @@ const baseDestinations: Record<string, Destination[]> = {
       city: "San José",
       title: "San José",
       description:
-        "A capital do país, com museus, mercados e arquitetura histórica, al��m de ser ponto de partida para explorar o interior.",
+        "A capital do país, com museus, mercados e arquitetura histórica, além de ser ponto de partida para explorar o interior.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/San%20Jose%20Costa%20Rica%20downtown.jpg",
     },
@@ -4674,7 +4730,7 @@ const baseDestinations: Record<string, Destination[]> = {
         "https://commons.wikimedia.org/wiki/Special:FilePath/Riyadh%20Skyline%20at%20Night.jpg",
     },
     {
-      city: "Jid��",
+      city: "Jidá",
       title: "Jidá",
       description:
         "Principal cidade costeira do Mar Vermelho, conhecida pelo calçadão Corniche, pela histórica Al-Balad e pelo icônico King Fahd Fountain.",
@@ -4965,7 +5021,7 @@ const baseDestinations: Record<string, Destination[]> = {
       city: "Doha",
       title: "Doha",
       description:
-        "A capital do Qatar é um centro vibrante de cultura e inovação, com o Museu de Arte Islâmica, o Corniche e a icônica skyline futurista.",
+        "A capital do Qatar �� um centro vibrante de cultura e inovação, com o Museu de Arte Islâmica, o Corniche e a icônica skyline futurista.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/Doha%20Skyline%20at%20Night.jpg",
     },
