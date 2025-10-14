@@ -243,17 +243,57 @@ const baseDestinations: Record<string, Destination[]> = {
   Italy: [
     {
       city: "Roma",
-      title: "História viva",
-      description: "Coliseu, Vaticano e gastronomia inesquecível.",
-      image:
-        "https://images.unsplash.com/photo-1548588627-f978862b85e9?auto=format&fit=crop&w=1600&q=80",
+      title: "Roma",
+      description: "A capital italiana é um verdadeiro museu a céu aberto, lar do Coliseu, do Vaticano, da Fontana di Trevi e de séculos de história.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Colosseum%20in%20Rome%20Italy%20April%202007.jpg",
     },
     {
       city: "Veneza",
-      title: "Canais e charme",
-      description: "Gôndolas, arquitetura única e atmosfera romântica.",
-      image:
-        "https://images.unsplash.com/photo-1523906921802-b5d2d899e93b?auto=format&fit=crop&w=1600&q=80",
+      title: "Veneza",
+      description: "Construída sobre canais, Veneza encanta com suas gôndolas, arquitetura renascentista e a icônica Praça de São Marcos.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Venice%20Grand%20Canal%20and%20Santa%20Maria%20della%20Salute.jpg",
+    },
+    {
+      city: "Florença",
+      title: "Florença",
+      description: "Berço do Renascimento, Florença abriga obras de Michelangelo e Leonardo da Vinci, além da magnífica Catedral de Santa Maria del Fiore.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Florence%20Duomo%20Santa%20Maria%20del%20Fiore.jpg",
+    },
+    {
+      city: "Milão",
+      title: "Milão",
+      description: "Centro mundial da moda e do design, Milão impressiona com sua catedral gótica, galerias luxuosas e o afresco ‘A Última Ceia’.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Milan%20Cathedral%20Duomo%20di%20Milano.jpg",
+    },
+    {
+      city: "Nápoles",
+      title: "Nápoles",
+      description: "Vibrante e autêntica, Nápoles é a porta de entrada para Pompeia, o Vesúvio e a Costa Amalfitana — e o berço da pizza!",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Napoli%20panorama%20Vesuvio.jpg",
+    },
+    {
+      city: "Costa Amalfitana",
+      title: "Costa Amalfitana",
+      description: "Com falésias deslumbrantes, vilas coloridas e vistas para o Mediterrâneo, a Costa Amalfitana é um dos destinos mais românticos do mundo.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Positano%20Amalfi%20Coast%20Italy.jpg",
+    },
+    {
+      city: "Pisa",
+      title: "Pisa",
+      description: "Famosa por sua torre inclinada, Pisa é um marco icônico da engenharia e um símbolo mundial da Itália.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Leaning%20Tower%20of%20Pisa%20Italy.jpg",
+    },
+    {
+      city: "Verona",
+      title: "Verona",
+      description: "Cidade de Romeu e Julieta, Verona é charmosa e histórica, com ruínas romanas e praças encantadoras.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Verona%20Arena%20Italy.jpg",
+    },
+    {
+      city: "Cinque Terre",
+      title: "Cinque Terre",
+      description: "Cinco vilas coloridas à beira-mar formam uma das paisagens mais pitorescas da Itália, ideais para trilhas e fotografia.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Cinque%20Terre%20Vernazza%20Italy.jpg",
     },
   ],
   Spain: [
@@ -933,7 +973,7 @@ const baseDestinations: Record<string, Destination[]> = {
     {
       city: "Ilha Santa Cruz",
       title: "Ilha Santa Cruz",
-      description: "Lar da Estação Científica Charles Darwin e tartarugas gigantes.",
+      description: "Lar da Estaç��o Científica Charles Darwin e tartarugas gigantes.",
       image: "https://commons.wikimedia.org/wiki/Special:FilePath/Santa%20Cruz%20Island%20Galapagos.jpg",
     },
     {
@@ -3228,7 +3268,7 @@ const baseDestinations: Record<string, Destination[]> = {
       city: "DMZ (Zona Desmilitarizada)",
       title: "DMZ (Zona Desmilitarizada)",
       description:
-        "Fronteira entre as duas Coreias, onde é possível visitar pontos de observação e túneis históricos.",
+        "Fronteira entre as duas Coreias, onde é possível visitar pontos de observa��ão e túneis históricos.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/DMZ%20South%20Korea%20Panmunjom.jpg",
     },
