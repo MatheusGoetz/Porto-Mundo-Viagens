@@ -171,17 +171,57 @@ const baseDestinations: Record<string, Destination[]> = {
   Portugal: [
     {
       city: "Lisboa",
-      title: "Hist��ria e sabores",
-      description: "Belém, Alfama e os pastéis mais famosos do mundo.",
-      image:
-        "https://images.unsplash.com/photo-1569420075412-2d4c0b2f7bfc?auto=format&fit=crop&w=1600&q=80",
+      title: "Lisboa",
+      description: "A capital portuguesa encanta com seus miradouros, bondinhos, o bairro de Alfama e o icônico Mosteiro dos Jerónimos em Belém.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Lisbon%20Baixa%20Chiado%20view.jpg",
     },
     {
       city: "Porto",
-      title: "Charme e vinhos",
-      description: "Ribeira, pontes icônicas e caves de vinho do Porto.",
-      image:
-        "https://images.unsplash.com/photo-1566836613382-0bcb37a4f114?auto=format&fit=crop&w=1600&q=80",
+      title: "Porto",
+      description: "Famosa por suas caves de vinho do Porto e pela ponte Dom Luís I, a cidade combina arquitetura histórica e um clima acolhedor às margens do Douro.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Porto%20city%20view%20from%20Vila%20Nova%20de%20Gaia.jpg",
+    },
+    {
+      city: "Sintra",
+      title: "Sintra",
+      description: "Patrimônio Mundial da UNESCO, Sintra é um conto de fadas real, com palácios coloridos, castelos e florestas misteriosas.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Pena%20Palace%20Sintra%20Portugal.jpg",
+    },
+    {
+      city: "Coimbra",
+      title: "Coimbra",
+      description: "Cidade universitária histórica, lar de uma das universidades mais antigas da Europa e rica em tradições acadêmicas e musicais.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/University%20of%20Coimbra%20Portugal.jpg",
+    },
+    {
+      city: "Évora",
+      title: "Évora",
+      description: "No coração do Alentejo, Évora é um museu a céu aberto com ruínas romanas, capelas singulares e arquitetura medieval preservada.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Evora%20Roman%20Temple%20Portugal.jpg",
+    },
+    {
+      city: "Algarve",
+      title: "Algarve",
+      description: "Região de praias paradisíacas, falésias douradas e mar azul-turquesa — o destino perfeito para relaxar sob o sol português.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Lagos%20Algarve%20Ponta%20da%20Piedade.jpg",
+    },
+    {
+      city: "Madeira",
+      title: "Madeira",
+      description: "Ilha montanhosa no Atlântico, famosa por suas paisagens exuberantes, trilhas e o vinho Madeira.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Madeira%20Island%20Portugal%20cliffs.jpg",
+    },
+    {
+      city: "Açores",
+      title: "Açores",
+      description: "Arquipélago vulcânico com crateras, lagos e miradouros impressionantes — um paraíso para quem ama natureza e aventura.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/S%C3%A3o%20Miguel%20Sete%20Cidades%20Azores.jpg",
+    },
+    {
+      city: "Braga",
+      title: "Braga",
+      description: "Uma das cidades mais antigas do país, Braga é rica em igrejas barrocas, jardins e espiritualidade, com destaque para o Santuário do Bom Jesus do Monte.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Bom%20Jesus%20do%20Monte%20Braga%20Portugal.jpg",
     },
   ],
   France: [
@@ -3703,7 +3743,7 @@ const baseDestinations: Record<string, Destination[]> = {
       city: "Tóquio",
       title: "Tóquio",
       description:
-        "A capital do Japão é uma metrópole vibrante, onde a tecnologia futurista encontra tradições antigas. Destaques incluem Shibuya, Akihabara e o Templo Senso-ji em Asakusa.",
+        "A capital do Jap��o é uma metrópole vibrante, onde a tecnologia futurista encontra tradições antigas. Destaques incluem Shibuya, Akihabara e o Templo Senso-ji em Asakusa.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/Tokyo%20Shibuya%20crossing%20at%20night.jpg",
     },
@@ -4918,7 +4958,7 @@ const extraRaw: {
       {
         name: "Sahara (oasis de Timimoun)",
         description:
-          "Dunas infinitas, oasis vermelhos — o deserto que convida à aventura épica.",
+          "Dunas infinitas, oasis vermelhos — o deserto que convida à aventura ��pica.",
         image:
           "https://commons.wikimedia.org/wiki/Special:Search?search=Timimoun",
       },
