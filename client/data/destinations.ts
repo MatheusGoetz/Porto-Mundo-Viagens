@@ -448,6 +448,62 @@ const baseDestinations: Record<string, Destination[]> = {
       image: "https://commons.wikimedia.org/wiki/Special:FilePath/Kitzbühel%20winter%20Austria.jpg",
     },
   ],
+  Greece: [
+    {
+      city: "Atenas",
+      title: "Atenas",
+      description: "Capital da Grécia e berço da civilização ocidental, Atenas é um museu a céu aberto com monumentos icônicos como a Acrópole e o Partenon, além de uma vibrante vida urbana.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Acropolis%20of%20Athens.jpg",
+    },
+    {
+      city: "Santorini",
+      title: "Santorini",
+      description: "Ilha vulcânica famosa por suas casas brancas com cúpulas azuis, vistas deslumbrantes do mar Egeu e pores do sol inesquecíveis sobre Oia.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Santorini%20Oia%20sunset.jpg",
+    },
+    {
+      city: "Mykonos",
+      title: "Mykonos",
+      description: "Conhecida por suas praias animadas, moinhos de vento e vida noturna intensa, Mykonos é o destino mais cosmopolita das ilhas gregas.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Mykonos%20windmills%20Greece.jpg",
+    },
+    {
+      city: "Creta",
+      title: "Creta",
+      description: "A maior ilha grega oferece uma mistura fascinante de praias paradisíacas, montanhas, vilas tradicionais e sítios arqueológicos como o Palácio de Knossos.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Knossos%20palace%20Crete.jpg",
+    },
+    {
+      city: "Rodes (Rhodes)",
+      title: "Rodes (Rhodes)",
+      description: "Famosa por suas muralhas medievais e praias ensolaradas, Rodes combina história, cultura e relaxamento em um só destino.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Rhodes%20Old%20Town%20Greece.jpg",
+    },
+    {
+      city: "Corfu",
+      title: "Corfu",
+      description: "Ilha verdejante no mar Jônico, Corfu encanta com sua mistura de influências venezianas, francesas e britânicas, além de praias e vilas pitorescas.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Corfu%20Old%20Town%20Greece.jpg",
+    },
+    {
+      city: "Meteora",
+      title: "Meteora",
+      description: "Um dos locais mais impressionantes da Grécia continental, com mosteiros ortodoxos construídos sobre enormes formações rochosas.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Meteora%20monasteries%20Greece.jpg",
+    },
+    {
+      city: "Delphi",
+      title: "Delphi",
+      description: "Antigo centro espiritual do mundo grego, onde se localiza o famoso Oráculo de Delfos, cercado por montanhas e ruínas milenares.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Delphi%20ruins%20Greece.jpg",
+    },
+    {
+      city: "Nafplio",
+      title: "Nafplio",
+      description: "Primeira capital da Grécia moderna, Nafplio é uma cidade costeira romântica, com ruas de pedra, fortalezas venezianas e vista para o mar Egeu.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Nafplio%20harbour%20Greece.jpg",
+    },
+  ],
   Switzerland: [
     {
       city: "Zurique",
@@ -768,7 +824,7 @@ const baseDestinations: Record<string, Destination[]> = {
     {
       city: "Cochabamba",
       title: "Cochabamba",
-      description: "Cidade no centro da Bolívia, conhecida pelo Cristo de la Concordia e clima agradável.",
+      description: "Cidade no centro da Bol��via, conhecida pelo Cristo de la Concordia e clima agradável.",
       image: "https://commons.wikimedia.org/wiki/Special:FilePath/Cochabamba%20Bolivia%20Christo%20de%20la%20Concordia.jpg",
     },
     {
@@ -2470,7 +2526,7 @@ const baseDestinations: Record<string, Destination[]> = {
       city: "Parque Nacional Coiba",
       title: "Parque Nacional Coiba",
       description:
-        "Antiga colônia penal transformada em reserva marinha, considerada Patrimônio Mundial da UNESCO e um dos melhores pontos de mergulho do pa��s.",
+        "Antiga colônia penal transformada em reserva marinha, considerada Patrimônio Mundial da UNESCO e um dos melhores pontos de mergulho do país.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/Coiba%20National%20Park%20Panama.jpg",
     },
@@ -2552,7 +2608,7 @@ const baseDestinations: Record<string, Destination[]> = {
       city: "Santa Clara",
       title: "Santa Clara",
       description:
-        "Cidade histórica famosa pelo Mausoléu de Che Guevara e sua importância na Revolução Cubana.",
+        "Cidade hist��rica famosa pelo Mausoléu de Che Guevara e sua importância na Revolução Cubana.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/Santa%20Clara%20Che%20Guevara%20Mausoleum%20Cuba.jpg",
     },
@@ -5171,7 +5227,7 @@ const extraRaw: {
       {
         name: "Berat (Cidade das Mil Janelaas)",
         description:
-          "Encantos otomanos e vistas sobre o rio Osum — hist��ria gravada em pedra.",
+          "Encantos otomanos e vistas sobre o rio Osum — história gravada em pedra.",
         image: "https://commons.wikimedia.org/wiki/Special:Search?search=Berat",
       },
     ],
