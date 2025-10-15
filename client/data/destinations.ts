@@ -780,7 +780,7 @@ const baseDestinations: Record<string, Destination[]> = {
     {
       city: "Korčula",
       title: "Korčula",
-      description: "Conhecida como a 'pequena Dubrovnik', Korčula é uma ilha de charme medieval, cercada por vinhedos e lendas sobre Marco Polo.",
+      description: "Conhecida como a 'pequena Dubrovnik', Kor��ula é uma ilha de charme medieval, cercada por vinhedos e lendas sobre Marco Polo.",
       image: "https://commons.wikimedia.org/wiki/Special:FilePath/Korcula%20Old%20Town%20Croatia.jpg",
     },
   ],
@@ -894,6 +894,62 @@ const baseDestinations: Record<string, Destination[]> = {
       title: "Hollókő",
       description: "Pequena vila tradicional listada como Patrimônio Mundial da UNESCO, Hollókő preserva o estilo de vida rural húngaro com casas de madeira e cultura folclórica autêntica.",
       image: "https://commons.wikimedia.org/wiki/Special:FilePath/Holloko%20village%20Hungary.jpg",
+    },
+  ],
+  Iceland: [
+    {
+      city: "Reykjavík",
+      title: "Reykjavík",
+      description: "A capital mais setentrional do mundo combina cultura moderna, arquitetura futurista e uma cena musical vibrante, com vista para montanhas e o mar do Norte.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Reykjavik%20Iceland%20Hallgrimskirkja.jpg",
+    },
+    {
+      city: "Círculo Dourado (Golden Circle)",
+      title: "Círculo Dourado (Golden Circle)",
+      description: "Rota turística icônica que abrange o Parque Nacional Þingvellir, o gêiser Strokkur e a impressionante cachoeira Gullfoss — um trio imperdível da Islândia.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Gullfoss%20waterfall%20Iceland.jpg",
+    },
+    {
+      city: "Blue Lagoon",
+      title: "Blue Lagoon",
+      description: "Spa geotermal mundialmente famoso com águas azul-turquesa ricas em sílica, perfeito para relaxar em meio a um cenário vulcânico surreal.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Blue%20Lagoon%20Iceland.jpg",
+    },
+    {
+      city: "Vík í Mýrdal",
+      title: "Vík í Mýrdal",
+      description: "Vila costeira famosa pela praia de areia preta de Reynisfjara, com formações rochosas basálticas e ondas poderosas do Atlântico Norte.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Reynisfjara%20black%20sand%20beach%20Iceland.jpg",
+    },
+    {
+      city: "Jökulsárlón",
+      title: "Jökulsárlón",
+      description: "Lago glacial repleto de icebergs flutuantes vindos do glaciar Vatnajökull, oferecendo um dos cenários mais fotogênicos da Islândia.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Jokulsarlon%20glacial%20lagoon%20Iceland.jpg",
+    },
+    {
+      city: "Akureyri",
+      title: "Akureyri",
+      description: "Conhecida como a 'capital do norte', Akureyri é charmosa, cercada por montanhas e uma ótima base para explorar fiordes e avistar baleias.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Akureyri%20Iceland%20harbor.jpg",
+    },
+    {
+      city: "Landmannalaugar",
+      title: "Landmannalaugar",
+      description: "Região de montanhas coloridas e trilhas espetaculares nas Terras Altas islandesas, ideal para trekking e banhos em fontes termais naturais.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Landmannalaugar%20Iceland.jpg",
+    },
+    {
+      city: "Dettifoss",
+      title: "Dettifoss",
+      description: "Considerada a cachoeira mais poderosa da Europa, Dettifoss impressiona com sua força brutal e o cenário lunar ao redor.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Dettifoss%20waterfall%20Iceland.jpg",
+    },
+    {
+      city: "Snaefellsnes",
+      title: "Snaefellsnes",
+      description: "Península que reúne o melhor da Islândia em um só lugar — vulcões, glaciares, praias negras e o icônico monte Kirkjufell, cartão-postal do país.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Kirkjufell%20mountain%20Iceland.jpg",
     },
   ],
   Spain: [
@@ -2721,7 +2777,7 @@ const baseDestinations: Record<string, Destination[]> = {
         "https://commons.wikimedia.org/wiki/Special:FilePath/Corcovado%20National%20Park%20Costa%20Rica.jpg",
     },
     {
-      city: "San Jos��",
+      city: "San José",
       title: "San José",
       description:
         "A capital do país, com museus, mercados e arquitetura histórica, além de ser ponto de partida para explorar o interior.",
@@ -4795,7 +4851,7 @@ const baseDestinations: Record<string, Destination[]> = {
       city: "Douz",
       title: "Douz",
       description:
-        "Conhecida como a 'Porta do Saara', é o ponto de partida ideal para expedições de camelo pelas dunas do deserto.",
+        "Conhecida como a 'Porta do Saara', é o ponto de partida ideal para expedi��ões de camelo pelas dunas do deserto.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/Douz%20Sahara%20Tunisia.jpg",
     },
@@ -6162,7 +6218,7 @@ export const brazilRegionDestinations: Record<string, Destination[]> = {
       image: "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcShxhQ-6Ozrs1PiBmW3-CVCaAAaGCjZRlYWgN-GeshCiHzzgzg-KhPz9soN73UDz786p9n87CSgOl7hukmy77FHA01jXCGaG48ER7BKX7A",
     },
     {
-      city: "B��zios",
+      city: "Búzios",
       title: "Búzios",
       description: "Búzios é um destino encantador que combina praias paradisíacas, vida noturna vibrante e charme europeu. Com mais de 20 praias de águas cristalinas e uma atmosfera cosmopolita, é o lugar perfeito para relaxar, praticar esportes aquáticos ou explorar a gastronomia local.",
       image: "https://www.viagenscinematograficas.com.br/wp-content/uploads/2019/08/Buzios-RJ-O-que-fazer-Capa.jpg",
