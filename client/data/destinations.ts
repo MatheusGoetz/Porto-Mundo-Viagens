@@ -784,6 +784,62 @@ const baseDestinations: Record<string, Destination[]> = {
       image: "https://commons.wikimedia.org/wiki/Special:FilePath/Korcula%20Old%20Town%20Croatia.jpg",
     },
   ],
+  Czechia: [
+    {
+      city: "Praga (Praha)",
+      title: "Praga (Praha)",
+      description: "A capital e joia da República Tcheca, Praga encanta com seu centro histórico medieval, a Ponte Carlos, o Castelo de Praga e a famosa Praça da Cidade Velha com o Relógio Astronômico.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Prague%20Charles%20Bridge%20Czech%20Republic.jpg",
+    },
+    {
+      city: "Český Krumlov",
+      title: "Český Krumlov",
+      description: "Uma cidade de conto de fadas no sul do país, com ruas de paralelepípedo, casas coloridas e um castelo magnífico que domina o rio Vltava.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Cesky%20Krumlov%20Czech%20Republic.jpg",
+    },
+    {
+      city: "Karlovy Vary",
+      title: "Karlovy Vary",
+      description: "Famosa por suas águas termais e arquitetura elegante, Karlovy Vary é um destino de bem-estar e luxo, conhecida por spas e pelo festival internacional de cinema.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Karlovy%20Vary%20Czech%20Republic.jpg",
+    },
+    {
+      city: "Kutná Hora",
+      title: "Kutná Hora",
+      description: "Patrimônio Mundial da UNESCO, Kutná Hora se destaca pela impressionante Igreja de Santa Bárbara e o Ossuário de Sedlec, decorado com ossos humanos.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Sedlec%20Ossuary%20Kutna%20Hora%20Czech%20Republic.jpg",
+    },
+    {
+      city: "Brno",
+      title: "Brno",
+      description: "A segunda maior cidade do país é vibrante, moderna e cheia de vida estudantil, com destaque para a fortaleza de Špilberk e a arquitetura funcionalista da Villa Tugendhat.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Brno%20Spilberk%20Castle%20Czech%20Republic.jpg",
+    },
+    {
+      city: "Olomouc",
+      title: "Olomouc",
+      description: "Um tesouro histórico pouco conhecido, Olomouc possui uma das praças mais bonitas da Europa e uma atmosfera universitária animada.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Olomouc%20Holy%20Trinity%20Column%20Czech%20Republic.jpg",
+    },
+    {
+      city: "Telč",
+      title: "Telč",
+      description: "Pequena e encantadora, Telč é conhecida por sua praça principal renascentista, com fachadas coloridas e perfeitamente preservadas.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Telc%20Main%20Square%20Czech%20Republic.jpg",
+    },
+    {
+      city: "Pilsen (Plzeň)",
+      title: "Pilsen (Plzeň)",
+      description: "Berço da mundialmente famosa cerveja Pilsner, Pilsen é um paraíso para amantes de cerveja e história industrial, com uma bela catedral e a fábrica original da Pilsner Urquell.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Pilsen%20Cathedral%20Czech%20Republic.jpg",
+    },
+    {
+      city: "Karlštejn",
+      title: "Karlštejn",
+      description: "Pequena vila próxima de Praga, famosa pelo majestoso Castelo de Karlštejn, construído por Carlos IV para guardar joias da coroa e relíquias sagradas.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Karlstejn%20Castle%20Czech%20Republic.jpg",
+    },
+  ],
   Spain: [
     {
       city: "Barcelona",
@@ -1024,7 +1080,7 @@ const baseDestinations: Record<string, Destination[]> = {
     {
       city: "Cuenca",
       title: "Cuenca",
-      description: "Cidade colonial famosa por sua arquitetura, igrejas históricas e tradição dos chapéus Panam��.",
+      description: "Cidade colonial famosa por sua arquitetura, igrejas históricas e tradição dos chapéus Panamá.",
       image: "https://commons.wikimedia.org/wiki/Special:FilePath/Cuenca%20Ecuador%20Cathedral.jpg",
     },
     {
@@ -2506,7 +2562,7 @@ const baseDestinations: Record<string, Destination[]> = {
       city: "Copán Ruinas",
       title: "Cop��n Ruinas",
       description:
-        "Antigo centro maia com esculturas e hieróglifos detalhados �� um dos sítios arqueológicos mais importantes da Mesoamérica.",
+        "Antigo centro maia com esculturas e hieróglifos detalhados — um dos sítios arqueológicos mais importantes da Mesoamérica.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/Copan%20Ruins%20Honduras.jpg",
     },
@@ -5653,7 +5709,7 @@ const extraRaw: {
       {
         name: "Mesquita Sultan Omar Ali Saifuddien",
         description:
-          "Opulência arquitetônica à beira-mar — símbolo do patrimônio muçulmano local.",
+          "Opulência arquitetônica à beira-mar ��� símbolo do patrimônio muçulmano local.",
         image:
           "https://commons.wikimedia.org/wiki/Special:Search?search=Sultan+Omar+Ali+Saifuddien+Mosque",
       },
@@ -6217,7 +6273,7 @@ export const brazilRegionDestinations: Record<string, Destination[]> = {
       city: "Durban",
       title: "Durban",
       description:
-        "Cidade litor��nea com praias douradas, clima tropical e uma mistura única de culturas africanas e indianas.",
+        "Cidade litorânea com praias douradas, clima tropical e uma mistura única de culturas africanas e indianas.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/Durban%20Beachfront.jpg",
     },
