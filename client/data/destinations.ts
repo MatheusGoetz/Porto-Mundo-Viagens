@@ -47,13 +47,16 @@ const baseDestinations: Record<string, Destination[]> = {
       title: "Las Vegas",
       description:
         "Cidade do entretenimento e cassinos, com shows e vida noturna intensos no famoso Las Vegas Strip.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Las%20Vegas%20Strip.jpg",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Las%20Vegas%20Strip.jpg",
     },
     {
       city: "San Francisco",
       title: "San Francisco",
-      description: "Famosa pela Golden Gate Bridge, bondinhos e a Ilha de Alcatraz.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/GoldenGateBridge-001.jpg",
+      description:
+        "Famosa pela Golden Gate Bridge, bondinhos e a Ilha de Alcatraz.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/GoldenGateBridge-001.jpg",
     },
     {
       city: "Miami",
@@ -84,7 +87,8 @@ const baseDestinations: Record<string, Destination[]> = {
       title: "Washington, D.C.",
       description:
         "A capital dos EUA, com monumentos icônicos como a Casa Branca e o Capitólio.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/US%20Capitol%20west%20side.JPG",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/US%20Capitol%20west%20side.JPG",
     },
     {
       city: "Honolulu (Havaí)",
@@ -165,1655 +169,2176 @@ const baseDestinations: Record<string, Destination[]> = {
       title: "Whistler",
       description:
         "Resort de montanha famoso por esqui, snowboard e paisagens deslumbrantes durante todo o ano.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Whistler%20Village.jpg",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Whistler%20Village.jpg",
     },
   ],
   Portugal: [
     {
       city: "Lisboa",
       title: "Lisboa",
-      description: "A capital portuguesa encanta com seus miradouros, bondinhos, o bairro de Alfama e o icônico Mosteiro dos Jerónimos em Belém.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Lisbon%20Baixa%20Chiado%20view.jpg",
+      description:
+        "A capital portuguesa encanta com seus miradouros, bondinhos, o bairro de Alfama e o icônico Mosteiro dos Jerónimos em Belém.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Lisbon%20Baixa%20Chiado%20view.jpg",
     },
     {
       city: "Porto",
       title: "Porto",
-      description: "Famosa por suas caves de vinho do Porto e pela ponte Dom Luís I, a cidade combina arquitetura histórica e um clima acolhedor às margens do Douro.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Porto%20city%20view%20from%20Vila%20Nova%20de%20Gaia.jpg",
+      description:
+        "Famosa por suas caves de vinho do Porto e pela ponte Dom Luís I, a cidade combina arquitetura histórica e um clima acolhedor às margens do Douro.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Porto%20city%20view%20from%20Vila%20Nova%20de%20Gaia.jpg",
     },
     {
       city: "Sintra",
       title: "Sintra",
-      description: "Patrimônio Mundial da UNESCO, Sintra é um conto de fadas real, com palácios coloridos, castelos e florestas misteriosas.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Pena%20Palace%20Sintra%20Portugal.jpg",
+      description:
+        "Patrimônio Mundial da UNESCO, Sintra é um conto de fadas real, com palácios coloridos, castelos e florestas misteriosas.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Pena%20Palace%20Sintra%20Portugal.jpg",
     },
     {
       city: "Coimbra",
       title: "Coimbra",
-      description: "Cidade universitária histórica, lar de uma das universidades mais antigas da Europa e rica em tradições acadêmicas e musicais.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/University%20of%20Coimbra%20Portugal.jpg",
+      description:
+        "Cidade universitária histórica, lar de uma das universidades mais antigas da Europa e rica em tradições acadêmicas e musicais.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/University%20of%20Coimbra%20Portugal.jpg",
     },
     {
       city: "Évora",
       title: "Évora",
-      description: "No coração do Alentejo, Évora é um museu a céu aberto com ruínas romanas, capelas singulares e arquitetura medieval preservada.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Evora%20Roman%20Temple%20Portugal.jpg",
+      description:
+        "No coração do Alentejo, Évora é um museu a céu aberto com ruínas romanas, capelas singulares e arquitetura medieval preservada.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Evora%20Roman%20Temple%20Portugal.jpg",
     },
     {
       city: "Algarve",
       title: "Algarve",
-      description: "Região de praias paradisíacas, falésias douradas e mar azul-turquesa — o destino perfeito para relaxar sob o sol português.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Lagos%20Algarve%20Ponta%20da%20Piedade.jpg",
+      description:
+        "Região de praias paradisíacas, falésias douradas e mar azul-turquesa — o destino perfeito para relaxar sob o sol português.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Lagos%20Algarve%20Ponta%20da%20Piedade.jpg",
     },
     {
       city: "Madeira",
       title: "Madeira",
-      description: "Ilha montanhosa no Atlântico, famosa por suas paisagens exuberantes, trilhas e o vinho Madeira.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Madeira%20Island%20Portugal%20cliffs.jpg",
+      description:
+        "Ilha montanhosa no Atlântico, famosa por suas paisagens exuberantes, trilhas e o vinho Madeira.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Madeira%20Island%20Portugal%20cliffs.jpg",
     },
     {
       city: "Açores",
       title: "Açores",
-      description: "Arquipélago vulcânico com crateras, lagos e miradouros impressionantes — um paraíso para quem ama natureza e aventura.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/S%C3%A3o%20Miguel%20Sete%20Cidades%20Azores.jpg",
+      description:
+        "Arquipélago vulcânico com crateras, lagos e miradouros impressionantes — um paraíso para quem ama natureza e aventura.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/S%C3%A3o%20Miguel%20Sete%20Cidades%20Azores.jpg",
     },
     {
       city: "Braga",
       title: "Braga",
-      description: "Uma das cidades mais antigas do país, Braga é rica em igrejas barrocas, jardins e espiritualidade, com destaque para o Santuário do Bom Jesus do Monte.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Bom%20Jesus%20do%20Monte%20Braga%20Portugal.jpg",
+      description:
+        "Uma das cidades mais antigas do país, Braga é rica em igrejas barrocas, jardins e espiritualidade, com destaque para o Santuário do Bom Jesus do Monte.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Bom%20Jesus%20do%20Monte%20Braga%20Portugal.jpg",
     },
   ],
   France: [
     {
       city: "Paris",
       title: "Paris",
-      description: "A Cidade Luz encanta com sua arte, gastronomia e monumentos icônicos como a Torre Eiffel, o Louvre e a Catedral de Notre-Dame.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Tour%20Eiffel%20Wikimedia%20Commons.jpg",
+      description:
+        "A Cidade Luz encanta com sua arte, gastronomia e monumentos icônicos como a Torre Eiffel, o Louvre e a Catedral de Notre-Dame.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Tour%20Eiffel%20Wikimedia%20Commons.jpg",
     },
     {
       city: "Nice",
       title: "Nice",
-      description: "Pérola da Riviera Francesa, Nice combina mar azul-turquesa, calçadões elegantes e um charme mediterrâneo vibrante.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Nice%20France%20Promenade%20des%20Anglais.jpg",
+      description:
+        "Pérola da Riviera Francesa, Nice combina mar azul-turquesa, calçadões elegantes e um charme mediterrâneo vibrante.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Nice%20France%20Promenade%20des%20Anglais.jpg",
     },
     {
       city: "Lyon",
       title: "Lyon",
-      description: "Capital gastronômica da França, Lyon oferece uma mistura de arquitetura renascentista, colinas históricas e bistrôs premiados.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Lyon%20Panorama%20Fourvi%C3%A8re.jpg",
+      description:
+        "Capital gastronômica da França, Lyon oferece uma mistura de arquitetura renascentista, colinas históricas e bistrôs premiados.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Lyon%20Panorama%20Fourvi%C3%A8re.jpg",
     },
     {
       city: "Marselha",
       title: "Marselha",
-      description: "Porta do Mediterrâneo, Marselha combina o antigo porto Vieux-Port com uma cena multicultural e vistas impressionantes do mar.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Old%20Port%20of%20Marseille%20France.jpg",
+      description:
+        "Porta do Mediterrâneo, Marselha combina o antigo porto Vieux-Port com uma cena multicultural e vistas impressionantes do mar.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Old%20Port%20of%20Marseille%20France.jpg",
     },
     {
       city: "Bordeaux",
       title: "Bordeaux",
-      description: "Destino imperdível para amantes do vinho, Bordeaux é uma cidade refinada rodeada por vinhedos mundialmente famosos.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Bordeaux%20Place%20de%20la%20Bourse.jpg",
+      description:
+        "Destino imperdível para amantes do vinho, Bordeaux é uma cidade refinada rodeada por vinhedos mundialmente famosos.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Bordeaux%20Place%20de%20la%20Bourse.jpg",
     },
     {
       city: "Estrasburgo",
       title: "Estrasburgo",
-      description: "Com sua arquitetura de conto de fadas e atmosfera germânica, Estrasburgo é um charme às margens do Reno.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Strasbourg%20Petite%20France.jpg",
+      description:
+        "Com sua arquitetura de conto de fadas e atmosfera germânica, Estrasburgo é um charme às margens do Reno.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Strasbourg%20Petite%20France.jpg",
     },
     {
       city: "Mont Saint-Michel",
       title: "Mont Saint-Michel",
-      description: "Ilha rochosa coroada por uma abadia medieval, o Mont Saint-Michel é um dos locais mais icônicos e fotogênicos da França.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Mont%20Saint-Michel%20France%20at%20high%20tide.jpg",
+      description:
+        "Ilha rochosa coroada por uma abadia medieval, o Mont Saint-Michel é um dos locais mais icônicos e fotogênicos da França.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Mont%20Saint-Michel%20France%20at%20high%20tide.jpg",
     },
     {
       city: "Vale do Loire",
       title: "Vale do Loire",
-      description: "Região repleta de castelos renascentistas, jardins e vinhedos — um verdadeiro passeio pela história real francesa.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Ch%C3%A2teau%20de%20Chambord%20Loire%20Valley.jpg",
+      description:
+        "Região repleta de castelos renascentistas, jardins e vinhedos — um verdadeiro passeio pela história real francesa.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Ch%C3%A2teau%20de%20Chambord%20Loire%20Valley.jpg",
     },
     {
       city: "Provence",
       title: "Provence",
-      description: "Famosa por seus campos de lavanda, vilas medievais e gastronomia típica, a Provence é o retrato do charme do sul da França.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Provence%20Lavender%20Fields%20France.jpg",
+      description:
+        "Famosa por seus campos de lavanda, vilas medievais e gastronomia típica, a Provence é o retrato do charme do sul da França.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Provence%20Lavender%20Fields%20France.jpg",
     },
   ],
   Italy: [
     {
       city: "Roma",
       title: "Roma",
-      description: "A capital italiana é um verdadeiro museu a céu aberto, lar do Coliseu, do Vaticano, da Fontana di Trevi e de séculos de hist��ria.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Colosseum%20in%20Rome%20Italy%20April%202007.jpg",
+      description:
+        "A capital italiana é um verdadeiro museu a céu aberto, lar do Coliseu, do Vaticano, da Fontana di Trevi e de séculos de hist��ria.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Colosseum%20in%20Rome%20Italy%20April%202007.jpg",
     },
     {
       city: "Veneza",
       title: "Veneza",
-      description: "Construída sobre canais, Veneza encanta com suas gôndolas, arquitetura renascentista e a icônica Praça de São Marcos.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Venice%20Grand%20Canal%20and%20Santa%20Maria%20della%20Salute.jpg",
+      description:
+        "Construída sobre canais, Veneza encanta com suas gôndolas, arquitetura renascentista e a icônica Praça de São Marcos.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Venice%20Grand%20Canal%20and%20Santa%20Maria%20della%20Salute.jpg",
     },
     {
       city: "Florença",
       title: "Florença",
-      description: "Berço do Renascimento, Florença abriga obras de Michelangelo e Leonardo da Vinci, além da magnífica Catedral de Santa Maria del Fiore.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Florence%20Duomo%20Santa%20Maria%20del%20Fiore.jpg",
+      description:
+        "Berço do Renascimento, Florença abriga obras de Michelangelo e Leonardo da Vinci, além da magnífica Catedral de Santa Maria del Fiore.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Florence%20Duomo%20Santa%20Maria%20del%20Fiore.jpg",
     },
     {
       city: "Milão",
       title: "Milão",
-      description: "Centro mundial da moda e do design, Milão impressiona com sua catedral gótica, galerias luxuosas e o afresco ‘A Última Ceia’.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Milan%20Cathedral%20Duomo%20di%20Milano.jpg",
+      description:
+        "Centro mundial da moda e do design, Milão impressiona com sua catedral gótica, galerias luxuosas e o afresco ‘A Última Ceia’.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Milan%20Cathedral%20Duomo%20di%20Milano.jpg",
     },
     {
       city: "Nápoles",
       title: "Nápoles",
-      description: "Vibrante e autêntica, Nápoles é a porta de entrada para Pompeia, o Vesúvio e a Costa Amalfitana — e o berço da pizza!",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Napoli%20panorama%20Vesuvio.jpg",
+      description:
+        "Vibrante e autêntica, Nápoles é a porta de entrada para Pompeia, o Vesúvio e a Costa Amalfitana — e o berço da pizza!",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Napoli%20panorama%20Vesuvio.jpg",
     },
     {
       city: "Costa Amalfitana",
       title: "Costa Amalfitana",
-      description: "Com falésias deslumbrantes, vilas coloridas e vistas para o Mediterrâneo, a Costa Amalfitana é um dos destinos mais românticos do mundo.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Positano%20Amalfi%20Coast%20Italy.jpg",
+      description:
+        "Com falésias deslumbrantes, vilas coloridas e vistas para o Mediterrâneo, a Costa Amalfitana é um dos destinos mais românticos do mundo.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Positano%20Amalfi%20Coast%20Italy.jpg",
     },
     {
       city: "Pisa",
       title: "Pisa",
-      description: "Famosa por sua torre inclinada, Pisa é um marco icônico da engenharia e um símbolo mundial da Itália.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Leaning%20Tower%20of%20Pisa%20Italy.jpg",
+      description:
+        "Famosa por sua torre inclinada, Pisa é um marco icônico da engenharia e um símbolo mundial da Itália.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Leaning%20Tower%20of%20Pisa%20Italy.jpg",
     },
     {
       city: "Verona",
       title: "Verona",
-      description: "Cidade de Romeu e Julieta, Verona é charmosa e histórica, com ruínas romanas e praças encantadoras.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Verona%20Arena%20Italy.jpg",
+      description:
+        "Cidade de Romeu e Julieta, Verona é charmosa e histórica, com ruínas romanas e praças encantadoras.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Verona%20Arena%20Italy.jpg",
     },
     {
       city: "Cinque Terre",
       title: "Cinque Terre",
-      description: "Cinco vilas coloridas à beira-mar formam uma das paisagens mais pitorescas da Itália, ideais para trilhas e fotografia.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Cinque%20Terre%20Vernazza%20Italy.jpg",
+      description:
+        "Cinco vilas coloridas à beira-mar formam uma das paisagens mais pitorescas da Itália, ideais para trilhas e fotografia.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Cinque%20Terre%20Vernazza%20Italy.jpg",
     },
   ],
   Germany: [
     {
       city: "Berlim",
       title: "Berlim",
-      description: "A capital alemã é vibrante e repleta de história, arte e inovação. O Muro de Berlim, o Portão de Brandemburgo e o Reichstag são ícones imperdíveis.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Brandenburg%20Gate%20Berlin%20Germany.jpg",
+      description:
+        "A capital alemã é vibrante e repleta de história, arte e inovação. O Muro de Berlim, o Portão de Brandemburgo e o Reichstag são ícones imperdíveis.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Brandenburg%20Gate%20Berlin%20Germany.jpg",
     },
     {
       city: "Munique",
       title: "Munique",
-      description: "Lar da Oktoberfest, Munique combina tradição bávara com modernidade, cercada pelos Alpes e cheia de cervejarias lendárias.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Marienplatz%20Munich%20Germany.jpg",
+      description:
+        "Lar da Oktoberfest, Munique combina tradição bávara com modernidade, cercada pelos Alpes e cheia de cervejarias lendárias.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Marienplatz%20Munich%20Germany.jpg",
     },
     {
       city: "Hamburgo",
       title: "Hamburgo",
-      description: "Importante cidade portuária, Hamburgo encanta com seus canais, a moderna Elbphilharmonie e uma atmosfera cosmopolita.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Hamburg%20Elbphilharmonie%20and%20harbour.jpg",
+      description:
+        "Importante cidade portuária, Hamburgo encanta com seus canais, a moderna Elbphilharmonie e uma atmosfera cosmopolita.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Hamburg%20Elbphilharmonie%20and%20harbour.jpg",
     },
     {
       city: "Colônia (Köln)",
       title: "Colônia (Köln)",
-      description: "Famosa por sua imponente catedral gótica às margens do Reno, Colônia é uma cidade vibrante e cheia de festivais.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Cologne%20Cathedral%20Germany.jpg",
+      description:
+        "Famosa por sua imponente catedral gótica às margens do Reno, Colônia é uma cidade vibrante e cheia de festivais.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Cologne%20Cathedral%20Germany.jpg",
     },
     {
       city: "Heidelberg",
       title: "Heidelberg",
-      description: "Cidade universitária romântica, conhecida por seu castelo em ruínas e pela charmosa cidade velha às margens do rio Neckar.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Heidelberg%20Castle%20Germany.jpg",
+      description:
+        "Cidade universitária romântica, conhecida por seu castelo em ruínas e pela charmosa cidade velha às margens do rio Neckar.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Heidelberg%20Castle%20Germany.jpg",
     },
     {
       city: "Dresden",
       title: "Dresden",
-      description: "Reconstruída após a Segunda Guerra, Dresden é uma joia barroca com igrejas e palácios deslumbrantes às margens do rio Elba.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Dresden%20skyline%20at%20night.jpg",
+      description:
+        "Reconstruída após a Segunda Guerra, Dresden é uma joia barroca com igrejas e palácios deslumbrantes às margens do rio Elba.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Dresden%20skyline%20at%20night.jpg",
     },
     {
       city: "Nuremberg (Nürnberg)",
       title: "Nuremberg (Nürnberg)",
-      description: "Cheia de história medieval e mercados de Natal famosos, Nuremberg combina charme antigo e importância histórica moderna.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Nuremberg%20castle%20view.jpg",
+      description:
+        "Cheia de história medieval e mercados de Natal famosos, Nuremberg combina charme antigo e importância histórica moderna.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Nuremberg%20castle%20view.jpg",
     },
     {
       city: "Rota Romântica (Romantische Straße)",
       title: "Rota Romântica (Romantische Straße)",
-      description: "Rota cênica que liga Würzburg a Füssen, passando por vilas medievais, castelos e paisagens dos Alpes bávaros.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Rothenburg%20ob%20der%20Tauber%20Germany.jpg",
+      description:
+        "Rota cênica que liga Würzburg a Füssen, passando por vilas medievais, castelos e paisagens dos Alpes bávaros.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Rothenburg%20ob%20der%20Tauber%20Germany.jpg",
     },
     {
       city: "Castelo de Neuschwanstein",
       title: "Castelo de Neuschwanstein",
-      description: "Inspirou o castelo da Disney e é um dos cartões-postais mais famosos do mundo, situado entre montanhas e lagos da Baviera.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Neuschwanstein%20Castle%20Bavaria%20Germany.jpg",
+      description:
+        "Inspirou o castelo da Disney e é um dos cartões-postais mais famosos do mundo, situado entre montanhas e lagos da Baviera.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Neuschwanstein%20Castle%20Bavaria%20Germany.jpg",
     },
   ],
   Austria: [
     {
       city: "Viena (Wien)",
       title: "Viena (Wien)",
-      description: "A elegante capital austríaca é o coração da antiga monarquia dos Habsburgos, repleta de palácios, museus, cafés históricos e uma atmosfera musical que ecoa por toda parte.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Schönbrunn%20Palace%20Vienna.jpg",
+      description:
+        "A elegante capital austríaca é o coração da antiga monarquia dos Habsburgos, repleta de palácios, museus, cafés históricos e uma atmosfera musical que ecoa por toda parte.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Schönbrunn%20Palace%20Vienna.jpg",
     },
     {
       city: "Salzburgo (Salzburg)",
       title: "Salzburgo (Salzburg)",
-      description: "Cidade natal de Mozart e cenário do filme 'A Noviça Rebelde', Salzburgo é famosa por sua arquitetura barroca, seu castelo e sua herança musical.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Hohensalzburg%20Fortress%20Salzburg.jpg",
+      description:
+        "Cidade natal de Mozart e cenário do filme 'A Noviça Rebelde', Salzburgo é famosa por sua arquitetura barroca, seu castelo e sua herança musical.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Hohensalzburg%20Fortress%20Salzburg.jpg",
     },
     {
       city: "Innsbruck",
       title: "Innsbruck",
-      description: "No coração dos Alpes, Innsbruck combina esportes de inverno, beleza alpina e arquitetura histórica com o charme tirolês.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Innsbruck%20Old%20Town%20and%20Alps.jpg",
+      description:
+        "No coração dos Alpes, Innsbruck combina esportes de inverno, beleza alpina e arquitetura histórica com o charme tirolês.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Innsbruck%20Old%20Town%20and%20Alps.jpg",
     },
     {
       city: "Hallstatt",
       title: "Hallstatt",
-      description: "Considerada uma das vilas mais bonitas do mundo, Hallstatt encanta com seu lago sereno, casas de madeira e montanhas que parecem abraçar a cidade.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Hallstatt%20village%20Austria.jpg",
+      description:
+        "Considerada uma das vilas mais bonitas do mundo, Hallstatt encanta com seu lago sereno, casas de madeira e montanhas que parecem abraçar a cidade.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Hallstatt%20village%20Austria.jpg",
     },
     {
       city: "Graz",
       title: "Graz",
-      description: "Com uma mistura única de arquitetura renascentista e moderna, Graz é vibrante, criativa e conhecida por sua gastronomia e vida universitária.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Graz%20Old%20Town%20view.jpg",
+      description:
+        "Com uma mistura única de arquitetura renascentista e moderna, Graz é vibrante, criativa e conhecida por sua gastronomia e vida universitária.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Graz%20Old%20Town%20view.jpg",
     },
     {
       city: "Zell am See",
       title: "Zell am See",
-      description: "Destino perfeito para quem busca natureza e aventura, Zell am See combina lagos cristalinos, trilhas e esqui em meio a paisagens alpinas impressionantes.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Zell%20am%20See%20Lake%20Austria.jpg",
+      description:
+        "Destino perfeito para quem busca natureza e aventura, Zell am See combina lagos cristalinos, trilhas e esqui em meio a paisagens alpinas impressionantes.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Zell%20am%20See%20Lake%20Austria.jpg",
     },
     {
       city: "Wachau",
       title: "Wachau",
-      description: "Região vinícola pitoresca às margens do rio Danúbio, com castelos, mosteiros e vilarejos que parecem parados no tempo.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Wachau%20Valley%20Danube%20Austria.jpg",
+      description:
+        "Região vinícola pitoresca às margens do rio Danúbio, com castelos, mosteiros e vilarejos que parecem parados no tempo.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Wachau%20Valley%20Danube%20Austria.jpg",
     },
     {
       city: "Linz",
       title: "Linz",
-      description: "Cidade moderna às margens do Danúbio, Linz é conhecida por seu foco em arte contemporânea, tecnologia e festivais culturais inovadores.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Linz%20city%20view%20Danube.jpg",
+      description:
+        "Cidade moderna às margens do Danúbio, Linz é conhecida por seu foco em arte contemporânea, tecnologia e festivais culturais inovadores.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Linz%20city%20view%20Danube.jpg",
     },
     {
       city: "Kitzbühel",
       title: "Kitzbühel",
-      description: "Um dos resorts de esqui mais famosos da Europa, Kitzbühel oferece luxo, tradição tirolesa e paisagens de tirar o fôlego durante o ano inteiro.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Kitzbühel%20winter%20Austria.jpg",
+      description:
+        "Um dos resorts de esqui mais famosos da Europa, Kitzbühel oferece luxo, tradição tirolesa e paisagens de tirar o fôlego durante o ano inteiro.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Kitzbühel%20winter%20Austria.jpg",
     },
   ],
   Greece: [
     {
       city: "Atenas",
       title: "Atenas",
-      description: "Capital da Grécia e berço da civilização ocidental, Atenas é um museu a céu aberto com monumentos icônicos como a Acrópole e o Partenon, além de uma vibrante vida urbana.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Acropolis%20of%20Athens.jpg",
+      description:
+        "Capital da Grécia e berço da civilização ocidental, Atenas é um museu a céu aberto com monumentos icônicos como a Acrópole e o Partenon, além de uma vibrante vida urbana.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Acropolis%20of%20Athens.jpg",
     },
     {
       city: "Santorini",
       title: "Santorini",
-      description: "Ilha vulcânica famosa por suas casas brancas com cúpulas azuis, vistas deslumbrantes do mar Egeu e pores do sol inesquecíveis sobre Oia.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Santorini%20Oia%20sunset.jpg",
+      description:
+        "Ilha vulcânica famosa por suas casas brancas com cúpulas azuis, vistas deslumbrantes do mar Egeu e pores do sol inesquecíveis sobre Oia.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Santorini%20Oia%20sunset.jpg",
     },
     {
       city: "Mykonos",
       title: "Mykonos",
-      description: "Conhecida por suas praias animadas, moinhos de vento e vida noturna intensa, Mykonos é o destino mais cosmopolita das ilhas gregas.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Mykonos%20windmills%20Greece.jpg",
+      description:
+        "Conhecida por suas praias animadas, moinhos de vento e vida noturna intensa, Mykonos é o destino mais cosmopolita das ilhas gregas.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Mykonos%20windmills%20Greece.jpg",
     },
     {
       city: "Creta",
       title: "Creta",
-      description: "A maior ilha grega oferece uma mistura fascinante de praias paradisíacas, montanhas, vilas tradicionais e sítios arqueológicos como o Palácio de Knossos.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Knossos%20palace%20Crete.jpg",
+      description:
+        "A maior ilha grega oferece uma mistura fascinante de praias paradisíacas, montanhas, vilas tradicionais e sítios arqueológicos como o Palácio de Knossos.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Knossos%20palace%20Crete.jpg",
     },
     {
       city: "Rodes (Rhodes)",
       title: "Rodes (Rhodes)",
-      description: "Famosa por suas muralhas medievais e praias ensolaradas, Rodes combina história, cultura e relaxamento em um só destino.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Rhodes%20Old%20Town%20Greece.jpg",
+      description:
+        "Famosa por suas muralhas medievais e praias ensolaradas, Rodes combina história, cultura e relaxamento em um só destino.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Rhodes%20Old%20Town%20Greece.jpg",
     },
     {
       city: "Corfu",
       title: "Corfu",
-      description: "Ilha verdejante no mar Jônico, Corfu encanta com sua mistura de influências venezianas, francesas e britânicas, além de praias e vilas pitorescas.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Corfu%20Old%20Town%20Greece.jpg",
+      description:
+        "Ilha verdejante no mar Jônico, Corfu encanta com sua mistura de influências venezianas, francesas e britânicas, além de praias e vilas pitorescas.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Corfu%20Old%20Town%20Greece.jpg",
     },
     {
       city: "Meteora",
       title: "Meteora",
-      description: "Um dos locais mais impressionantes da Grécia continental, com mosteiros ortodoxos construídos sobre enormes formações rochosas.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Meteora%20monasteries%20Greece.jpg",
+      description:
+        "Um dos locais mais impressionantes da Grécia continental, com mosteiros ortodoxos construídos sobre enormes formações rochosas.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Meteora%20monasteries%20Greece.jpg",
     },
     {
       city: "Delphi",
       title: "Delphi",
-      description: "Antigo centro espiritual do mundo grego, onde se localiza o famoso Oráculo de Delfos, cercado por montanhas e ruínas milenares.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Delphi%20ruins%20Greece.jpg",
+      description:
+        "Antigo centro espiritual do mundo grego, onde se localiza o famoso Oráculo de Delfos, cercado por montanhas e ruínas milenares.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Delphi%20ruins%20Greece.jpg",
     },
     {
       city: "Nafplio",
       title: "Nafplio",
-      description: "Primeira capital da Grécia moderna, Nafplio é uma cidade costeira romântica, com ruas de pedra, fortalezas venezianas e vista para o mar Egeu.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Nafplio%20harbour%20Greece.jpg",
+      description:
+        "Primeira capital da Grécia moderna, Nafplio é uma cidade costeira romântica, com ruas de pedra, fortalezas venezianas e vista para o mar Egeu.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Nafplio%20harbour%20Greece.jpg",
     },
   ],
   Switzerland: [
     {
       city: "Zurique",
       title: "Zurique",
-      description: "Centro financeiro e cultural da Suíça, Zurique combina modernidade e charme histórico, com ruas antigas, museus de arte e vida noturna vibrante às margens do lago.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Zürich%20Grossmünster%20and%20Limmat.jpg",
+      description:
+        "Centro financeiro e cultural da Suíça, Zurique combina modernidade e charme histórico, com ruas antigas, museus de arte e vida noturna vibrante às margens do lago.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Zürich%20Grossmünster%20and%20Limmat.jpg",
     },
     {
       city: "Genebra",
       title: "Genebra",
-      description: "Sede de organizações internacionais, Genebra é cosmopolita, elegante e repleta de história, com o famoso Jet d’Eau e o Lago Léman.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Jet%20d%27Eau%20Geneva%20view.jpg",
+      description:
+        "Sede de organizações internacionais, Genebra é cosmopolita, elegante e repleta de história, com o famoso Jet d’Eau e o Lago Léman.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Jet%20d%27Eau%20Geneva%20view.jpg",
     },
     {
       city: "Lucerna",
       title: "Lucerna",
-      description: "Com sua icônica Kapellbrücke (Ponte da Capela) e o Lago Lucerna cercado pelos Alpes, a cidade é um dos cartões-postais mais famosos do país.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Lucerne%20Kapellbrücke%20and%20Water%20Tower.jpg",
+      description:
+        "Com sua icônica Kapellbrücke (Ponte da Capela) e o Lago Lucerna cercado pelos Alpes, a cidade é um dos cartões-postais mais famosos do país.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Lucerne%20Kapellbrücke%20and%20Water%20Tower.jpg",
     },
     {
       city: "Interlaken",
       title: "Interlaken",
-      description: "Entre dois lagos cristalinos e rodeada por montanhas, Interlaken é o destino perfeito para esportes radicais e passeios panorâmicos pelos Alpes.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Interlaken%20aerial%20view.jpg",
+      description:
+        "Entre dois lagos cristalinos e rodeada por montanhas, Interlaken é o destino perfeito para esportes radicais e passeios panorâmicos pelos Alpes.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Interlaken%20aerial%20view.jpg",
     },
     {
       city: "Zermatt",
       title: "Zermatt",
-      description: "Lar do icônico Matterhorn, Zermatt é um dos destinos alpinos mais prestigiados do mundo, ideal para esqui e trilhas de verão.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Matterhorn%20Zermatt%20sunset.jpg",
+      description:
+        "Lar do icônico Matterhorn, Zermatt é um dos destinos alpinos mais prestigiados do mundo, ideal para esqui e trilhas de verão.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Matterhorn%20Zermatt%20sunset.jpg",
     },
     {
       city: "Berna",
       title: "Berna",
-      description: "A capital suíça encanta com seu centro histórico medieval preservado, o Zytglogge (torre do relógio) e o rio Aar serpenteando a cidade.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Bern%20Old%20Town%20view.jpg",
+      description:
+        "A capital suíça encanta com seu centro histórico medieval preservado, o Zytglogge (torre do relógio) e o rio Aar serpenteando a cidade.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Bern%20Old%20Town%20view.jpg",
     },
     {
       city: "Montreux",
       title: "Montreux",
-      description: "Cidade às margens do Lago Léman, famosa por seu festival de jazz e o Castelo de Chillon, um dos monumentos mais visitados da Suíça.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Chillon%20Castle%20Montreux.jpg",
+      description:
+        "Cidade às margens do Lago Léman, famosa por seu festival de jazz e o Castelo de Chillon, um dos monumentos mais visitados da Suíça.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Chillon%20Castle%20Montreux.jpg",
     },
     {
       city: "Lugano",
       title: "Lugano",
-      description: "No sul do país, próxima à fronteira italiana, Lugano oferece um clima mais mediterrâneo, com palmeiras, montanhas e gastronomia incrível.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Lugano%20Lake%20and%20city%20view.jpg",
+      description:
+        "No sul do país, próxima à fronteira italiana, Lugano oferece um clima mais mediterrâneo, com palmeiras, montanhas e gastronomia incrível.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Lugano%20Lake%20and%20city%20view.jpg",
     },
     {
       city: "Grindelwald",
       title: "Grindelwald",
-      description: "Uma vila alpina pitoresca no coração das montanhas Jungfrau, ideal para trilhas, esqui e paisagens cinematográficas.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Grindelwald%20Bernese%20Oberland.jpg",
+      description:
+        "Uma vila alpina pitoresca no coração das montanhas Jungfrau, ideal para trilhas, esqui e paisagens cinematográficas.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Grindelwald%20Bernese%20Oberland.jpg",
     },
   ],
   "United Kingdom": [
     {
       city: "Londres",
       title: "Londres",
-      description: "A capital britânica é uma metrópole global repleta de ícones como o Big Ben, o Palácio de Buckingham, o London Eye e o Museu Britânico.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Houses%20of%20Parliament%20London%20-%20Feb%202007.jpg",
+      description:
+        "A capital britânica é uma metrópole global repleta de ícones como o Big Ben, o Palácio de Buckingham, o London Eye e o Museu Britânico.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Houses%20of%20Parliament%20London%20-%20Feb%202007.jpg",
     },
     {
       city: "Edimburgo",
       title: "Edimburgo",
-      description: "Capital da Escócia, Edimburgo combina história medieval e charme literário, com o famoso Castelo de Edimburgo e o festival Fringe.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Edinburgh%20Castle%20from%20Princes%20Street%20Gardens.jpg",
+      description:
+        "Capital da Escócia, Edimburgo combina história medieval e charme literário, com o famoso Castelo de Edimburgo e o festival Fringe.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Edinburgh%20Castle%20from%20Princes%20Street%20Gardens.jpg",
     },
     {
       city: "Lago Ness (Loch Ness)",
       title: "Lago Ness (Loch Ness)",
-      description: "Um dos lagos mais famosos do mundo, cercado por montanhas e lendas sobre o misterioso monstro Nessie, no coração das Highlands escocesas.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Loch%20Ness%20Urquhart%20Castle%20view.jpg",
+      description:
+        "Um dos lagos mais famosos do mundo, cercado por montanhas e lendas sobre o misterioso monstro Nessie, no coração das Highlands escocesas.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Loch%20Ness%20Urquhart%20Castle%20view.jpg",
     },
     {
       city: "Stonehenge",
       title: "Stonehenge",
-      description: "Um dos monumentos pré-históricos mais enigmáticos do planeta, localizado no condado de Wiltshire, na Inglaterra.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Stonehenge2007%2007%2029.jpg",
+      description:
+        "Um dos monumentos pré-históricos mais enigmáticos do planeta, localizado no condado de Wiltshire, na Inglaterra.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Stonehenge2007%2007%2029.jpg",
     },
     {
       city: "Liverpool",
       title: "Liverpool",
-      description: "Cidade natal dos Beatles, Liverpool é um centro cultural com museus, pubs musicais e uma rica herança marítima.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Liverpool%20Waterfront%202015.jpg",
+      description:
+        "Cidade natal dos Beatles, Liverpool é um centro cultural com museus, pubs musicais e uma rica herança marítima.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Liverpool%20Waterfront%202015.jpg",
     },
     {
       city: "Oxford",
       title: "Oxford",
-      description: "Famosa por sua universidade centenária, Oxford é uma cidade encantadora repleta de arquitetura gótica e tradição acadêmica.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Oxford%20Radcliffe%20Camera%20from%20St%20Marys%20Church.jpg",
+      description:
+        "Famosa por sua universidade centenária, Oxford é uma cidade encantadora repleta de arquitetura gótica e tradição acadêmica.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Oxford%20Radcliffe%20Camera%20from%20St%20Marys%20Church.jpg",
     },
     {
       city: "Bath",
       title: "Bath",
-      description: "Cidade romana com banhos termais históricos e arquitetura georgiana elegante, reconhecida como Patrimônio Mundial da UNESCO.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Roman%20Baths%20Bath%20England%20-%20July%202006.jpg",
+      description:
+        "Cidade romana com banhos termais históricos e arquitetura georgiana elegante, reconhecida como Patrimônio Mundial da UNESCO.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Roman%20Baths%20Bath%20England%20-%20July%202006.jpg",
     },
     {
       city: "Cardiff",
       title: "Cardiff",
-      description: "A capital do País de Gales combina castelos medievais, cultura galesa e uma vibrante cena moderna à beira-mar.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Cardiff%20Castle%20keep%20and%20walls.jpg",
+      description:
+        "A capital do País de Gales combina castelos medievais, cultura galesa e uma vibrante cena moderna à beira-mar.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Cardiff%20Castle%20keep%20and%20walls.jpg",
     },
     {
       city: "Belfast",
       title: "Belfast",
-      description: "Capital da Irlanda do Norte, famosa por sua história industrial e pelo Titanic Belfast, museu dedicado ao navio que ali foi construído.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Titanic%20Belfast%20Building%202012.jpg",
+      description:
+        "Capital da Irlanda do Norte, famosa por sua história industrial e pelo Titanic Belfast, museu dedicado ao navio que ali foi construído.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Titanic%20Belfast%20Building%202012.jpg",
     },
   ],
   Belgium: [
     {
       city: "Bruxelas (Brussels)",
       title: "Bruxelas (Brussels)",
-      description: "A capital da Bélgica e sede da União Europeia, Bruxelas combina arquitetura grandiosa, arte moderna e o irresistível aroma de chocolate e waffles nas ruas.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Grand%20Place%20Brussels%20Belgium.jpg",
+      description:
+        "A capital da Bélgica e sede da União Europeia, Bruxelas combina arquitetura grandiosa, arte moderna e o irresistível aroma de chocolate e waffles nas ruas.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Grand%20Place%20Brussels%20Belgium.jpg",
     },
     {
       city: "Bruges (Brugge)",
       title: "Bruges (Brugge)",
-      description: "Conhecida como a 'Veneza do Norte', Bruges encanta com seus canais, construções medievais e atmosfera romântica que a torna um dos destinos mais visitados da Europa.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Bruges%20canals%20Belgium.jpg",
+      description:
+        "Conhecida como a 'Veneza do Norte', Bruges encanta com seus canais, construções medievais e atmosfera romântica que a torna um dos destinos mais visitados da Europa.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Bruges%20canals%20Belgium.jpg",
     },
     {
       city: "Gante (Ghent)",
       title: "Gante (Ghent)",
-      description: "Uma joia medieval com vida universitária vibrante, Gante mistura castelos, igrejas góticas e uma cena cultural efervescente às margens do rio Leie.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Ghent%20Graslei%20and%20Korenlei.jpg",
+      description:
+        "Uma joia medieval com vida universitária vibrante, Gante mistura castelos, igrejas góticas e uma cena cultural efervescente às margens do rio Leie.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Ghent%20Graslei%20and%20Korenlei.jpg",
     },
     {
       city: "Antuérpia (Antwerp)",
       title: "Antuérpia (Antwerp)",
-      description: "Capital mundial dos diamantes e berço de Rubens, Antuérpia é um centro artístico e de moda com arquitetura impressionante e uma vibe cosmopolita.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Antwerp%20Cathedral%20of%20Our%20Lady.jpg",
+      description:
+        "Capital mundial dos diamantes e berço de Rubens, Antuérpia é um centro artístico e de moda com arquitetura impressionante e uma vibe cosmopolita.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Antwerp%20Cathedral%20of%20Our%20Lady.jpg",
     },
     {
       city: "Leuven",
       title: "Leuven",
-      description: "Cidade universitária com alma jovem e animada, Leuven é famosa pela cerveja Stella Artois e por sua rica herança acadêmica e arquitetônica.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Leuven%20Town%20Hall%20Belgium.jpg",
+      description:
+        "Cidade universitária com alma jovem e animada, Leuven é famosa pela cerveja Stella Artois e por sua rica herança acadêmica e arquitetônica.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Leuven%20Town%20Hall%20Belgium.jpg",
     },
     {
       city: "Namur",
       title: "Namur",
-      description: "Localizada na confluência dos rios Sambre e Meuse, Namur é conhecida por sua cidadela panorâmica e charme tranquilo no coração da Valônia.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Namur%20Citadel%20Belgium.jpg",
+      description:
+        "Localizada na confluência dos rios Sambre e Meuse, Namur é conhecida por sua cidadela panorâmica e charme tranquilo no coração da Valônia.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Namur%20Citadel%20Belgium.jpg",
     },
     {
       city: "Dinant",
       title: "Dinant",
-      description: "Encravada entre falésias e o rio Meuse, Dinant é uma das cidades mais fotogênicas da Bélgica e berço do inventor do saxofone, Adolphe Sax.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Dinant%20Belgium%20view.jpg",
+      description:
+        "Encravada entre falésias e o rio Meuse, Dinant é uma das cidades mais fotogênicas da Bélgica e berço do inventor do saxofone, Adolphe Sax.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Dinant%20Belgium%20view.jpg",
     },
     {
       city: "Liège",
       title: "Liège",
-      description: "Importante cidade da Valônia com mistura de tradição e modernidade, Liège encanta com sua catedral, seu mercado La Batte e o famoso waffle local.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Liege%20Guillemins%20station%20Belgium.jpg",
+      description:
+        "Importante cidade da Valônia com mistura de tradição e modernidade, Liège encanta com sua catedral, seu mercado La Batte e o famoso waffle local.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Liege%20Guillemins%20station%20Belgium.jpg",
     },
     {
       city: "Mechelen",
       title: "Mechelen",
-      description: "Entre Bruxelas e Antuérpia, Mechelen é um tesouro histórico com belas igrejas e uma atmosfera acolhedora, ideal para quem busca autenticidade belga.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Mechelen%20St%20Rumbold%27s%20Cathedral.jpg",
+      description:
+        "Entre Bruxelas e Antuérpia, Mechelen é um tesouro histórico com belas igrejas e uma atmosfera acolhedora, ideal para quem busca autenticidade belga.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Mechelen%20St%20Rumbold%27s%20Cathedral.jpg",
     },
   ],
   Netherlands: [
     {
       city: "Amsterdã",
       title: "Amsterdã",
-      description: "A capital holandesa é famosa por seus canais pitorescos, museus renomados como o Rijksmuseum e o Van Gogh Museum, além da vibrante vida noturna e cultural.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Amsterdam%20canals%20at%20night.jpg",
+      description:
+        "A capital holandesa é famosa por seus canais pitorescos, museus renomados como o Rijksmuseum e o Van Gogh Museum, além da vibrante vida noturna e cultural.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Amsterdam%20canals%20at%20night.jpg",
     },
     {
       city: "Roterdã (Rotterdam)",
       title: "Roterdã (Rotterdam)",
-      description: "Cidade moderna e inovadora, conhecida por sua arquitetura futurista, o porto mais movimentado da Europa e uma cena artística de ponta.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Rotterdam%20Erasmusbrug%20bridge.jpg",
+      description:
+        "Cidade moderna e inovadora, conhecida por sua arquitetura futurista, o porto mais movimentado da Europa e uma cena artística de ponta.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Rotterdam%20Erasmusbrug%20bridge.jpg",
     },
     {
       city: "Haia (Den Haag)",
       title: "Haia (Den Haag)",
-      description: "Sede do governo holandês e da Corte Internacional de Justiça, Haia mistura elegância, praias urbanas e arte clássica como a do Mauritshuis.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Hague%20Binnenhof%20reflections.jpg",
+      description:
+        "Sede do governo holandês e da Corte Internacional de Justiça, Haia mistura elegância, praias urbanas e arte clássica como a do Mauritshuis.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Hague%20Binnenhof%20reflections.jpg",
     },
     {
       city: "Utrecht",
       title: "Utrecht",
-      description: "Com canais únicos de dois níveis e uma atmosfera estudantil vibrante, Utrecht combina história medieval com inovação moderna.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Utrecht%20Oudegracht%20canal.jpg",
+      description:
+        "Com canais únicos de dois níveis e uma atmosfera estudantil vibrante, Utrecht combina história medieval com inovação moderna.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Utrecht%20Oudegracht%20canal.jpg",
     },
     {
       city: "Giethoorn",
       title: "Giethoorn",
-      description: "Conhecida como a 'Veneza do Norte', Giethoorn é uma vila encantadora sem ruas — o transporte é feito por barcos entre canais e casas de palha.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Giethoorn%20Netherlands%20village.jpg",
+      description:
+        "Conhecida como a 'Veneza do Norte', Giethoorn é uma vila encantadora sem ruas — o transporte é feito por barcos entre canais e casas de palha.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Giethoorn%20Netherlands%20village.jpg",
     },
     {
       city: "Haarlem",
       title: "Haarlem",
-      description: "Próxima de Amsterdã, Haarlem é um charme histórico com ruas de paralelepípedo, canais, museus e o famoso campo de tulipas de Keukenhof nas proximidades.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Haarlem%20city%20center%20Netherlands.jpg",
+      description:
+        "Próxima de Amsterdã, Haarlem é um charme histórico com ruas de paralelepípedo, canais, museus e o famoso campo de tulipas de Keukenhof nas proximidades.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Haarlem%20city%20center%20Netherlands.jpg",
     },
     {
       city: "Delft",
       title: "Delft",
-      description: "Cidade conhecida por sua porcelana azul e branca e por ter sido lar do pintor Vermeer. Um destino tranquilo e repleto de charme holandês clássico.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Delft%20canals%20Netherlands.jpg",
+      description:
+        "Cidade conhecida por sua porcelana azul e branca e por ter sido lar do pintor Vermeer. Um destino tranquilo e repleto de charme holandês clássico.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Delft%20canals%20Netherlands.jpg",
     },
     {
       city: "Leiden",
       title: "Leiden",
-      description: "Cidade universitária com rica herança científica e cultural, museus fascinantes e canais históricos que inspiraram Rembrandt.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Leiden%20canals%20Netherlands.jpg",
+      description:
+        "Cidade universitária com rica herança científica e cultural, museus fascinantes e canais históricos que inspiraram Rembrandt.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Leiden%20canals%20Netherlands.jpg",
     },
     {
       city: "Eindhoven",
       title: "Eindhoven",
-      description: "Centro da inovação e design na Holanda, Eindhoven é moderna, tecnológica e sede da Philips, combinando arte, luz e engenharia de ponta.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Eindhoven%20city%20center.jpg",
+      description:
+        "Centro da inovação e design na Holanda, Eindhoven é moderna, tecnológica e sede da Philips, combinando arte, luz e engenharia de ponta.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Eindhoven%20city%20center.jpg",
     },
   ],
   Croatia: [
     {
       city: "Dubrovnik",
       title: "Dubrovnik",
-      description: "Conhecida como a 'Pérola do Adriático', Dubrovnik é uma cidade murada à beira-mar, famosa por suas ruas de pedra, muralhas históricas e por ter sido cenário de Game of Thrones.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Dubrovnik%20Old%20Town%20Croatia.jpg",
+      description:
+        "Conhecida como a 'Pérola do Adriático', Dubrovnik é uma cidade murada à beira-mar, famosa por suas ruas de pedra, muralhas históricas e por ter sido cenário de Game of Thrones.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Dubrovnik%20Old%20Town%20Croatia.jpg",
     },
     {
       city: "Split",
       title: "Split",
-      description: "Centro vibrante da Dalmácia, Split combina ruínas romanas com uma atmosfera moderna, tendo o magnífico Palácio de Diocleciano como coração da cidade.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Split%20Croatia%20Diocletian%27s%20Palace.jpg",
+      description:
+        "Centro vibrante da Dalmácia, Split combina ruínas romanas com uma atmosfera moderna, tendo o magnífico Palácio de Diocleciano como coração da cidade.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Split%20Croatia%20Diocletian%27s%20Palace.jpg",
     },
     {
       city: "Zagreb",
       title: "Zagreb",
-      description: "A capital croata é um mix encantador de elegância austro-húngara, cafés charmosos e uma vida cultural intensa, repleta de museus e festivais.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Zagreb%20Cathedral%20Croatia.jpg",
+      description:
+        "A capital croata é um mix encantador de elegância austro-húngara, cafés charmosos e uma vida cultural intensa, repleta de museus e festivais.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Zagreb%20Cathedral%20Croatia.jpg",
     },
     {
       city: "Parque Nacional dos Lagos de Plitvice",
       title: "Parque Nacional dos Lagos de Plitvice",
-      description: "Um dos parques mais espetaculares da Europa, com 16 lagos interligados por cachoeiras e trilhas em meio a florestas exuberantes.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Plitvice%20Lakes%20National%20Park%20Croatia.jpg",
+      description:
+        "Um dos parques mais espetaculares da Europa, com 16 lagos interligados por cachoeiras e trilhas em meio a florestas exuberantes.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Plitvice%20Lakes%20National%20Park%20Croatia.jpg",
     },
     {
       city: "Zadar",
       title: "Zadar",
-      description: "Cidade costeira com ruínas romanas, arte moderna e o famoso Órgão do Mar, um instrumento que cria música com o movimento das ondas.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Zadar%20Sea%20Organ%20Croatia.jpg",
+      description:
+        "Cidade costeira com ruínas romanas, arte moderna e o famoso Órgão do Mar, um instrumento que cria música com o movimento das ondas.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Zadar%20Sea%20Organ%20Croatia.jpg",
     },
     {
       city: "Rovinj",
       title: "Rovinj",
-      description: "Um dos destinos mais românticos do Adriático, Rovinj encanta com suas ruelas coloridas, porto pitoresco e atmosfera mediterrânea.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Rovinj%20Old%20Town%20Croatia.jpg",
+      description:
+        "Um dos destinos mais românticos do Adriático, Rovinj encanta com suas ruelas coloridas, porto pitoresco e atmosfera mediterrânea.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Rovinj%20Old%20Town%20Croatia.jpg",
     },
     {
       city: "Pula",
       title: "Pula",
-      description: "Famosa por seu impressionante anfiteatro romano, Pula é uma mistura fascinante de história antiga e vida praiana moderna.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Pula%20Arena%20Croatia.jpg",
+      description:
+        "Famosa por seu impressionante anfiteatro romano, Pula é uma mistura fascinante de história antiga e vida praiana moderna.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Pula%20Arena%20Croatia.jpg",
     },
     {
       city: "Hvar",
       title: "Hvar",
-      description: "A ilha mais badalada da Croácia, Hvar é sinônimo de praias paradisíacas, festas sofisticadas e vilas históricas banhadas por águas cristalinas.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Hvar%20Harbor%20Croatia.jpg",
+      description:
+        "A ilha mais badalada da Croácia, Hvar é sinônimo de praias paradisíacas, festas sofisticadas e vilas históricas banhadas por águas cristalinas.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Hvar%20Harbor%20Croatia.jpg",
     },
     {
       city: "Korčula",
       title: "Korčula",
-      description: "Conhecida como a 'pequena Dubrovnik', Korčula é uma ilha de charme medieval, cercada por vinhedos e lendas sobre Marco Polo.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Korcula%20Old%20Town%20Croatia.jpg",
+      description:
+        "Conhecida como a 'pequena Dubrovnik', Korčula é uma ilha de charme medieval, cercada por vinhedos e lendas sobre Marco Polo.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Korcula%20Old%20Town%20Croatia.jpg",
     },
   ],
   Czechia: [
     {
       city: "Praga (Praha)",
       title: "Praga (Praha)",
-      description: "A capital e joia da República Tcheca, Praga encanta com seu centro histórico medieval, a Ponte Carlos, o Castelo de Praga e a famosa Praça da Cidade Velha com o Relógio Astronômico.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Prague%20Charles%20Bridge%20Czech%20Republic.jpg",
+      description:
+        "A capital e joia da República Tcheca, Praga encanta com seu centro histórico medieval, a Ponte Carlos, o Castelo de Praga e a famosa Praça da Cidade Velha com o Relógio Astronômico.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Prague%20Charles%20Bridge%20Czech%20Republic.jpg",
     },
     {
       city: "Český Krumlov",
       title: "Český Krumlov",
-      description: "Uma cidade de conto de fadas no sul do país, com ruas de paralelepípedo, casas coloridas e um castelo magnífico que domina o rio Vltava.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Cesky%20Krumlov%20Czech%20Republic.jpg",
+      description:
+        "Uma cidade de conto de fadas no sul do país, com ruas de paralelepípedo, casas coloridas e um castelo magnífico que domina o rio Vltava.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Cesky%20Krumlov%20Czech%20Republic.jpg",
     },
     {
       city: "Karlovy Vary",
       title: "Karlovy Vary",
-      description: "Famosa por suas águas termais e arquitetura elegante, Karlovy Vary é um destino de bem-estar e luxo, conhecida por spas e pelo festival internacional de cinema.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Karlovy%20Vary%20Czech%20Republic.jpg",
+      description:
+        "Famosa por suas águas termais e arquitetura elegante, Karlovy Vary é um destino de bem-estar e luxo, conhecida por spas e pelo festival internacional de cinema.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Karlovy%20Vary%20Czech%20Republic.jpg",
     },
     {
       city: "Kutná Hora",
       title: "Kutná Hora",
-      description: "Patrimônio Mundial da UNESCO, Kutná Hora se destaca pela impressionante Igreja de Santa Bárbara e o Ossuário de Sedlec, decorado com ossos humanos.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Sedlec%20Ossuary%20Kutna%20Hora%20Czech%20Republic.jpg",
+      description:
+        "Patrimônio Mundial da UNESCO, Kutná Hora se destaca pela impressionante Igreja de Santa Bárbara e o Ossuário de Sedlec, decorado com ossos humanos.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Sedlec%20Ossuary%20Kutna%20Hora%20Czech%20Republic.jpg",
     },
     {
       city: "Brno",
       title: "Brno",
-      description: "A segunda maior cidade do país é vibrante, moderna e cheia de vida estudantil, com destaque para a fortaleza de Špilberk e a arquitetura funcionalista da Villa Tugendhat.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Brno%20Spilberk%20Castle%20Czech%20Republic.jpg",
+      description:
+        "A segunda maior cidade do país é vibrante, moderna e cheia de vida estudantil, com destaque para a fortaleza de Špilberk e a arquitetura funcionalista da Villa Tugendhat.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Brno%20Spilberk%20Castle%20Czech%20Republic.jpg",
     },
     {
       city: "Olomouc",
       title: "Olomouc",
-      description: "Um tesouro histórico pouco conhecido, Olomouc possui uma das praças mais bonitas da Europa e uma atmosfera universitária animada.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Olomouc%20Holy%20Trinity%20Column%20Czech%20Republic.jpg",
+      description:
+        "Um tesouro histórico pouco conhecido, Olomouc possui uma das praças mais bonitas da Europa e uma atmosfera universitária animada.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Olomouc%20Holy%20Trinity%20Column%20Czech%20Republic.jpg",
     },
     {
       city: "Telč",
       title: "Telč",
-      description: "Pequena e encantadora, Telč é conhecida por sua praça principal renascentista, com fachadas coloridas e perfeitamente preservadas.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Telc%20Main%20Square%20Czech%20Republic.jpg",
+      description:
+        "Pequena e encantadora, Telč é conhecida por sua praça principal renascentista, com fachadas coloridas e perfeitamente preservadas.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Telc%20Main%20Square%20Czech%20Republic.jpg",
     },
     {
       city: "Pilsen (Plzeň)",
       title: "Pilsen (Plzeň)",
-      description: "Berço da mundialmente famosa cerveja Pilsner, Pilsen é um paraíso para amantes de cerveja e história industrial, com uma bela catedral e a fábrica original da Pilsner Urquell.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Pilsen%20Cathedral%20Czech%20Republic.jpg",
+      description:
+        "Berço da mundialmente famosa cerveja Pilsner, Pilsen é um paraíso para amantes de cerveja e história industrial, com uma bela catedral e a fábrica original da Pilsner Urquell.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Pilsen%20Cathedral%20Czech%20Republic.jpg",
     },
     {
       city: "Karlštejn",
       title: "Karlštejn",
-      description: "Pequena vila próxima de Praga, famosa pelo majestoso Castelo de Karlštejn, construído por Carlos IV para guardar joias da coroa e relíquias sagradas.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Karlstejn%20Castle%20Czech%20Republic.jpg",
+      description:
+        "Pequena vila próxima de Praga, famosa pelo majestoso Castelo de Karlštejn, construído por Carlos IV para guardar joias da coroa e relíquias sagradas.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Karlstejn%20Castle%20Czech%20Republic.jpg",
     },
   ],
   Hungary: [
     {
       city: "Budapeste (Budapest)",
       title: "Budapeste (Budapest)",
-      description: "A capital da Hungria é dividida pelo rio Danúbio entre Buda e Peste, e encanta com sua arquitetura grandiosa, banhos termais, o Parlamento húngaro e a vista do Bastião dos Pescadores.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Budapest%20Parliament%20and%20Danube%20River.jpg",
+      description:
+        "A capital da Hungria é dividida pelo rio Danúbio entre Buda e Peste, e encanta com sua arquitetura grandiosa, banhos termais, o Parlamento húngaro e a vista do Bastião dos Pescadores.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Budapest%20Parliament%20and%20Danube%20River.jpg",
     },
     {
       city: "Lago Balaton",
       title: "Lago Balaton",
-      description: "Conhecido como o 'Mar da Hungria', o Lago Balaton é o maior lago de água doce da Europa Central e um dos destinos de verão mais populares do país.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Lake%20Balaton%20Hungary.jpg",
+      description:
+        "Conhecido como o 'Mar da Hungria', o Lago Balaton é o maior lago de água doce da Europa Central e um dos destinos de verão mais populares do país.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Lake%20Balaton%20Hungary.jpg",
     },
     {
       city: "Debrecen",
       title: "Debrecen",
-      description: "Segunda maior cidade da Hungria, Debrecen é o centro cultural e religioso do leste do país, com bela arquitetura e o famoso Grande Templo Reformado.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Debrecen%20Great%20Reformed%20Church%20Hungary.jpg",
+      description:
+        "Segunda maior cidade da Hungria, Debrecen é o centro cultural e religioso do leste do país, com bela arquitetura e o famoso Grande Templo Reformado.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Debrecen%20Great%20Reformed%20Church%20Hungary.jpg",
     },
     {
       city: "Eger",
       title: "Eger",
-      description: "Cidade histórica cercada por vinhedos, Eger é famosa por seu castelo medieval, pelos banhos termais e pelo vinho tinto 'Sangue de Touro' (Egri Bikavér).",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Eger%20Castle%20Hungary.jpg",
+      description:
+        "Cidade histórica cercada por vinhedos, Eger é famosa por seu castelo medieval, pelos banhos termais e pelo vinho tinto 'Sangue de Touro' (Egri Bikavér).",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Eger%20Castle%20Hungary.jpg",
     },
     {
       city: "Pécs",
       title: "Pécs",
-      description: "Localizada ao sul do país, Pécs é um centro artístico e multicultural, conhecida por sua catedral românica e mosaicos paleocristãos tombados pela UNESCO.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Pecs%20Cathedral%20Hungary.jpg",
+      description:
+        "Localizada ao sul do país, Pécs é um centro artístico e multicultural, conhecida por sua catedral românica e mosaicos paleocristãos tombados pela UNESCO.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Pecs%20Cathedral%20Hungary.jpg",
     },
     {
       city: "Szentendre",
       title: "Szentendre",
-      description: "Charmosa cidade às margens do Danúbio, Szentendre é famosa por suas ruelas coloridas, galerias de arte e atmosfera boêmia próxima a Budapeste.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Szentendre%20Hungary%20Main%20Square.jpg",
+      description:
+        "Charmosa cidade às margens do Danúbio, Szentendre é famosa por suas ruelas coloridas, galerias de arte e atmosfera boêmia próxima a Budapeste.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Szentendre%20Hungary%20Main%20Square.jpg",
     },
     {
       city: "Szeged",
       title: "Szeged",
-      description: "Conhecida como a 'Cidade do Sol', Szeged é vibrante e universitária, famosa por seu festival de teatro ao ar livre e por sua bela catedral neorromânica.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Szeged%20Cathedral%20Hungary.jpg",
+      description:
+        "Conhecida como a 'Cidade do Sol', Szeged é vibrante e universitária, famosa por seu festival de teatro ao ar livre e por sua bela catedral neorromânica.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Szeged%20Cathedral%20Hungary.jpg",
     },
     {
       city: "Győr",
       title: "Győr",
-      description: "Uma das cidades mais antigas da Hungria, Győr encanta com seu centro barroco bem preservado, igrejas históricas e localização estratégica entre Viena e Budapeste.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Gyor%20Old%20Town%20Hungary.jpg",
+      description:
+        "Uma das cidades mais antigas da Hungria, Győr encanta com seu centro barroco bem preservado, igrejas históricas e localização estratégica entre Viena e Budapeste.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Gyor%20Old%20Town%20Hungary.jpg",
     },
     {
       city: "Hollókő",
       title: "Hollókő",
-      description: "Pequena vila tradicional listada como Patrimônio Mundial da UNESCO, Hollókő preserva o estilo de vida rural húngaro com casas de madeira e cultura folclórica autêntica.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Holloko%20village%20Hungary.jpg",
+      description:
+        "Pequena vila tradicional listada como Patrimônio Mundial da UNESCO, Hollókő preserva o estilo de vida rural húngaro com casas de madeira e cultura folclórica autêntica.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Holloko%20village%20Hungary.jpg",
     },
   ],
   Iceland: [
     {
       city: "Reykjavík",
       title: "Reykjavík",
-      description: "A capital mais setentrional do mundo combina cultura moderna, arquitetura futurista e uma cena musical vibrante, com vista para montanhas e o mar do Norte.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Reykjavik%20Iceland%20Hallgrimskirkja.jpg",
+      description:
+        "A capital mais setentrional do mundo combina cultura moderna, arquitetura futurista e uma cena musical vibrante, com vista para montanhas e o mar do Norte.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Reykjavik%20Iceland%20Hallgrimskirkja.jpg",
     },
     {
       city: "Círculo Dourado (Golden Circle)",
       title: "Círculo Dourado (Golden Circle)",
-      description: "Rota turística icônica que abrange o Parque Nacional Þingvellir, o gêiser Strokkur e a impressionante cachoeira Gullfoss — um trio imperdível da Islândia.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Gullfoss%20waterfall%20Iceland.jpg",
+      description:
+        "Rota turística icônica que abrange o Parque Nacional Þingvellir, o gêiser Strokkur e a impressionante cachoeira Gullfoss — um trio imperdível da Islândia.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Gullfoss%20waterfall%20Iceland.jpg",
     },
     {
       city: "Blue Lagoon",
       title: "Blue Lagoon",
-      description: "Spa geotermal mundialmente famoso com águas azul-turquesa ricas em sílica, perfeito para relaxar em meio a um cenário vulcânico surreal.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Blue%20Lagoon%20Iceland.jpg",
+      description:
+        "Spa geotermal mundialmente famoso com águas azul-turquesa ricas em sílica, perfeito para relaxar em meio a um cenário vulcânico surreal.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Blue%20Lagoon%20Iceland.jpg",
     },
     {
       city: "Vík í Mýrdal",
       title: "Vík í Mýrdal",
-      description: "Vila costeira famosa pela praia de areia preta de Reynisfjara, com formações rochosas basálticas e ondas poderosas do Atlântico Norte.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Reynisfjara%20black%20sand%20beach%20Iceland.jpg",
+      description:
+        "Vila costeira famosa pela praia de areia preta de Reynisfjara, com formações rochosas basálticas e ondas poderosas do Atlântico Norte.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Reynisfjara%20black%20sand%20beach%20Iceland.jpg",
     },
     {
       city: "Jökulsárlón",
       title: "Jökulsárlón",
-      description: "Lago glacial repleto de icebergs flutuantes vindos do glaciar Vatnajökull, oferecendo um dos cenários mais fotogênicos da Islândia.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Jokulsarlon%20glacial%20lagoon%20Iceland.jpg",
+      description:
+        "Lago glacial repleto de icebergs flutuantes vindos do glaciar Vatnajökull, oferecendo um dos cenários mais fotogênicos da Islândia.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Jokulsarlon%20glacial%20lagoon%20Iceland.jpg",
     },
     {
       city: "Akureyri",
       title: "Akureyri",
-      description: "Conhecida como a 'capital do norte', Akureyri é charmosa, cercada por montanhas e uma ótima base para explorar fiordes e avistar baleias.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Akureyri%20Iceland%20harbor.jpg",
+      description:
+        "Conhecida como a 'capital do norte', Akureyri é charmosa, cercada por montanhas e uma ótima base para explorar fiordes e avistar baleias.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Akureyri%20Iceland%20harbor.jpg",
     },
     {
       city: "Landmannalaugar",
       title: "Landmannalaugar",
-      description: "Região de montanhas coloridas e trilhas espetaculares nas Terras Altas islandesas, ideal para trekking e banhos em fontes termais naturais.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Landmannalaugar%20Iceland.jpg",
+      description:
+        "Região de montanhas coloridas e trilhas espetaculares nas Terras Altas islandesas, ideal para trekking e banhos em fontes termais naturais.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Landmannalaugar%20Iceland.jpg",
     },
     {
       city: "Dettifoss",
       title: "Dettifoss",
-      description: "Considerada a cachoeira mais poderosa da Europa, Dettifoss impressiona com sua força brutal e o cenário lunar ao redor.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Dettifoss%20waterfall%20Iceland.jpg",
+      description:
+        "Considerada a cachoeira mais poderosa da Europa, Dettifoss impressiona com sua força brutal e o cenário lunar ao redor.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Dettifoss%20waterfall%20Iceland.jpg",
     },
     {
       city: "Snaefellsnes",
       title: "Snaefellsnes",
-      description: "Península que reúne o melhor da Islândia em um só lugar — vulcões, glaciares, praias negras e o icônico monte Kirkjufell, cartão-postal do país.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Kirkjufell%20mountain%20Iceland.jpg",
+      description:
+        "Península que reúne o melhor da Islândia em um só lugar — vulcões, glaciares, praias negras e o icônico monte Kirkjufell, cartão-postal do país.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Kirkjufell%20mountain%20Iceland.jpg",
     },
   ],
   Australia: [
     {
       city: "Sydney",
       title: "Sydney",
-      description: "Maior e mais icônica cidade australiana, Sydney encanta com sua famosa Ópera, a Harbour Bridge e praias lendárias como Bondi e Manly.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Sydney%20Opera%20House%20and%20Harbour%20Bridge.jpg",
+      description:
+        "Maior e mais icônica cidade australiana, Sydney encanta com sua famosa Ópera, a Harbour Bridge e praias lendárias como Bondi e Manly.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Sydney%20Opera%20House%20and%20Harbour%20Bridge.jpg",
     },
     {
       city: "Melbourne",
       title: "Melbourne",
-      description: "Capital cultural da Austrália, Melbourne é famosa por sua cena artística, cafés charmosos, eventos esportivos e o clima cosmopolita vibrante.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Melbourne%20city%20skyline%20Australia.jpg",
+      description:
+        "Capital cultural da Austrália, Melbourne é famosa por sua cena artística, cafés charmosos, eventos esportivos e o clima cosmopolita vibrante.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Melbourne%20city%20skyline%20Australia.jpg",
     },
     {
       city: "Grande Barreira de Corais (Great Barrier Reef)",
       title: "Grande Barreira de Corais (Great Barrier Reef)",
-      description: "Maior sistema de recifes de coral do mundo, a Grande Barreira é um paraíso de mergulho e biodiversidade marinha, visível até do espaço.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Great%20Barrier%20Reef%20Queensland%20Australia.jpg",
+      description:
+        "Maior sistema de recifes de coral do mundo, a Grande Barreira é um paraíso de mergulho e biodiversidade marinha, visível até do espaço.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Great%20Barrier%20Reef%20Queensland%20Australia.jpg",
     },
     {
       city: "Uluru (Ayers Rock)",
       title: "Uluru (Ayers Rock)",
-      description: "Símbolo espiritual da Austrália, o monólito vermelho localizado no coração do deserto é sagrado para os povos aborígenes e muda de cor ao pôr do sol.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Uluru%20Ayers%20Rock%20Australia.jpg",
+      description:
+        "Símbolo espiritual da Austrália, o monólito vermelho localizado no coração do deserto é sagrado para os povos aborígenes e muda de cor ao pôr do sol.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Uluru%20Ayers%20Rock%20Australia.jpg",
     },
     {
       city: "Cairns",
       title: "Cairns",
-      description: "Porta de entrada para a Grande Barreira de Corais e para as florestas tropicais de Daintree, Cairns é o destino ideal para aventureiros e mergulhadores.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Cairns%20Esplanade%20Lagoon%20Australia.jpg",
+      description:
+        "Porta de entrada para a Grande Barreira de Corais e para as florestas tropicais de Daintree, Cairns é o destino ideal para aventureiros e mergulhadores.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Cairns%20Esplanade%20Lagoon%20Australia.jpg",
     },
     {
       city: "Gold Coast",
       title: "Gold Coast",
-      description: "Destino praiano famoso por suas ondas perfeitas, arranha-céus à beira-mar e parques temáticos que atraem turistas do mundo todo.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Gold%20Coast%20Queensland%20Australia.jpg",
+      description:
+        "Destino praiano famoso por suas ondas perfeitas, arranha-céus à beira-mar e parques temáticos que atraem turistas do mundo todo.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Gold%20Coast%20Queensland%20Australia.jpg",
     },
     {
       city: "Perth",
       title: "Perth",
-      description: "Capital da Austrália Ocidental, Perth combina praias tranquilas, vinícolas renomadas e uma cena cultural crescente às margens do rio Swan.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Perth%20skyline%20Australia.jpg",
+      description:
+        "Capital da Austrália Ocidental, Perth combina praias tranquilas, vinícolas renomadas e uma cena cultural crescente às margens do rio Swan.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Perth%20skyline%20Australia.jpg",
     },
     {
       city: "Tasmania",
       title: "Tasmania",
-      description: "Ilha australiana selvagem e exuberante, conhecida por seus parques nacionais, trilhas de aventura e pela fauna única — incluindo o diabo-da-tasmânia.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Tasmania%20Cradle%20Mountain%20Australia.jpg",
+      description:
+        "Ilha australiana selvagem e exuberante, conhecida por seus parques nacionais, trilhas de aventura e pela fauna única — incluindo o diabo-da-tasmânia.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Tasmania%20Cradle%20Mountain%20Australia.jpg",
     },
     {
       city: "Adelaide",
       title: "Adelaide",
-      description: "Cidade charmosa e planejada, cercada por vinhedos e praias, Adelaide é famosa por seus festivais culturais e pela gastronomia sofisticada.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Adelaide%20skyline%20Australia.jpg",
+      description:
+        "Cidade charmosa e planejada, cercada por vinhedos e praias, Adelaide é famosa por seus festivais culturais e pela gastronomia sofisticada.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Adelaide%20skyline%20Australia.jpg",
     },
   ],
   "New Zealand": [
     {
       city: "Auckland",
       title: "Auckland",
-      description: "Maior cidade da Nova Zelândia, Auckland é cercada por vulcões adormecidos e belas baías, sendo o ponto de partida perfeito para explorar o país.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Auckland%20skyline%20at%20night.jpg",
+      description:
+        "Maior cidade da Nova Zelândia, Auckland é cercada por vulcões adormecidos e belas baías, sendo o ponto de partida perfeito para explorar o país.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Auckland%20skyline%20at%20night.jpg",
     },
     {
       city: "Queenstown",
       title: "Queenstown",
-      description: "Considerada a capital mundial da aventura, Queenstown é famosa por esportes radicais, paisagens alpinas e o magnífico Lago Wakatipu.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Queenstown%20New%20Zealand%20Lake%20Wakatipu.jpg",
+      description:
+        "Considerada a capital mundial da aventura, Queenstown é famosa por esportes radicais, paisagens alpinas e o magnífico Lago Wakatipu.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Queenstown%20New%20Zealand%20Lake%20Wakatipu.jpg",
     },
     {
       city: "Rotorua",
       title: "Rotorua",
-      description: "Conhecida pela atividade geotérmica e cultura maori vibrante, Rotorua impressiona com geysers, piscinas de lama quente e aldeias tradicionais.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Champagne%20Pool%20Wai-O-Tapu%20Rotorua.jpg",
+      description:
+        "Conhecida pela atividade geotérmica e cultura maori vibrante, Rotorua impressiona com geysers, piscinas de lama quente e aldeias tradicionais.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Champagne%20Pool%20Wai-O-Tapu%20Rotorua.jpg",
     },
     {
       city: "Milford Sound",
       title: "Milford Sound",
-      description: "Um dos lugares mais icônicos do país, o fiorde de Milford Sound é cercado por montanhas íngremes e cachoeiras espetaculares.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Milford%20Sound%20New%20Zealand.jpg",
+      description:
+        "Um dos lugares mais icônicos do país, o fiorde de Milford Sound é cercado por montanhas íngremes e cachoeiras espetaculares.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Milford%20Sound%20New%20Zealand.jpg",
     },
     {
       city: "Wellington",
       title: "Wellington",
-      description: "A capital da Nova Zelândia combina arte, política e natureza, com museus premiados, colinas verdes e uma baía pitoresca.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Wellington%20city%20and%20harbour.jpg",
+      description:
+        "A capital da Nova Zelândia combina arte, política e natureza, com museus premiados, colinas verdes e uma baía pitoresca.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Wellington%20city%20and%20harbour.jpg",
     },
     {
       city: "Christchurch",
       title: "Christchurch",
-      description: "Conhecida como a 'Cidade Jardim', Christchurch se destaca pela arquitetura moderna, parques amplos e a resiliência pós-terremoto.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Christchurch%20New%20Zealand%20Avon%20River.jpg",
+      description:
+        "Conhecida como a 'Cidade Jardim', Christchurch se destaca pela arquitetura moderna, parques amplos e a resiliência pós-terremoto.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Christchurch%20New%20Zealand%20Avon%20River.jpg",
     },
     {
       city: "Taupo",
       title: "Taupo",
-      description: "Lar do maior lago da Nova Zelândia, Taupo é um paraíso para esportes aquáticos, pesca e trilhas próximas ao Parque Nacional de Tongariro.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Lake%20Taupo%20New%20Zealand.jpg",
+      description:
+        "Lar do maior lago da Nova Zelândia, Taupo é um paraíso para esportes aquáticos, pesca e trilhas próximas ao Parque Nacional de Tongariro.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Lake%20Taupo%20New%20Zealand.jpg",
     },
     {
       city: "Franz Josef Glacier",
       title: "Franz Josef Glacier",
-      description: "Um dos poucos glaciares do mundo que se estende até uma floresta tropical, oferecendo trilhas e passeios de helicóptero deslumbrantes.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Franz%20Josef%20Glacier%20New%20Zealand.jpg",
+      description:
+        "Um dos poucos glaciares do mundo que se estende até uma floresta tropical, oferecendo trilhas e passeios de helicóptero deslumbrantes.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Franz%20Josef%20Glacier%20New%20Zealand.jpg",
     },
     {
       city: "Bay of Islands",
       title: "Bay of Islands",
-      description: "Região tropical com mais de 140 ilhas, praias de águas turquesa e uma história rica na colonização da Nova Zelândia.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Bay%20of%20Islands%20New%20Zealand.jpg",
+      description:
+        "Região tropical com mais de 140 ilhas, praias de águas turquesa e uma história rica na colonização da Nova Zelândia.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Bay%20of%20Islands%20New%20Zealand.jpg",
     },
   ],
   Spain: [
     {
       city: "Barcelona",
       title: "Barcelona",
-      description: "Cidade vibrante e artística, famosa pelas obras de Gaudí, como a Sagrada Família e o Parque Güell, além de praias e vida noturna intensa.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Sagrada%20Familia%20Barcelona%20Spain.jpg",
+      description:
+        "Cidade vibrante e artística, famosa pelas obras de Gaudí, como a Sagrada Família e o Parque Güell, além de praias e vida noturna intensa.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Sagrada%20Familia%20Barcelona%20Spain.jpg",
     },
     {
       city: "Madri",
       title: "Madri",
-      description: "A capital espanhola combina elegância e cultura, com museus renomados como o Prado e o Reina Sofía, além de praças e palácios impressionantes.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Plaza%20Mayor%20Madrid%20Spain.jpg",
+      description:
+        "A capital espanhola combina elegância e cultura, com museus renomados como o Prado e o Reina Sofía, além de praças e palácios impressionantes.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Plaza%20Mayor%20Madrid%20Spain.jpg",
     },
     {
       city: "Sevilha",
       title: "Sevilha",
-      description: "Coração da Andaluzia, Sevilha é sinônimo de flamenco, arquitetura mourisca e da icônica Catedral com a torre Giralda.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Seville%20Cathedral%20and%20Giralda.jpg",
+      description:
+        "Coração da Andaluzia, Sevilha é sinônimo de flamenco, arquitetura mourisca e da icônica Catedral com a torre Giralda.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Seville%20Cathedral%20and%20Giralda.jpg",
     },
     {
       city: "Granada",
       title: "Granada",
-      description: "Lar da magnífica Alhambra, Granada oferece vistas deslumbrantes da Sierra Nevada e um rico legado árabe.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Alhambra%20Granada%20Spain.jpg",
+      description:
+        "Lar da magnífica Alhambra, Granada oferece vistas deslumbrantes da Sierra Nevada e um rico legado árabe.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Alhambra%20Granada%20Spain.jpg",
     },
     {
       city: "Valência",
       title: "Valência",
-      description: "Cidade futurista à beira-mar, famosa pela Cidade das Artes e das Ciências, e pela autêntica paella valenciana.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/City%20of%20Arts%20and%20Sciences%20Valencia.jpg",
+      description:
+        "Cidade futurista à beira-mar, famosa pela Cidade das Artes e das Ciências, e pela autêntica paella valenciana.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/City%20of%20Arts%20and%20Sciences%20Valencia.jpg",
     },
     {
       city: "Bilbao",
       title: "Bilbao",
-      description: "Símbolo da modernidade no País Basco, Bilbao é lar do icônico Museu Guggenheim e de uma cena gastronômica de alto nível.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Guggenheim%20Museum%20Bilbao%20Spain.jpg",
+      description:
+        "Símbolo da modernidade no País Basco, Bilbao é lar do icônico Museu Guggenheim e de uma cena gastronômica de alto nível.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Guggenheim%20Museum%20Bilbao%20Spain.jpg",
     },
     {
       city: "Santiago de Compostela",
       title: "Santiago de Compostela",
-      description: "Destino final do famoso Caminho de Santiago, a cidade é marcada por espiritualidade, história e uma imponente catedral.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Cathedral%20of%20Santiago%20de%20Compostela%20Spain.jpg",
+      description:
+        "Destino final do famoso Caminho de Santiago, a cidade é marcada por espiritualidade, história e uma imponente catedral.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Cathedral%20of%20Santiago%20de%20Compostela%20Spain.jpg",
     },
     {
       city: "Toledo",
       title: "Toledo",
-      description: "Antiga capital espanhola, Toledo é um labirinto medieval que mistura heranças cristãs, judaicas e islâmicas.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Toledo%20Spain%20panorama.jpg",
+      description:
+        "Antiga capital espanhola, Toledo é um labirinto medieval que mistura heranças cristãs, judaicas e islâmicas.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Toledo%20Spain%20panorama.jpg",
     },
     {
       city: "Ilhas Baleares (Mallorca, Ibiza, Menorca)",
       title: "Ilhas Baleares (Mallorca, Ibiza, Menorca)",
-      description: "Arquipélago paradisíaco no Mediterrâneo, com praias cristalinas, vida noturna animada e paisagens deslumbrantes.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Ibiza%20old%20town%20and%20harbour.jpg",
+      description:
+        "Arquipélago paradisíaco no Mediterrâneo, com praias cristalinas, vida noturna animada e paisagens deslumbrantes.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Ibiza%20old%20town%20and%20harbour.jpg",
     },
   ],
   Argentina: [
     {
       city: "Buenos Aires",
       title: "Buenos Aires",
-      description: "A capital da Argentina, famosa pela arquitetura europeia, tango, vida noturna vibrante e bairros icônicos como San Telmo e Recoleta.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Obelisco%20de%20Buenos%20Aires%20(2).jpg",
+      description:
+        "A capital da Argentina, famosa pela arquitetura europeia, tango, vida noturna vibrante e bairros icônicos como San Telmo e Recoleta.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Obelisco%20de%20Buenos%20Aires%20(2).jpg",
     },
     {
       city: "Bariloche",
       title: "Bariloche",
-      description: "Localizada na Patagônia, é conhecida por suas montanhas, lagos cristalinos, esportes de inverno e pela produção de chocolates artesanais.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Bariloche%20Lake.jpg",
+      description:
+        "Localizada na Patagônia, é conhecida por suas montanhas, lagos cristalinos, esportes de inverno e pela produção de chocolates artesanais.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Bariloche%20Lake.jpg",
     },
     {
       city: "Mendoza",
       title: "Mendoza",
-      description: "Região vinícola mais famosa da Argentina, com destaque para os vinhos Malbec e paisagens de vinhedos ao pé da Cordilheira dos Andes.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Mendoza%20Vineyard.jpg",
+      description:
+        "Região vinícola mais famosa da Argentina, com destaque para os vinhos Malbec e paisagens de vinhedos ao pé da Cordilheira dos Andes.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Mendoza%20Vineyard.jpg",
     },
     {
       city: "Ushuaia",
       title: "Ushuaia",
-      description: "Conhecida como a cidade mais austral do mundo, é porta de entrada para a Antártida e famosa por paisagens geladas e passeios de barco.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Ushuaia%20Harbor.jpg",
+      description:
+        "Conhecida como a cidade mais austral do mundo, é porta de entrada para a Antártida e famosa por paisagens geladas e passeios de barco.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Ushuaia%20Harbor.jpg",
     },
     {
       city: "El Calafate",
       title: "El Calafate",
-      description: "Destino da Patagônia famoso pelo Parque Nacional Los Glaciares e o impressionante Glaciar Perito Moreno.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Perito%20Moreno%20Glacier%20(3).jpg",
+      description:
+        "Destino da Patagônia famoso pelo Parque Nacional Los Glaciares e o impressionante Glaciar Perito Moreno.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Perito%20Moreno%20Glacier%20(3).jpg",
     },
     {
       city: "Salta",
       title: "Salta",
-      description: "Cidade colonial no noroeste argentino, famosa por igrejas hist��ricas, museus e paisagens montanhosas do Vale Calchaquí.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Salta%20Catedral.jpg",
+      description:
+        "Cidade colonial no noroeste argentino, famosa por igrejas hist��ricas, museus e paisagens montanhosas do Vale Calchaquí.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Salta%20Catedral.jpg",
     },
     {
       city: "Puerto Iguazú",
       title: "Puerto Iguazú",
-      description: "Lar das Cataratas do Iguaçu, uma das Sete Maravilhas Naturais do Mundo, localizada na tríplice fronteira com Brasil e Paraguai.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Iguazu%20Falls%20Argentina%20side.jpg",
+      description:
+        "Lar das Cataratas do Iguaçu, uma das Sete Maravilhas Naturais do Mundo, localizada na tríplice fronteira com Brasil e Paraguai.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Iguazu%20Falls%20Argentina%20side.jpg",
     },
     {
       city: "Mar del Plata",
       title: "Mar del Plata",
-      description: "Principal cidade litorânea da Argentina, conhecida por suas praias, cassinos, festivais e vida noturna agitada.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Mar%20del%20Plata%20beach.jpg",
+      description:
+        "Principal cidade litorânea da Argentina, conhecida por suas praias, cassinos, festivais e vida noturna agitada.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Mar%20del%20Plata%20beach.jpg",
     },
     {
       city: "Córdoba",
       title: "Córdoba",
-      description: "Cidade histórica e universitária, com arquitetura colonial, serras próximas e rica vida cultural.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/C%C3%B3rdoba%20Cathedral%20Argentina.jpg",
+      description:
+        "Cidade histórica e universitária, com arquitetura colonial, serras próximas e rica vida cultural.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/C%C3%B3rdoba%20Cathedral%20Argentina.jpg",
     },
   ],
   Chile: [
     {
       city: "Santiago",
       title: "Santiago",
-      description: "A capital do Chile, localizada entre a Cordilheira dos Andes e o Oceano Pacífico, famosa por sua vida cultural, vinícolas próximas e centros de esqui.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Santiago%20de%20Chile%20Cityscape.jpg",
+      description:
+        "A capital do Chile, localizada entre a Cordilheira dos Andes e o Oceano Pacífico, famosa por sua vida cultural, vinícolas próximas e centros de esqui.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Santiago%20de%20Chile%20Cityscape.jpg",
     },
     {
       city: "Valparaíso",
       title: "Valparaíso",
-      description: "Cidade portuária com morros coloridos, arte de rua vibrante e um importante patrimônio histórico e cultural.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Valparaiso%20Cerro%20Concepcion.jpg",
+      description:
+        "Cidade portuária com morros coloridos, arte de rua vibrante e um importante patrimônio histórico e cultural.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Valparaiso%20Cerro%20Concepcion.jpg",
     },
     {
       city: "Viña del Mar",
       title: "Viña del Mar",
-      description: "Destino litorâneo elegante conhecido como 'Cidade Jardim', com praias, cassinos e o famoso Festival Internacional da Canção.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Vina%20del%20Mar%20beach.jpg",
+      description:
+        "Destino litorâneo elegante conhecido como 'Cidade Jardim', com praias, cassinos e o famoso Festival Internacional da Canção.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Vina%20del%20Mar%20beach.jpg",
     },
     {
       city: "Atacama (San Pedro de Atacama)",
       title: "Atacama (San Pedro de Atacama)",
-      description: "Um dos desertos mais áridos do mundo, famoso por paisagens lunares, salares, gêiseres e observação astronômica.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Valle%20de%20la%20Luna%20Atacama.jpg",
+      description:
+        "Um dos desertos mais áridos do mundo, famoso por paisagens lunares, salares, gêiseres e observação astronômica.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Valle%20de%20la%20Luna%20Atacama.jpg",
     },
     {
       city: "Ilha de Páscoa (Rapa Nui)",
       title: "Ilha de Páscoa (Rapa Nui)",
-      description: "Uma das ilhas mais isoladas do mundo, famosa pelos misteriosos moais e pela cultura polinésia única.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Moai%20statues%20Easter%20Island.jpg",
+      description:
+        "Uma das ilhas mais isoladas do mundo, famosa pelos misteriosos moais e pela cultura polinésia única.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Moai%20statues%20Easter%20Island.jpg",
     },
     {
       city: "Puerto Varas",
       title: "Puerto Varas",
-      description: "Cidade charmosa às margens do Lago Llanquihue, com vista para vulcões nevados e influência cultural alemã.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Puerto%20Varas%20and%20Osorno%20Volcano.jpg",
+      description:
+        "Cidade charmosa às margens do Lago Llanquihue, com vista para vulcões nevados e influência cultural alemã.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Puerto%20Varas%20and%20Osorno%20Volcano.jpg",
     },
     {
       city: "Torres del Paine",
       title: "Torres del Paine",
-      description: "Parque nacional na Patag��nia chilena, conhecido por montanhas imponentes, lagos azul-turquesa e trilhas icônicas.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Torres%20del%20Paine%20National%20Park.jpg",
+      description:
+        "Parque nacional na Patag��nia chilena, conhecido por montanhas imponentes, lagos azul-turquesa e trilhas icônicas.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Torres%20del%20Paine%20National%20Park.jpg",
     },
     {
       city: "La Serena",
       title: "La Serena",
-      description: "Cidade litorânea histórica com belas praias, observatórios astronômicos e arquitetura colonial.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/La%20Serena%20Coquimbo%20Chile.jpg",
+      description:
+        "Cidade litorânea histórica com belas praias, observatórios astronômicos e arquitetura colonial.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/La%20Serena%20Coquimbo%20Chile.jpg",
     },
     {
       city: "Chiloé",
       title: "Chiloé",
-      description: "Arquipélago com tradições únicas, casas coloridas sobre palafitas e igrejas de madeira consideradas Patrimônio Mundial da UNESCO.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Palafitos%20de%20Castro%20Chiloe.jpg",
+      description:
+        "Arquipélago com tradições únicas, casas coloridas sobre palafitas e igrejas de madeira consideradas Patrimônio Mundial da UNESCO.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Palafitos%20de%20Castro%20Chiloe.jpg",
     },
   ],
   Bolivia: [
     {
       city: "La Paz",
       title: "La Paz",
-      description: "A capital administrativa da Bolívia, localizada a mais de 3.600 metros de altitude, famosa pelo teleférico urbano e pelo Vale da Lua.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/La%20Paz%20Bolivia%20Cityscape.jpg",
+      description:
+        "A capital administrativa da Bolívia, localizada a mais de 3.600 metros de altitude, famosa pelo teleférico urbano e pelo Vale da Lua.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/La%20Paz%20Bolivia%20Cityscape.jpg",
     },
     {
       city: "Sucre",
       title: "Sucre",
-      description: "Capital constitucional da Bolívia, conhecida por sua arquitetura colonial bem preservada e charme histórico.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Sucre%20Bolivia%20Plaza%2025%20de%20Mayo.jpg",
+      description:
+        "Capital constitucional da Bolívia, conhecida por sua arquitetura colonial bem preservada e charme histórico.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Sucre%20Bolivia%20Plaza%2025%20de%20Mayo.jpg",
     },
     {
       city: "Santa Cruz de la Sierra",
       title: "Santa Cruz de la Sierra",
-      description: "Principal centro econômico da Bolívia, com vida noturna vibrante e uma mistura de modernidade e tradição.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Santa%20Cruz%20de%20la%20Sierra%20Bolivia.jpg",
+      description:
+        "Principal centro econômico da Bolívia, com vida noturna vibrante e uma mistura de modernidade e tradição.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Santa%20Cruz%20de%20la%20Sierra%20Bolivia.jpg",
     },
     {
       city: "Uyuni",
       title: "Uyuni",
-      description: "Famosa pelo Salar de Uyuni, o maior deserto de sal do mundo, que cria reflexos espetaculares na estação chuvosa.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Salar%20de%20Uyuni%20Bolivia.jpg",
+      description:
+        "Famosa pelo Salar de Uyuni, o maior deserto de sal do mundo, que cria reflexos espetaculares na estação chuvosa.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Salar%20de%20Uyuni%20Bolivia.jpg",
     },
     {
       city: "Potosí",
       title: "Potosí",
-      description: "Antiga cidade mineradora, conhecida pelas minas de prata do Cerro Rico e sua história colonial.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Potosi%20Bolivia.jpg",
+      description:
+        "Antiga cidade mineradora, conhecida pelas minas de prata do Cerro Rico e sua história colonial.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Potosi%20Bolivia.jpg",
     },
     {
       city: "Copacabana",
       title: "Copacabana",
-      description: "Às margens do Lago Titicaca, é famosa pelo Santuário de Nossa Senhora de Copacabana e pela Isla del Sol.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Copacabana%20Bolivia.jpg",
+      description:
+        "Às margens do Lago Titicaca, é famosa pelo Santuário de Nossa Senhora de Copacabana e pela Isla del Sol.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Copacabana%20Bolivia.jpg",
     },
     {
       city: "Cochabamba",
       title: "Cochabamba",
-      description: "Cidade no centro da Bol��via, conhecida pelo Cristo de la Concordia e clima agradável.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Cochabamba%20Bolivia%20Christo%20de%20la%20Concordia.jpg",
+      description:
+        "Cidade no centro da Bol��via, conhecida pelo Cristo de la Concordia e clima agradável.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Cochabamba%20Bolivia%20Christo%20de%20la%20Concordia.jpg",
     },
     {
       city: "Tarija",
       title: "Tarija",
-      description: "Região vinícola da Bolívia, famosa por seus vinhos e clima tranquilo nas montanhas.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Tarija%20Bolivia%20Plaza.jpg",
+      description:
+        "Região vinícola da Bolívia, famosa por seus vinhos e clima tranquilo nas montanhas.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Tarija%20Bolivia%20Plaza.jpg",
     },
     {
       city: "Oruro",
       title: "Oruro",
-      description: "Cidade conhecida pelo Carnaval de Oruro, declarado Patrimônio Imaterial da Humanidade pela UNESCO.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Oruro%20Carnival%20Bolivia.jpg",
+      description:
+        "Cidade conhecida pelo Carnaval de Oruro, declarado Patrimônio Imaterial da Humanidade pela UNESCO.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Oruro%20Carnival%20Bolivia.jpg",
     },
   ],
   Ecuador: [
     {
       city: "Quito",
       title: "Quito",
-      description: "A capital do Equador, localizada a 2.850 metros de altitude, famosa pelo centro histórico colonial, Patrimônio da UNESCO.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Quito%20Ecuador%20Cityscape.jpg",
+      description:
+        "A capital do Equador, localizada a 2.850 metros de altitude, famosa pelo centro histórico colonial, Patrimônio da UNESCO.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Quito%20Ecuador%20Cityscape.jpg",
     },
     {
       city: "Guayaquil",
       title: "Guayaquil",
-      description: "Principal porto do país, com o Malecón 2000, vida noturna animada e acesso às Ilhas Galápagos.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Guayaquil%20Ecuador.jpg",
+      description:
+        "Principal porto do país, com o Malecón 2000, vida noturna animada e acesso às Ilhas Galápagos.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Guayaquil%20Ecuador.jpg",
     },
     {
       city: "Cuenca",
       title: "Cuenca",
-      description: "Cidade colonial famosa por sua arquitetura, igrejas históricas e tradição dos chapéus Panamá.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Cuenca%20Ecuador%20Cathedral.jpg",
+      description:
+        "Cidade colonial famosa por sua arquitetura, igrejas históricas e tradição dos chapéus Panamá.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Cuenca%20Ecuador%20Cathedral.jpg",
     },
     {
       city: "Galápagos",
       title: "Galápagos",
-      description: "Arquipélago único, Patrimônio Natural da Humanidade, famoso por sua biodiversidade e estudos de Darwin.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Galapagos%20Islands%20Ecuador.jpg",
+      description:
+        "Arquipélago único, Patrimônio Natural da Humanidade, famoso por sua biodiversidade e estudos de Darwin.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Galapagos%20Islands%20Ecuador.jpg",
     },
     {
       city: "Baños de Agua Santa",
       title: "Baños de Agua Santa",
-      description: "Cidade turística famosa por cachoeiras, esportes de aventura e termas vulcânicas.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Banos%20Ecuador%20Waterfall.jpg",
+      description:
+        "Cidade turística famosa por cachoeiras, esportes de aventura e termas vulcânicas.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Banos%20Ecuador%20Waterfall.jpg",
     },
     {
       city: "Otavalo",
       title: "Otavalo",
-      description: "Cidade conhecida pelo mercado indígena e tradições culturais andinas.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Otavalo%20Market%20Ecuador.jpg",
+      description:
+        "Cidade conhecida pelo mercado indígena e tradições culturais andinas.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Otavalo%20Market%20Ecuador.jpg",
     },
     {
       city: "Mindo",
       title: "Mindo",
-      description: "Destino ecológico nos Andes, famoso por observação de aves, cachoeiras e florestas nubladas.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Mindo%20Ecuador.jpg",
+      description:
+        "Destino ecológico nos Andes, famoso por observação de aves, cachoeiras e florestas nubladas.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Mindo%20Ecuador.jpg",
     },
     {
       city: "Montañita",
       title: "Montañita",
-      description: "Praia famosa por surf, vida noturna e atmosfera jovem e descontraída.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Montanita%20Ecuador.jpg",
+      description:
+        "Praia famosa por surf, vida noturna e atmosfera jovem e descontraída.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Montanita%20Ecuador.jpg",
     },
     {
       city: "Loja",
       title: "Loja",
-      description: "Cidade cultural conhecida por música, tradições artísticas e proximidade com a natureza.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Loja%20Ecuador.jpg",
+      description:
+        "Cidade cultural conhecida por música, tradições artísticas e proximidade com a natureza.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Loja%20Ecuador.jpg",
     },
   ],
   Venezuela: [
     {
       city: "Caracas",
       title: "Caracas",
-      description: "A capital da Venezuela, cercada pelo Parque Nacional El Ávila e rica em museus e vida urbana.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Caracas%20Venezuela.jpg",
+      description:
+        "A capital da Venezuela, cercada pelo Parque Nacional El Ávila e rica em museus e vida urbana.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Caracas%20Venezuela.jpg",
     },
     {
       city: "Margarita",
       title: "Margarita",
-      description: "Ilha caribenha famosa por praias paradisíacas, resorts e clima ensolarado.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Margarita%20Island%20Venezuela.jpg",
+      description:
+        "Ilha caribenha famosa por praias paradisíacas, resorts e clima ensolarado.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Margarita%20Island%20Venezuela.jpg",
     },
     {
       city: "Los Roques",
       title: "Los Roques",
-      description: "Arquipélago no Caribe, famoso por águas cristalinas, mergulho e vida marinha.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Los%20Roques%20Venezuela.jpg",
+      description:
+        "Arquipélago no Caribe, famoso por águas cristalinas, mergulho e vida marinha.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Los%20Roques%20Venezuela.jpg",
     },
     {
       city: "Mérida",
       title: "Mérida",
-      description: "Cidade andina conhecida pelo teleférico mais alto e longo do mundo e paisagens montanhosas.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Merida%20Venezuela.jpg",
+      description:
+        "Cidade andina conhecida pelo teleférico mais alto e longo do mundo e paisagens montanhosas.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Merida%20Venezuela.jpg",
     },
     {
       city: "Canaima",
       title: "Canaima",
-      description: "Parque Nacional Canaima, famoso pelo Salto Ángel, a maior queda d’água do mundo.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Salto%20Angel%20Venezuela.jpg",
+      description:
+        "Parque Nacional Canaima, famoso pelo Salto Ángel, a maior queda d’água do mundo.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Salto%20Angel%20Venezuela.jpg",
     },
     {
       city: "Maracaibo",
       title: "Maracaibo",
-      description: "Importante cidade venezuelana, conhecida pelo Lago de Maracaibo e o fenômeno natural Relâmpago do Catatumbo.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Maracaibo%20Venezuela.jpg",
+      description:
+        "Importante cidade venezuelana, conhecida pelo Lago de Maracaibo e o fenômeno natural Relâmpago do Catatumbo.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Maracaibo%20Venezuela.jpg",
     },
     {
       city: "Coro",
       title: "Coro",
-      description: "Cidade colonial, Patrimônio Mundial da UNESCO, famosa por suas ruas históricas e casas coloridas.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Coro%20Venezuela.jpg",
+      description:
+        "Cidade colonial, Patrimônio Mundial da UNESCO, famosa por suas ruas históricas e casas coloridas.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Coro%20Venezuela.jpg",
     },
     {
       city: "Puerto La Cruz",
       title: "Puerto La Cruz",
-      description: "Cidade costeira com belas praias e porta de entrada para as Ilhas do Caribe venezuelano.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Puerto%20La%20Cruz%20Venezuela.jpg",
+      description:
+        "Cidade costeira com belas praias e porta de entrada para as Ilhas do Caribe venezuelano.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Puerto%20La%20Cruz%20Venezuela.jpg",
     },
     {
       city: "Choroní",
       title: "Choroní",
-      description: "Vila costeira charmosa no Caribe, cercada por montanhas e praias tropicais.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Choroni%20Venezuela.jpg",
+      description:
+        "Vila costeira charmosa no Caribe, cercada por montanhas e praias tropicais.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Choroni%20Venezuela.jpg",
     },
   ],
   Peru: [
     {
       city: "Machu Picchu",
       title: "Machu Picchu",
-      description: "A cidade perdida dos incas, Patrimônio Mundial da UNESCO e uma das Sete Maravilhas do Mundo Moderno.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Machu%20Picchu%20Peru.jpg",
+      description:
+        "A cidade perdida dos incas, Patrimônio Mundial da UNESCO e uma das Sete Maravilhas do Mundo Moderno.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Machu%20Picchu%20Peru.jpg",
     },
     {
       city: "Cusco",
       title: "Cusco",
-      description: "Antiga capital do Império Inca, famosa por sua arquitetura colonial e ruínas próximas ao Vale Sagrado.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Plaza%20de%20Armas%20Cusco.jpg",
+      description:
+        "Antiga capital do Império Inca, famosa por sua arquitetura colonial e ruínas próximas ao Vale Sagrado.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Plaza%20de%20Armas%20Cusco.jpg",
     },
     {
       city: "Lima",
       title: "Lima",
-      description: "A capital do Peru, à beira do Pacífico, conhecida por sua gastronomia premiada e centro histórico colonial.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Lima%20Plaza%20Mayor.jpg",
+      description:
+        "A capital do Peru, à beira do Pacífico, conhecida por sua gastronomia premiada e centro histórico colonial.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Lima%20Plaza%20Mayor.jpg",
     },
     {
       city: "Arequipa",
       title: "Arequipa",
-      description: "A 'Cidade Branca', cercada por vulcões, com o impressionante Mosteiro de Santa Catalina e o Cânion do Colca.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Arequipa%20Peru.jpg",
+      description:
+        "A 'Cidade Branca', cercada por vulcões, com o impressionante Mosteiro de Santa Catalina e o Cânion do Colca.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Arequipa%20Peru.jpg",
     },
     {
       city: "Lago Titicaca (Puno)",
       title: "Lago Titicaca (Puno)",
-      description: "O lago navegável mais alto do mundo, famoso pelas ilhas flutuantes dos Uros e tradições ancestrais.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Lake%20Titicaca%20Puno.jpg",
+      description:
+        "O lago navegável mais alto do mundo, famoso pelas ilhas flutuantes dos Uros e tradições ancestrais.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Lake%20Titicaca%20Puno.jpg",
     },
     {
       city: "Nazca",
       title: "Nazca",
-      description: "Conhecida pelas misteriosas Linhas de Nazca, enormes geoglifos visíveis apenas do alto.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Nazca%20Lines%20Monkey.jpg",
+      description:
+        "Conhecida pelas misteriosas Linhas de Nazca, enormes geoglifos visíveis apenas do alto.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Nazca%20Lines%20Monkey.jpg",
     },
     {
       city: "Iquitos",
       title: "Iquitos",
-      description: "Porta de entrada para a Amazônia peruana, acessível apenas por avião ou barco, com rica biodiversidade.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Iquitos%20Amazon%20Peru.jpg",
+      description:
+        "Porta de entrada para a Amazônia peruana, acessível apenas por avião ou barco, com rica biodiversidade.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Iquitos%20Amazon%20Peru.jpg",
     },
     {
       city: "Paracas",
       title: "Paracas",
-      description: "Famosa pela Reserva Nacional de Paracas e pelas Ilhas Ballestas, chamadas de 'Galápagos do Peru'.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Paracas%20Peru.jpg",
+      description:
+        "Famosa pela Reserva Nacional de Paracas e pelas Ilhas Ballestas, chamadas de 'Galápagos do Peru'.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Paracas%20Peru.jpg",
     },
     {
       city: "Huaraz",
       title: "Huaraz",
-      description: "Cidade andina cercada pela Cordilheira Branca, ideal para trekking e aventuras em alta montanha.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Huascaran%20Huaraz.jpg",
+      description:
+        "Cidade andina cercada pela Cordilheira Branca, ideal para trekking e aventuras em alta montanha.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Huascaran%20Huaraz.jpg",
     },
   ],
   Colombia: [
     {
       city: "Cartagena das Índias",
       title: "Cartagena das Índias",
-      description: "Cidade colonial murada à beira do Caribe, famosa por suas cores vibrantes, arquitetura histórica e praias próximas.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Cartagena%20de%20Indias%20Colombia.jpg",
+      description:
+        "Cidade colonial murada à beira do Caribe, famosa por suas cores vibrantes, arquitetura histórica e praias próximas.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Cartagena%20de%20Indias%20Colombia.jpg",
     },
     {
       city: "Bogotá",
       title: "Bogotá",
-      description: "A capital da Colômbia, localizada a 2.600 metros de altitude, com o famoso Museu do Ouro e o bairro histórico La Candelaria.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Bogota%20Panorama.jpg",
+      description:
+        "A capital da Colômbia, localizada a 2.600 metros de altitude, com o famoso Museu do Ouro e o bairro histórico La Candelaria.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Bogota%20Panorama.jpg",
     },
     {
       city: "Medellín",
       title: "Medellín",
-      description: "Conhecida como a 'Cidade da Eterna Primavera', é moderna, inovadora e cercada por montanhas.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Medellin%20City.jpg",
+      description:
+        "Conhecida como a 'Cidade da Eterna Primavera', é moderna, inovadora e cercada por montanhas.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Medellin%20City.jpg",
     },
     {
       city: "San Andrés",
       title: "San Andrés",
-      description: "Ilha paradisíaca no Caribe colombiano, famosa pelo mar de sete cores e mergulhos incríveis.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/San%20Andres%20Island%20Colombia.jpg",
+      description:
+        "Ilha paradisíaca no Caribe colombiano, famosa pelo mar de sete cores e mergulhos incríveis.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/San%20Andres%20Island%20Colombia.jpg",
     },
     {
       city: "Santa Marta",
       title: "Santa Marta",
-      description: "Cidade litorânea histórica, porta de entrada para o Parque Tayrona e a Sierra Nevada de Santa Marta.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Santa%20Marta%20Colombia.jpg",
+      description:
+        "Cidade litorânea histórica, porta de entrada para o Parque Tayrona e a Sierra Nevada de Santa Marta.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Santa%20Marta%20Colombia.jpg",
     },
     {
       city: "Parque Tayrona",
       title: "Parque Tayrona",
-      description: "Parque nacional com praias selvagens, florestas tropicais e rica biodiversidade.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Tayrona%20National%20Park%20Colombia.jpg",
+      description:
+        "Parque nacional com praias selvagens, florestas tropicais e rica biodiversidade.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Tayrona%20National%20Park%20Colombia.jpg",
     },
     {
       city: "Cali",
       title: "Cali",
-      description: "Capital mundial da salsa, famosa por sua vida noturna, festivais de dança e cultura afro-colombiana.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Cali%20Colombia%20Panorama.jpg",
+      description:
+        "Capital mundial da salsa, famosa por sua vida noturna, festivais de dança e cultura afro-colombiana.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Cali%20Colombia%20Panorama.jpg",
     },
     {
       city: "Villa de Leyva",
       title: "Villa de Leyva",
-      description: "Cidade colonial preservada com ruas de pedra e uma das maiores praças da América Latina.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Villa%20de%20Leyva%20Main%20Square.jpg",
+      description:
+        "Cidade colonial preservada com ruas de pedra e uma das maiores praças da América Latina.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Villa%20de%20Leyva%20Main%20Square.jpg",
     },
     {
       city: "Guatapé",
       title: "Guatapé",
-      description: "Vila colorida famosa pelo monólito El Peñol, que oferece uma das vistas mais impressionantes do país.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Guatape%20El%20Penol.jpg",
+      description:
+        "Vila colorida famosa pelo monólito El Peñol, que oferece uma das vistas mais impressionantes do país.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Guatape%20El%20Penol.jpg",
     },
   ],
   Uruguay: [
     {
       city: "Montevidéu",
       title: "Montevidéu",
-      description: "A capital do Uruguai, famosa pela Rambla à beira-mar, Cidade Velha e forte influência cultural.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Montevideo%20Panorama.jpg",
+      description:
+        "A capital do Uruguai, famosa pela Rambla à beira-mar, Cidade Velha e forte influência cultural.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Montevideo%20Panorama.jpg",
     },
     {
       city: "Punta del Este",
       title: "Punta del Este",
-      description: "O balneário mais famoso do país, conhecido por suas praias badaladas, cassinos e vida noturna vibrante.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Punta%20del%20Este%20Beach.jpg",
+      description:
+        "O balneário mais famoso do país, conhecido por suas praias badaladas, cassinos e vida noturna vibrante.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Punta%20del%20Este%20Beach.jpg",
     },
     {
       city: "Col��nia do Sacramento",
       title: "Colônia do Sacramento",
-      description: "Cidade histórica com ruas de pedra e arquitetura colonial portuguesa, Patrimônio da UNESCO.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Colonia%20del%20Sacramento%20Street.jpg",
+      description:
+        "Cidade histórica com ruas de pedra e arquitetura colonial portuguesa, Patrimônio da UNESCO.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Colonia%20del%20Sacramento%20Street.jpg",
     },
     {
       city: "Cabo Polônio",
       title: "Cabo Polônio",
-      description: "Vilarejo isolado sem energia elétrica convencional, famoso por dunas, leões marinhos e farol icônico.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Cabo%20Polonio%20Uruguay.jpg",
+      description:
+        "Vilarejo isolado sem energia elétrica convencional, famoso por dunas, leões marinhos e farol icônico.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Cabo%20Polonio%20Uruguay.jpg",
     },
     {
       city: "Piri��polis",
       title: "Piri��polis",
-      description: "Balneário com praias tranquilas, morros e um clima mais familiar que Punta del Este.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Piriapolis%20Uruguay.jpg",
+      description:
+        "Balneário com praias tranquilas, morros e um clima mais familiar que Punta del Este.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Piriapolis%20Uruguay.jpg",
     },
     {
       city: "La Paloma",
       title: "La Paloma",
-      description: "Destino de surfistas e amantes da natureza, com praias extensas e atmosfera descontraída.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/La%20Paloma%20Uruguay.jpg",
+      description:
+        "Destino de surfistas e amantes da natureza, com praias extensas e atmosfera descontraída.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/La%20Paloma%20Uruguay.jpg",
     },
     {
       city: "José Ignacio",
       title: "José Ignacio",
-      description: "Vilarejo sofisticado que virou point de luxo, famoso por pousadas elegantes e gastronomia refinada.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Jose%20Ignacio%20Lighthouse.jpg",
+      description:
+        "Vilarejo sofisticado que virou point de luxo, famoso por pousadas elegantes e gastronomia refinada.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Jose%20Ignacio%20Lighthouse.jpg",
     },
     {
       city: "Paysandú",
       title: "Paysandú",
-      description: "Cidade às margens do Rio Uruguai, famosa por termas, turismo histórico e eventos culturais.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Paysandu%20Uruguay.jpg",
+      description:
+        "Cidade às margens do Rio Uruguai, famosa por termas, turismo histórico e eventos culturais.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Paysandu%20Uruguay.jpg",
     },
     {
       city: "Salto",
       title: "Salto",
-      description: "Cidade termal com águas quentes relaxantes e um dos principais destinos de turismo de bem-estar do país.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Salto%20Thermal%20Pools.jpg",
+      description:
+        "Cidade termal com águas quentes relaxantes e um dos principais destinos de turismo de bem-estar do país.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Salto%20Thermal%20Pools.jpg",
     },
   ],
   Paraguay: [
     {
       city: "Assunção",
       title: "Assunção",
-      description: "A capital do Paraguai, localizada às margens do Rio Paraguai, com arquitetura colonial, praças e vida cultural vibrante.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Palacio%20de%20los%20L%C3%B3pez%20Asunci%C3%B3n.jpg",
+      description:
+        "A capital do Paraguai, localizada às margens do Rio Paraguai, com arquitetura colonial, praças e vida cultural vibrante.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Palacio%20de%20los%20L%C3%B3pez%20Asunci%C3%B3n.jpg",
     },
     {
       city: "Ciudad del Este",
       title: "Ciudad del Este",
-      description: "Cidade de fronteira com o Brasil, conhecida pelo comércio intenso e pela proximidade com as Cataratas do Iguaçu.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Ciudad%20del%20Este%20Skyline.jpg",
+      description:
+        "Cidade de fronteira com o Brasil, conhecida pelo comércio intenso e pela proximidade com as Cataratas do Iguaçu.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Ciudad%20del%20Este%20Skyline.jpg",
     },
     {
       city: "Encarnación",
       title: "Encarnación",
-      description: "Famosa por suas praias às margens do Rio Paraná e pelo Carnaval, considerado o melhor do país.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Encarnacion%20Beach%20Paraguay.jpg",
+      description:
+        "Famosa por suas praias às margens do Rio Paraná e pelo Carnaval, considerado o melhor do país.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Encarnacion%20Beach%20Paraguay.jpg",
     },
     {
       city: "Saltos del Monday",
       title: "Saltos del Monday",
-      description: "Impressionantes quedas d’água com mais de 40 metros de altura, localizadas próximas a Ciudad del Este.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Saltos%20del%20Monday%20Paraguay.jpg",
+      description:
+        "Impressionantes quedas d’água com mais de 40 metros de altura, localizadas próximas a Ciudad del Este.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Saltos%20del%20Monday%20Paraguay.jpg",
     },
     {
       city: "Trinidad",
       title: "Trinidad",
-      description: "Ruínas jesuíticas de Santísima Trinidad del Paraná, Patrimônio Mundial da UNESCO, testemunho da história colonial.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Trinidad%20Jesuit%20Ruins%20Paraguay.jpg",
+      description:
+        "Ruínas jesuíticas de Santísima Trinidad del Paraná, Patrimônio Mundial da UNESCO, testemunho da história colonial.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Trinidad%20Jesuit%20Ruins%20Paraguay.jpg",
     },
     {
       city: "Jesús de Tavarangüe",
       title: "Jesús de Tavarangüe",
-      description: "Outro importante sítio jesuítico, preservado e reconhecido pela UNESCO, parte do circuito missioneiro.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Jesus%20de%20Tavarangue%20Ruins.jpg",
+      description:
+        "Outro importante sítio jesuítico, preservado e reconhecido pela UNESCO, parte do circuito missioneiro.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Jesus%20de%20Tavarangue%20Ruins.jpg",
     },
     {
       city: "Filadélfia (Chaco)",
       title: "Filadélfia (Chaco)",
-      description: "Cidade no coração do Chaco paraguaio, conhecida por sua cultura menonita e paisagens ��ridas.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Filadelfia%20Chaco%20Paraguay.jpg",
+      description:
+        "Cidade no coração do Chaco paraguaio, conhecida por sua cultura menonita e paisagens ��ridas.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Filadelfia%20Chaco%20Paraguay.jpg",
     },
     {
       city: "Areguá",
       title: "Areguá",
-      description: "Charmosa cidade colonial às margens do Lago Ypacaraí, famosa por seu artesanato em cerâmica e festival de morangos.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Aregua%20Paraguay.jpg",
+      description:
+        "Charmosa cidade colonial às margens do Lago Ypacaraí, famosa por seu artesanato em cerâmica e festival de morangos.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Aregua%20Paraguay.jpg",
     },
     {
       city: "Ybycuí",
       title: "Ybycuí",
-      description: "Parque Nacional Ybycuí, com florestas subtropicais, trilhas e cachoeiras, ideal para ecoturismo.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Ybycui%20National%20Park.jpg",
+      description:
+        "Parque Nacional Ybycuí, com florestas subtropicais, trilhas e cachoeiras, ideal para ecoturismo.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Ybycui%20National%20Park.jpg",
     },
   ],
   Guiana: [
     {
       city: "Georgetown",
       title: "Georgetown",
-      description: "A capital da Guiana, famosa por sua arquitetura colonial de madeira e o Mercado de Stabroek.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Georgetown%20Guyana%20Stabroek%20Market.jpg",
+      description:
+        "A capital da Guiana, famosa por sua arquitetura colonial de madeira e o Mercado de Stabroek.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Georgetown%20Guyana%20Stabroek%20Market.jpg",
     },
     {
       city: "Cataratas Kaieteur",
       title: "Cataratas Kaieteur",
-      description: "Uma das maiores quedas d’água de queda única do mundo, localizada no coração da floresta amazônica.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Kaieteur%20Falls%20Guyana.jpg",
+      description:
+        "Uma das maiores quedas d’água de queda única do mundo, localizada no coração da floresta amazônica.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Kaieteur%20Falls%20Guyana.jpg",
     },
     {
       city: "Parque Nacional Iwokrama",
       title: "Parque Nacional Iwokrama",
-      description: "Área protegida de floresta tropical, famosa por biodiversidade e experiências de ecoturismo.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Iwokrama%20Rainforest%20Guyana.jpg",
+      description:
+        "Área protegida de floresta tropical, famosa por biodiversidade e experiências de ecoturismo.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Iwokrama%20Rainforest%20Guyana.jpg",
     },
     {
       city: "Lethem",
       title: "Lethem",
-      description: "Cidade na fronteira com o Brasil, ponto de acesso ao interior guianense e rotas culturais.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Lethem%20Guyana.jpg",
+      description:
+        "Cidade na fronteira com o Brasil, ponto de acesso ao interior guianense e rotas culturais.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Lethem%20Guyana.jpg",
     },
     {
       city: "Shell Beach",
       title: "Shell Beach",
       description: "Praia remota famosa pela desova de tartarugas marinhas.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Shell%20Beach%20Guyana.jpg",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Shell%20Beach%20Guyana.jpg",
     },
   ],
   Suriname: [
     {
       city: "Paramaribo",
       title: "Paramaribo",
-      description: "A capital do Suriname, com arquitetura colonial holandesa e diversidade cultural.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Paramaribo%20Suriname.jpg",
+      description:
+        "A capital do Suriname, com arquitetura colonial holandesa e diversidade cultural.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Paramaribo%20Suriname.jpg",
     },
     {
       city: "Palumeu",
       title: "Palumeu",
-      description: "Vila indígena e destino de ecoturismo na floresta amazônica.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Palumeu%20Suriname.jpg",
+      description:
+        "Vila indígena e destino de ecoturismo na floresta amazônica.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Palumeu%20Suriname.jpg",
     },
     {
       city: "Brownsberg",
       title: "Brownsberg",
-      description: "Parque Natural com trilhas, cachoeiras e avistamento de aves.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Brownsberg%20Suriname.jpg",
+      description:
+        "Parque Natural com trilhas, cachoeiras e avistamento de aves.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Brownsberg%20Suriname.jpg",
     },
     {
       city: "Galibi",
       title: "Galibi",
       description: "Área costeira protegida, famosa por tartarugas marinhas.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Galibi%20Beach%20Suriname.jpg",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Galibi%20Beach%20Suriname.jpg",
     },
     {
       city: "Central Suriname Nature Reserve",
       title: "Central Suriname Nature Reserve",
-      description: "Patrimônio da UNESCO, uma das maiores reservas florestais do mundo.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Central%20Suriname%20Nature%20Reserve.jpg",
+      description:
+        "Patrimônio da UNESCO, uma das maiores reservas florestais do mundo.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Central%20Suriname%20Nature%20Reserve.jpg",
     },
   ],
   "Guiana Francesa": [
     {
       city: "Cayenne",
       title: "Cayenne",
-      description: "Capital da Guiana Francesa, conhecida por mercados coloridos e influência cultural francesa.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Cayenne%20French%20Guiana.jpg",
+      description:
+        "Capital da Guiana Francesa, conhecida por mercados coloridos e influência cultural francesa.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Cayenne%20French%20Guiana.jpg",
     },
     {
       city: "Ilhas do Salut",
       title: "Ilhas do Salut",
       description: "Arquipélago famoso pela antiga prisão de Ilha do Diabo.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Devil%27s%20Island%20French%20Guiana.jpg",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Devil%27s%20Island%20French%20Guiana.jpg",
     },
     {
       city: "Kourou",
       title: "Kourou",
-      description: "Cidade que abriga o Centro Espacial da Guiana, base de lançamentos da ESA.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Kourou%20Space%20Center.jpg",
+      description:
+        "Cidade que abriga o Centro Espacial da Guiana, base de lançamentos da ESA.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Kourou%20Space%20Center.jpg",
     },
     {
       city: "Parque Amazônico da Guiana",
       title: "Parque Amazônico da Guiana",
-      description: "Área protegida de floresta amazônica com rica biodiversidade.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Parc%20Amazonien%20French%20Guiana.jpg",
+      description:
+        "Área protegida de floresta amazônica com rica biodiversidade.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Parc%20Amazonien%20French%20Guiana.jpg",
     },
     {
       city: "Saint-Laurent-du-Maroni",
       title: "Saint-Laurent-du-Maroni",
-      description: "Cidade histórica com museu do antigo presídio e acesso ao Rio Maroni.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Saint-Laurent-du-Maroni%20French%20Guiana.jpg",
+      description:
+        "Cidade histórica com museu do antigo presídio e acesso ao Rio Maroni.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Saint-Laurent-du-Maroni%20French%20Guiana.jpg",
     },
   ],
   "Ilhas Malvinas": [
     {
       city: "Stanley",
       title: "Stanley",
-      description: "A capital das Ilhas Malvinas, com museus sobre a Guerra das Malvinas e arquitetura britânica.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Stanley%20Falkland%20Islands.jpg",
+      description:
+        "A capital das Ilhas Malvinas, com museus sobre a Guerra das Malvinas e arquitetura britânica.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Stanley%20Falkland%20Islands.jpg",
     },
     {
       city: "Volunteer Point",
       title: "Volunteer Point",
       description: "Praia famosa por col��nias de pinguins-rei.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Volunteer%20Point%20Falklands.jpg",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Volunteer%20Point%20Falklands.jpg",
     },
     {
       city: "West Falkland",
       title: "West Falkland",
-      description: "Ilha com paisagens selvagens e avistamento de fauna marinha.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/West%20Falkland%20Islands.jpg",
+      description:
+        "Ilha com paisagens selvagens e avistamento de fauna marinha.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/West%20Falkland%20Islands.jpg",
     },
     {
       city: "Sea Lion Island",
       title: "Sea Lion Island",
       description: "Reserva natural com leões marinhos e aves marinhas.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Sea%20Lion%20Island%20Falklands.jpg",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Sea%20Lion%20Island%20Falklands.jpg",
     },
     {
       city: "Pebble Island",
       title: "Pebble Island",
       description: "Conhecida por praias longas e avifauna abundante.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Pebble%20Island%20Falklands.jpg",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Pebble%20Island%20Falklands.jpg",
     },
   ],
   "Ilha de Páscoa": [
     {
       city: "Ahu Tongariki",
       title: "Ahu Tongariki",
-      description: "O maior conjunto de moais da ilha, com 15 estátuas alinhadas frente ao mar.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Ahu%20Tongariki%20Easter%20Island.jpg",
+      description:
+        "O maior conjunto de moais da ilha, com 15 estátuas alinhadas frente ao mar.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Ahu%20Tongariki%20Easter%20Island.jpg",
     },
     {
       city: "Rano Raraku",
       title: "Rano Raraku",
-      description: "Pedreira onde os moais eram esculpidos, com dezenas de estátuas inacabadas.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Rano%20Raraku%20Easter%20Island.jpg",
+      description:
+        "Pedreira onde os moais eram esculpidos, com dezenas de estátuas inacabadas.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Rano%20Raraku%20Easter%20Island.jpg",
     },
     {
       city: "Orongo",
       title: "Orongo",
-      description: "Vila cerimonial ligada ao culto do Homem-Pássaro, com vistas espetaculares.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Orongo%20Easter%20Island.jpg",
+      description:
+        "Vila cerimonial ligada ao culto do Homem-Pássaro, com vistas espetaculares.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Orongo%20Easter%20Island.jpg",
     },
     {
       city: "Anakena",
       title: "Anakena",
       description: "Praia paradisíaca com moais restaurados e palmeiras.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Anakena%20Beach%20Easter%20Island.jpg",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Anakena%20Beach%20Easter%20Island.jpg",
     },
     {
       city: "Rano Kau",
       title: "Rano Kau",
       description: "Vulcão com lagoa no interior e miradouros impressionantes.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Rano%20Kau%20Easter%20Island.jpg",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Rano%20Kau%20Easter%20Island.jpg",
     },
   ],
-  "Galápagos": [
+  Galápagos: [
     {
       city: "Ilha Santa Cruz",
       title: "Ilha Santa Cruz",
-      description: "Lar da Estação Científica Charles Darwin e tartarugas gigantes.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Santa%20Cruz%20Island%20Galapagos.jpg",
+      description:
+        "Lar da Estação Científica Charles Darwin e tartarugas gigantes.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Santa%20Cruz%20Island%20Galapagos.jpg",
     },
     {
       city: "Ilha Isabela",
       title: "Ilha Isabela",
-      description: "A maior ilha do arquipélago, famosa por vulcões e diversidade de fauna.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Isabela%20Island%20Galapagos.jpg",
+      description:
+        "A maior ilha do arquipélago, famosa por vulcões e diversidade de fauna.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Isabela%20Island%20Galapagos.jpg",
     },
     {
       city: "Ilha San Cristóbal",
       title: "Ilha San Cristóbal",
-      description: "Ponto de entrada do arquipélago, com leões-marinhos e praias paradisíacas.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/San%20Cristobal%20Galapagos.jpg",
+      description:
+        "Ponto de entrada do arquipélago, com leões-marinhos e praias paradisíacas.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/San%20Cristobal%20Galapagos.jpg",
     },
     {
       city: "Ilha Española",
       title: "Ilha Española",
-      description: "Conhecida pela colônia de albatrozes e praias de areia branca.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Espanola%20Island%20Galapagos.jpg",
+      description:
+        "Conhecida pela colônia de albatrozes e praias de areia branca.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Espanola%20Island%20Galapagos.jpg",
     },
     {
       city: "Ilha Floreana",
       title: "Ilha Floreana",
-      description: "Histórica e repleta de vida marinha, popular para mergulho.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Floreana%20Island%20Galapagos.jpg",
+      description:
+        "Histórica e repleta de vida marinha, popular para mergulho.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Floreana%20Island%20Galapagos.jpg",
     },
   ],
   Aruba: [
@@ -1928,7 +2453,8 @@ const baseDestinations: Record<string, Destination[]> = {
       title: "Crystal and Fantasy Caves",
       description:
         "Cavernas com estalactites e lagos subterrâneos cristalinos, um dos pontos naturais mais visitados.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Crystal%20Cave%20-%20Bermuda.jpg",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Crystal%20Cave%20-%20Bermuda.jpg",
     },
     {
       city: "Gibb’s Hill Lighthouse",
@@ -1943,7 +2469,8 @@ const baseDestinations: Record<string, Destination[]> = {
       title: "Elbow Beach",
       description:
         "Praia famosa por sua beleza natural e resorts de luxo, ideal para mergulho com snorkel.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Elbow%20Beach%20Bermuda.jpg",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Elbow%20Beach%20Bermuda.jpg",
     },
     {
       city: "Botanical Gardens",
@@ -1968,7 +2495,8 @@ const baseDestinations: Record<string, Destination[]> = {
       title: "Nuuk",
       description:
         "A capital da Groenlândia, mistura modernidade com tradição inuíte e possui museus, arquitetura colorida e vistas para fiordes.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Nuuk%20-%20Greenland.jpg",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Nuuk%20-%20Greenland.jpg",
     },
     {
       city: "Ilulissat",
@@ -2007,7 +2535,8 @@ const baseDestinations: Record<string, Destination[]> = {
       title: "Narsaq",
       description:
         "Cidade pitoresca rodeada por montanhas, geleiras e fiordes, ideal para caminhadas e pesca.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Narsaq%20-%20Greenland.jpg",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Narsaq%20-%20Greenland.jpg",
     },
     {
       city: "Tasiilaq",
@@ -2154,7 +2683,8 @@ const baseDestinations: Record<string, Destination[]> = {
       title: "Cabo Rojo",
       description:
         "Destino costeiro famoso por falésias, salinas e a icônica praia Playa Sucia.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Cabo%20Rojo%20Puerto%20Rico.jpg",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Cabo%20Rojo%20Puerto%20Rico.jpg",
     },
     {
       city: "Rincón",
@@ -2211,14 +2741,16 @@ const baseDestinations: Record<string, Destination[]> = {
       title: "Harrison’s Cave",
       description:
         "Sistema de cavernas com estalactites, estalagmites e riachos subterrâneos acessíveis por bonde.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Harrison%27s%20Cave%20Barbados.jpg",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Harrison%27s%20Cave%20Barbados.jpg",
     },
     {
       city: "Oistins",
       title: "Oistins",
       description:
         "Cidade costeira famosa pela Fish Fry, evento de sexta-feira com música, dança e frutos do mar.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Oistins%20Barbados.jpg",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Oistins%20Barbados.jpg",
     },
     {
       city: "St. Lawrence Gap",
@@ -2365,7 +2897,8 @@ const baseDestinations: Record<string, Destination[]> = {
       title: "Cayman Turtle Centre",
       description:
         "Centro de preservação de tartarugas-verdes, onde visitantes podem aprender e interagir com os animais.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Cayman%20Turtle%20Centre.jpg",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Cayman%20Turtle%20Centre.jpg",
     },
     {
       city: "Pedro St. James Castle",
@@ -2438,7 +2971,8 @@ const baseDestinations: Record<string, Destination[]> = {
       title: "Îles des Saintes",
       description:
         "Arquipélago ao sul de Guadalupe, conhecido por praias idílicas e vilas pitorescas.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Iles%20des%20Saintes.jpg",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Iles%20des%20Saintes.jpg",
     },
     {
       city: "Marie-Galante",
@@ -2453,7 +2987,8 @@ const baseDestinations: Record<string, Destination[]> = {
       title: "Deshaies",
       description:
         "Vila charmosa no noroeste, conhecida por jardins botânicos e cenários da série ‘Death in Paradise’.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Deshaies%20Guadeloupe.jpg",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Deshaies%20Guadeloupe.jpg",
     },
     {
       city: "Reserva de Cousteau",
@@ -2486,7 +3021,8 @@ const baseDestinations: Record<string, Destination[]> = {
       title: "Great Blue Hole",
       description:
         "O famoso buraco azul de Belize, um dos melhores pontos de mergulho do mundo, com águas profundas e vida marinha vibrante.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Great%20Blue%20Hole%20Belize.jpg",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Great%20Blue%20Hole%20Belize.jpg",
     },
     {
       city: "Caye Caulker",
@@ -2773,14 +3309,16 @@ const baseDestinations: Record<string, Destination[]> = {
       title: "Roatán",
       description:
         "A ilha mais famosa de Honduras, com praias paradisíacas, recifes de corais e um dos melhores pontos de mergulho do Caribe.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Roatan%20Honduras%20beach.jpg",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Roatan%20Honduras%20beach.jpg",
     },
     {
       city: "Utila",
       title: "Utila",
       description:
         "Pequena ilha próxima a Roatán, conhecida por mergulhos acessíveis, vida marinha rica e atmosfera mochileira descontraída.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Utila%20Honduras.jpg",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Utila%20Honduras.jpg",
     },
     {
       city: "Copán Ruinas",
@@ -3371,7 +3909,8 @@ const baseDestinations: Record<string, Destination[]> = {
       title: "Cancún",
       description:
         "Destino caribenho famoso por praias paradisíacas, resorts e vida noturna vibrante.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Cancun%20Beach.jpg",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Cancun%20Beach.jpg",
     },
     {
       city: "Chichén Itzá",
@@ -5771,7 +6310,8 @@ const extraRaw: {
         name: "Viena (palácios e música)",
         description:
           "Cafés elegantes, palácios imperiais e sinfonias — a capital da sofisticação cultural.",
-        image: "https://commons.wikimedia.org/wiki/Special:Search?search=Vienna",
+        image:
+          "https://commons.wikimedia.org/wiki/Special:Search?search=Vienna",
       },
     ],
   },
@@ -5818,7 +6358,8 @@ const extraRaw: {
         name: "Sundarbans",
         description:
           "Manguezais gigantescos, tigres de bengala e paisagens únicas do delta.",
-        image: "https://commons.wikimedia.org/wiki/Special:Search?search=Sundarbans",
+        image:
+          "https://commons.wikimedia.org/wiki/Special:Search?search=Sundarbans",
       },
     ],
   },
@@ -5852,7 +6393,8 @@ const extraRaw: {
         name: "Bruges (cidade medieval)",
         description:
           "Canais românticos, ruelas de pedra e chocolates artesanais — conto de fadas europeu.",
-        image: "https://commons.wikimedia.org/wiki/Special:Search?search=Bruges",
+        image:
+          "https://commons.wikimedia.org/wiki/Special:Search?search=Bruges",
       },
     ],
   },
@@ -5875,7 +6417,8 @@ const extraRaw: {
         name: "Ouidah e o Caminho dos Escravos",
         description:
           "História poderosa e memória viva — turismo cultural e reflexivo.",
-        image: "https://commons.wikimedia.org/wiki/Special:Search?search=Ouidah",
+        image:
+          "https://commons.wikimedia.org/wiki/Special:Search?search=Ouidah",
       },
     ],
   },
@@ -5956,7 +6499,8 @@ const extraRaw: {
     destinations: [
       {
         name: "Bobo-Dioulasso (cultura e música)",
-        description: "Ritmos, mercados tradicionais e arquitetura africana autêntica.",
+        description:
+          "Ritmos, mercados tradicionais e arquitetura africana autêntica.",
         image:
           "https://commons.wikimedia.org/wiki/Special:Search?search=Bobo-Dioulasso",
       },
@@ -5993,7 +6537,8 @@ const extraRaw: {
         name: "Angkor Wat",
         description:
           "Templos monumentais emergindo da selva — herança Khmer que impressiona.",
-        image: "https://commons.wikimedia.org/wiki/Special:Search?search=Angkor+Wat",
+        image:
+          "https://commons.wikimedia.org/wiki/Special:Search?search=Angkor+Wat",
       },
     ],
   },
@@ -6009,7 +6554,11 @@ function normalizeCountryName(name: string) {
   return aliasToTopo[name] || name;
 }
 
-function toDestination(d: { name: string; description: string; image: string }): Destination {
+function toDestination(d: {
+  name: string;
+  description: string;
+  image: string;
+}): Destination {
   return {
     city: d.name,
     title: d.name,
@@ -6026,431 +6575,567 @@ const extraByCountry: Record<string, Destination[]> = extraRaw.reduce(
     acc[key] = (acc[key] || []).concat(list);
     return acc;
   },
-  {} as Record<string, Destination[]>
+  {} as Record<string, Destination[]>,
 );
 
 // Merge base and extra, concatenating arrays and de-duplicating by title|city
-export const destinationsByCountry: Record<string, Destination[]> = Object.keys({
-  ...baseDestinations,
-  ...extraByCountry,
-}).reduce((acc, country) => {
-  const merged = [...(baseDestinations[country] || []), ...(extraByCountry[country] || [])];
-  const seen = new Set<string>();
-  acc[country] = merged.filter((d) => {
-    const k = `${d.title}|${d.city}`.toLowerCase();
-    if (seen.has(k)) return false;
-    seen.add(k);
-    return true;
-  });
-  return acc;
-}, {} as Record<string, Destination[]>);
+export const destinationsByCountry: Record<string, Destination[]> = Object.keys(
+  {
+    ...baseDestinations,
+    ...extraByCountry,
+  },
+).reduce(
+  (acc, country) => {
+    const merged = [
+      ...(baseDestinations[country] || []),
+      ...(extraByCountry[country] || []),
+    ];
+    const seen = new Set<string>();
+    acc[country] = merged.filter((d) => {
+      const k = `${d.title}|${d.city}`.toLowerCase();
+      if (seen.has(k)) return false;
+      seen.add(k);
+      return true;
+    });
+    return acc;
+  },
+  {} as Record<string, Destination[]>,
+);
 
 export const brazilRegionDestinations: Record<string, Destination[]> = {
   Norte: [
     {
       city: "Monte Roraima",
       title: "Monte Roraima",
-      description: "Formação tepui mítica na tríplice fronteira (BR/VE/GY), alvo de trilhas e aventura.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Monte_Roraima%2C_Roraima.JPG",
+      description:
+        "Formação tepui mítica na tríplice fronteira (BR/VE/GY), alvo de trilhas e aventura.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Monte_Roraima%2C_Roraima.JPG",
     },
     {
       city: "Jalapão",
       title: "Jalapão",
-      description: "Região de dunas, fervedouros e paisagens surreais — queridinha de ecoturistas aventureiros.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Jalap%C3%A3o_-_Tocantins_-_Brasil.jpg",
+      description:
+        "Região de dunas, fervedouros e paisagens surreais — queridinha de ecoturistas aventureiros.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Jalap%C3%A3o_-_Tocantins_-_Brasil.jpg",
     },
     {
       city: "Ilha de Marajó",
       title: "Ilha de Marajó",
-      description: "Maior ilha fluviomarítima do mundo — cultura marajoara, búfalos e praias ribeirinhas.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Ilha_de_Maraj%C3%B3.jpg",
+      description:
+        "Maior ilha fluviomarítima do mundo — cultura marajoara, búfalos e praias ribeirinhas.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Ilha_de_Maraj%C3%B3.jpg",
     },
     {
       city: "Encontro das Águas",
       title: "Encontro das Águas",
-      description: "Fenômeno onde o Rio Negro e o Solimões correm lado a lado sem se misturar por quilômetros.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Encontro_das_%C3%81guas_-_Manaus.jpg",
+      description:
+        "Fenômeno onde o Rio Negro e o Solimões correm lado a lado sem se misturar por quilômetros.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Encontro_das_%C3%81guas_-_Manaus.jpg",
     },
     {
       city: "Teatro Amazonas (Manaus)",
       title: "Teatro Amazonas (Manaus)",
-      description: "Ícone cultural do ciclo da borracha — casa de ��pera histórica e arquitetura impressionante.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Teatro_Amazonas%2C_Manaus_AM.jpg",
+      description:
+        "Ícone cultural do ciclo da borracha — casa de ��pera histórica e arquitetura impressionante.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Teatro_Amazonas%2C_Manaus_AM.jpg",
     },
     {
       city: "Pico da Neblina",
       title: "Pico da Neblina",
-      description: "Ponto mais alto do Brasil — destino extremo para quem busca trekking e selva profunda.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Pico_da_Neblina.jpg",
+      description:
+        "Ponto mais alto do Brasil — destino extremo para quem busca trekking e selva profunda.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Pico_da_Neblina.jpg",
     },
     {
       city: "Alter do Chão",
       title: "Alter do Chão",
-      description: "O famoso 'Caribe Amazônico' — praias de água doce com areias claras e águas cristalinas.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Alter_do_Ch%C3%A3o.jpg",
+      description:
+        "O famoso 'Caribe Amazônico' — praias de água doce com areias claras e águas cristalinas.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Alter_do_Ch%C3%A3o.jpg",
     },
     {
       city: "Praia de Joanes (Ilha de Marajó)",
       title: "Praia de Joanes (Ilha de Marajó)",
-      description: "Praia ribeirinha em Marajó, conhecida por cenários naturais e ruínas históricas no entorno.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Praia_Joanes.jpg",
+      description:
+        "Praia ribeirinha em Marajó, conhecida por cenários naturais e ruínas históricas no entorno.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Praia_Joanes.jpg",
     },
     {
       city: "Praia do Pesqueiro (Soure, Marajó)",
       title: "Praia do Pesqueiro (Soure, Marajó)",
-      description: "Praia rústica e paradisíaca na Ilha de Marajó, destino popular entre visitantes da ilha.",
-      image: "https://tudosobrepraias.com/wp-content/uploads/2025/05/Praia-do-Pesqueiro-Um-Pedacinho-do-Ceu-768x448.webp",
+      description:
+        "Praia rústica e paradisíaca na Ilha de Marajó, destino popular entre visitantes da ilha.",
+      image:
+        "https://tudosobrepraias.com/wp-content/uploads/2025/05/Praia-do-Pesqueiro-Um-Pedacinho-do-Ceu-768x448.webp",
     },
     {
       city: "Praia de Fazendinha (Macapá)",
       title: "Praia de Fazendinha (Macapá)",
-      description: "Balneário popular em Macapá, muito frequentado no verão local para banho e lazer.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Fim_de_tarde_na_Praia_de_Fazendinha.jpg",
+      description:
+        "Balneário popular em Macapá, muito frequentado no verão local para banho e lazer.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Fim_de_tarde_na_Praia_de_Fazendinha.jpg",
     },
     {
       city: "Praia / Rio Arari (Cachoeira do Arari, Marajó)",
       title: "Praia / Rio Arari (Cachoeira do Arari, Marajó)",
-      description: "Áreas de praias e rios em Cachoeira do Arari, com paisagens típicas de Marajó.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Rio_Arari.jpg",
+      description:
+        "Áreas de praias e rios em Cachoeira do Arari, com paisagens típicas de Marajó.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Rio_Arari.jpg",
     },
     {
       city: "Praia da Ponta Negra (Manaus)",
       title: "Praia da Ponta Negra (Manaus)",
-      description: "Orla urbana no Rio Negro, conhecida pelo pôr do sol e infraestrutura turística local.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Ponta-Negra-Manaus.jpg",
+      description:
+        "Orla urbana no Rio Negro, conhecida pelo pôr do sol e infraestrutura turística local.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Ponta-Negra-Manaus.jpg",
     },
   ],
   Nordeste: [
     {
       city: "Fernando de Noronha",
       title: "Fernando de Noronha",
-      description: "Arquipélago paradisíaco com praias de águas cristalinas, vida marinha exuberante e paisagens deslumbrantes.",
-      image: "https://upload.wikimedia.org/wikipedia/commons/9/91/EDUARDO_MURUCI_-_BAIA_DOS_PORCOS-%28recorte%29.jpg",
+      description:
+        "Arquipélago paradisíaco com praias de águas cristalinas, vida marinha exuberante e paisagens deslumbrantes.",
+      image:
+        "https://upload.wikimedia.org/wikipedia/commons/9/91/EDUARDO_MURUCI_-_BAIA_DOS_PORCOS-%28recorte%29.jpg",
     },
     {
       city: "Lençóis Maranhenses",
       title: "Lençóis Maranhenses",
-      description: "Parque Nacional com dunas de areia branca e lagoas de água doce, criando um cenário único no mundo.",
-      image: "https://www.gov.br/turismo/pt-br/assuntos/noticias/parque-nacional-dos-lencois-maranhenses-e-reconhecido-como-patrimonio-natural-da-humanidade/CrditoguilhermespenglerShutterstock.png/@@images/5faf9a18-2c4d-49b2-bb40-990f2bb18803.png",
+      description:
+        "Parque Nacional com dunas de areia branca e lagoas de água doce, criando um cenário único no mundo.",
+      image:
+        "https://www.gov.br/turismo/pt-br/assuntos/noticias/parque-nacional-dos-lencois-maranhenses-e-reconhecido-como-patrimonio-natural-da-humanidade/CrditoguilhermespenglerShutterstock.png/@@images/5faf9a18-2c4d-49b2-bb40-990f2bb18803.png",
     },
     {
       city: "Chapada Diamantina",
       title: "Chapada Diamantina",
-      description: "Região montanhosa com cavernas, cachoeiras e trilhas desafiadoras, ideal para ecoturismo.",
-      image: "https://imgmd.net/images/c_limit%2Cw_1200/v1/guia/1618961/morro-do-pai-inacio.jpg",
+      description:
+        "Região montanhosa com cavernas, cachoeiras e trilhas desafiadoras, ideal para ecoturismo.",
+      image:
+        "https://imgmd.net/images/c_limit%2Cw_1200/v1/guia/1618961/morro-do-pai-inacio.jpg",
     },
     {
       city: "Jericoacoara",
       title: "Jericoacoara",
-      description: "Vila charmosa com dunas, lagoas e vida noturna animada, localizada no Ceará.",
-      image: "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcRvXMI2A4byc6Uhdb7MQXZeVPFmJucj4Lhxh4yITJAqGqrpJdcOn4A6cMYiwaWBDfEin0XA1UqhXmXB6pHzjDi5lqqIu4ctUAYnmekN3A",
+      description:
+        "Vila charmosa com dunas, lagoas e vida noturna animada, localizada no Ceará.",
+      image:
+        "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcRvXMI2A4byc6Uhdb7MQXZeVPFmJucj4Lhxh4yITJAqGqrpJdcOn4A6cMYiwaWBDfEin0XA1UqhXmXB6pHzjDi5lqqIu4ctUAYnmekN3A",
     },
     {
       city: "Porto de Galinhas",
       title: "Porto de Galinhas",
-      description: "Praia famosa por suas piscinas naturais e rica vida marinha, situada em Pernambuco.",
-      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuxOfB_oHVlgN2EEgZD26NE2mqvlKQs_AK8S_U40wouz2bF2j19Q7LWAs59hX50u2J_y02ByhFNGKvt6nWCkph5vDbReA9Eys2noL_l4r3sg",
+      description:
+        "Praia famosa por suas piscinas naturais e rica vida marinha, situada em Pernambuco.",
+      image:
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuxOfB_oHVlgN2EEgZD26NE2mqvlKQs_AK8S_U40wouz2bF2j19Q7LWAs59hX50u2J_y02ByhFNGKvt6nWCkph5vDbReA9Eys2noL_l4r3sg",
     },
     {
       city: "Morro de São Paulo",
       title: "Morro de São Paulo",
-      description: "Ilha com praias de águas claras, vida noturna agitada e ambiente descontraído, na Bahia.",
-      image: "https://magazine.zarpo.com.br/wp-content/uploads/2023/04/Morro-de-Sao-Paulo-2-1.jpg",
+      description:
+        "Ilha com praias de águas claras, vida noturna agitada e ambiente descontraído, na Bahia.",
+      image:
+        "https://magazine.zarpo.com.br/wp-content/uploads/2023/04/Morro-de-Sao-Paulo-2-1.jpg",
     },
     {
       city: "Praia do Francês",
       title: "Praia do Francês",
-      description: "Praia paradisíaca com águas mornas e tranquilas, ideal para relaxamento e esportes aquáticos.",
-      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4IMIHs8HqMClCmJaJRdJG5JVpchLk--7pW3QT1tAnwEpzXmcLxQgTlzxUzA&s",
+      description:
+        "Praia paradisíaca com águas mornas e tranquilas, ideal para relaxamento e esportes aquáticos.",
+      image:
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4IMIHs8HqMClCmJaJRdJG5JVpchLk--7pW3QT1tAnwEpzXmcLxQgTlzxUzA&s",
     },
     {
       city: "Praia de Pajuçara",
       title: "Praia de Pajuçara",
-      description: "Praia urbana com piscinas naturais acessíveis por jangada, localizada em Maceió, Alagoas.",
-      image: "https://imgmd.net/images/c_limit%2Cw_800/v1/guia/1574629/praia-de-pajucara.jpg",
+      description:
+        "Praia urbana com piscinas naturais acessíveis por jangada, localizada em Maceió, Alagoas.",
+      image:
+        "https://imgmd.net/images/c_limit%2Cw_800/v1/guia/1574629/praia-de-pajucara.jpg",
     },
     {
       city: "Praia do Forte",
       title: "Praia do Forte",
-      description: "Praia tranquila com águas claras, ideal para famílias e observação de tartarugas marinhas.",
-      image: "https://dicasdabahia.com.br/wp-content/uploads/sites/28/2022/04/praia-do-forte-e1649085484252-jpg.webp",
+      description:
+        "Praia tranquila com águas claras, ideal para famílias e observação de tartarugas marinhas.",
+      image:
+        "https://dicasdabahia.com.br/wp-content/uploads/sites/28/2022/04/praia-do-forte-e1649085484252-jpg.webp",
     },
     {
       city: "Praia de Genipabu",
       title: "Praia de Genipabu",
-      description: "Praia famosa por suas dunas móveis e lagoas, localizada no Rio Grande do Norte.",
+      description:
+        "Praia famosa por suas dunas móveis e lagoas, localizada no Rio Grande do Norte.",
       image: "https://i.ytimg.com/vi/5iGb2uFKXTc/sddefault.jpg",
     },
     {
       city: "Praia de Morro Branco",
       title: "Praia de Morro Branco",
-      description: "Praia com falésias coloridas e águas claras, situada no Ceará.",
-      image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2J2BclC62L_S7-atGMXOuWjE-RD_hi4OQce8x5cs2LKqOqM8HKqAGIwu6_A-ZYFqFEjHDLBsstRzDHdGtugQM1N03hGgPgpEEQDD9badtPT4jL373agbLZofYbpPwDAY-nI114wbCmOFu/s1600/plages-pertes-vue.jpg",
+      description:
+        "Praia com falésias coloridas e águas claras, situada no Ceará.",
+      image:
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2J2BclC62L_S7-atGMXOuWjE-RD_hi4OQce8x5cs2LKqOqM8HKqAGIwu6_A-ZYFqFEjHDLBsstRzDHdGtugQM1N03hGgPgpEEQDD9badtPT4jL373agbLZofYbpPwDAY-nI114wbCmOFu/s1600/plages-pertes-vue.jpg",
     },
     {
       city: "Praia de Carneiros",
       title: "Praia de Carneiros",
-      description: "Praia paradisíaca com coqueiros e águas mornas, localizada em Tamandaré, Pernambuco.",
-      image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS010o6V46r--L-SzEDBsUaOEcs-hqUgQT8BxY2apujuh_FmglTe6SjBXKPNXmFt9WCAsgPdBnPcWTVBjQZau4Z0kqRr86JGnKFjP_eIrY",
+      description:
+        "Praia paradisíaca com coqueiros e águas mornas, localizada em Tamandaré, Pernambuco.",
+      image:
+        "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS010o6V46r--L-SzEDBsUaOEcs-hqUgQT8BxY2apujuh_FmglTe6SjBXKPNXmFt9WCAsgPdBnPcWTVBjQZau4Z0kqRr86JGnKFjP_eIrY",
     },
   ],
   "Centro-Oeste": [
     {
       city: "Chapada dos Veadeiros",
       title: "Chapada dos Veadeiros",
-      description: "Parque nacional com cachoeiras, cânions e trilhas em cerrado preservado.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Cachoeira%20Santa%20B%C3%A1rbara%20-%20Chapada%20dos%20Veadeiros.jpg",
+      description:
+        "Parque nacional com cachoeiras, cânions e trilhas em cerrado preservado.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Cachoeira%20Santa%20B%C3%A1rbara%20-%20Chapada%20dos%20Veadeiros.jpg",
     },
     {
       city: "Caldas Novas",
       title: "Caldas Novas",
-      description: "Maior complexo hidrotermal do mundo, águas quentes e parques aquáticos.",
-      image: "https://www.gov.br/turismo/pt-br/assuntos/noticias/aguas-termais-saiba-de-onde-vem-as-aguas-aquecidas-da-cidade-de-rio-quente-go/design-sem-nome-50.png/@@images/e64f88d7-f072-4aec-a1c5-77323f8fc010.png",
+      description:
+        "Maior complexo hidrotermal do mundo, águas quentes e parques aquáticos.",
+      image:
+        "https://www.gov.br/turismo/pt-br/assuntos/noticias/aguas-termais-saiba-de-onde-vem-as-aguas-aquecidas-da-cidade-de-rio-quente-go/design-sem-nome-50.png/@@images/e64f88d7-f072-4aec-a1c5-77323f8fc010.png",
     },
     {
       city: "Cidade de Goiás (Goiás Velho)",
       title: "Cidade de Goiás (Goiás Velho)",
-      description: "Patrimônio histórico com arquitetura colonial preservada e museus.",
-      image: "https://goias.gov.br/cultura/wp-content/uploads/sites/25/2016/08/cidade-de-goias-velho-foto-mantovani-fernandes7730-717.jpg",
+      description:
+        "Patrimônio histórico com arquitetura colonial preservada e museus.",
+      image:
+        "https://goias.gov.br/cultura/wp-content/uploads/sites/25/2016/08/cidade-de-goias-velho-foto-mantovani-fernandes7730-717.jpg",
     },
     {
       city: "Parque Nacional das Emas",
       title: "Parque Nacional das Emas",
-      description: "Campos do cerrado, fauna rica e saf��ris noturnos em paisagens únicas.",
-      image: "https://www.curtamais.com.br/uploads/midias/fc6182536048f9538cc1e609c58f0d14.jpg",
+      description:
+        "Campos do cerrado, fauna rica e saf��ris noturnos em paisagens únicas.",
+      image:
+        "https://www.curtamais.com.br/uploads/midias/fc6182536048f9538cc1e609c58f0d14.jpg",
     },
     {
       city: "Cuiabá",
       title: "Cuiabá",
-      description: "Porta de entrada para o Pantanal e Chapada dos Guimarães; cultura e gastronomia típicas.",
-      image: "https://m.ahstatic.com/is/image/accorhotels/o-que-fazer-em-cuiaba-guia-completo-de-pontos-turisticos-2024-2:3by2?fmt=jpg&op_usm=1.75,0.3,2,0&resMode=sharp2&iccEmbed=true&icc=sRGB&dpr=on,1.3&wid=335&hei=223&qlt=80",
+      description:
+        "Porta de entrada para o Pantanal e Chapada dos Guimarães; cultura e gastronomia típicas.",
+      image:
+        "https://m.ahstatic.com/is/image/accorhotels/o-que-fazer-em-cuiaba-guia-completo-de-pontos-turisticos-2024-2:3by2?fmt=jpg&op_usm=1.75,0.3,2,0&resMode=sharp2&iccEmbed=true&icc=sRGB&dpr=on,1.3&wid=335&hei=223&qlt=80",
     },
     {
       city: "Chapada dos Guimarães",
       title: "Chapada dos Guimarães",
       description: "Escarpas, mirantes e a icônica cachoeira Véu de Noiva.",
-      image: "https://www.melhoresdestinos.com.br/wp-content/uploads/2023/07/o-que-fazer-chapada-dos-guimaraes-dicas-capa.jpg",
+      image:
+        "https://www.melhoresdestinos.com.br/wp-content/uploads/2023/07/o-que-fazer-chapada-dos-guimaraes-dicas-capa.jpg",
     },
     {
       city: "Parque Nacional da Serra da Bodoquena",
       title: "Parque Nacional da Serra da Bodoquena",
-      description: "Um paraíso escondido no coração do Mato Grosso do Sul, com cachoeiras cristalinas, cânions impressionantes e trilhas que revelam a essência do Cerrado e da Mata Atl��ntica.",
-      image: "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrmoN67E27g3b7DBRE3UKfz4b3bTUMOPKz9WiDOV7qORKpGYQ-S6ogE8KjZm_Ucssoq5c-2cf0IejSsdfhS0BpAaKM9mlncla5SOLo7hW_4Nvh0xfUvM1_uUS2Mu-KoeZs273dXGsW2Cjsc=s680-w680-h510-rw",
+      description:
+        "Um paraíso escondido no coração do Mato Grosso do Sul, com cachoeiras cristalinas, cânions impressionantes e trilhas que revelam a essência do Cerrado e da Mata Atl��ntica.",
+      image:
+        "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrmoN67E27g3b7DBRE3UKfz4b3bTUMOPKz9WiDOV7qORKpGYQ-S6ogE8KjZm_Ucssoq5c-2cf0IejSsdfhS0BpAaKM9mlncla5SOLo7hW_4Nvh0xfUvM1_uUS2Mu-KoeZs273dXGsW2Cjsc=s680-w680-h510-rw",
     },
     {
       city: "Nobres (Aquário Encantado)",
       title: "Nobres (Aquário Encantado)",
-      description: "Rios de águas cristalinas, flutuação e grutas como o Aquário Encantado.",
-      image: "https://lh3.googleusercontent.com/p/AF1QipPzHZyXqNRB6dJe7MxcktsqoedFYBNlbeBEepgZ=s680-w680-h510-rw",
+      description:
+        "Rios de águas cristalinas, flutuação e grutas como o Aquário Encantado.",
+      image:
+        "https://lh3.googleusercontent.com/p/AF1QipPzHZyXqNRB6dJe7MxcktsqoedFYBNlbeBEepgZ=s680-w680-h510-rw",
     },
     {
       city: "Bonito",
       title: "Bonito",
-      description: "Grutas e rios transparentes ideais para flutuação e mergulho.",
-      image: "https://lh3.googleusercontent.com/p/AF1QipNI5Qn4zkQwHsz-5XBzK628tFvR5Xzj0VE2SKdU=s680-w680-h510-rw",
+      description:
+        "Grutas e rios transparentes ideais para flutuação e mergulho.",
+      image:
+        "https://lh3.googleusercontent.com/p/AF1QipNI5Qn4zkQwHsz-5XBzK628tFvR5Xzj0VE2SKdU=s680-w680-h510-rw",
     },
     {
       city: "Fazenda Ceita Corê",
       title: "Fazenda Ceita Corê",
-      description: "A ��Terra de Meus Filhos’ oferece um dia completo de aventura e calmaria: trilha entre 7 cachoeiras, nascente cristalina do Rio Chapena, tirolesa, lago para flutuar ou remar, e estrutura acolhedora no receptivo para relaxar.",
-      image: "https://www.viagensecaminhos.com/wp-content/uploads/2021/06/fazenda-ceita-core-bonito-ms.jpg",
+      description:
+        "A ��Terra de Meus Filhos’ oferece um dia completo de aventura e calmaria: trilha entre 7 cachoeiras, nascente cristalina do Rio Chapena, tirolesa, lago para flutuar ou remar, e estrutura acolhedora no receptivo para relaxar.",
+      image:
+        "https://www.viagensecaminhos.com/wp-content/uploads/2021/06/fazenda-ceita-core-bonito-ms.jpg",
     },
     {
       city: "Campo Grande",
       title: "Campo Grande",
-      description: "Capital com cultura pantaneira, parques urbanos e boa gastronomia.",
-      image: "https://wrhotel.com.br/wp-content/uploads/2023/10/parque-das-nacoes-indigenas.jpg",
+      description:
+        "Capital com cultura pantaneira, parques urbanos e boa gastronomia.",
+      image:
+        "https://wrhotel.com.br/wp-content/uploads/2023/10/parque-das-nacoes-indigenas.jpg",
     },
     {
       city: "Corumbá",
       title: "Corumbá",
-      description: "Cidade histórica ��s margens do Rio Paraguai, porta de entrada do Pantanal sul.",
-      image: "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrF9ZYsjRrVy0N1DSm4unipKZ1MUrxWWuf2L-ahk2iQB-cRa6ACP4-9qEJwjsbNue2GmgBb8fuTCPyNDm7fu1O35K5KDq-NSM5KJ9rrEpq9r8BLdqW0zZnrZCX5DgIarsNj0EHEuA=w540-h312-n-k-no",
+      description:
+        "Cidade histórica ��s margens do Rio Paraguai, porta de entrada do Pantanal sul.",
+      image:
+        "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrF9ZYsjRrVy0N1DSm4unipKZ1MUrxWWuf2L-ahk2iQB-cRa6ACP4-9qEJwjsbNue2GmgBb8fuTCPyNDm7fu1O35K5KDq-NSM5KJ9rrEpq9r8BLdqW0zZnrZCX5DgIarsNj0EHEuA=w540-h312-n-k-no",
     },
     {
       city: "Congresso Nacional",
       title: "Congresso Nacional",
-      description: "Ícone modernista de Oscar Niemeyer e símbolo da capital federal.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Congresso%20Nacional%20Bras%C3%ADlia.jpg",
+      description:
+        "Ícone modernista de Oscar Niemeyer e símbolo da capital federal.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Congresso%20Nacional%20Bras%C3%ADlia.jpg",
     },
     {
       city: "Catedral Metropolitana de Brasília",
       title: "Catedral Metropolitana de Brasília",
-      description: "Obra-prima de Niemeyer com vitrais marcantes e arquitetura singular.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Catedral%20Metropolitana%20de%20Bras%C3%ADlia.jpg",
+      description:
+        "Obra-prima de Niemeyer com vitrais marcantes e arquitetura singular.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Catedral%20Metropolitana%20de%20Bras%C3%ADlia.jpg",
     },
     {
       city: "Lago Paranoá",
       title: "Lago Paranoá",
-      description: "Lago urbano para esportes aquáticos, passeios e orlas agradáveis.",
-      image: "https://www.quintoandar.com.br/guias/wp-content/uploads/2023/04/Lago-Paranoa.jpg",
-    }
+      description:
+        "Lago urbano para esportes aquáticos, passeios e orlas agradáveis.",
+      image:
+        "https://www.quintoandar.com.br/guias/wp-content/uploads/2023/04/Lago-Paranoa.jpg",
+    },
   ],
   Sudeste: [
     {
       city: "São Paulo (capital)",
       title: "São Paulo (capital)",
-      description: "O coração pulsante do Brasil, onde cultura, gastronomia e negócios se encontram em uma metrópole vibrante e cosmopolita.",
-      image: "https://www.gov.br/g20/pt-br/noticias/presente-e-futuro-das-cidades-maior-metropole-das-americas-sao-paulo-recebe-cupula-do-urban-20/@@images/image-2000-d280960f00b6ad7cbaae4cc620d0c389.jpeg",
+      description:
+        "O coração pulsante do Brasil, onde cultura, gastronomia e negócios se encontram em uma metrópole vibrante e cosmopolita.",
+      image:
+        "https://www.gov.br/g20/pt-br/noticias/presente-e-futuro-das-cidades-maior-metropole-das-americas-sao-paulo-recebe-cupula-do-urban-20/@@images/image-2000-d280960f00b6ad7cbaae4cc620d0c389.jpeg",
     },
     {
       city: "Campos do Jordão",
       title: "Campos do Jordão",
-      description: "A Suíça Brasileira, com clima ameno, arquitetura de estilo europeu e paisagens montanhosas que encantam o visitante.",
-      image: "https://www.recantodossonhos.com.br/wp-content/uploads/2019/03/face.png",
+      description:
+        "A Suíça Brasileira, com clima ameno, arquitetura de estilo europeu e paisagens montanhosas que encantam o visitante.",
+      image:
+        "https://www.recantodossonhos.com.br/wp-content/uploads/2019/03/face.png",
     },
     {
       city: "Ilhabela",
       title: "Ilhabela",
-      description: "Um paraíso tropical com praias paradisíacas, trilhas na Mata Atlântica e uma rica cultura caiçara.",
-      image: "https://mediaim.expedia.com/destination/1/bfb7e46daa73ffe3206abbe43a384354.jpg",
+      description:
+        "Um paraíso tropical com praias paradisíacas, trilhas na Mata Atlântica e uma rica cultura caiçara.",
+      image:
+        "https://mediaim.expedia.com/destination/1/bfb7e46daa73ffe3206abbe43a384354.jpg",
     },
     {
       city: "Rio de Janeiro (capital)",
       title: "Rio de Janeiro (capital)",
-      description: "Cidade maravilhosa, famosa por suas praias icônicas, o Cristo Redentor e o Pão de Aç��car, além de uma energia contagiante.",
-      image: "https://static.mundoeducacao.uol.com.br/mundoeducacao/2021/03/1-cristo-redentor.jpg",
+      description:
+        "Cidade maravilhosa, famosa por suas praias icônicas, o Cristo Redentor e o Pão de Aç��car, além de uma energia contagiante.",
+      image:
+        "https://static.mundoeducacao.uol.com.br/mundoeducacao/2021/03/1-cristo-redentor.jpg",
     },
     {
       city: "Paraty",
       title: "Paraty",
-      description: "Uma joia colonial com ruas de pedra, casarões históricos e acesso a ilhas e praias deslumbrantes.",
-      image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Paraty_05.JPG/1200px-Paraty_05.JPG",
+      description:
+        "Uma joia colonial com ruas de pedra, casarões históricos e acesso a ilhas e praias deslumbrantes.",
+      image:
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Paraty_05.JPG/1200px-Paraty_05.JPG",
     },
     {
       city: "Arraial do Cabo",
       title: "Arraial do Cabo",
-      description: "Conhecida como o Caribe brasileiro, com águas cristalinas, praias de areia branca e excelente para mergulho.",
-      image: "https://imgmd.net/images/v1/guia/1683209/arraial-do-cabo-190-c.jpg",
+      description:
+        "Conhecida como o Caribe brasileiro, com águas cristalinas, praias de areia branca e excelente para mergulho.",
+      image:
+        "https://imgmd.net/images/v1/guia/1683209/arraial-do-cabo-190-c.jpg",
     },
     {
       city: "Belo Horizonte",
       title: "Belo Horizonte",
-      description: "Capital de Minas Gerais, famosa por sua culinária, vida noturna e proximidade com cidades históricas.",
-      image: "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcShxhQ-6Ozrs1PiBmW3-CVCaAAaGCjZRlYWgN-GeshCiHzzgzg-KhPz9soN73UDz786p9n87CSgOl7hukmy77FHA01jXCGaG48ER7BKX7A",
+      description:
+        "Capital de Minas Gerais, famosa por sua culinária, vida noturna e proximidade com cidades históricas.",
+      image:
+        "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcShxhQ-6Ozrs1PiBmW3-CVCaAAaGCjZRlYWgN-GeshCiHzzgzg-KhPz9soN73UDz786p9n87CSgOl7hukmy77FHA01jXCGaG48ER7BKX7A",
     },
     {
       city: "Búzios",
       title: "Búzios",
-      description: "Búzios é um destino encantador que combina praias paradisíacas, vida noturna vibrante e charme europeu. Com mais de 20 praias de águas cristalinas e uma atmosfera cosmopolita, é o lugar perfeito para relaxar, praticar esportes aquáticos ou explorar a gastronomia local.",
-      image: "https://www.viagenscinematograficas.com.br/wp-content/uploads/2019/08/Buzios-RJ-O-que-fazer-Capa.jpg",
+      description:
+        "Búzios é um destino encantador que combina praias paradisíacas, vida noturna vibrante e charme europeu. Com mais de 20 praias de águas cristalinas e uma atmosfera cosmopolita, é o lugar perfeito para relaxar, praticar esportes aquáticos ou explorar a gastronomia local.",
+      image:
+        "https://www.viagenscinematograficas.com.br/wp-content/uploads/2019/08/Buzios-RJ-O-que-fazer-Capa.jpg",
     },
     {
       city: "Ouro Preto",
       title: "Ouro Preto",
-      description: "Cidade histórica com arquitetura colonial preservada, igrejas barrocas e rica história da Inconfid��ncia Mineira.",
-      image: "https://guiaviajarmelhor.com.br/wp-content/uploads/2023/08/dicas-guia-ouro-preto-mg6.png",
+      description:
+        "Cidade histórica com arquitetura colonial preservada, igrejas barrocas e rica história da Inconfid��ncia Mineira.",
+      image:
+        "https://guiaviajarmelhor.com.br/wp-content/uploads/2023/08/dicas-guia-ouro-preto-mg6.png",
     },
     {
       city: "Capitólio",
       title: "Capitólio",
-      description: "Conhecida como o 'Mar de Minas', com cânions impressionantes, cachoeiras e o Lago de Furnas.",
+      description:
+        "Conhecida como o 'Mar de Minas', com cânions impressionantes, cachoeiras e o Lago de Furnas.",
       image: "https://imgmd.net/images/v1/guia/1613817/canion-de-furnas.jpg",
     },
     {
       city: "Vitória",
       title: "Vitória",
-      description: "Capital do Espírito Santo, com belas praias urbanas, rica cultura capixaba e excelente gastronomia.",
-      image: "https://www.cvc.com.br/dicas-de-viagem/wp-content/uploads/2018/09/Topo-Vit%C3%B3ria-2.jpg",
+      description:
+        "Capital do Espírito Santo, com belas praias urbanas, rica cultura capixaba e excelente gastronomia.",
+      image:
+        "https://www.cvc.com.br/dicas-de-viagem/wp-content/uploads/2018/09/Topo-Vit%C3%B3ria-2.jpg",
     },
     {
       city: "Vila Velha",
       title: "Vila Velha",
-      description: "Cidade histórica com o Convento da Penha, praias tranquilas e rica tradição cultural.",
-      image: "https://www.penaestrada.blog.br/wp-content/uploads/2020/12/o-que-fazer-em-vila-velha-09.jpg",
+      description:
+        "Cidade histórica com o Convento da Penha, praias tranquilas e rica tradição cultural.",
+      image:
+        "https://www.penaestrada.blog.br/wp-content/uploads/2020/12/o-que-fazer-em-vila-velha-09.jpg",
     },
     {
       city: "Guarapari",
       title: "Guarapari",
-      description: "Famosa por suas praias com areias monazíticas e ��guas terapêuticas, ideal para relaxar.",
-      image: "https://blog.blablacar.com.br/wp-content/uploads/2023/12/guarapari-es-1.jpg",
+      description:
+        "Famosa por suas praias com areias monazíticas e ��guas terapêuticas, ideal para relaxar.",
+      image:
+        "https://blog.blablacar.com.br/wp-content/uploads/2023/12/guarapari-es-1.jpg",
     },
     {
       city: "Domingos Martins",
       title: "Domingos Martins",
-      description: "Cidade serrana com clima europeu, arquitetura de estilo germânico e rica cultura imigrante.",
-      image: "https://ondeir360.com.br/wp-content/uploads/2024/02/domingos-martins02.jpg",
+      description:
+        "Cidade serrana com clima europeu, arquitetura de estilo germânico e rica cultura imigrante.",
+      image:
+        "https://ondeir360.com.br/wp-content/uploads/2024/02/domingos-martins02.jpg",
     },
     {
       city: "Petrópolis",
       title: "Petrópolis",
-      description: "A Cidade Imperial do Rio de Janeiro, conhecida pelo Palácio Imperial, arquitetura histórica e clima serrano agradável.",
-      image: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/54/63/9d/palacio-quitandinha.jpg?w=1400&h=1400&s=1",
-    }
+      description:
+        "A Cidade Imperial do Rio de Janeiro, conhecida pelo Palácio Imperial, arquitetura histórica e clima serrano agradável.",
+      image:
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/54/63/9d/palacio-quitandinha.jpg?w=1400&h=1400&s=1",
+    },
   ],
   Sul: [
     {
       city: "Foz do Iguaçu",
       title: "Foz do Iguaçu",
-      description: "Um dos destinos mais impressionantes do Brasil, famoso pelas majestosas Cataratas do Iguaçu e pela rica biodiversidade do Parque Nacional.",
-      image: "https://www.hoteldelreyfoz.com.br/wp-content/uploads/2022/10/Cataratas-do-Iguacu_-min.png",
+      description:
+        "Um dos destinos mais impressionantes do Brasil, famoso pelas majestosas Cataratas do Iguaçu e pela rica biodiversidade do Parque Nacional.",
+      image:
+        "https://www.hoteldelreyfoz.com.br/wp-content/uploads/2022/10/Cataratas-do-Iguacu_-min.png",
     },
     {
       city: "Curitiba",
       title: "Curitiba",
-      description: "Capital elegante com planejamento urbano inovador, o Jardim Botânico e uma cena cultural vibrante que encanta turistas.",
+      description:
+        "Capital elegante com planejamento urbano inovador, o Jardim Botânico e uma cena cultural vibrante que encanta turistas.",
       image: "https://imgmd.net/images/v1/guia/1684234/curitiba-185-c.jpg",
     },
     {
       city: "Ilha do Mel",
       title: "Ilha do Mel",
-      description: "Ref��gio paradisíaco com praias de águas cristalinas, trilhas ecológicas e clima de natureza preservada.",
-      image: "https://www.viagensecaminhos.com/wp-content/uploads/2017/08/ilha-do-mel-1.jpg",
+      description:
+        "Ref��gio paradisíaco com praias de águas cristalinas, trilhas ecológicas e clima de natureza preservada.",
+      image:
+        "https://www.viagensecaminhos.com/wp-content/uploads/2017/08/ilha-do-mel-1.jpg",
     },
     {
       city: "Florianópolis",
       title: "Florianópolis",
-      description: "A ‘Ilha da Magia��� encanta com praias incríveis, vida noturna animada e natureza exuberante.",
-      image: "https://maisviagens.net.br/wp-content/uploads/2022/01/FLORIPA.jpg",
+      description:
+        "A ‘Ilha da Magia��� encanta com praias incríveis, vida noturna animada e natureza exuberante.",
+      image:
+        "https://maisviagens.net.br/wp-content/uploads/2022/01/FLORIPA.jpg",
     },
     {
       city: "Balneário Camboriú",
       title: "Balneário Camboriú",
-      description: "Cidade litor��nea famosa por suas praias urbanas, arranha-céus à beira-mar e entretenimento vibrante.",
-      image: "https://blog.123milhas.com/wp-content/uploads/2022/07/balneario-camboriu-curiosidades-sobre-a-cidade-do-litoral-catarinense-conexao123.jpg",
+      description:
+        "Cidade litor��nea famosa por suas praias urbanas, arranha-céus à beira-mar e entretenimento vibrante.",
+      image:
+        "https://blog.123milhas.com/wp-content/uploads/2022/07/balneario-camboriu-curiosidades-sobre-a-cidade-do-litoral-catarinense-conexao123.jpg",
     },
     {
       city: "Blumenau",
       title: "Blumenau",
-      description: "Cidade com forte influência germânica, conhecida pelo Oktoberfest e sua arquitetura típica encantadora.",
-      image: "https://blog.blablacar.com.br/wp-content/uploads/2023/11/blumenau-sc-4.jpg",
+      description:
+        "Cidade com forte influência germânica, conhecida pelo Oktoberfest e sua arquitetura típica encantadora.",
+      image:
+        "https://blog.blablacar.com.br/wp-content/uploads/2023/11/blumenau-sc-4.jpg",
     },
     {
       city: "Bombinhas",
       title: "Bombinhas",
-      description: "Praias cristalinas, mergulho e trilhas naturais fazem desta cidade um destino perfeito para ecoturismo.",
-      image: "https://roccoimob.com/wp-content/uploads/2025/02/Novo-pier-com-roda-gigante-no-canto-grande-Uma-Nova-Visao-para-o-Turismo-de-Bombinhas-2.jpg",
+      description:
+        "Praias cristalinas, mergulho e trilhas naturais fazem desta cidade um destino perfeito para ecoturismo.",
+      image:
+        "https://roccoimob.com/wp-content/uploads/2025/02/Novo-pier-com-roda-gigante-no-canto-grande-Uma-Nova-Visao-para-o-Turismo-de-Bombinhas-2.jpg",
     },
     {
       city: "Gramado",
       title: "Gramado",
-      description: "Cidade charmosa de inverno, com arquitetura europeia, eventos natalinos e gastronomia diferenciada.",
-      image: "https://cdn.folhadomate.com/wp-content/uploads/2020/09/mini_gramado.jpg",
+      description:
+        "Cidade charmosa de inverno, com arquitetura europeia, eventos natalinos e gastronomia diferenciada.",
+      image:
+        "https://cdn.folhadomate.com/wp-content/uploads/2020/09/mini_gramado.jpg",
     },
     {
       city: "Canela",
       title: "Canela",
-      description: "Natureza exuberante com a famosa Cascata do Caracol, trilhas e clima serrano acolhedor.",
-      image: "https://cdn-clubecandeias.s3.sa-east-1.amazonaws.com/uploads/2016/06/catedral-de-pedra-canela-rs-clube-candeias.jpg",
+      description:
+        "Natureza exuberante com a famosa Cascata do Caracol, trilhas e clima serrano acolhedor.",
+      image:
+        "https://cdn-clubecandeias.s3.sa-east-1.amazonaws.com/uploads/2016/06/catedral-de-pedra-canela-rs-clube-candeias.jpg",
     },
     {
       city: "Londrina",
       title: "Londrina",
-      description: "Cidade moderna do Paraná, com parques urbanos, vida cultural intensa e opções de lazer para toda a família.",
-      image: "https://blog.arboimoveis.com.br/wp-content/uploads/2021/02/londrina.png",
+      description:
+        "Cidade moderna do Paraná, com parques urbanos, vida cultural intensa e opções de lazer para toda a família.",
+      image:
+        "https://blog.arboimoveis.com.br/wp-content/uploads/2021/02/londrina.png",
     },
     {
       city: "Guaratuba",
       title: "Guaratuba",
-      description: "Destino litorâneo encantador no Paraná, com praias de areia fina, águas calmas e natureza preservada. Perfeito para famílias, esportes aquáticos e contato com o ecoturismo, como trilhas e manguezais.",
-      image: "https://www.viajeparana.com/sites/viaje-parana/arquivos_restritos/files/styles/share/public/imagem/2019-04/baia_de_guaratuba_-_foto_mjnatalino_29.jpg?itok=Z5uV1w37",
+      description:
+        "Destino litorâneo encantador no Paraná, com praias de areia fina, águas calmas e natureza preservada. Perfeito para famílias, esportes aquáticos e contato com o ecoturismo, como trilhas e manguezais.",
+      image:
+        "https://www.viajeparana.com/sites/viaje-parana/arquivos_restritos/files/styles/share/public/imagem/2019-04/baia_de_guaratuba_-_foto_mjnatalino_29.jpg?itok=Z5uV1w37",
     },
     {
       city: "Praia do Rosa",
       title: "Praia do Rosa",
-      description: "Considerada uma das praias mais belas do Brasil, a Praia do Rosa encanta com suas águas cristalinas, falésias impressionantes e ambiente ideal para surfe, ecoturismo e contato com a natureza. Um verdadeiro paraíso catarinense.",
-      image: "https://guiaviajarmelhor.com.br/wp-content/uploads/2021/07/praia-do-rosa-sc-3.jpg",
-    }
+      description:
+        "Considerada uma das praias mais belas do Brasil, a Praia do Rosa encanta com suas águas cristalinas, falésias impressionantes e ambiente ideal para surfe, ecoturismo e contato com a natureza. Um verdadeiro paraíso catarinense.",
+      image:
+        "https://guiaviajarmelhor.com.br/wp-content/uploads/2021/07/praia-do-rosa-sc-3.jpg",
+    },
   ],
   "South Africa": [
     {
