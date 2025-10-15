@@ -840,6 +840,62 @@ const baseDestinations: Record<string, Destination[]> = {
       image: "https://commons.wikimedia.org/wiki/Special:FilePath/Karlstejn%20Castle%20Czech%20Republic.jpg",
     },
   ],
+  Hungary: [
+    {
+      city: "Budapeste (Budapest)",
+      title: "Budapeste (Budapest)",
+      description: "A capital da Hungria é dividida pelo rio Danúbio entre Buda e Peste, e encanta com sua arquitetura grandiosa, banhos termais, o Parlamento húngaro e a vista do Bastião dos Pescadores.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Budapest%20Parliament%20and%20Danube%20River.jpg",
+    },
+    {
+      city: "Lago Balaton",
+      title: "Lago Balaton",
+      description: "Conhecido como o 'Mar da Hungria', o Lago Balaton é o maior lago de água doce da Europa Central e um dos destinos de verão mais populares do país.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Lake%20Balaton%20Hungary.jpg",
+    },
+    {
+      city: "Debrecen",
+      title: "Debrecen",
+      description: "Segunda maior cidade da Hungria, Debrecen é o centro cultural e religioso do leste do país, com bela arquitetura e o famoso Grande Templo Reformado.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Debrecen%20Great%20Reformed%20Church%20Hungary.jpg",
+    },
+    {
+      city: "Eger",
+      title: "Eger",
+      description: "Cidade histórica cercada por vinhedos, Eger é famosa por seu castelo medieval, pelos banhos termais e pelo vinho tinto 'Sangue de Touro' (Egri Bikavér).",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Eger%20Castle%20Hungary.jpg",
+    },
+    {
+      city: "Pécs",
+      title: "Pécs",
+      description: "Localizada ao sul do país, Pécs é um centro artístico e multicultural, conhecida por sua catedral românica e mosaicos paleocristãos tombados pela UNESCO.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Pecs%20Cathedral%20Hungary.jpg",
+    },
+    {
+      city: "Szentendre",
+      title: "Szentendre",
+      description: "Charmosa cidade às margens do Danúbio, Szentendre é famosa por suas ruelas coloridas, galerias de arte e atmosfera boêmia próxima a Budapeste.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Szentendre%20Hungary%20Main%20Square.jpg",
+    },
+    {
+      city: "Szeged",
+      title: "Szeged",
+      description: "Conhecida como a 'Cidade do Sol', Szeged é vibrante e universitária, famosa por seu festival de teatro ao ar livre e por sua bela catedral neorromânica.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Szeged%20Cathedral%20Hungary.jpg",
+    },
+    {
+      city: "Győr",
+      title: "Győr",
+      description: "Uma das cidades mais antigas da Hungria, Győr encanta com seu centro barroco bem preservado, igrejas históricas e localização estratégica entre Viena e Budapeste.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Gyor%20Old%20Town%20Hungary.jpg",
+    },
+    {
+      city: "Hollókő",
+      title: "Hollókő",
+      description: "Pequena vila tradicional listada como Patrimônio Mundial da UNESCO, Hollókő preserva o estilo de vida rural húngaro com casas de madeira e cultura folclórica autêntica.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Holloko%20village%20Hungary.jpg",
+    },
+  ],
   Spain: [
     {
       city: "Barcelona",
@@ -2665,7 +2721,7 @@ const baseDestinations: Record<string, Destination[]> = {
         "https://commons.wikimedia.org/wiki/Special:FilePath/Corcovado%20National%20Park%20Costa%20Rica.jpg",
     },
     {
-      city: "San José",
+      city: "San Jos��",
       title: "San José",
       description:
         "A capital do país, com museus, mercados e arquitetura histórica, além de ser ponto de partida para explorar o interior.",
@@ -5709,7 +5765,7 @@ const extraRaw: {
       {
         name: "Mesquita Sultan Omar Ali Saifuddien",
         description:
-          "Opulência arquitetônica à beira-mar ��� símbolo do patrimônio muçulmano local.",
+          "Opulência arquitetônica à beira-mar — símbolo do patrimônio muçulmano local.",
         image:
           "https://commons.wikimedia.org/wiki/Special:Search?search=Sultan+Omar+Ali+Saifuddien+Mosque",
       },
@@ -6106,7 +6162,7 @@ export const brazilRegionDestinations: Record<string, Destination[]> = {
       image: "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcShxhQ-6Ozrs1PiBmW3-CVCaAAaGCjZRlYWgN-GeshCiHzzgzg-KhPz9soN73UDz786p9n87CSgOl7hukmy77FHA01jXCGaG48ER7BKX7A",
     },
     {
-      city: "Búzios",
+      city: "B��zios",
       title: "Búzios",
       description: "Búzios é um destino encantador que combina praias paradisíacas, vida noturna vibrante e charme europeu. Com mais de 20 praias de águas cristalinas e uma atmosfera cosmopolita, é o lugar perfeito para relaxar, praticar esportes aquáticos ou explorar a gastronomia local.",
       image: "https://www.viagenscinematograficas.com.br/wp-content/uploads/2019/08/Buzios-RJ-O-que-fazer-Capa.jpg",
