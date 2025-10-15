@@ -616,6 +616,62 @@ const baseDestinations: Record<string, Destination[]> = {
       image: "https://commons.wikimedia.org/wiki/Special:FilePath/Titanic%20Belfast%20Building%202012.jpg",
     },
   ],
+  Netherlands: [
+    {
+      city: "Amsterdã",
+      title: "Amsterdã",
+      description: "A capital holandesa é famosa por seus canais pitorescos, museus renomados como o Rijksmuseum e o Van Gogh Museum, além da vibrante vida noturna e cultural.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Amsterdam%20canals%20at%20night.jpg",
+    },
+    {
+      city: "Roterdã (Rotterdam)",
+      title: "Roterdã (Rotterdam)",
+      description: "Cidade moderna e inovadora, conhecida por sua arquitetura futurista, o porto mais movimentado da Europa e uma cena artística de ponta.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Rotterdam%20Erasmusbrug%20bridge.jpg",
+    },
+    {
+      city: "Haia (Den Haag)",
+      title: "Haia (Den Haag)",
+      description: "Sede do governo holandês e da Corte Internacional de Justiça, Haia mistura elegância, praias urbanas e arte clássica como a do Mauritshuis.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Hague%20Binnenhof%20reflections.jpg",
+    },
+    {
+      city: "Utrecht",
+      title: "Utrecht",
+      description: "Com canais únicos de dois níveis e uma atmosfera estudantil vibrante, Utrecht combina história medieval com inovação moderna.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Utrecht%20Oudegracht%20canal.jpg",
+    },
+    {
+      city: "Giethoorn",
+      title: "Giethoorn",
+      description: "Conhecida como a 'Veneza do Norte', Giethoorn é uma vila encantadora sem ruas — o transporte é feito por barcos entre canais e casas de palha.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Giethoorn%20Netherlands%20village.jpg",
+    },
+    {
+      city: "Haarlem",
+      title: "Haarlem",
+      description: "Próxima de Amsterdã, Haarlem é um charme histórico com ruas de paralelepípedo, canais, museus e o famoso campo de tulipas de Keukenhof nas proximidades.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Haarlem%20city%20center%20Netherlands.jpg",
+    },
+    {
+      city: "Delft",
+      title: "Delft",
+      description: "Cidade conhecida por sua porcelana azul e branca e por ter sido lar do pintor Vermeer. Um destino tranquilo e repleto de charme holandês clássico.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Delft%20canals%20Netherlands.jpg",
+    },
+    {
+      city: "Leiden",
+      title: "Leiden",
+      description: "Cidade universitária com rica herança científica e cultural, museus fascinantes e canais históricos que inspiraram Rembrandt.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Leiden%20canals%20Netherlands.jpg",
+    },
+    {
+      city: "Eindhoven",
+      title: "Eindhoven",
+      description: "Centro da inovação e design na Holanda, Eindhoven é moderna, tecnológica e sede da Philips, combinando arte, luz e engenharia de ponta.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Eindhoven%20city%20center.jpg",
+    },
+  ],
   Spain: [
     {
       city: "Barcelona",
@@ -768,7 +824,7 @@ const baseDestinations: Record<string, Destination[]> = {
     {
       city: "Torres del Paine",
       title: "Torres del Paine",
-      description: "Parque nacional na Patagônia chilena, conhecido por montanhas imponentes, lagos azul-turquesa e trilhas icônicas.",
+      description: "Parque nacional na Patag��nia chilena, conhecido por montanhas imponentes, lagos azul-turquesa e trilhas icônicas.",
       image: "https://commons.wikimedia.org/wiki/Special:FilePath/Torres%20del%20Paine%20National%20Park.jpg",
     },
     {
@@ -6065,7 +6121,7 @@ export const brazilRegionDestinations: Record<string, Destination[]> = {
       city: "Stellenbosch",
       title: "Stellenbosch",
       description:
-        "Região vinícola de prestígio próxima à Cidade do Cabo, com belas paisagens e degustações de vinhos premiados.",
+        "Região vinícola de prestígio próxima à Cidade do Cabo, com belas paisagens e degustaç��es de vinhos premiados.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/Stellenbosch%20Vineyards.jpg",
     },
@@ -6165,7 +6221,7 @@ export const brazilRegionDestinations: Record<string, Destination[]> = {
       city: "Pirâmides de Gizé",
       title: "Pirâmides de Gizé",
       description:
-        "O símbolo máximo do Egito, abrigando as Pirâmides de Quéops, Quéfren e Miquerinos, além da icônica Esfinge.",
+        "O símbolo máximo do Egito, abrigando as Pir��mides de Quéops, Quéfren e Miquerinos, além da icônica Esfinge.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/Pyramids%20of%20Giza%20Egypt.jpg",
     },
