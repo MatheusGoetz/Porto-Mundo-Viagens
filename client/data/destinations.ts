@@ -616,6 +616,62 @@ const baseDestinations: Record<string, Destination[]> = {
       image: "https://commons.wikimedia.org/wiki/Special:FilePath/Titanic%20Belfast%20Building%202012.jpg",
     },
   ],
+  Belgium: [
+    {
+      city: "Bruxelas (Brussels)",
+      title: "Bruxelas (Brussels)",
+      description: "A capital da Bélgica e sede da União Europeia, Bruxelas combina arquitetura grandiosa, arte moderna e o irresistível aroma de chocolate e waffles nas ruas.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Grand%20Place%20Brussels%20Belgium.jpg",
+    },
+    {
+      city: "Bruges (Brugge)",
+      title: "Bruges (Brugge)",
+      description: "Conhecida como a 'Veneza do Norte', Bruges encanta com seus canais, construções medievais e atmosfera romântica que a torna um dos destinos mais visitados da Europa.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Bruges%20canals%20Belgium.jpg",
+    },
+    {
+      city: "Gante (Ghent)",
+      title: "Gante (Ghent)",
+      description: "Uma joia medieval com vida universitária vibrante, Gante mistura castelos, igrejas góticas e uma cena cultural efervescente às margens do rio Leie.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Ghent%20Graslei%20and%20Korenlei.jpg",
+    },
+    {
+      city: "Antuérpia (Antwerp)",
+      title: "Antuérpia (Antwerp)",
+      description: "Capital mundial dos diamantes e berço de Rubens, Antuérpia é um centro artístico e de moda com arquitetura impressionante e uma vibe cosmopolita.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Antwerp%20Cathedral%20of%20Our%20Lady.jpg",
+    },
+    {
+      city: "Leuven",
+      title: "Leuven",
+      description: "Cidade universitária com alma jovem e animada, Leuven é famosa pela cerveja Stella Artois e por sua rica herança acadêmica e arquitetônica.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Leuven%20Town%20Hall%20Belgium.jpg",
+    },
+    {
+      city: "Namur",
+      title: "Namur",
+      description: "Localizada na confluência dos rios Sambre e Meuse, Namur é conhecida por sua cidadela panorâmica e charme tranquilo no coração da Valônia.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Namur%20Citadel%20Belgium.jpg",
+    },
+    {
+      city: "Dinant",
+      title: "Dinant",
+      description: "Encravada entre falésias e o rio Meuse, Dinant é uma das cidades mais fotogênicas da Bélgica e berço do inventor do saxofone, Adolphe Sax.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Dinant%20Belgium%20view.jpg",
+    },
+    {
+      city: "Liège",
+      title: "Liège",
+      description: "Importante cidade da Valônia com mistura de tradição e modernidade, Liège encanta com sua catedral, seu mercado La Batte e o famoso waffle local.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Liege%20Guillemins%20station%20Belgium.jpg",
+    },
+    {
+      city: "Mechelen",
+      title: "Mechelen",
+      description: "Entre Bruxelas e Antuérpia, Mechelen é um tesouro histórico com belas igrejas e uma atmosfera acolhedora, ideal para quem busca autenticidade belga.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Mechelen%20St%20Rumbold%27s%20Cathedral.jpg",
+    },
+  ],
   Netherlands: [
     {
       city: "Amsterdã",
@@ -5846,7 +5902,7 @@ export const brazilRegionDestinations: Record<string, Destination[]> = {
       image: "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrmoN67E27g3b7DBRE3UKfz4b3bTUMOPKz9WiDOV7qORKpGYQ-S6ogE8KjZm_Ucssoq5c-2cf0IejSsdfhS0BpAaKM9mlncla5SOLo7hW_4Nvh0xfUvM1_uUS2Mu-KoeZs273dXGsW2Cjsc=s680-w680-h510-rw",
     },
     {
-      city: "Nobres (Aquário Encantado)",
+      city: "Nobres (Aqu��rio Encantado)",
       title: "Nobres (Aquário Encantado)",
       description: "Rios de águas cristalinas, flutuação e grutas como o Aquário Encantado.",
       image: "https://lh3.googleusercontent.com/p/AF1QipPzHZyXqNRB6dJe7MxcktsqoedFYBNlbeBEepgZ=s680-w680-h510-rw",
