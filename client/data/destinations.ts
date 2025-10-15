@@ -728,6 +728,62 @@ const baseDestinations: Record<string, Destination[]> = {
       image: "https://commons.wikimedia.org/wiki/Special:FilePath/Eindhoven%20city%20center.jpg",
     },
   ],
+  Croatia: [
+    {
+      city: "Dubrovnik",
+      title: "Dubrovnik",
+      description: "Conhecida como a 'Pérola do Adriático', Dubrovnik é uma cidade murada à beira-mar, famosa por suas ruas de pedra, muralhas históricas e por ter sido cenário de Game of Thrones.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Dubrovnik%20Old%20Town%20Croatia.jpg",
+    },
+    {
+      city: "Split",
+      title: "Split",
+      description: "Centro vibrante da Dalmácia, Split combina ruínas romanas com uma atmosfera moderna, tendo o magnífico Palácio de Diocleciano como coração da cidade.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Split%20Croatia%20Diocletian%27s%20Palace.jpg",
+    },
+    {
+      city: "Zagreb",
+      title: "Zagreb",
+      description: "A capital croata é um mix encantador de elegância austro-húngara, cafés charmosos e uma vida cultural intensa, repleta de museus e festivais.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Zagreb%20Cathedral%20Croatia.jpg",
+    },
+    {
+      city: "Parque Nacional dos Lagos de Plitvice",
+      title: "Parque Nacional dos Lagos de Plitvice",
+      description: "Um dos parques mais espetaculares da Europa, com 16 lagos interligados por cachoeiras e trilhas em meio a florestas exuberantes.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Plitvice%20Lakes%20National%20Park%20Croatia.jpg",
+    },
+    {
+      city: "Zadar",
+      title: "Zadar",
+      description: "Cidade costeira com ruínas romanas, arte moderna e o famoso Órgão do Mar, um instrumento que cria música com o movimento das ondas.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Zadar%20Sea%20Organ%20Croatia.jpg",
+    },
+    {
+      city: "Rovinj",
+      title: "Rovinj",
+      description: "Um dos destinos mais românticos do Adriático, Rovinj encanta com suas ruelas coloridas, porto pitoresco e atmosfera mediterrânea.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Rovinj%20Old%20Town%20Croatia.jpg",
+    },
+    {
+      city: "Pula",
+      title: "Pula",
+      description: "Famosa por seu impressionante anfiteatro romano, Pula é uma mistura fascinante de história antiga e vida praiana moderna.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Pula%20Arena%20Croatia.jpg",
+    },
+    {
+      city: "Hvar",
+      title: "Hvar",
+      description: "A ilha mais badalada da Croácia, Hvar é sinônimo de praias paradisíacas, festas sofisticadas e vilas históricas banhadas por águas cristalinas.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Hvar%20Harbor%20Croatia.jpg",
+    },
+    {
+      city: "Korčula",
+      title: "Korčula",
+      description: "Conhecida como a 'pequena Dubrovnik', Korčula é uma ilha de charme medieval, cercada por vinhedos e lendas sobre Marco Polo.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Korcula%20Old%20Town%20Croatia.jpg",
+    },
+  ],
   Spain: [
     {
       city: "Barcelona",
@@ -968,7 +1024,7 @@ const baseDestinations: Record<string, Destination[]> = {
     {
       city: "Cuenca",
       title: "Cuenca",
-      description: "Cidade colonial famosa por sua arquitetura, igrejas históricas e tradição dos chapéus Panamá.",
+      description: "Cidade colonial famosa por sua arquitetura, igrejas históricas e tradição dos chapéus Panam��.",
       image: "https://commons.wikimedia.org/wiki/Special:FilePath/Cuenca%20Ecuador%20Cathedral.jpg",
     },
     {
@@ -2450,7 +2506,7 @@ const baseDestinations: Record<string, Destination[]> = {
       city: "Copán Ruinas",
       title: "Cop��n Ruinas",
       description:
-        "Antigo centro maia com esculturas e hieróglifos detalhados — um dos sítios arqueológicos mais importantes da Mesoamérica.",
+        "Antigo centro maia com esculturas e hieróglifos detalhados �� um dos sítios arqueológicos mais importantes da Mesoamérica.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/Copan%20Ruins%20Honduras.jpg",
     },
@@ -5902,7 +5958,7 @@ export const brazilRegionDestinations: Record<string, Destination[]> = {
       image: "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrmoN67E27g3b7DBRE3UKfz4b3bTUMOPKz9WiDOV7qORKpGYQ-S6ogE8KjZm_Ucssoq5c-2cf0IejSsdfhS0BpAaKM9mlncla5SOLo7hW_4Nvh0xfUvM1_uUS2Mu-KoeZs273dXGsW2Cjsc=s680-w680-h510-rw",
     },
     {
-      city: "Nobres (Aqu��rio Encantado)",
+      city: "Nobres (Aquário Encantado)",
       title: "Nobres (Aquário Encantado)",
       description: "Rios de águas cristalinas, flutuação e grutas como o Aquário Encantado.",
       image: "https://lh3.googleusercontent.com/p/AF1QipPzHZyXqNRB6dJe7MxcktsqoedFYBNlbeBEepgZ=s680-w680-h510-rw",
@@ -6161,7 +6217,7 @@ export const brazilRegionDestinations: Record<string, Destination[]> = {
       city: "Durban",
       title: "Durban",
       description:
-        "Cidade litorânea com praias douradas, clima tropical e uma mistura única de culturas africanas e indianas.",
+        "Cidade litor��nea com praias douradas, clima tropical e uma mistura única de culturas africanas e indianas.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/Durban%20Beachfront.jpg",
     },
