@@ -392,6 +392,62 @@ const baseDestinations: Record<string, Destination[]> = {
       image: "https://commons.wikimedia.org/wiki/Special:FilePath/Neuschwanstein%20Castle%20Bavaria%20Germany.jpg",
     },
   ],
+  Austria: [
+    {
+      city: "Viena (Wien)",
+      title: "Viena (Wien)",
+      description: "A elegante capital austríaca é o coração da antiga monarquia dos Habsburgos, repleta de palácios, museus, cafés históricos e uma atmosfera musical que ecoa por toda parte.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Schönbrunn%20Palace%20Vienna.jpg",
+    },
+    {
+      city: "Salzburgo (Salzburg)",
+      title: "Salzburgo (Salzburg)",
+      description: "Cidade natal de Mozart e cenário do filme 'A Noviça Rebelde', Salzburgo é famosa por sua arquitetura barroca, seu castelo e sua herança musical.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Hohensalzburg%20Fortress%20Salzburg.jpg",
+    },
+    {
+      city: "Innsbruck",
+      title: "Innsbruck",
+      description: "No coração dos Alpes, Innsbruck combina esportes de inverno, beleza alpina e arquitetura histórica com o charme tirolês.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Innsbruck%20Old%20Town%20and%20Alps.jpg",
+    },
+    {
+      city: "Hallstatt",
+      title: "Hallstatt",
+      description: "Considerada uma das vilas mais bonitas do mundo, Hallstatt encanta com seu lago sereno, casas de madeira e montanhas que parecem abraçar a cidade.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Hallstatt%20village%20Austria.jpg",
+    },
+    {
+      city: "Graz",
+      title: "Graz",
+      description: "Com uma mistura única de arquitetura renascentista e moderna, Graz é vibrante, criativa e conhecida por sua gastronomia e vida universitária.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Graz%20Old%20Town%20view.jpg",
+    },
+    {
+      city: "Zell am See",
+      title: "Zell am See",
+      description: "Destino perfeito para quem busca natureza e aventura, Zell am See combina lagos cristalinos, trilhas e esqui em meio a paisagens alpinas impressionantes.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Zell%20am%20See%20Lake%20Austria.jpg",
+    },
+    {
+      city: "Wachau",
+      title: "Wachau",
+      description: "Região vinícola pitoresca às margens do rio Danúbio, com castelos, mosteiros e vilarejos que parecem parados no tempo.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Wachau%20Valley%20Danube%20Austria.jpg",
+    },
+    {
+      city: "Linz",
+      title: "Linz",
+      description: "Cidade moderna às margens do Danúbio, Linz é conhecida por seu foco em arte contemporânea, tecnologia e festivais culturais inovadores.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Linz%20city%20view%20Danube.jpg",
+    },
+    {
+      city: "Kitzbühel",
+      title: "Kitzbühel",
+      description: "Um dos resorts de esqui mais famosos da Europa, Kitzbühel oferece luxo, tradição tirolesa e paisagens de tirar o fôlego durante o ano inteiro.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Kitzbühel%20winter%20Austria.jpg",
+    },
+  ],
   Switzerland: [
     {
       city: "Zurique",
@@ -2414,7 +2470,7 @@ const baseDestinations: Record<string, Destination[]> = {
       city: "Parque Nacional Coiba",
       title: "Parque Nacional Coiba",
       description:
-        "Antiga colônia penal transformada em reserva marinha, considerada Patrimônio Mundial da UNESCO e um dos melhores pontos de mergulho do país.",
+        "Antiga colônia penal transformada em reserva marinha, considerada Patrimônio Mundial da UNESCO e um dos melhores pontos de mergulho do pa��s.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/Coiba%20National%20Park%20Panama.jpg",
     },
@@ -5115,7 +5171,7 @@ const extraRaw: {
       {
         name: "Berat (Cidade das Mil Janelaas)",
         description:
-          "Encantos otomanos e vistas sobre o rio Osum — história gravada em pedra.",
+          "Encantos otomanos e vistas sobre o rio Osum — hist��ria gravada em pedra.",
         image: "https://commons.wikimedia.org/wiki/Special:Search?search=Berat",
       },
     ],
