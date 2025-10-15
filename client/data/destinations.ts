@@ -1008,6 +1008,62 @@ const baseDestinations: Record<string, Destination[]> = {
       image: "https://commons.wikimedia.org/wiki/Special:FilePath/Adelaide%20skyline%20Australia.jpg",
     },
   ],
+  "New Zealand": [
+    {
+      city: "Auckland",
+      title: "Auckland",
+      description: "Maior cidade da Nova Zelândia, Auckland é cercada por vulcões adormecidos e belas baías, sendo o ponto de partida perfeito para explorar o país.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Auckland%20skyline%20at%20night.jpg",
+    },
+    {
+      city: "Queenstown",
+      title: "Queenstown",
+      description: "Considerada a capital mundial da aventura, Queenstown é famosa por esportes radicais, paisagens alpinas e o magnífico Lago Wakatipu.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Queenstown%20New%20Zealand%20Lake%20Wakatipu.jpg",
+    },
+    {
+      city: "Rotorua",
+      title: "Rotorua",
+      description: "Conhecida pela atividade geotérmica e cultura maori vibrante, Rotorua impressiona com geysers, piscinas de lama quente e aldeias tradicionais.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Champagne%20Pool%20Wai-O-Tapu%20Rotorua.jpg",
+    },
+    {
+      city: "Milford Sound",
+      title: "Milford Sound",
+      description: "Um dos lugares mais icônicos do país, o fiorde de Milford Sound é cercado por montanhas íngremes e cachoeiras espetaculares.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Milford%20Sound%20New%20Zealand.jpg",
+    },
+    {
+      city: "Wellington",
+      title: "Wellington",
+      description: "A capital da Nova Zelândia combina arte, política e natureza, com museus premiados, colinas verdes e uma baía pitoresca.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Wellington%20city%20and%20harbour.jpg",
+    },
+    {
+      city: "Christchurch",
+      title: "Christchurch",
+      description: "Conhecida como a 'Cidade Jardim', Christchurch se destaca pela arquitetura moderna, parques amplos e a resiliência pós-terremoto.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Christchurch%20New%20Zealand%20Avon%20River.jpg",
+    },
+    {
+      city: "Taupo",
+      title: "Taupo",
+      description: "Lar do maior lago da Nova Zelândia, Taupo é um paraíso para esportes aquáticos, pesca e trilhas próximas ao Parque Nacional de Tongariro.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Lake%20Taupo%20New%20Zealand.jpg",
+    },
+    {
+      city: "Franz Josef Glacier",
+      title: "Franz Josef Glacier",
+      description: "Um dos poucos glaciares do mundo que se estende até uma floresta tropical, oferecendo trilhas e passeios de helicóptero deslumbrantes.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Franz%20Josef%20Glacier%20New%20Zealand.jpg",
+    },
+    {
+      city: "Bay of Islands",
+      title: "Bay of Islands",
+      description: "Região tropical com mais de 140 ilhas, praias de águas turquesa e uma história rica na colonização da Nova Zelândia.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Bay%20of%20Islands%20New%20Zealand.jpg",
+    },
+  ],
   Spain: [
     {
       city: "Barcelona",
