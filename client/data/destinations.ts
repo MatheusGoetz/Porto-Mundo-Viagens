@@ -780,7 +780,7 @@ const baseDestinations: Record<string, Destination[]> = {
     {
       city: "Korčula",
       title: "Korčula",
-      description: "Conhecida como a 'pequena Dubrovnik', Kor��ula é uma ilha de charme medieval, cercada por vinhedos e lendas sobre Marco Polo.",
+      description: "Conhecida como a 'pequena Dubrovnik', Korčula é uma ilha de charme medieval, cercada por vinhedos e lendas sobre Marco Polo.",
       image: "https://commons.wikimedia.org/wiki/Special:FilePath/Korcula%20Old%20Town%20Croatia.jpg",
     },
   ],
@@ -950,6 +950,62 @@ const baseDestinations: Record<string, Destination[]> = {
       title: "Snaefellsnes",
       description: "Península que reúne o melhor da Islândia em um só lugar — vulcões, glaciares, praias negras e o icônico monte Kirkjufell, cartão-postal do país.",
       image: "https://commons.wikimedia.org/wiki/Special:FilePath/Kirkjufell%20mountain%20Iceland.jpg",
+    },
+  ],
+  Australia: [
+    {
+      city: "Sydney",
+      title: "Sydney",
+      description: "Maior e mais icônica cidade australiana, Sydney encanta com sua famosa Ópera, a Harbour Bridge e praias lendárias como Bondi e Manly.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Sydney%20Opera%20House%20and%20Harbour%20Bridge.jpg",
+    },
+    {
+      city: "Melbourne",
+      title: "Melbourne",
+      description: "Capital cultural da Austrália, Melbourne é famosa por sua cena artística, cafés charmosos, eventos esportivos e o clima cosmopolita vibrante.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Melbourne%20city%20skyline%20Australia.jpg",
+    },
+    {
+      city: "Grande Barreira de Corais (Great Barrier Reef)",
+      title: "Grande Barreira de Corais (Great Barrier Reef)",
+      description: "Maior sistema de recifes de coral do mundo, a Grande Barreira é um paraíso de mergulho e biodiversidade marinha, visível até do espaço.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Great%20Barrier%20Reef%20Queensland%20Australia.jpg",
+    },
+    {
+      city: "Uluru (Ayers Rock)",
+      title: "Uluru (Ayers Rock)",
+      description: "Símbolo espiritual da Austrália, o monólito vermelho localizado no coração do deserto é sagrado para os povos aborígenes e muda de cor ao pôr do sol.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Uluru%20Ayers%20Rock%20Australia.jpg",
+    },
+    {
+      city: "Cairns",
+      title: "Cairns",
+      description: "Porta de entrada para a Grande Barreira de Corais e para as florestas tropicais de Daintree, Cairns é o destino ideal para aventureiros e mergulhadores.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Cairns%20Esplanade%20Lagoon%20Australia.jpg",
+    },
+    {
+      city: "Gold Coast",
+      title: "Gold Coast",
+      description: "Destino praiano famoso por suas ondas perfeitas, arranha-céus à beira-mar e parques temáticos que atraem turistas do mundo todo.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Gold%20Coast%20Queensland%20Australia.jpg",
+    },
+    {
+      city: "Perth",
+      title: "Perth",
+      description: "Capital da Austrália Ocidental, Perth combina praias tranquilas, vinícolas renomadas e uma cena cultural crescente às margens do rio Swan.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Perth%20skyline%20Australia.jpg",
+    },
+    {
+      city: "Tasmania",
+      title: "Tasmania",
+      description: "Ilha australiana selvagem e exuberante, conhecida por seus parques nacionais, trilhas de aventura e pela fauna única — incluindo o diabo-da-tasmânia.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Tasmania%20Cradle%20Mountain%20Australia.jpg",
+    },
+    {
+      city: "Adelaide",
+      title: "Adelaide",
+      description: "Cidade charmosa e planejada, cercada por vinhedos e praias, Adelaide é famosa por seus festivais culturais e pela gastronomia sofisticada.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Adelaide%20skyline%20Australia.jpg",
     },
   ],
   Spain: [
@@ -2502,7 +2558,7 @@ const baseDestinations: Record<string, Destination[]> = {
       city: "Livingston",
       title: "Livingston",
       description:
-        "Cidade costeira com forte influência garífuna, acessível apenas de barco, com praias tropicais e cultura vibrante.",
+        "Cidade costeira com forte influência garífuna, acess��vel apenas de barco, com praias tropicais e cultura vibrante.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/Livingston%20Guatemala.jpg",
     },
@@ -4851,7 +4907,7 @@ const baseDestinations: Record<string, Destination[]> = {
       city: "Douz",
       title: "Douz",
       description:
-        "Conhecida como a 'Porta do Saara', é o ponto de partida ideal para expedi��ões de camelo pelas dunas do deserto.",
+        "Conhecida como a 'Porta do Saara', é o ponto de partida ideal para expedições de camelo pelas dunas do deserto.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/Douz%20Sahara%20Tunisia.jpg",
     },
@@ -6140,7 +6196,7 @@ export const brazilRegionDestinations: Record<string, Destination[]> = {
     {
       city: "Fazenda Ceita Corê",
       title: "Fazenda Ceita Corê",
-      description: "A ‘Terra de Meus Filhos’ oferece um dia completo de aventura e calmaria: trilha entre 7 cachoeiras, nascente cristalina do Rio Chapena, tirolesa, lago para flutuar ou remar, e estrutura acolhedora no receptivo para relaxar.",
+      description: "A ��Terra de Meus Filhos’ oferece um dia completo de aventura e calmaria: trilha entre 7 cachoeiras, nascente cristalina do Rio Chapena, tirolesa, lago para flutuar ou remar, e estrutura acolhedora no receptivo para relaxar.",
       image: "https://www.viagensecaminhos.com/wp-content/uploads/2021/06/fazenda-ceita-core-bonito-ms.jpg",
     },
     {
