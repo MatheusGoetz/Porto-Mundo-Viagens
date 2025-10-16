@@ -1357,6 +1357,62 @@ const baseDestinations: Record<string, Destination[]> = {
         "https://commons.wikimedia.org/wiki/Special:FilePath/Bay%20of%20Islands%20New%20Zealand.jpg",
     },
   ],
+  Fiji: [
+    {
+      city: "Nadi",
+      title: "Nadi",
+      description: "Principal porta de entrada de Fiji, Nadi combina praias paradisíacas, resorts luxuosos e o impressionante Templo Sri Siva Subramaniya, o maior templo hindu do Hemisfério Sul.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Nadi%20Beach%20Fiji.jpg",
+    },
+    {
+      city: "Ilhas Mamanuca",
+      title: "Ilhas Mamanuca",
+      description: "Um arquipélago de pequenas ilhas com águas cristalinas e recifes ideais para mergulho e snorkel — cenário de filmes como ‘O Náufrago’.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Mamanuca%20Islands%20Fiji.jpg",
+    },
+    {
+      city: "Ilhas Yasawa",
+      title: "Ilhas Yasawa",
+      description: "Famosas por suas praias intocadas e águas azul-turquesa, as Yasawa são perfeitas para quem busca isolamento, natureza e hospitalidade local.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Yasawa%20Islands%20Fiji.jpg",
+    },
+    {
+      city: "Suva",
+      title: "Suva",
+      description: "A capital das Fiji, localizada na ilha de Viti Levu, mistura cultura, vida urbana e história — com museus, mercados e arquitetura colonial britânica.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Suva%20harbour%20Fiji.jpg",
+    },
+    {
+      city: "Coral Coast",
+      title: "Coral Coast",
+      description: "Faixa litorânea repleta de resorts, vilas tradicionais e recifes coloridos, ideal para mergulhadores e viajantes que buscam relaxamento e cultura.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Coral%20Coast%20Fiji.jpg",
+    },
+    {
+      city: "Taveuni",
+      title: "Taveuni",
+      description: "Conhecida como a 'Ilha Jardim', Taveuni é um paraíso tropical de cachoeiras, florestas e trilhas, com destaque para o Bouma National Heritage Park.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Taveuni%20Island%20Fiji%20Bouma%20Falls.jpg",
+    },
+    {
+      city: "Vanua Levu",
+      title: "Vanua Levu",
+      description: "A segunda maior ilha de Fiji, com natureza exuberante, recifes de corais e uma atmosfera autêntica e menos turística.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Vanua%20Levu%20Fiji.jpg",
+    },
+    {
+      city: "Pacific Harbour",
+      title: "Pacific Harbour",
+      description: "Conhecido como o 'centro da aventura de Fiji', Pacific Harbour oferece mergulho com tubarões, rafting e muita adrenalina.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Pacific%20Harbour%20Fiji.jpg",
+    },
+    {
+      city: "Savusavu",
+      title: "Savusavu",
+      description: "Um charmoso vilarejo costeiro famoso por suas fontes termais, recifes vibrantes e atmosfera relaxada de ilha tropical.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Savusavu%20harbour%20Fiji.jpg",
+    },
+  ],
   Spain: [
     {
       city: "Barcelona",
@@ -1402,7 +1458,7 @@ const baseDestinations: Record<string, Destination[]> = {
       city: "Bilbao",
       title: "Bilbao",
       description:
-        "Símbolo da modernidade no País Basco, Bilbao é lar do icônico Museu Guggenheim e de uma cena gastronômica de alto nível.",
+        "Símbolo da modernidade no País Basco, Bilbao é lar do icônico Museu Guggenheim e de uma cena gastronômica de alto n��vel.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/Guggenheim%20Museum%20Bilbao%20Spain.jpg",
     },
@@ -3242,7 +3298,7 @@ const baseDestinations: Record<string, Destination[]> = {
       city: "León",
       title: "León",
       description:
-        "Centro histórico e cultural com catedrais barrocas, arte urbana vibrante e acesso fácil ao vulcão Cerro Negro.",
+        "Centro histórico e cultural com catedrais barrocas, arte urbana vibrante e acesso fácil ao vulc��o Cerro Negro.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/Leon%20Cathedral%20Nicaragua.jpg",
     },
@@ -4944,7 +5000,7 @@ const baseDestinations: Record<string, Destination[]> = {
       city: "Vientiane",
       title: "Vientiane",
       description:
-        "A capital do Laos oferece uma mistura relaxante de cultura budista, cafés à beira do rio Mekong e o icônico monumento Pha That Luang.",
+        "A capital do Laos oferece uma mistura relaxante de cultura budista, cafés à beira do rio Mekong e o ic��nico monumento Pha That Luang.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/Pha%20That%20Luang%20Vientiane.jpg",
     },
@@ -5000,7 +5056,7 @@ const baseDestinations: Record<string, Destination[]> = {
       city: "Muang Ngoi Neua",
       title: "Muang Ngoi Neua",
       description:
-        "Vila isolada acessível apenas de barco, rodeada por montanhas e rios, ideal para trilhas e imersão na vida rural laociana.",
+        "Vila isolada acessível apenas de barco, rodeada por montanhas e rios, ideal para trilhas e imers��o na vida rural laociana.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/Muang%20Ngoi%20Neua%20Laos.jpg",
     },
