@@ -1861,6 +1861,62 @@ const baseDestinations: Record<string, Destination[]> = {
       image: "https://commons.wikimedia.org/wiki/Special:FilePath/Nauru%20Coastal%20Road.jpg",
     },
   ],
+  Kiribati: [
+    {
+      city: "Ilha de Tarawa (South Tarawa)",
+      title: "Ilha de Tarawa (South Tarawa)",
+      description: "Centro político e econômico de Kiribati, South Tarawa mistura vida local, história da Segunda Guerra Mundial e belas lagoas azul-turquesa. É o ponto de partida para explorar o país.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/South%20Tarawa%20Kiribati.jpg",
+    },
+    {
+      city: "Betio",
+      title: "Betio",
+      description: "Local histórico da Batalha de Tarawa, Betio abriga memoriais de guerra, destroços navais e artefatos da Segunda Guerra Mundial, além de uma atmosfera vibrante e urbana.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Betio%20Island%20Tarawa%20Kiribati.jpg",
+    },
+    {
+      city: "Atol de Abaiang",
+      title: "Atol de Abaiang",
+      description: "Um paraíso natural ao norte de Tarawa, famoso por suas lagoas serenas, vilas tradicionais e experiências autênticas de vida insular.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Abaiang%20Atoll%20Kiribati.jpg",
+    },
+    {
+      city: "Atol de Butaritari",
+      title: "Atol de Butaritari",
+      description: "Conhecido por sua vegetação exuberante, praias tranquilas e relevância histórica durante a Segunda Guerra Mundial. Ideal para relaxar e mergulhar na cultura local.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Butaritari%20Atoll%20Kiribati.jpg",
+    },
+    {
+      city: "Atol de Kiritimati (Christmas Island)",
+      title: "Atol de Kiritimati (Christmas Island)",
+      description: "A maior ilha de coral do mundo e destino famoso para pesca esportiva, observação de aves e mergulho. Também é um dos primeiros lugares do planeta a ver o nascer do Ano Novo.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Kiritimati%20Island%20Kiribati.jpg",
+    },
+    {
+      city: "Atol de Fanning (Tabuaeran)",
+      title: "Atol de Fanning (Tabuaeran)",
+      description: "Conhecido por suas águas cristalinas e recifes preservados, é um refúgio remoto e pacífico, perfeito para snorkeling e contato com a natureza pura.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Fanning%20Island%20Kiribati.jpg",
+    },
+    {
+      city: "Atol de Arorae",
+      title: "Atol de Arorae",
+      description: "A ilha mais meridional de Kiribati, famosa por suas tradições culturais, danças e artesanato local, além de vistas espetaculares do pôr do sol.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Arorae%20Island%20Kiribati.jpg",
+    },
+    {
+      city: "Atol de Marakei",
+      title: "Atol de Marakei",
+      description: "Ilha circular encantadora cercada por lagoas e vilas pacíficas, conhecida por seus rituais tradicionais de boas-vindas e hospitalidade calorosa.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Marakei%20Atoll%20Kiribati.jpg",
+    },
+    {
+      city: "Atol de Tarawa Norte",
+      title: "Atol de Tarawa Norte",
+      description: "Região mais tranquila e rural da ilha principal, ideal para quem busca praias desertas, aldeias autênticas e uma imersão completa na vida local.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/North%20Tarawa%20Kiribati.jpg",
+    },
+  ],
   Spain: [
     {
       city: "Barcelona",
@@ -2400,7 +2456,7 @@ const baseDestinations: Record<string, Destination[]> = {
       city: "Medellín",
       title: "Medellín",
       description:
-        "Conhecida como a 'Cidade da Eterna Primavera', �� moderna, inovadora e cercada por montanhas.",
+        "Conhecida como a 'Cidade da Eterna Primavera', é moderna, inovadora e cercada por montanhas.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/Medellin%20City.jpg",
     },
@@ -3984,7 +4040,7 @@ const baseDestinations: Record<string, Destination[]> = {
       city: "Bocas del Toro",
       title: "Bocas del Toro",
       description:
-        "Arquipélago caribenho com praias paradisíacas, águas cristalinas e vida noturna descontraída.",
+        "Arquip��lago caribenho com praias paradisíacas, águas cristalinas e vida noturna descontraída.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/Bocas%20del%20Toro%20Panama.jpg",
     },
