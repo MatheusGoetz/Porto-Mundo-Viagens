@@ -260,7 +260,7 @@ const baseDestinations: Record<string, Destination[]> = {
       city: "Nice",
       title: "Nice",
       description:
-        "P��rola da Riviera Francesa, Nice combina mar azul-turquesa, calçadões elegantes e um charme mediterrâneo vibrante.",
+        "Pérola da Riviera Francesa, Nice combina mar azul-turquesa, calçadões elegantes e um charme mediterrâneo vibrante.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/Nice%20France%20Promenade%20des%20Anglais.jpg",
     },
@@ -876,7 +876,7 @@ const baseDestinations: Record<string, Destination[]> = {
       city: "Giethoorn",
       title: "Giethoorn",
       description:
-        "Conhecida como a 'Veneza do Norte', Giethoorn �� uma vila encantadora sem ruas — o transporte é feito por barcos entre canais e casas de palha.",
+        "Conhecida como a 'Veneza do Norte', Giethoorn é uma vila encantadora sem ruas — o transporte é feito por barcos entre canais e casas de palha.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/Giethoorn%20Netherlands%20village.jpg",
     },
@@ -2027,6 +2027,62 @@ const baseDestinations: Record<string, Destination[]> = {
       title: "Yaté e o Parque Provincial da Rivière Bleue",
       description: "Um paraíso ecológico com florestas densas, o famoso lago Yaté e trilhas que passam por pontes suspensas e árvores centenárias. Ideal para ecoturismo e fotografia.",
       image: "https://commons.wikimedia.org/wiki/Special:FilePath/Parc%20Provincial%20de%20la%20Rivière%20Bleue%20New%20Caledonia.jpg",
+    },
+  ],
+  "French Polynesia": [
+    {
+      city: "Taiti (Papeete)",
+      title: "Taiti (Papeete)",
+      description: "A maior ilha da Polinésia Francesa e o coração cultural do arquipélago. Papeete oferece mercados vibrantes, gastronomia polinésia e paisagens montanhosas deslumbrantes, como o Monte Orohena.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Papeete%20harbor%20Tahiti.jpg",
+    },
+    {
+      city: "Bora Bora",
+      title: "Bora Bora",
+      description: "Conhecida como a 'pérola do Pacífico', Bora Bora é o destino mais famoso da Polinésia Francesa, com resorts sobre a água, lagoas azul-turquesa e o icônico Monte Otemanu ao fundo.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Bora%20Bora%20lagoon%20and%20Mount%20Otemanu.jpg",
+    },
+    {
+      city: "Moorea",
+      title: "Moorea",
+      description: "A apenas 30 minutos de barco do Taiti, Moorea é um refúgio de natureza exuberante com picos verdes, baías profundas e praias perfeitas para mergulho e snorkeling.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Moorea%20Cook%27s%20Bay.jpg",
+    },
+    {
+      city: "Huahine",
+      title: "Huahine",
+      description: "Uma das ilhas mais autênticas da Polinésia Francesa, Huahine preserva tradições locais, ruínas arqueológicas e uma atmosfera tranquila cercada por uma lagoa cristalina.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Huahine%20lagoon.jpg",
+    },
+    {
+      city: "Raiatea",
+      title: "Raiatea",
+      description: "Considerada o berço espiritual da Polinésia, abriga o sagrado Marae Taputapuatea, Patrimônio Mundial da UNESCO. Também é um excelente ponto para velejar e explorar ilhotas vizinhas.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Raiatea%20island%20lagoon.jpg",
+    },
+    {
+      city: "Taha’a",
+      title: "Taha’a",
+      description: "Conhecida como a 'Ilha da Baunilha', Taha’a oferece plantações aromáticas, recifes de coral e pequenas ilhas desertas ideais para passeios de barco e mergulho.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Tahaa%20lagoon.jpg",
+    },
+    {
+      city: "Rangiroa",
+      title: "Rangiroa",
+      description: "O segundo maior atol do mundo, Rangiroa é um paraíso para mergulhadores, com recifes repletos de vida marinha e águas tão transparentes que parecem irreais.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Rangiroa%20atoll%20lagoon.jpg",
+    },
+    {
+      city: "Fakarava",
+      title: "Fakarava",
+      description: "Outro Patrimônio Mundial da UNESCO, Fakarava é um atol com um ecossistema preservado e uma das melhores experiências de mergulho do planeta, com tubarões, raias e corais coloridos.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Fakarava%20atoll%20Tuamotu%20Archipelago.jpg",
+    },
+    {
+      city: "Tetiaroa",
+      title: "Tetiaroa",
+      description: "Antiga ilha particular do ator Marlon Brando, Tetiaroa é hoje um resort ecológico de luxo. Cercada por águas rasas e vida marinha abundante, é o epítome da exclusividade tropical.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Tetiaroa%20atoll%20French%20Polynesia.jpg",
     },
   ],
   Spain: [
@@ -5164,7 +5220,7 @@ const baseDestinations: Record<string, Destination[]> = {
       city: "Palawan",
       title: "Palawan",
       description:
-        "Ilha paradisíaca com lagoas turquesa, falésias de calc��rio e o famoso rio subterrâneo de Puerto Princesa.",
+        "Ilha paradisíaca com lagoas turquesa, falésias de calcário e o famoso rio subterrâneo de Puerto Princesa.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/El%20Nido%20Palawan%20Philippines%20Lagoon.jpg",
     },
@@ -5630,7 +5686,7 @@ const baseDestinations: Record<string, Destination[]> = {
     },
     {
       city: "Plain of Jars (Planície dos Jarros)",
-      title: "Plain of Jars (Plan��cie dos Jarros)",
+      title: "Plain of Jars (Planície dos Jarros)",
       description:
         "Sítio arqueológico misterioso com centenas de jarros de pedra milenares espalhados por colinas na região de Phonsavan.",
       image:
@@ -5928,7 +5984,7 @@ const baseDestinations: Record<string, Destination[]> = {
       city: "Aswan",
       title: "Aswan",
       description:
-        "Cidade às margens do Nilo, famosa pela represa, ilhas pitorescas e o impressionante Templo de Philae.",
+        "Cidade ��s margens do Nilo, famosa pela represa, ilhas pitorescas e o impressionante Templo de Philae.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/Philae%20Temple%20Aswan.jpg",
     },
@@ -7148,7 +7204,7 @@ const extraRaw: {
       {
         name: "Mesquita Sultan Omar Ali Saifuddien",
         description:
-          "Opulência arquitetônica à beira-mar ��� símbolo do patrimônio muçulmano local.",
+          "Opulência arquitetônica à beira-mar — símbolo do patrimônio muçulmano local.",
         image:
           "https://commons.wikimedia.org/wiki/Special:Search?search=Sultan+Omar+Ali+Saifuddien+Mosque",
       },
