@@ -70,7 +70,7 @@ const baseDestinations: Record<string, Destination[]> = {
       city: "Chicago",
       title: "Chicago",
       description:
-        "Cidade às margens do Lago Michigan, conhecida por sua arquitetura, blues e pizza deep dish.",
+        "Cidade ��s margens do Lago Michigan, conhecida por sua arquitetura, blues e pizza deep dish.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/Chicago%20skyline%20from%20North%20Avenue%20Beach.jpg",
     },
@@ -538,7 +538,7 @@ const baseDestinations: Record<string, Destination[]> = {
       city: "Kitzbühel",
       title: "Kitzbühel",
       description:
-        "Um dos resorts de esqui mais famosos da Europa, Kitzbühel oferece luxo, tradição tirolesa e paisagens de tirar o f��lego durante o ano inteiro.",
+        "Um dos resorts de esqui mais famosos da Europa, Kitzbühel oferece luxo, tradição tirolesa e paisagens de tirar o fôlego durante o ano inteiro.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/Kitzbühel%20winter%20Austria.jpg",
     },
@@ -1204,7 +1204,7 @@ const baseDestinations: Record<string, Destination[]> = {
       city: "Snaefellsnes",
       title: "Snaefellsnes",
       description:
-        "Península que reúne o melhor da Islândia em um só lugar — vulcões, glaciares, praias negras e o ic��nico monte Kirkjufell, cartão-postal do país.",
+        "Península que reúne o melhor da Islândia em um só lugar — vulcões, glaciares, praias negras e o icônico monte Kirkjufell, cartão-postal do país.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/Kirkjufell%20mountain%20Iceland.jpg",
     },
@@ -1469,12 +1469,68 @@ const baseDestinations: Record<string, Destination[]> = {
       image: "https://commons.wikimedia.org/wiki/Special:FilePath/Saleaula%20lava%20fields%20Savai'i%20Samoa.jpg",
     },
   ],
+  Tonga: [
+    {
+      city: "Nuku'alofa",
+      title: "Nuku'alofa",
+      description: "A capital do Reino de Tonga, localizada na ilha de Tongatapu, é o centro político e cultural do país, com o Palácio Real, mercados locais e belas igrejas.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Nuku'alofa%20harbour%20Tonga.jpg",
+    },
+    {
+      city: "Ha'amonga 'a Maui Trilithon",
+      title: "Ha'amonga 'a Maui Trilithon",
+      description: "Monumento megalítico construído no século XIII, conhecido como o 'Stonehenge do Pacífico', símbolo da história e engenhosidade do antigo reino.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Ha'amonga%20'a%20Maui%20Trilithon%20Tonga.jpg",
+    },
+    {
+      city: "Ha'apai Islands",
+      title: "Ha'apai Islands",
+      description: "Arquipélago de ilhas praticamente intocadas, com praias desertas e águas ideais para mergulho e observação de baleias jubarte.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Ha'apai%20Islands%20Tonga.jpg",
+    },
+    {
+      city: "Vava'u Islands",
+      title: "Vava'u Islands",
+      description: "Famosas mundialmente por serem um dos melhores lugares do planeta para nadar com baleias jubarte, além de velejar e explorar cavernas marinhas.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Vava'u%20Islands%20Tonga.jpg",
+    },
+    {
+      city: "Tongatapu",
+      title: "Tongatapu",
+      description: "A principal ilha do país abriga ruínas antigas, praias incríveis e locais sagrados, sendo o coração histórico e espiritual de Tonga.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Tongatapu%20coast%20Tonga.jpg",
+    },
+    {
+      city: "Mapu'a 'a Vaea Blowholes",
+      title: "Mapu'a 'a Vaea Blowholes",
+      description: "Fenômeno natural impressionante onde jatos de água do mar são expelidos por buracos na costa, criando uma cena espetacular.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Mapu'a%20'a%20Vaea%20Blowholes%20Tonga.jpg",
+    },
+    {
+      city: "Eua Island",
+      title: "Eua Island",
+      description: "Uma das ilhas mais antigas do Pacífico, Eua é um refúgio natural de trilhas, falésias, cavernas e florestas tropicais.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Eua%20Island%20Tonga.jpg",
+    },
+    {
+      city: "Anahulu Cave",
+      title: "Anahulu Cave",
+      description: "Caverna impressionante com formações rochosas e uma piscina subterrânea de água doce, ideal para nadar em um ambiente único.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Anahulu%20Cave%20Tonga.jpg",
+    },
+    {
+      city: "Pangaimotu Island",
+      title: "Pangaimotu Island",
+      description: "Ilha próxima à capital, famosa por sua atmosfera relaxada, praias douradas e o icônico navio naufragado Royal Sunset.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Pangaimotu%20Island%20Tonga.jpg",
+    },
+  ],
   Spain: [
     {
       city: "Barcelona",
       title: "Barcelona",
       description:
-        "Cidade vibrante e artística, famosa pelas obras de Gaud��, como a Sagrada Família e o Parque Güell, além de praias e vida noturna intensa.",
+        "Cidade vibrante e artística, famosa pelas obras de Gaudí, como a Sagrada Família e o Parque Güell, além de praias e vida noturna intensa.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/Sagrada%20Familia%20Barcelona%20Spain.jpg",
     },
@@ -1678,7 +1734,7 @@ const baseDestinations: Record<string, Destination[]> = {
       city: "La Serena",
       title: "La Serena",
       description:
-        "Cidade litorânea histórica com belas praias, observatórios astron��micos e arquitetura colonial.",
+        "Cidade litorânea histórica com belas praias, observatórios astronômicos e arquitetura colonial.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/La%20Serena%20Coquimbo%20Chile.jpg",
     },
@@ -3164,7 +3220,7 @@ const baseDestinations: Record<string, Destination[]> = {
       city: "Placencia",
       title: "Placencia",
       description:
-        "Vilarejo costeiro famoso por suas praias e resorts à beira-mar, al��m de ser ótimo ponto para explorar ilhas próximas.",
+        "Vilarejo costeiro famoso por suas praias e resorts à beira-mar, além de ser ótimo ponto para explorar ilhas próximas.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/Placencia%20Belize.jpg",
     },
@@ -4250,7 +4306,7 @@ const baseDestinations: Record<string, Destination[]> = {
       city: "Phuket",
       title: "Phuket",
       description:
-        "A maior ilha da Tailândia e um dos principais destinos de praia do pa��s, com vida noturna vibrante e resorts luxuosos.",
+        "A maior ilha da Tailândia e um dos principais destinos de praia do país, com vida noturna vibrante e resorts luxuosos.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/Patong%20Beach%20Phuket%20Thailand.jpg",
     },
@@ -6540,7 +6596,7 @@ const extraRaw: {
       {
         name: "Monastério de Paro Taktsang (Ninho do Tigre)",
         description:
-          "Um mosteiro pendurado na falésia — espiritualidade e vistas arrebatadoras.",
+          "Um mosteiro pendurado na falésia ��� espiritualidade e vistas arrebatadoras.",
         image:
           "https://commons.wikimedia.org/wiki/Special:Search?search=Paro+Taktsang",
       },
@@ -7669,7 +7725,7 @@ export const countryDisplayName = (name: string) => {
     Egypt: "Egito",
     Kenya: "Quênia",
     Tanzania: "Tanzânia",
-    Tunisia: "Tun��sia",
+    Tunisia: "Tunísia",
     Namibia: "Namíbia",
     Seychelles: "Seicheles",
     "United Arab Emirates": "Emirados Árabes Unidos",
