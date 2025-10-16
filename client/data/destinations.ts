@@ -1917,6 +1917,62 @@ const baseDestinations: Record<string, Destination[]> = {
       image: "https://commons.wikimedia.org/wiki/Special:FilePath/North%20Tarawa%20Kiribati.jpg",
     },
   ],
+  "Marshall Islands": [
+    {
+      city: "Majuro Atoll",
+      title: "Majuro Atoll",
+      description: "A capital das Ilhas Marshall e principal porta de entrada do país. Majuro combina praias paradisíacas, vida local vibrante e ótimos pontos para mergulho e pesca.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Majuro%20Atoll%20Marshall%20Islands.jpg",
+    },
+    {
+      city: "Laura Beach (Majuro)",
+      title: "Laura Beach (Majuro)",
+      description: "A praia mais famosa de Majuro, conhecida por suas águas cristalinas, palmeiras e clima tranquilo — um refúgio popular entre moradores e visitantes.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Laura%20Beach%20Majuro%20Marshall%20Islands.jpg",
+    },
+    {
+      city: "Arno Atoll",
+      title: "Arno Atoll",
+      description: "Localizado próximo a Majuro, Arno é famoso por suas lagoas duplas e praias intocadas. Perfeito para mergulho, caiaque e imersão na vida insular tradicional.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Arno%20Atoll%20Marshall%20Islands.jpg",
+    },
+    {
+      city: "Bikini Atoll",
+      title: "Bikini Atoll",
+      description: "Patrimônio Mundial da UNESCO, Bikini é um destino lendário para mergulhadores, com destroços de navios de guerra e submarinos americanos usados em testes nucleares.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Bikini%20Atoll%20Lagoon%20Marshall%20Islands.jpg",
+    },
+    {
+      city: "Ailinglaplap Atoll",
+      title: "Ailinglaplap Atoll",
+      description: "Conhecido como o 'Coração das Marshall', o atol é famoso por sua beleza natural, tradições culturais e hospitalidade local.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Ailinglaplap%20Atoll%20Marshall%20Islands.jpg",
+    },
+    {
+      city: "Kwajalein Atoll",
+      title: "Kwajalein Atoll",
+      description: "Um dos maiores atóis do mundo, com história militar fascinante e lagoas de águas calmas ideais para esportes aquáticos e mergulho.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Kwajalein%20Atoll%20Marshall%20Islands.jpg",
+    },
+    {
+      city: "Likiep Atoll",
+      title: "Likiep Atoll",
+      description: "Um dos atóis mais pitorescos das Marshall, conhecido por sua arquitetura colonial alemã e praias de areia branca com recifes coloridos.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Likiep%20Atoll%20Marshall%20Islands.jpg",
+    },
+    {
+      city: "Jaluit Atoll",
+      title: "Jaluit Atoll",
+      description: "Antigo centro administrativo alemão e japonês, Jaluit possui ruínas históricas, vilas tradicionais e uma lagoa espetacular cercada por ilhotas.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Jaluit%20Atoll%20Marshall%20Islands.jpg",
+    },
+    {
+      city: "Mili Atoll",
+      title: "Mili Atoll",
+      description: "Famoso por suas paisagens remotas e águas claras, Mili é um destino isolado, ideal para quem busca tranquilidade e natureza intocada.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Mili%20Atoll%20Marshall%20Islands.jpg",
+    },
+  ],
   Spain: [
     {
       city: "Barcelona",
@@ -4040,7 +4096,7 @@ const baseDestinations: Record<string, Destination[]> = {
       city: "Bocas del Toro",
       title: "Bocas del Toro",
       description:
-        "Arquip��lago caribenho com praias paradisíacas, águas cristalinas e vida noturna descontraída.",
+        "Arquipélago caribenho com praias paradisíacas, águas cristalinas e vida noturna descontraída.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/Bocas%20del%20Toro%20Panama.jpg",
     },
@@ -5808,7 +5864,7 @@ const baseDestinations: Record<string, Destination[]> = {
       city: "Luxor",
       title: "Luxor",
       description:
-        "Conhecida como o maior museu a céu aberto do mundo, com templos grandiosos como Karnak e Luxor, além do Vale dos Reis.",
+        "Conhecida como o maior museu a céu aberto do mundo, com templos grandiosos como Karnak e Luxor, al��m do Vale dos Reis.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/Luxor%20Temple%20Egypt.jpg",
     },
