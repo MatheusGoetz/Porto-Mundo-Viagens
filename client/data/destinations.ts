@@ -538,7 +538,7 @@ const baseDestinations: Record<string, Destination[]> = {
       city: "Kitzbühel",
       title: "Kitzbühel",
       description:
-        "Um dos resorts de esqui mais famosos da Europa, Kitzb��hel oferece luxo, tradição tirolesa e paisagens de tirar o fôlego durante o ano inteiro.",
+        "Um dos resorts de esqui mais famosos da Europa, Kitzbühel oferece luxo, tradição tirolesa e paisagens de tirar o fôlego durante o ano inteiro.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/Kitzbühel%20winter%20Austria.jpg",
     },
@@ -794,7 +794,7 @@ const baseDestinations: Record<string, Destination[]> = {
       city: "Antuérpia (Antwerp)",
       title: "Antuérpia (Antwerp)",
       description:
-        "Capital mundial dos diamantes e ber��o de Rubens, Antuérpia é um centro artístico e de moda com arquitetura impressionante e uma vibe cosmopolita.",
+        "Capital mundial dos diamantes e berço de Rubens, Antuérpia é um centro artístico e de moda com arquitetura impressionante e uma vibe cosmopolita.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/Antwerp%20Cathedral%20of%20Our%20Lady.jpg",
     },
@@ -1479,7 +1479,7 @@ const baseDestinations: Record<string, Destination[]> = {
     {
       city: "Ha'amonga 'a Maui Trilithon",
       title: "Ha'amonga 'a Maui Trilithon",
-      description: "Monumento megalítico construído no século XIII, conhecido como o 'Stonehenge do Pacífico', símbolo da história e engenhosidade do antigo reino.",
+      description: "Monumento megalítico construído no século XIII, conhecido como o 'Stonehenge do Pacífico', símbolo da hist��ria e engenhosidade do antigo reino.",
       image: "https://commons.wikimedia.org/wiki/Special:FilePath/Ha'amonga%20'a%20Maui%20Trilithon%20Tonga.jpg",
     },
     {
@@ -1579,6 +1579,62 @@ const baseDestinations: Record<string, Destination[]> = {
       title: "Goroka",
       description: "Famosa pelo Goroka Show, festival cultural que celebra as tradições tribais com danças, pinturas corporais e trajes vibrantes.",
       image: "https://commons.wikimedia.org/wiki/Special:FilePath/Goroka%20Show%20Papua%20New%20Guinea.jpg",
+    },
+  ],
+  "Cook Islands": [
+    {
+      city: "Rarotonga",
+      title: "Rarotonga",
+      description: "A principal ilha e porta de entrada das Ilhas Cook, Rarotonga é cercada por recifes de coral, praias de areia branca e montanhas cobertas por floresta tropical — perfeita para caminhadas e mergulho.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Muri%20Beach%2C%20Rarotonga%2C%20Cook%20Islands.jpg",
+    },
+    {
+      city: "Aitutaki",
+      title: "Aitutaki",
+      description: "Conhecida por sua impressionante lagoa azul-turquesa e ilhotas paradisíacas, Aitutaki é um dos lugares mais belos do Pacífico Sul — ideal para lua de mel e mergulho com snorkel.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Aitutaki%20Lagoon%20Cook%20Islands.jpg",
+    },
+    {
+      city: "Atiu",
+      title: "Atiu",
+      description: "Ilha menos turística e cheia de charme natural, com cavernas de calcário, plantações de café e vilas tradicionais que preservam a cultura polinésia autêntica.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Atiu%20Cook%20Islands.jpg",
+    },
+    {
+      city: "Mangaia",
+      title: "Mangaia",
+      description: "Uma das ilhas mais antigas do Pacífico, Mangaia oferece paisagens dramáticas, cavernas de calcário e uma forte conexão com a herança cultural polinésia.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Mangaia%20Cook%20Islands%20coast.jpg",
+    },
+    {
+      city: "Mauke",
+      title: "Mauke",
+      description: "Chamada de “Ilha do Jardim”, Mauke encanta com suas flores tropicais, cavernas subterrâneas e atmosfera tranquila, ideal para quem busca isolamento e natureza.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Mauke%20Cook%20Islands.jpg",
+    },
+    {
+      city: "Mitiaro",
+      title: "Mitiaro",
+      description: "Uma pequena ilha de calcário com cavernas aquáticas cristalinas, lagoas interiores e hospitalidade polinésia autêntica — um verdadeiro refúgio remoto.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Mitiaro%20Cook%20Islands.jpg",
+    },
+    {
+      city: "Manihiki",
+      title: "Manihiki",
+      description: "Conhecida como a 'Ilha das Pérolas Negras', Manihiki é o centro da indústria de pérolas das Ilhas Cook, com lagoas profundas e mergulhos excepcionais.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Manihiki%20Lagoon%20Cook%20Islands.jpg",
+    },
+    {
+      city: "Penrhyn (Tongareva)",
+      title: "Penrhyn (Tongareva)",
+      description: "A maior lagoa das Ilhas Cook, Penrhyn é um paraíso intocado de ilhotas isoladas, recifes e águas translúcidas ideais para explorar de barco.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Penrhyn%20atoll%20Cook%20Islands.jpg",
+    },
+    {
+      city: "Palmerston",
+      title: "Palmerston",
+      description: "Uma ilha remota com uma comunidade única descendente de um único inglês e suas esposas polinésias — um destino raro e fascinante para aventureiros.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Palmerston%20Island%20Cook%20Islands.jpg",
     },
   ],
   Spain: [
@@ -2700,7 +2756,7 @@ const baseDestinations: Record<string, Destination[]> = {
       city: "Botanical Gardens",
       title: "Botanical Gardens",
       description:
-        "Jardins botânicos em Paget Parish, com flora tropical, esculturas e estufas.",
+        "Jardins bot��nicos em Paget Parish, com flora tropical, esculturas e estufas.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/Bermuda%20Botanical%20Gardens.jpg",
     },
@@ -2734,7 +2790,7 @@ const baseDestinations: Record<string, Destination[]> = {
       city: "Kangerlussuaq",
       title: "Kangerlussuaq",
       description:
-        "Ponto de acesso à calota de gelo da Groenl��ndia, ideal para trilhas e passeios sobre geleiras.",
+        "Ponto de acesso à calota de gelo da Groenlândia, ideal para trilhas e passeios sobre geleiras.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/Kangerlussuaq%20Greenland.jpg",
     },
@@ -5604,7 +5660,7 @@ const baseDestinations: Record<string, Destination[]> = {
       city: "Serengeti National Park",
       title: "Serengeti National Park",
       description:
-        "Um dos parques mais famosos do mundo, conhecido pela Grande Migração e pela abundância de le��es, leopardos e elefantes.",
+        "Um dos parques mais famosos do mundo, conhecido pela Grande Migração e pela abundância de leões, leopardos e elefantes.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/Serengeti%20National%20Park%20Tanzania.jpg",
     },
@@ -7041,7 +7097,7 @@ export const brazilRegionDestinations: Record<string, Destination[]> = {
     },
     {
       city: "Cidade de Goiás (Goiás Velho)",
-      title: "Cidade de Goi��s (Goiás Velho)",
+      title: "Cidade de Goiás (Goiás Velho)",
       description:
         "Patrimônio histórico com arquitetura colonial preservada e museus.",
       image:
