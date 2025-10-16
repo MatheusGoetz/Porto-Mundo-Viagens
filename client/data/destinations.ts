@@ -1361,728 +1361,962 @@ const baseDestinations: Record<string, Destination[]> = {
     {
       city: "Nadi",
       title: "Nadi",
-      description: "Principal porta de entrada de Fiji, Nadi combina praias paradisíacas, resorts luxuosos e o impressionante Templo Sri Siva Subramaniya, o maior templo hindu do Hemisfério Sul.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Nadi%20Beach%20Fiji.jpg",
+      description:
+        "Principal porta de entrada de Fiji, Nadi combina praias paradisíacas, resorts luxuosos e o impressionante Templo Sri Siva Subramaniya, o maior templo hindu do Hemisfério Sul.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Nadi%20Beach%20Fiji.jpg",
     },
     {
       city: "Ilhas Mamanuca",
       title: "Ilhas Mamanuca",
-      description: "Um arquipélago de pequenas ilhas com águas cristalinas e recifes ideais para mergulho e snorkel — cenário de filmes como ‘O Náufrago’.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Mamanuca%20Islands%20Fiji.jpg",
+      description:
+        "Um arquipélago de pequenas ilhas com águas cristalinas e recifes ideais para mergulho e snorkel — cenário de filmes como ‘O Náufrago’.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Mamanuca%20Islands%20Fiji.jpg",
     },
     {
       city: "Ilhas Yasawa",
       title: "Ilhas Yasawa",
-      description: "Famosas por suas praias intocadas e águas azul-turquesa, as Yasawa são perfeitas para quem busca isolamento, natureza e hospitalidade local.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Yasawa%20Islands%20Fiji.jpg",
+      description:
+        "Famosas por suas praias intocadas e águas azul-turquesa, as Yasawa são perfeitas para quem busca isolamento, natureza e hospitalidade local.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Yasawa%20Islands%20Fiji.jpg",
     },
     {
       city: "Suva",
       title: "Suva",
-      description: "A capital das Fiji, localizada na ilha de Viti Levu, mistura cultura, vida urbana e história — com museus, mercados e arquitetura colonial britânica.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Suva%20harbour%20Fiji.jpg",
+      description:
+        "A capital das Fiji, localizada na ilha de Viti Levu, mistura cultura, vida urbana e história — com museus, mercados e arquitetura colonial britânica.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Suva%20harbour%20Fiji.jpg",
     },
     {
       city: "Coral Coast",
       title: "Coral Coast",
-      description: "Faixa litorânea repleta de resorts, vilas tradicionais e recifes coloridos, ideal para mergulhadores e viajantes que buscam relaxamento e cultura.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Coral%20Coast%20Fiji.jpg",
+      description:
+        "Faixa litorânea repleta de resorts, vilas tradicionais e recifes coloridos, ideal para mergulhadores e viajantes que buscam relaxamento e cultura.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Coral%20Coast%20Fiji.jpg",
     },
     {
       city: "Taveuni",
       title: "Taveuni",
-      description: "Conhecida como a 'Ilha Jardim', Taveuni é um paraíso tropical de cachoeiras, florestas e trilhas, com destaque para o Bouma National Heritage Park.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Taveuni%20Island%20Fiji%20Bouma%20Falls.jpg",
+      description:
+        "Conhecida como a 'Ilha Jardim', Taveuni é um paraíso tropical de cachoeiras, florestas e trilhas, com destaque para o Bouma National Heritage Park.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Taveuni%20Island%20Fiji%20Bouma%20Falls.jpg",
     },
     {
       city: "Vanua Levu",
       title: "Vanua Levu",
-      description: "A segunda maior ilha de Fiji, com natureza exuberante, recifes de corais e uma atmosfera autêntica e menos turística.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Vanua%20Levu%20Fiji.jpg",
+      description:
+        "A segunda maior ilha de Fiji, com natureza exuberante, recifes de corais e uma atmosfera autêntica e menos turística.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Vanua%20Levu%20Fiji.jpg",
     },
     {
       city: "Pacific Harbour",
       title: "Pacific Harbour",
-      description: "Conhecido como o 'centro da aventura de Fiji', Pacific Harbour oferece mergulho com tubarões, rafting e muita adrenalina.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Pacific%20Harbour%20Fiji.jpg",
+      description:
+        "Conhecido como o 'centro da aventura de Fiji', Pacific Harbour oferece mergulho com tubarões, rafting e muita adrenalina.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Pacific%20Harbour%20Fiji.jpg",
     },
     {
       city: "Savusavu",
       title: "Savusavu",
-      description: "Um charmoso vilarejo costeiro famoso por suas fontes termais, recifes vibrantes e atmosfera relaxada de ilha tropical.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Savusavu%20harbour%20Fiji.jpg",
+      description:
+        "Um charmoso vilarejo costeiro famoso por suas fontes termais, recifes vibrantes e atmosfera relaxada de ilha tropical.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Savusavu%20harbour%20Fiji.jpg",
     },
   ],
   Samoa: [
     {
       city: "Apia",
       title: "Apia",
-      description: "A capital de Samoa, localizada na ilha de Upolu, mistura tradição e modernidade com mercados vibrantes, arquitetura colonial e o Museu Robert Louis Stevenson.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Apia%20harbour%20Samoa.jpg",
+      description:
+        "A capital de Samoa, localizada na ilha de Upolu, mistura tradição e modernidade com mercados vibrantes, arquitetura colonial e o Museu Robert Louis Stevenson.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Apia%20harbour%20Samoa.jpg",
     },
     {
       city: "To Sua Ocean Trench",
       title: "To Sua Ocean Trench",
-      description: "Uma das atrações mais icônicas de Samoa, esse buraco natural gigante forma uma piscina de água azul-turquesa cercada por vegetação tropical.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/To%20Sua%20Ocean%20Trench%20Samoa.jpg",
+      description:
+        "Uma das atrações mais icônicas de Samoa, esse buraco natural gigante forma uma piscina de água azul-turquesa cercada por vegetação tropical.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/To%20Sua%20Ocean%20Trench%20Samoa.jpg",
     },
     {
       city: "Lalomanu Beach",
       title: "Lalomanu Beach",
-      description: "Considerada uma das praias mais lindas do Pacífico Sul, Lalomanu encanta com suas águas cristalinas e atmosfera relaxante.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Lalomanu%20Beach%20Samoa.jpg",
+      description:
+        "Considerada uma das praias mais lindas do Pacífico Sul, Lalomanu encanta com suas águas cristalinas e atmosfera relaxante.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Lalomanu%20Beach%20Samoa.jpg",
     },
     {
       city: "Papaseea Sliding Rocks",
       title: "Papaseea Sliding Rocks",
-      description: "Formações rochosas naturais que funcionam como escorregadores, levando a piscinas refrescantes no meio da floresta tropical.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Papaseea%20Sliding%20Rocks%20Samoa.jpg",
+      description:
+        "Formações rochosas naturais que funcionam como escorregadores, levando a piscinas refrescantes no meio da floresta tropical.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Papaseea%20Sliding%20Rocks%20Samoa.jpg",
     },
     {
       city: "Piula Cave Pool",
       title: "Piula Cave Pool",
-      description: "Uma caverna subterrânea com águas cristalinas e sagradas, perfeita para mergulho e relaxamento.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Piula%20Cave%20Pool%20Samoa.jpg",
+      description:
+        "Uma caverna subterrânea com águas cristalinas e sagradas, perfeita para mergulho e relaxamento.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Piula%20Cave%20Pool%20Samoa.jpg",
     },
     {
       city: "Alofaaga Blowholes",
       title: "Alofaaga Blowholes",
-      description: "Impressionantes buracos naturais que jorram água do mar a vários metros de altura com a força das ondas.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Alofaaga%20Blowholes%20Savai'i%20Samoa.jpg",
+      description:
+        "Impressionantes buracos naturais que jorram água do mar a vários metros de altura com a força das ondas.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Alofaaga%20Blowholes%20Savai'i%20Samoa.jpg",
     },
     {
       city: "Togitogiga Waterfall",
       title: "Togitogiga Waterfall",
-      description: "Cachoeira pitoresca dentro do Parque Nacional O Le Pupu-Pu'e, cercada por florestas e trilhas exuberantes.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Togitogiga%20Waterfall%20Samoa.jpg",
+      description:
+        "Cachoeira pitoresca dentro do Parque Nacional O Le Pupu-Pu'e, cercada por florestas e trilhas exuberantes.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Togitogiga%20Waterfall%20Samoa.jpg",
     },
     {
       city: "Manono Island",
       title: "Manono Island",
-      description: "Ilha sem carros e com uma forte cultura local, ideal para imersão na vida tradicional samoana.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Manono%20Island%20Samoa.jpg",
+      description:
+        "Ilha sem carros e com uma forte cultura local, ideal para imersão na vida tradicional samoana.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Manono%20Island%20Samoa.jpg",
     },
     {
       city: "Saleaula Lava Fields",
       title: "Saleaula Lava Fields",
-      description: "Campos de lava solidificada de erupções antigas, onde ruínas de igrejas e aldeias contam a história da força da natureza.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Saleaula%20lava%20fields%20Savai'i%20Samoa.jpg",
+      description:
+        "Campos de lava solidificada de erupções antigas, onde ruínas de igrejas e aldeias contam a história da força da natureza.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Saleaula%20lava%20fields%20Savai'i%20Samoa.jpg",
     },
   ],
   Tonga: [
     {
       city: "Nuku'alofa",
       title: "Nuku'alofa",
-      description: "A capital do Reino de Tonga, localizada na ilha de Tongatapu, é o centro político e cultural do país, com o Palácio Real, mercados locais e belas igrejas.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Nuku'alofa%20harbour%20Tonga.jpg",
+      description:
+        "A capital do Reino de Tonga, localizada na ilha de Tongatapu, é o centro político e cultural do país, com o Palácio Real, mercados locais e belas igrejas.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Nuku'alofa%20harbour%20Tonga.jpg",
     },
     {
       city: "Ha'amonga 'a Maui Trilithon",
       title: "Ha'amonga 'a Maui Trilithon",
-      description: "Monumento megalítico construído no século XIII, conhecido como o 'Stonehenge do Pacífico', símbolo da história e engenhosidade do antigo reino.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Ha'amonga%20'a%20Maui%20Trilithon%20Tonga.jpg",
+      description:
+        "Monumento megalítico construído no século XIII, conhecido como o 'Stonehenge do Pacífico', símbolo da história e engenhosidade do antigo reino.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Ha'amonga%20'a%20Maui%20Trilithon%20Tonga.jpg",
     },
     {
       city: "Ha'apai Islands",
       title: "Ha'apai Islands",
-      description: "Arquipélago de ilhas praticamente intocadas, com praias desertas e águas ideais para mergulho e observação de baleias jubarte.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Ha'apai%20Islands%20Tonga.jpg",
+      description:
+        "Arquipélago de ilhas praticamente intocadas, com praias desertas e águas ideais para mergulho e observação de baleias jubarte.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Ha'apai%20Islands%20Tonga.jpg",
     },
     {
       city: "Vava'u Islands",
       title: "Vava'u Islands",
-      description: "Famosas mundialmente por serem um dos melhores lugares do planeta para nadar com baleias jubarte, além de velejar e explorar cavernas marinhas.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Vava'u%20Islands%20Tonga.jpg",
+      description:
+        "Famosas mundialmente por serem um dos melhores lugares do planeta para nadar com baleias jubarte, além de velejar e explorar cavernas marinhas.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Vava'u%20Islands%20Tonga.jpg",
     },
     {
       city: "Tongatapu",
       title: "Tongatapu",
-      description: "A principal ilha do país abriga ruínas antigas, praias incríveis e locais sagrados, sendo o coração histórico e espiritual de Tonga.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Tongatapu%20coast%20Tonga.jpg",
+      description:
+        "A principal ilha do país abriga ruínas antigas, praias incríveis e locais sagrados, sendo o coração histórico e espiritual de Tonga.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Tongatapu%20coast%20Tonga.jpg",
     },
     {
       city: "Mapu'a 'a Vaea Blowholes",
       title: "Mapu'a 'a Vaea Blowholes",
-      description: "Fenômeno natural impressionante onde jatos de água do mar são expelidos por buracos na costa, criando uma cena espetacular.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Mapu'a%20'a%20Vaea%20Blowholes%20Tonga.jpg",
+      description:
+        "Fenômeno natural impressionante onde jatos de água do mar são expelidos por buracos na costa, criando uma cena espetacular.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Mapu'a%20'a%20Vaea%20Blowholes%20Tonga.jpg",
     },
     {
       city: "Eua Island",
       title: "Eua Island",
-      description: "Uma das ilhas mais antigas do Pacífico, Eua é um refúgio natural de trilhas, falésias, cavernas e florestas tropicais.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Eua%20Island%20Tonga.jpg",
+      description:
+        "Uma das ilhas mais antigas do Pacífico, Eua é um refúgio natural de trilhas, falésias, cavernas e florestas tropicais.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Eua%20Island%20Tonga.jpg",
     },
     {
       city: "Anahulu Cave",
       title: "Anahulu Cave",
-      description: "Caverna impressionante com formações rochosas e uma piscina subterrânea de água doce, ideal para nadar em um ambiente único.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Anahulu%20Cave%20Tonga.jpg",
+      description:
+        "Caverna impressionante com formações rochosas e uma piscina subterrânea de água doce, ideal para nadar em um ambiente único.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Anahulu%20Cave%20Tonga.jpg",
     },
     {
       city: "Pangaimotu Island",
       title: "Pangaimotu Island",
-      description: "Ilha próxima à capital, famosa por sua atmosfera relaxada, praias douradas e o icônico navio naufragado Royal Sunset.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Pangaimotu%20Island%20Tonga.jpg",
+      description:
+        "Ilha próxima à capital, famosa por sua atmosfera relaxada, praias douradas e o icônico navio naufragado Royal Sunset.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Pangaimotu%20Island%20Tonga.jpg",
     },
   ],
   "Papua New Guinea": [
     {
       city: "Port Moresby",
       title: "Port Moresby",
-      description: "A capital e principal porta de entrada do país, Port Moresby mistura cultura local, mercados coloridos e o belo Parque Natural de Varirata.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Port%20Moresby%20aerial%20view.jpg",
+      description:
+        "A capital e principal porta de entrada do país, Port Moresby mistura cultura local, mercados coloridos e o belo Parque Natural de Varirata.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Port%20Moresby%20aerial%20view.jpg",
     },
     {
       city: "Kokoda Track",
       title: "Kokoda Track",
-      description: "Uma das trilhas mais lendárias do mundo, atravessando florestas tropicais e montanhas, repleta de história da Segunda Guerra Mundial.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Kokoda%20Track%20Papua%20New%20Guinea.jpg",
+      description:
+        "Uma das trilhas mais lendárias do mundo, atravessando florestas tropicais e montanhas, repleta de história da Segunda Guerra Mundial.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Kokoda%20Track%20Papua%20New%20Guinea.jpg",
     },
     {
       city: "Rabaul",
       title: "Rabaul",
-      description: "Cidade costeira na ilha de New Britain, conhecida por seus vulcões ativos, mergulho em naufrágios e paisagens dramáticas.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Rabaul%20Harbour%20Papua%20New%20Guinea.jpg",
+      description:
+        "Cidade costeira na ilha de New Britain, conhecida por seus vulcões ativos, mergulho em naufrágios e paisagens dramáticas.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Rabaul%20Harbour%20Papua%20New%20Guinea.jpg",
     },
     {
       city: "Mount Hagen",
       title: "Mount Hagen",
-      description: "Coração das terras altas, Mount Hagen é famoso por suas plantações de café, feiras tribais e o vibrante Mount Hagen Cultural Show.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Mount%20Hagen%20Cultural%20Show%20Papua%20New%20Guinea.jpg",
+      description:
+        "Coração das terras altas, Mount Hagen é famoso por suas plantações de café, feiras tribais e o vibrante Mount Hagen Cultural Show.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Mount%20Hagen%20Cultural%20Show%20Papua%20New%20Guinea.jpg",
     },
     {
       city: "Madang",
       title: "Madang",
-      description: "Cidade costeira charmosa, ideal para mergulho e snorkel, com recifes de corais coloridos, cavernas marinhas e lagos serenos.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Madang%20Harbour%20Papua%20New%20Guinea.jpg",
+      description:
+        "Cidade costeira charmosa, ideal para mergulho e snorkel, com recifes de corais coloridos, cavernas marinhas e lagos serenos.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Madang%20Harbour%20Papua%20New%20Guinea.jpg",
     },
     {
       city: "Tufi",
       title: "Tufi",
-      description: "Um paraíso isolado entre fiordes e colinas verdejantes, Tufi é conhecido por mergulhos espetaculares e vilas tradicionais.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Tufi%20fiord%20Papua%20New%20Guinea.jpg",
+      description:
+        "Um paraíso isolado entre fiordes e colinas verdejantes, Tufi é conhecido por mergulhos espetaculares e vilas tradicionais.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Tufi%20fiord%20Papua%20New%20Guinea.jpg",
     },
     {
       city: "Sepik River",
       title: "Sepik River",
-      description: "Um dos maiores rios do país, o Sepik é uma imersão cultural, com aldeias tradicionais e esculturas tribais únicas.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Sepik%20River%20Papua%20New%20Guinea.jpg",
+      description:
+        "Um dos maiores rios do país, o Sepik é uma imersão cultural, com aldeias tradicionais e esculturas tribais únicas.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Sepik%20River%20Papua%20New%20Guinea.jpg",
     },
     {
       city: "Alotau",
       title: "Alotau",
-      description: "Porta de entrada para as Ilhas Milne Bay, Alotau é perfeita para quem busca cultura, praias remotas e mergulho de nível mundial.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Alotau%20Milne%20Bay%20Papua%20New%20Guinea.jpg",
+      description:
+        "Porta de entrada para as Ilhas Milne Bay, Alotau é perfeita para quem busca cultura, praias remotas e mergulho de nível mundial.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Alotau%20Milne%20Bay%20Papua%20New%20Guinea.jpg",
     },
     {
       city: "Goroka",
       title: "Goroka",
-      description: "Famosa pelo Goroka Show, festival cultural que celebra as tradições tribais com danças, pinturas corporais e trajes vibrantes.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Goroka%20Show%20Papua%20New%20Guinea.jpg",
+      description:
+        "Famosa pelo Goroka Show, festival cultural que celebra as tradições tribais com danças, pinturas corporais e trajes vibrantes.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Goroka%20Show%20Papua%20New%20Guinea.jpg",
     },
   ],
   "Cook Islands": [
     {
       city: "Rarotonga",
       title: "Rarotonga",
-      description: "A principal ilha e porta de entrada das Ilhas Cook, Rarotonga é cercada por recifes de coral, praias de areia branca e montanhas cobertas por floresta tropical — perfeita para caminhadas e mergulho.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Muri%20Beach%2C%20Rarotonga%2C%20Cook%20Islands.jpg",
+      description:
+        "A principal ilha e porta de entrada das Ilhas Cook, Rarotonga é cercada por recifes de coral, praias de areia branca e montanhas cobertas por floresta tropical — perfeita para caminhadas e mergulho.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Muri%20Beach%2C%20Rarotonga%2C%20Cook%20Islands.jpg",
     },
     {
       city: "Aitutaki",
       title: "Aitutaki",
-      description: "Conhecida por sua impressionante lagoa azul-turquesa e ilhotas paradisíacas, Aitutaki é um dos lugares mais belos do Pacífico Sul — ideal para lua de mel e mergulho com snorkel.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Aitutaki%20Lagoon%20Cook%20Islands.jpg",
+      description:
+        "Conhecida por sua impressionante lagoa azul-turquesa e ilhotas paradisíacas, Aitutaki é um dos lugares mais belos do Pacífico Sul — ideal para lua de mel e mergulho com snorkel.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Aitutaki%20Lagoon%20Cook%20Islands.jpg",
     },
     {
       city: "Atiu",
       title: "Atiu",
-      description: "Ilha menos turística e cheia de charme natural, com cavernas de calcário, plantações de café e vilas tradicionais que preservam a cultura polinésia autêntica.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Atiu%20Cook%20Islands.jpg",
+      description:
+        "Ilha menos turística e cheia de charme natural, com cavernas de calcário, plantações de café e vilas tradicionais que preservam a cultura polinésia autêntica.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Atiu%20Cook%20Islands.jpg",
     },
     {
       city: "Mangaia",
       title: "Mangaia",
-      description: "Uma das ilhas mais antigas do Pacífico, Mangaia oferece paisagens dramáticas, cavernas de calcário e uma forte conexão com a herança cultural polinésia.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Mangaia%20Cook%20Islands%20coast.jpg",
+      description:
+        "Uma das ilhas mais antigas do Pacífico, Mangaia oferece paisagens dramáticas, cavernas de calcário e uma forte conexão com a herança cultural polinésia.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Mangaia%20Cook%20Islands%20coast.jpg",
     },
     {
       city: "Mauke",
       title: "Mauke",
-      description: "Chamada de “Ilha do Jardim”, Mauke encanta com suas flores tropicais, cavernas subterrâneas e atmosfera tranquila, ideal para quem busca isolamento e natureza.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Mauke%20Cook%20Islands.jpg",
+      description:
+        "Chamada de “Ilha do Jardim”, Mauke encanta com suas flores tropicais, cavernas subterrâneas e atmosfera tranquila, ideal para quem busca isolamento e natureza.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Mauke%20Cook%20Islands.jpg",
     },
     {
       city: "Mitiaro",
       title: "Mitiaro",
-      description: "Uma pequena ilha de calcário com cavernas aquáticas cristalinas, lagoas interiores e hospitalidade polinésia autêntica — um verdadeiro refúgio remoto.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Mitiaro%20Cook%20Islands.jpg",
+      description:
+        "Uma pequena ilha de calcário com cavernas aquáticas cristalinas, lagoas interiores e hospitalidade polinésia autêntica — um verdadeiro refúgio remoto.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Mitiaro%20Cook%20Islands.jpg",
     },
     {
       city: "Manihiki",
       title: "Manihiki",
-      description: "Conhecida como a 'Ilha das Pérolas Negras', Manihiki é o centro da indústria de pérolas das Ilhas Cook, com lagoas profundas e mergulhos excepcionais.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Manihiki%20Lagoon%20Cook%20Islands.jpg",
+      description:
+        "Conhecida como a 'Ilha das Pérolas Negras', Manihiki é o centro da indústria de pérolas das Ilhas Cook, com lagoas profundas e mergulhos excepcionais.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Manihiki%20Lagoon%20Cook%20Islands.jpg",
     },
     {
       city: "Penrhyn (Tongareva)",
       title: "Penrhyn (Tongareva)",
-      description: "A maior lagoa das Ilhas Cook, Penrhyn é um paraíso intocado de ilhotas isoladas, recifes e águas translúcidas ideais para explorar de barco.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Penrhyn%20atoll%20Cook%20Islands.jpg",
+      description:
+        "A maior lagoa das Ilhas Cook, Penrhyn é um paraíso intocado de ilhotas isoladas, recifes e águas translúcidas ideais para explorar de barco.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Penrhyn%20atoll%20Cook%20Islands.jpg",
     },
     {
       city: "Palmerston",
       title: "Palmerston",
-      description: "Uma ilha remota com uma comunidade única descendente de um único inglês e suas esposas polinésias — um destino raro e fascinante para aventureiros.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Palmerston%20Island%20Cook%20Islands.jpg",
+      description:
+        "Uma ilha remota com uma comunidade única descendente de um único inglês e suas esposas polinésias — um destino raro e fascinante para aventureiros.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Palmerston%20Island%20Cook%20Islands.jpg",
     },
   ],
   Vanuatu: [
     {
       city: "Port Vila (Efate)",
       title: "Port Vila (Efate)",
-      description: "A capital de Vanuatu e principal porta de entrada do país. Port Vila combina paisagens tropicais, mercados locais vibrantes e resorts à beira-mar, com uma vista incrível da Baía de Mele.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Port%20Vila%20Harbour%20Vanuatu.jpg",
+      description:
+        "A capital de Vanuatu e principal porta de entrada do país. Port Vila combina paisagens tropicais, mercados locais vibrantes e resorts à beira-mar, com uma vista incrível da Baía de Mele.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Port%20Vila%20Harbour%20Vanuatu.jpg",
     },
     {
       city: "Ilha de Espiritu Santo",
       title: "Ilha de Espiritu Santo",
-      description: "A maior ilha do arquipélago, famosa por suas praias imaculadas como Champagne Beach e pelas cavernas subaquáticas do Blue Hole — um paraíso para mergulhadores e aventureiros.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Champagne%20Beach%20Espiritu%20Santo%20Vanuatu.jpg",
+      description:
+        "A maior ilha do arquipélago, famosa por suas praias imaculadas como Champagne Beach e pelas cavernas subaquáticas do Blue Hole — um paraíso para mergulhadores e aventureiros.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Champagne%20Beach%20Espiritu%20Santo%20Vanuatu.jpg",
     },
     {
       city: "Monte Yasur (Tanna)",
       title: "Monte Yasur (Tanna)",
-      description: "Um dos vulcões mais acessíveis do mundo, o Monte Yasur oferece uma experiência única de observar erupções ativas de perto — um espetáculo natural impressionante.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Mount%20Yasur%20eruption%20Vanuatu.jpg",
+      description:
+        "Um dos vulcões mais acessíveis do mundo, o Monte Yasur oferece uma experiência única de observar erupções ativas de perto — um espetáculo natural impressionante.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Mount%20Yasur%20eruption%20Vanuatu.jpg",
     },
     {
       city: "Ilha de Tanna",
       title: "Ilha de Tanna",
-      description: "Além do vulcão Yasur, Tanna é lar de vilas tradicionais, florestas tropicais e praias isoladas. Um mergulho profundo na cultura e natureza de Vanuatu.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Tanna%20Island%20Vanuatu.jpg",
+      description:
+        "Além do vulcão Yasur, Tanna é lar de vilas tradicionais, florestas tropicais e praias isoladas. Um mergulho profundo na cultura e natureza de Vanuatu.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Tanna%20Island%20Vanuatu.jpg",
     },
     {
       city: "Champagne Beach",
       title: "Champagne Beach",
-      description: "Com areia branca e águas azul-turquesa que literalmente borbulham como champanhe devido às bolhas vulcânicas, esta praia é uma das mais belas do Pacífico Sul.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Champagne%20Beach%20Vanuatu.jpg",
+      description:
+        "Com areia branca e águas azul-turquesa que literalmente borbulham como champanhe devido às bolhas vulcânicas, esta praia é uma das mais belas do Pacífico Sul.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Champagne%20Beach%20Vanuatu.jpg",
     },
     {
       city: "Ilha de Pentecost",
       title: "Ilha de Pentecost",
-      description: "Famosa por suas cerimônias de salto de torre (land diving), consideradas precursoras do bungee jump, e pela rica cultura tradicional preservada pelos nativos locais.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Pentecost%20Island%20land%20diving%20Vanuatu.jpg",
+      description:
+        "Famosa por suas cerimônias de salto de torre (land diving), consideradas precursoras do bungee jump, e pela rica cultura tradicional preservada pelos nativos locais.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Pentecost%20Island%20land%20diving%20Vanuatu.jpg",
     },
     {
       city: "Ilha de Malekula",
       title: "Ilha de Malekula",
-      description: "Conhecida por suas tribos tradicionais, trilhas selvagens e vilas culturais que mostram o estilo de vida melanesiano autêntico. Ideal para ecoturismo e imersão cultural.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Malekula%20Island%20Vanuatu.jpg",
+      description:
+        "Conhecida por suas tribos tradicionais, trilhas selvagens e vilas culturais que mostram o estilo de vida melanesiano autêntico. Ideal para ecoturismo e imersão cultural.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Malekula%20Island%20Vanuatu.jpg",
     },
     {
       city: "Blue Holes de Espiritu Santo",
       title: "Blue Holes de Espiritu Santo",
-      description: "Piscinas naturais de águas cristalinas e azuladas, cercadas por florestas tropicais, perfeitas para nadar, mergulhar e relaxar em meio à natureza.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Blue%20Hole%20Espiritu%20Santo%20Vanuatu.jpg",
+      description:
+        "Piscinas naturais de águas cristalinas e azuladas, cercadas por florestas tropicais, perfeitas para nadar, mergulhar e relaxar em meio à natureza.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Blue%20Hole%20Espiritu%20Santo%20Vanuatu.jpg",
     },
     {
       city: "Mele Cascades",
       title: "Mele Cascades",
-      description: "Uma série de belas cachoeiras próximas a Port Vila, onde é possível nadar em piscinas naturais e curtir um cenário de selva exuberante.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Mele%20Cascades%20Vanuatu.jpg",
+      description:
+        "Uma série de belas cachoeiras próximas a Port Vila, onde é possível nadar em piscinas naturais e curtir um cenário de selva exuberante.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Mele%20Cascades%20Vanuatu.jpg",
     },
   ],
   Palau: [
     {
       city: "Rock Islands (Ilhas de Rocha)",
       title: "Rock Islands (Ilhas de Rocha)",
-      description: "Um dos maiores cartões-postais de Palau, as Rock Islands são formações de calcário cobertas de vegetação, cercadas por águas azul-turquesa ideais para caiaque, mergulho e snorkel.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Rock%20Islands%20Palau.jpg",
+      description:
+        "Um dos maiores cartões-postais de Palau, as Rock Islands são formações de calcário cobertas de vegetação, cercadas por águas azul-turquesa ideais para caiaque, mergulho e snorkel.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Rock%20Islands%20Palau.jpg",
     },
     {
       city: "Jellyfish Lake",
       title: "Jellyfish Lake",
-      description: "Um lago marinho único onde milhares de águas-vivas inofensivas nadam livremente — proporcionando uma das experiências de mergulho mais surreais do planeta.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Jellyfish%20Lake%20Palau.jpg",
+      description:
+        "Um lago marinho único onde milhares de águas-vivas inofensivas nadam livremente — proporcionando uma das experiências de mergulho mais surreais do planeta.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Jellyfish%20Lake%20Palau.jpg",
     },
     {
       city: "Koror",
       title: "Koror",
-      description: "Principal centro urbano de Palau, Koror oferece museus, resorts, restaurantes e acesso fácil às ilhas vizinhas, sendo o ponto de partida para a maioria das aventuras no arquipélago.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Koror%20City%20Palau.jpg",
+      description:
+        "Principal centro urbano de Palau, Koror oferece museus, resorts, restaurantes e acesso fácil às ilhas vizinhas, sendo o ponto de partida para a maioria das aventuras no arquipélago.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Koror%20City%20Palau.jpg",
     },
     {
       city: "Blue Corner",
       title: "Blue Corner",
-      description: "Considerado um dos melhores pontos de mergulho do mundo, o Blue Corner é famoso pela abundância de tubarões, cardumes coloridos e corais vibrantes.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Blue%20Corner%20Palau.jpg",
+      description:
+        "Considerado um dos melhores pontos de mergulho do mundo, o Blue Corner é famoso pela abundância de tubarões, cardumes coloridos e corais vibrantes.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Blue%20Corner%20Palau.jpg",
     },
     {
       city: "Ngardmau Waterfall",
       title: "Ngardmau Waterfall",
-      description: "A maior cachoeira de Palau, cercada por floresta tropical densa e trilhas naturais, perfeita para quem busca aventura e contato direto com a natureza.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Ngardmau%20Waterfall%20Palau.jpg",
+      description:
+        "A maior cachoeira de Palau, cercada por floresta tropical densa e trilhas naturais, perfeita para quem busca aventura e contato direto com a natureza.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Ngardmau%20Waterfall%20Palau.jpg",
     },
     {
       city: "German Channel",
       title: "German Channel",
-      description: "Canal artificial criado durante a ocupação alemã, hoje um hotspot de mergulho onde é possível avistar arraias-jamanta e uma rica vida marinha.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/German%20Channel%20Palau.jpg",
+      description:
+        "Canal artificial criado durante a ocupação alemã, hoje um hotspot de mergulho onde é possível avistar arraias-jamanta e uma rica vida marinha.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/German%20Channel%20Palau.jpg",
     },
     {
       city: "Milky Way Lagoon",
       title: "Milky Way Lagoon",
-      description: "Uma lagoa natural com águas esverdeadas e fundo de calcário branco, famoso por seu ‘banho de lama’ rejuvenescedor — um spa natural no meio do oceano.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Milky%20Way%20Lagoon%20Palau.jpg",
+      description:
+        "Uma lagoa natural com águas esverdeadas e fundo de calcário branco, famoso por seu ‘banho de lama’ rejuvenescedor — um spa natural no meio do oceano.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Milky%20Way%20Lagoon%20Palau.jpg",
     },
     {
       city: "Peleliu Island",
       title: "Peleliu Island",
-      description: "Conhecida por sua importância histórica na Segunda Guerra Mundial, a ilha de Peleliu abriga memoriais, ruínas e belas praias tranquilas.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Peleliu%20Island%20Palau.jpg",
+      description:
+        "Conhecida por sua importância histórica na Segunda Guerra Mundial, a ilha de Peleliu abriga memoriais, ruínas e belas praias tranquilas.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Peleliu%20Island%20Palau.jpg",
     },
     {
       city: "Long Beach (Koror)",
       title: "Long Beach (Koror)",
-      description: "Uma das praias mais icônicas de Palau, famosa por aparecer apenas durante a maré baixa, formando uma faixa de areia que conecta pequenas ilhas em meio às águas cristalinas.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Long%20Beach%20Rock%20Islands%20Palau.jpg",
+      description:
+        "Uma das praias mais icônicas de Palau, famosa por aparecer apenas durante a maré baixa, formando uma faixa de areia que conecta pequenas ilhas em meio às águas cristalinas.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Long%20Beach%20Rock%20Islands%20Palau.jpg",
     },
   ],
   "Federated States of Micronesia": [
     {
       city: "Nan Madol (Pohnpei)",
       title: "Nan Madol (Pohnpei)",
-      description: "Conhecida como a 'Veneza do Pacífico', Nan Madol é uma antiga cidade construída sobre pequenas ilhotas artificiais, com ruínas de pedra e canais misteriosos que datam do século XIII.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Nan%20Madol%20Pohnpei.jpg",
+      description:
+        "Conhecida como a 'Veneza do Pacífico', Nan Madol é uma antiga cidade construída sobre pequenas ilhotas artificiais, com ruínas de pedra e canais misteriosos que datam do século XIII.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Nan%20Madol%20Pohnpei.jpg",
     },
     {
       city: "Pohnpei Island",
       title: "Pohnpei Island",
-      description: "A ilha mais verde e montanhosa da Micronésia, lar de cachoeiras exuberantes, florestas tropicais e locais históricos, além de uma cultura vibrante e acolhedora.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Pohnpei%20Island%20Micronesia.jpg",
+      description:
+        "A ilha mais verde e montanhosa da Micronésia, lar de cachoeiras exuberantes, florestas tropicais e locais históricos, além de uma cultura vibrante e acolhedora.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Pohnpei%20Island%20Micronesia.jpg",
     },
     {
       city: "Sokehs Rock (Pohnpei)",
       title: "Sokehs Rock (Pohnpei)",
-      description: "Uma impressionante formação rochosa que lembra uma montanha gigante emergindo da selva — ponto de trilha popular com vistas panorâmicas de Pohnpei.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Sokehs%20Rock%20Pohnpei.jpg",
+      description:
+        "Uma impressionante formação rochosa que lembra uma montanha gigante emergindo da selva — ponto de trilha popular com vistas panorâmicas de Pohnpei.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Sokehs%20Rock%20Pohnpei.jpg",
     },
     {
       city: "Chuuk Lagoon",
       title: "Chuuk Lagoon",
-      description: "Um dos destinos de mergulho mais famosos do mundo, repleto de destroços de navios e aviões japoneses da Segunda Guerra Mundial, agora transformados em recifes artificiais.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Chuuk%20Lagoon%20Micronesia.jpg",
+      description:
+        "Um dos destinos de mergulho mais famosos do mundo, repleto de destroços de navios e aviões japoneses da Segunda Guerra Mundial, agora transformados em recifes artificiais.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Chuuk%20Lagoon%20Micronesia.jpg",
     },
     {
       city: "Yap Island",
       title: "Yap Island",
-      description: "Conhecida por suas tradições culturais e pela moeda de pedra gigante chamada 'rai stones', Yap também oferece excelentes locais de mergulho e snorkel.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Yap%20Island%20Micronesia.jpg",
+      description:
+        "Conhecida por suas tradições culturais e pela moeda de pedra gigante chamada 'rai stones', Yap também oferece excelentes locais de mergulho e snorkel.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Yap%20Island%20Micronesia.jpg",
     },
     {
       city: "Colonia (Yap)",
       title: "Colonia (Yap)",
-      description: "A pequena capital de Yap combina cultura local, mercados tradicionais e acesso a belas praias e vilas preservadas.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Colonia%20Yap%20Micronesia.jpg",
+      description:
+        "A pequena capital de Yap combina cultura local, mercados tradicionais e acesso a belas praias e vilas preservadas.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Colonia%20Yap%20Micronesia.jpg",
     },
     {
       city: "Kosrae Island",
       title: "Kosrae Island",
-      description: "A ilha mais oriental da Micronésia é um refúgio de tranquilidade com montanhas cobertas de floresta tropical, recifes intocados e sítios arqueológicos antigos.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Kosrae%20Island%20Micronesia.jpg",
+      description:
+        "A ilha mais oriental da Micronésia é um refúgio de tranquilidade com montanhas cobertas de floresta tropical, recifes intocados e sítios arqueológicos antigos.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Kosrae%20Island%20Micronesia.jpg",
     },
     {
       city: "Utwe-Walung Marine Park (Kosrae)",
       title: "Utwe-Walung Marine Park (Kosrae)",
-      description: "Uma reserva marinha espetacular, perfeita para caiaque e mergulho entre manguezais, corais e cardumes coloridos em águas cristalinas.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Utwe%20Walung%20Marine%20Park%20Kosrae.jpg",
+      description:
+        "Uma reserva marinha espetacular, perfeita para caiaque e mergulho entre manguezais, corais e cardumes coloridos em águas cristalinas.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Utwe%20Walung%20Marine%20Park%20Kosrae.jpg",
     },
     {
       city: "Ant Atoll (Pohnpei)",
       title: "Ant Atoll (Pohnpei)",
-      description: "Um atol isolado e protegido pela UNESCO, com lagoas turquesa e vida marinha abundante — considerado um dos locais mais intocados do Pacífico.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Ant%20Atoll%20Pohnpei%20Micronesia.jpg",
+      description:
+        "Um atol isolado e protegido pela UNESCO, com lagoas turquesa e vida marinha abundante — considerado um dos locais mais intocados do Pacífico.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Ant%20Atoll%20Pohnpei%20Micronesia.jpg",
     },
   ],
   Nauru: [
     {
       city: "Baía de Anibare",
       title: "Baía de Anibare",
-      description: "Uma das áreas mais belas e tranquilas de Nauru, com praia de areia branca e mar azul-turquesa, perfeita para nadar, relaxar e apreciar o nascer do sol.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Anibare%20Bay%20Nauru.jpg",
+      description:
+        "Uma das áreas mais belas e tranquilas de Nauru, com praia de areia branca e mar azul-turquesa, perfeita para nadar, relaxar e apreciar o nascer do sol.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Anibare%20Bay%20Nauru.jpg",
     },
     {
       city: "Comand Ridge",
       title: "Comand Ridge",
-      description: "O ponto mais alto da ilha, oferecendo vistas panorâmicas de Nauru. Também abriga bunkers e artefatos da Segunda Guerra Mundial, testemunhos do passado histórico do país.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Command%20Ridge%20Nauru.jpg",
+      description:
+        "O ponto mais alto da ilha, oferecendo vistas panorâmicas de Nauru. Também abriga bunkers e artefatos da Segunda Guerra Mundial, testemunhos do passado histórico do país.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Command%20Ridge%20Nauru.jpg",
     },
     {
       city: "Lago Buada",
       title: "Lago Buada",
-      description: "Um lago interior cercado por vegetação tropical densa, localizado em uma antiga cratera de fosfato. Um oásis verde no coração da ilha.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Buada%20Lagoon%20Nauru.jpg",
+      description:
+        "Um lago interior cercado por vegetação tropical densa, localizado em uma antiga cratera de fosfato. Um oásis verde no coração da ilha.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Buada%20Lagoon%20Nauru.jpg",
     },
     {
       city: "District of Aiwo",
       title: "District of Aiwo",
-      description: "Centro industrial e portuário de Nauru, onde é possível ver de perto a história da mineração de fosfato e visitar áreas urbanas movimentadas da ilha.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Aiwo%20District%20Nauru.jpg",
+      description:
+        "Centro industrial e portuário de Nauru, onde é possível ver de perto a história da mineração de fosfato e visitar áreas urbanas movimentadas da ilha.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Aiwo%20District%20Nauru.jpg",
     },
     {
       city: "Centro de Governo de Yaren",
       title: "Centro de Governo de Yaren",
-      description: "Embora Nauru não tenha uma capital oficial, Yaren é o centro administrativo e político, com edifícios governamentais, o aeroporto e marcos nacionais.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Yaren%20District%20Nauru.jpg",
+      description:
+        "Embora Nauru não tenha uma capital oficial, Yaren é o centro administrativo e político, com edifícios governamentais, o aeroporto e marcos nacionais.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Yaren%20District%20Nauru.jpg",
     },
     {
       city: "Tribo de Meneng",
       title: "Tribo de Meneng",
-      description: "Região costeira com belas praias e pousadas locais, ideal para quem quer experimentar a hospitalidade nauruana e aproveitar o mar calmo do Pacífico.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Meneng%20District%20Nauru.jpg",
+      description:
+        "Região costeira com belas praias e pousadas locais, ideal para quem quer experimentar a hospitalidade nauruana e aproveitar o mar calmo do Pacífico.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Meneng%20District%20Nauru.jpg",
     },
     {
       city: "Topside Plateau",
       title: "Topside Plateau",
-      description: "Área central da ilha coberta por formações de calcário e antigas minas de fosfato, oferecendo uma visão única da geografia e história ambiental de Nauru.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Topside%20Plateau%20Nauru.jpg",
+      description:
+        "Área central da ilha coberta por formações de calcário e antigas minas de fosfato, oferecendo uma visão única da geografia e história ambiental de Nauru.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Topside%20Plateau%20Nauru.jpg",
     },
     {
       city: "Baía de Anetan",
       title: "Baía de Anetan",
-      description: "Local tranquilo e menos visitado ao norte da ilha, ótimo para contemplar o pôr do sol e observar aves marinhas locais.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Anetan%20District%20Nauru.jpg",
+      description:
+        "Local tranquilo e menos visitado ao norte da ilha, ótimo para contemplar o pôr do sol e observar aves marinhas locais.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Anetan%20District%20Nauru.jpg",
     },
     {
       city: "Trilha Cênica ao Redor da Ilha",
       title: "Trilha Cênica ao Redor da Ilha",
-      description: "Com apenas 19 km de circunferência, é possível percorrer toda Nauru de bicicleta ou carro, explorando praias, vilas e paisagens tropicais em um único dia.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Nauru%20Coastal%20Road.jpg",
+      description:
+        "Com apenas 19 km de circunferência, é possível percorrer toda Nauru de bicicleta ou carro, explorando praias, vilas e paisagens tropicais em um único dia.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Nauru%20Coastal%20Road.jpg",
     },
   ],
   Kiribati: [
     {
       city: "Ilha de Tarawa (South Tarawa)",
       title: "Ilha de Tarawa (South Tarawa)",
-      description: "Centro político e econômico de Kiribati, South Tarawa mistura vida local, história da Segunda Guerra Mundial e belas lagoas azul-turquesa. É o ponto de partida para explorar o país.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/South%20Tarawa%20Kiribati.jpg",
+      description:
+        "Centro político e econômico de Kiribati, South Tarawa mistura vida local, história da Segunda Guerra Mundial e belas lagoas azul-turquesa. É o ponto de partida para explorar o país.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/South%20Tarawa%20Kiribati.jpg",
     },
     {
       city: "Betio",
       title: "Betio",
-      description: "Local histórico da Batalha de Tarawa, Betio abriga memoriais de guerra, destroços navais e artefatos da Segunda Guerra Mundial, além de uma atmosfera vibrante e urbana.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Betio%20Island%20Tarawa%20Kiribati.jpg",
+      description:
+        "Local histórico da Batalha de Tarawa, Betio abriga memoriais de guerra, destroços navais e artefatos da Segunda Guerra Mundial, além de uma atmosfera vibrante e urbana.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Betio%20Island%20Tarawa%20Kiribati.jpg",
     },
     {
       city: "Atol de Abaiang",
       title: "Atol de Abaiang",
-      description: "Um paraíso natural ao norte de Tarawa, famoso por suas lagoas serenas, vilas tradicionais e experiências autênticas de vida insular.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Abaiang%20Atoll%20Kiribati.jpg",
+      description:
+        "Um paraíso natural ao norte de Tarawa, famoso por suas lagoas serenas, vilas tradicionais e experiências autênticas de vida insular.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Abaiang%20Atoll%20Kiribati.jpg",
     },
     {
       city: "Atol de Butaritari",
       title: "Atol de Butaritari",
-      description: "Conhecido por sua vegetação exuberante, praias tranquilas e relevância histórica durante a Segunda Guerra Mundial. Ideal para relaxar e mergulhar na cultura local.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Butaritari%20Atoll%20Kiribati.jpg",
+      description:
+        "Conhecido por sua vegetação exuberante, praias tranquilas e relevância histórica durante a Segunda Guerra Mundial. Ideal para relaxar e mergulhar na cultura local.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Butaritari%20Atoll%20Kiribati.jpg",
     },
     {
       city: "Atol de Kiritimati (Christmas Island)",
       title: "Atol de Kiritimati (Christmas Island)",
-      description: "A maior ilha de coral do mundo e destino famoso para pesca esportiva, observação de aves e mergulho. Também é um dos primeiros lugares do planeta a ver o nascer do Ano Novo.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Kiritimati%20Island%20Kiribati.jpg",
+      description:
+        "A maior ilha de coral do mundo e destino famoso para pesca esportiva, observação de aves e mergulho. Também é um dos primeiros lugares do planeta a ver o nascer do Ano Novo.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Kiritimati%20Island%20Kiribati.jpg",
     },
     {
       city: "Atol de Fanning (Tabuaeran)",
       title: "Atol de Fanning (Tabuaeran)",
-      description: "Conhecido por suas águas cristalinas e recifes preservados, é um refúgio remoto e pacífico, perfeito para snorkeling e contato com a natureza pura.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Fanning%20Island%20Kiribati.jpg",
+      description:
+        "Conhecido por suas águas cristalinas e recifes preservados, é um refúgio remoto e pacífico, perfeito para snorkeling e contato com a natureza pura.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Fanning%20Island%20Kiribati.jpg",
     },
     {
       city: "Atol de Arorae",
       title: "Atol de Arorae",
-      description: "A ilha mais meridional de Kiribati, famosa por suas tradições culturais, danças e artesanato local, além de vistas espetaculares do pôr do sol.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Arorae%20Island%20Kiribati.jpg",
+      description:
+        "A ilha mais meridional de Kiribati, famosa por suas tradições culturais, danças e artesanato local, além de vistas espetaculares do pôr do sol.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Arorae%20Island%20Kiribati.jpg",
     },
     {
       city: "Atol de Marakei",
       title: "Atol de Marakei",
-      description: "Ilha circular encantadora cercada por lagoas e vilas pacíficas, conhecida por seus rituais tradicionais de boas-vindas e hospitalidade calorosa.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Marakei%20Atoll%20Kiribati.jpg",
+      description:
+        "Ilha circular encantadora cercada por lagoas e vilas pacíficas, conhecida por seus rituais tradicionais de boas-vindas e hospitalidade calorosa.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Marakei%20Atoll%20Kiribati.jpg",
     },
     {
       city: "Atol de Tarawa Norte",
       title: "Atol de Tarawa Norte",
-      description: "Região mais tranquila e rural da ilha principal, ideal para quem busca praias desertas, aldeias autênticas e uma imersão completa na vida local.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/North%20Tarawa%20Kiribati.jpg",
+      description:
+        "Região mais tranquila e rural da ilha principal, ideal para quem busca praias desertas, aldeias autênticas e uma imersão completa na vida local.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/North%20Tarawa%20Kiribati.jpg",
     },
   ],
   "Marshall Islands": [
     {
       city: "Majuro Atoll",
       title: "Majuro Atoll",
-      description: "A capital das Ilhas Marshall e principal porta de entrada do país. Majuro combina praias paradisíacas, vida local vibrante e ótimos pontos para mergulho e pesca.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Majuro%20Atoll%20Marshall%20Islands.jpg",
+      description:
+        "A capital das Ilhas Marshall e principal porta de entrada do país. Majuro combina praias paradisíacas, vida local vibrante e ótimos pontos para mergulho e pesca.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Majuro%20Atoll%20Marshall%20Islands.jpg",
     },
     {
       city: "Laura Beach (Majuro)",
       title: "Laura Beach (Majuro)",
-      description: "A praia mais famosa de Majuro, conhecida por suas águas cristalinas, palmeiras e clima tranquilo — um refúgio popular entre moradores e visitantes.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Laura%20Beach%20Majuro%20Marshall%20Islands.jpg",
+      description:
+        "A praia mais famosa de Majuro, conhecida por suas águas cristalinas, palmeiras e clima tranquilo — um refúgio popular entre moradores e visitantes.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Laura%20Beach%20Majuro%20Marshall%20Islands.jpg",
     },
     {
       city: "Arno Atoll",
       title: "Arno Atoll",
-      description: "Localizado próximo a Majuro, Arno é famoso por suas lagoas duplas e praias intocadas. Perfeito para mergulho, caiaque e imersão na vida insular tradicional.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Arno%20Atoll%20Marshall%20Islands.jpg",
+      description:
+        "Localizado próximo a Majuro, Arno é famoso por suas lagoas duplas e praias intocadas. Perfeito para mergulho, caiaque e imersão na vida insular tradicional.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Arno%20Atoll%20Marshall%20Islands.jpg",
     },
     {
       city: "Bikini Atoll",
       title: "Bikini Atoll",
-      description: "Patrimônio Mundial da UNESCO, Bikini é um destino lendário para mergulhadores, com destroços de navios de guerra e submarinos americanos usados em testes nucleares.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Bikini%20Atoll%20Lagoon%20Marshall%20Islands.jpg",
+      description:
+        "Patrimônio Mundial da UNESCO, Bikini é um destino lendário para mergulhadores, com destroços de navios de guerra e submarinos americanos usados em testes nucleares.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Bikini%20Atoll%20Lagoon%20Marshall%20Islands.jpg",
     },
     {
       city: "Ailinglaplap Atoll",
       title: "Ailinglaplap Atoll",
-      description: "Conhecido como o 'Coração das Marshall', o atol é famoso por sua beleza natural, tradições culturais e hospitalidade local.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Ailinglaplap%20Atoll%20Marshall%20Islands.jpg",
+      description:
+        "Conhecido como o 'Coração das Marshall', o atol é famoso por sua beleza natural, tradições culturais e hospitalidade local.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Ailinglaplap%20Atoll%20Marshall%20Islands.jpg",
     },
     {
       city: "Kwajalein Atoll",
       title: "Kwajalein Atoll",
-      description: "Um dos maiores atóis do mundo, com história militar fascinante e lagoas de águas calmas ideais para esportes aquáticos e mergulho.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Kwajalein%20Atoll%20Marshall%20Islands.jpg",
+      description:
+        "Um dos maiores atóis do mundo, com história militar fascinante e lagoas de águas calmas ideais para esportes aquáticos e mergulho.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Kwajalein%20Atoll%20Marshall%20Islands.jpg",
     },
     {
       city: "Likiep Atoll",
       title: "Likiep Atoll",
-      description: "Um dos atóis mais pitorescos das Marshall, conhecido por sua arquitetura colonial alemã e praias de areia branca com recifes coloridos.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Likiep%20Atoll%20Marshall%20Islands.jpg",
+      description:
+        "Um dos atóis mais pitorescos das Marshall, conhecido por sua arquitetura colonial alemã e praias de areia branca com recifes coloridos.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Likiep%20Atoll%20Marshall%20Islands.jpg",
     },
     {
       city: "Jaluit Atoll",
       title: "Jaluit Atoll",
-      description: "Antigo centro administrativo alemão e japonês, Jaluit possui ruínas históricas, vilas tradicionais e uma lagoa espetacular cercada por ilhotas.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Jaluit%20Atoll%20Marshall%20Islands.jpg",
+      description:
+        "Antigo centro administrativo alemão e japonês, Jaluit possui ruínas históricas, vilas tradicionais e uma lagoa espetacular cercada por ilhotas.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Jaluit%20Atoll%20Marshall%20Islands.jpg",
     },
     {
       city: "Mili Atoll",
       title: "Mili Atoll",
-      description: "Famoso por suas paisagens remotas e águas claras, Mili é um destino isolado, ideal para quem busca tranquilidade e natureza intocada.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Mili%20Atoll%20Marshall%20Islands.jpg",
+      description:
+        "Famoso por suas paisagens remotas e águas claras, Mili é um destino isolado, ideal para quem busca tranquilidade e natureza intocada.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Mili%20Atoll%20Marshall%20Islands.jpg",
     },
   ],
   "New Caledonia": [
     {
       city: "Nouméa",
       title: "Nouméa",
-      description: "A capital da Nova Caledônia é um ponto de fusão entre a cultura francesa e o charme do Pacífico. Possui belas praias como Anse Vata e Baie des Citrons, além de ótimos restaurantes e vida noturna vibrante.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Nouméa%20New%20Caledonia.jpg",
+      description:
+        "A capital da Nova Caledônia é um ponto de fusão entre a cultura francesa e o charme do Pacífico. Possui belas praias como Anse Vata e Baie des Citrons, além de ótimos restaurantes e vida noturna vibrante.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Nouméa%20New%20Caledonia.jpg",
     },
     {
       city: "Ilha dos Pinheiros (Île des Pins)",
       title: "Ilha dos Pinheiros (Île des Pins)",
-      description: "Conhecida como a 'joia do Pacífico', a Ilha dos Pinheiros encanta com praias de areia branca, águas turquesa e os emblemáticos pinheiros coloniais. A Baía de Kuto e a Baía de Kanuméra são imperdíveis.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Île%20des%20Pins%20New%20Caledonia.jpg",
+      description:
+        "Conhecida como a 'joia do Pacífico', a Ilha dos Pinheiros encanta com praias de areia branca, águas turquesa e os emblemáticos pinheiros coloniais. A Baía de Kuto e a Baía de Kanuméra são imperdíveis.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Île%20des%20Pins%20New%20Caledonia.jpg",
     },
     {
       city: "Parque da Lagoa da Nova Caledônia",
       title: "Parque da Lagoa da Nova Caledônia",
-      description: "Patrimônio Mundial da UNESCO, esta imensa lagoa abriga recifes de corais coloridos e rica biodiversidade marinha, sendo um paraíso para mergulho e snorkel.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/New%20Caledonia%20lagoon.jpg",
+      description:
+        "Patrimônio Mundial da UNESCO, esta imensa lagoa abriga recifes de corais coloridos e rica biodiversidade marinha, sendo um paraíso para mergulho e snorkel.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/New%20Caledonia%20lagoon.jpg",
     },
     {
       city: "Grande Terre",
       title: "Grande Terre",
-      description: "A ilha principal da Nova Caledônia oferece montanhas, florestas tropicais e paisagens áridas no norte. Ideal para trilhas, ecoturismo e imersão na cultura Kanak.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Grande%20Terre%20New%20Caledonia.jpg",
+      description:
+        "A ilha principal da Nova Caledônia oferece montanhas, florestas tropicais e paisagens áridas no norte. Ideal para trilhas, ecoturismo e imersão na cultura Kanak.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Grande%20Terre%20New%20Caledonia.jpg",
     },
     {
       city: "Hienghène",
       title: "Hienghène",
-      description: "Localizada na costa leste, Hienghène é famosa por suas formações rochosas de calcário negro, cachoeiras e vilas tradicionais Kanak. Um dos destinos mais fotogênicos do país.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Hienghène%20New%20Caledonia.jpg",
+      description:
+        "Localizada na costa leste, Hienghène é famosa por suas formações rochosas de calcário negro, cachoeiras e vilas tradicionais Kanak. Um dos destinos mais fotogênicos do país.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Hienghène%20New%20Caledonia.jpg",
     },
     {
       city: "Lifou (Ilhas Loyalty)",
       title: "Lifou (Ilhas Loyalty)",
-      description: "A maior das Ilhas Loyalty, Lifou encanta com suas falésias, cavernas marinhas e vilarejos acolhedores. Um ótimo local para mergulhar entre recifes e jardins de coral.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Lifou%20Loyalty%20Islands%20New%20Caledonia.jpg",
+      description:
+        "A maior das Ilhas Loyalty, Lifou encanta com suas falésias, cavernas marinhas e vilarejos acolhedores. Um ótimo local para mergulhar entre recifes e jardins de coral.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Lifou%20Loyalty%20Islands%20New%20Caledonia.jpg",
     },
     {
       city: "Ouvéa (Ilhas Loyalty)",
       title: "Ouvéa (Ilhas Loyalty)",
-      description: "Muitas vezes chamada de 'ilha mais próxima do paraíso', Ouvéa tem uma das praias mais longas do Pacífico, com 25 km de areia branca e mar azul-turquesa cristalino.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Ouvéa%20Loyalty%20Islands%20New%20Caledonia.jpg",
+      description:
+        "Muitas vezes chamada de 'ilha mais próxima do paraíso', Ouvéa tem uma das praias mais longas do Pacífico, com 25 km de areia branca e mar azul-turquesa cristalino.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Ouvéa%20Loyalty%20Islands%20New%20Caledonia.jpg",
     },
     {
       city: "Bourail",
       title: "Bourail",
-      description: "Região popular entre surfistas e aventureiros, Bourail oferece praias como Poé Beach e a icônica formação natural de 'La Roche Percée', além de trilhas e esportes aquáticos.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Bourail%20New%20Caledonia.jpg",
+      description:
+        "Região popular entre surfistas e aventureiros, Bourail oferece praias como Poé Beach e a icônica formação natural de 'La Roche Percée', além de trilhas e esportes aquáticos.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Bourail%20New%20Caledonia.jpg",
     },
     {
       city: "Yaté e o Parque Provincial da Rivière Bleue",
       title: "Yaté e o Parque Provincial da Rivière Bleue",
-      description: "Um paraíso ecológico com florestas densas, o famoso lago Yaté e trilhas que passam por pontes suspensas e árvores centenárias. Ideal para ecoturismo e fotografia.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Parc%20Provincial%20de%20la%20Rivière%20Bleue%20New%20Caledonia.jpg",
+      description:
+        "Um paraíso ecológico com florestas densas, o famoso lago Yaté e trilhas que passam por pontes suspensas e árvores centenárias. Ideal para ecoturismo e fotografia.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Parc%20Provincial%20de%20la%20Rivière%20Bleue%20New%20Caledonia.jpg",
     },
   ],
   "French Polynesia": [
     {
       city: "Taiti (Papeete)",
       title: "Taiti (Papeete)",
-      description: "A maior ilha da Polinésia Francesa e o coração cultural do arquipélago. Papeete oferece mercados vibrantes, gastronomia polinésia e paisagens montanhosas deslumbrantes, como o Monte Orohena.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Papeete%20harbor%20Tahiti.jpg",
+      description:
+        "A maior ilha da Polinésia Francesa e o coração cultural do arquipélago. Papeete oferece mercados vibrantes, gastronomia polinésia e paisagens montanhosas deslumbrantes, como o Monte Orohena.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Papeete%20harbor%20Tahiti.jpg",
     },
     {
       city: "Bora Bora",
       title: "Bora Bora",
-      description: "Conhecida como a 'pérola do Pacífico', Bora Bora é o destino mais famoso da Polinésia Francesa, com resorts sobre a água, lagoas azul-turquesa e o icônico Monte Otemanu ao fundo.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Bora%20Bora%20lagoon%20and%20Mount%20Otemanu.jpg",
+      description:
+        "Conhecida como a 'pérola do Pacífico', Bora Bora é o destino mais famoso da Polinésia Francesa, com resorts sobre a água, lagoas azul-turquesa e o icônico Monte Otemanu ao fundo.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Bora%20Bora%20lagoon%20and%20Mount%20Otemanu.jpg",
     },
     {
       city: "Moorea",
       title: "Moorea",
-      description: "A apenas 30 minutos de barco do Taiti, Moorea é um refúgio de natureza exuberante com picos verdes, baías profundas e praias perfeitas para mergulho e snorkeling.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Moorea%20Cook%27s%20Bay.jpg",
+      description:
+        "A apenas 30 minutos de barco do Taiti, Moorea é um refúgio de natureza exuberante com picos verdes, baías profundas e praias perfeitas para mergulho e snorkeling.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Moorea%20Cook%27s%20Bay.jpg",
     },
     {
       city: "Huahine",
       title: "Huahine",
-      description: "Uma das ilhas mais autênticas da Polinésia Francesa, Huahine preserva tradições locais, ruínas arqueológicas e uma atmosfera tranquila cercada por uma lagoa cristalina.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Huahine%20lagoon.jpg",
+      description:
+        "Uma das ilhas mais autênticas da Polinésia Francesa, Huahine preserva tradições locais, ruínas arqueológicas e uma atmosfera tranquila cercada por uma lagoa cristalina.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Huahine%20lagoon.jpg",
     },
     {
       city: "Raiatea",
       title: "Raiatea",
-      description: "Considerada o berço espiritual da Polinésia, abriga o sagrado Marae Taputapuatea, Patrimônio Mundial da UNESCO. Também é um excelente ponto para velejar e explorar ilhotas vizinhas.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Raiatea%20island%20lagoon.jpg",
+      description:
+        "Considerada o berço espiritual da Polinésia, abriga o sagrado Marae Taputapuatea, Patrimônio Mundial da UNESCO. Também é um excelente ponto para velejar e explorar ilhotas vizinhas.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Raiatea%20island%20lagoon.jpg",
     },
     {
       city: "Taha’a",
       title: "Taha’a",
-      description: "Conhecida como a 'Ilha da Baunilha', Taha’a oferece plantações aromáticas, recifes de coral e pequenas ilhas desertas ideais para passeios de barco e mergulho.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Tahaa%20lagoon.jpg",
+      description:
+        "Conhecida como a 'Ilha da Baunilha', Taha’a oferece plantações aromáticas, recifes de coral e pequenas ilhas desertas ideais para passeios de barco e mergulho.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Tahaa%20lagoon.jpg",
     },
     {
       city: "Rangiroa",
       title: "Rangiroa",
-      description: "O segundo maior atol do mundo, Rangiroa é um paraíso para mergulhadores, com recifes repletos de vida marinha e águas tão transparentes que parecem irreais.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Rangiroa%20atoll%20lagoon.jpg",
+      description:
+        "O segundo maior atol do mundo, Rangiroa é um paraíso para mergulhadores, com recifes repletos de vida marinha e águas tão transparentes que parecem irreais.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Rangiroa%20atoll%20lagoon.jpg",
     },
     {
       city: "Fakarava",
       title: "Fakarava",
-      description: "Outro Patrimônio Mundial da UNESCO, Fakarava é um atol com um ecossistema preservado e uma das melhores experiências de mergulho do planeta, com tubarões, raias e corais coloridos.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Fakarava%20atoll%20Tuamotu%20Archipelago.jpg",
+      description:
+        "Outro Patrimônio Mundial da UNESCO, Fakarava é um atol com um ecossistema preservado e uma das melhores experiências de mergulho do planeta, com tubarões, raias e corais coloridos.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Fakarava%20atoll%20Tuamotu%20Archipelago.jpg",
     },
     {
       city: "Tetiaroa",
       title: "Tetiaroa",
-      description: "Antiga ilha particular do ator Marlon Brando, Tetiaroa é hoje um resort ecológico de luxo. Cercada por águas rasas e vida marinha abundante, é o epítome da exclusividade tropical.",
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Tetiaroa%20atoll%20French%20Polynesia.jpg",
+      description:
+        "Antiga ilha particular do ator Marlon Brando, Tetiaroa é hoje um resort ecológico de luxo. Cercada por águas rasas e vida marinha abundante, é o epítome da exclusividade tropical.",
+      image:
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Tetiaroa%20atoll%20French%20Polynesia.jpg",
     },
   ],
   Spain: [
