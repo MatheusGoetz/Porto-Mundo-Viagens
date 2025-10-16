@@ -1479,7 +1479,7 @@ const baseDestinations: Record<string, Destination[]> = {
     {
       city: "Ha'amonga 'a Maui Trilithon",
       title: "Ha'amonga 'a Maui Trilithon",
-      description: "Monumento megalítico construído no século XIII, conhecido como o 'Stonehenge do Pacífico', símbolo da hist��ria e engenhosidade do antigo reino.",
+      description: "Monumento megalítico construído no século XIII, conhecido como o 'Stonehenge do Pacífico', símbolo da história e engenhosidade do antigo reino.",
       image: "https://commons.wikimedia.org/wiki/Special:FilePath/Ha'amonga%20'a%20Maui%20Trilithon%20Tonga.jpg",
     },
     {
@@ -1637,6 +1637,62 @@ const baseDestinations: Record<string, Destination[]> = {
       image: "https://commons.wikimedia.org/wiki/Special:FilePath/Palmerston%20Island%20Cook%20Islands.jpg",
     },
   ],
+  Vanuatu: [
+    {
+      city: "Port Vila (Efate)",
+      title: "Port Vila (Efate)",
+      description: "A capital de Vanuatu e principal porta de entrada do país. Port Vila combina paisagens tropicais, mercados locais vibrantes e resorts à beira-mar, com uma vista incrível da Baía de Mele.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Port%20Vila%20Harbour%20Vanuatu.jpg",
+    },
+    {
+      city: "Ilha de Espiritu Santo",
+      title: "Ilha de Espiritu Santo",
+      description: "A maior ilha do arquipélago, famosa por suas praias imaculadas como Champagne Beach e pelas cavernas subaquáticas do Blue Hole — um paraíso para mergulhadores e aventureiros.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Champagne%20Beach%20Espiritu%20Santo%20Vanuatu.jpg",
+    },
+    {
+      city: "Monte Yasur (Tanna)",
+      title: "Monte Yasur (Tanna)",
+      description: "Um dos vulcões mais acessíveis do mundo, o Monte Yasur oferece uma experiência única de observar erupções ativas de perto — um espetáculo natural impressionante.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Mount%20Yasur%20eruption%20Vanuatu.jpg",
+    },
+    {
+      city: "Ilha de Tanna",
+      title: "Ilha de Tanna",
+      description: "Além do vulcão Yasur, Tanna é lar de vilas tradicionais, florestas tropicais e praias isoladas. Um mergulho profundo na cultura e natureza de Vanuatu.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Tanna%20Island%20Vanuatu.jpg",
+    },
+    {
+      city: "Champagne Beach",
+      title: "Champagne Beach",
+      description: "Com areia branca e águas azul-turquesa que literalmente borbulham como champanhe devido às bolhas vulcânicas, esta praia é uma das mais belas do Pacífico Sul.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Champagne%20Beach%20Vanuatu.jpg",
+    },
+    {
+      city: "Ilha de Pentecost",
+      title: "Ilha de Pentecost",
+      description: "Famosa por suas cerimônias de salto de torre (land diving), consideradas precursoras do bungee jump, e pela rica cultura tradicional preservada pelos nativos locais.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Pentecost%20Island%20land%20diving%20Vanuatu.jpg",
+    },
+    {
+      city: "Ilha de Malekula",
+      title: "Ilha de Malekula",
+      description: "Conhecida por suas tribos tradicionais, trilhas selvagens e vilas culturais que mostram o estilo de vida melanesiano autêntico. Ideal para ecoturismo e imersão cultural.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Malekula%20Island%20Vanuatu.jpg",
+    },
+    {
+      city: "Blue Holes de Espiritu Santo",
+      title: "Blue Holes de Espiritu Santo",
+      description: "Piscinas naturais de águas cristalinas e azuladas, cercadas por florestas tropicais, perfeitas para nadar, mergulhar e relaxar em meio à natureza.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Blue%20Hole%20Espiritu%20Santo%20Vanuatu.jpg",
+    },
+    {
+      city: "Mele Cascades",
+      title: "Mele Cascades",
+      description: "Uma série de belas cachoeiras próximas a Port Vila, onde é possível nadar em piscinas naturais e curtir um cenário de selva exuberante.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Mele%20Cascades%20Vanuatu.jpg",
+    },
+  ],
   Spain: [
     {
       city: "Barcelona",
@@ -1650,7 +1706,7 @@ const baseDestinations: Record<string, Destination[]> = {
       city: "Madri",
       title: "Madri",
       description:
-        "A capital espanhola combina elegância e cultura, com museus renomados como o Prado e o Reina Sofía, além de praças e palácios impressionantes.",
+        "A capital espanhola combina elegância e cultura, com museus renomados como o Prado e o Reina Sofía, além de praças e pal��cios impressionantes.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/Plaza%20Mayor%20Madrid%20Spain.jpg",
     },
@@ -2756,7 +2812,7 @@ const baseDestinations: Record<string, Destination[]> = {
       city: "Botanical Gardens",
       title: "Botanical Gardens",
       description:
-        "Jardins bot��nicos em Paget Parish, com flora tropical, esculturas e estufas.",
+        "Jardins botânicos em Paget Parish, com flora tropical, esculturas e estufas.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/Bermuda%20Botanical%20Gardens.jpg",
     },
