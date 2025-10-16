@@ -1423,7 +1423,7 @@ const baseDestinations: Record<string, Destination[]> = {
     {
       city: "To Sua Ocean Trench",
       title: "To Sua Ocean Trench",
-      description: "Uma das atrações mais icônicas de Samoa, esse buraco natural gigante forma uma piscina de água azul-turquesa cercada por vegetação tropical.",
+      description: "Uma das atrações mais icônicas de Samoa, esse buraco natural gigante forma uma piscina de ��gua azul-turquesa cercada por vegetação tropical.",
       image: "https://commons.wikimedia.org/wiki/Special:FilePath/To%20Sua%20Ocean%20Trench%20Samoa.jpg",
     },
     {
@@ -1473,7 +1473,7 @@ const baseDestinations: Record<string, Destination[]> = {
     {
       city: "Nuku'alofa",
       title: "Nuku'alofa",
-      description: "A capital do Reino de Tonga, localizada na ilha de Tongatapu, é o centro político e cultural do país, com o Palácio Real, mercados locais e belas igrejas.",
+      description: "A capital do Reino de Tonga, localizada na ilha de Tongatapu, é o centro pol��tico e cultural do país, com o Palácio Real, mercados locais e belas igrejas.",
       image: "https://commons.wikimedia.org/wiki/Special:FilePath/Nuku'alofa%20harbour%20Tonga.jpg",
     },
     {
@@ -1693,6 +1693,62 @@ const baseDestinations: Record<string, Destination[]> = {
       image: "https://commons.wikimedia.org/wiki/Special:FilePath/Mele%20Cascades%20Vanuatu.jpg",
     },
   ],
+  Palau: [
+    {
+      city: "Rock Islands (Ilhas de Rocha)",
+      title: "Rock Islands (Ilhas de Rocha)",
+      description: "Um dos maiores cartões-postais de Palau, as Rock Islands são formações de calcário cobertas de vegetação, cercadas por águas azul-turquesa ideais para caiaque, mergulho e snorkel.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Rock%20Islands%20Palau.jpg",
+    },
+    {
+      city: "Jellyfish Lake",
+      title: "Jellyfish Lake",
+      description: "Um lago marinho único onde milhares de águas-vivas inofensivas nadam livremente — proporcionando uma das experiências de mergulho mais surreais do planeta.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Jellyfish%20Lake%20Palau.jpg",
+    },
+    {
+      city: "Koror",
+      title: "Koror",
+      description: "Principal centro urbano de Palau, Koror oferece museus, resorts, restaurantes e acesso fácil às ilhas vizinhas, sendo o ponto de partida para a maioria das aventuras no arquipélago.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Koror%20City%20Palau.jpg",
+    },
+    {
+      city: "Blue Corner",
+      title: "Blue Corner",
+      description: "Considerado um dos melhores pontos de mergulho do mundo, o Blue Corner é famoso pela abundância de tubarões, cardumes coloridos e corais vibrantes.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Blue%20Corner%20Palau.jpg",
+    },
+    {
+      city: "Ngardmau Waterfall",
+      title: "Ngardmau Waterfall",
+      description: "A maior cachoeira de Palau, cercada por floresta tropical densa e trilhas naturais, perfeita para quem busca aventura e contato direto com a natureza.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Ngardmau%20Waterfall%20Palau.jpg",
+    },
+    {
+      city: "German Channel",
+      title: "German Channel",
+      description: "Canal artificial criado durante a ocupação alemã, hoje um hotspot de mergulho onde é possível avistar arraias-jamanta e uma rica vida marinha.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/German%20Channel%20Palau.jpg",
+    },
+    {
+      city: "Milky Way Lagoon",
+      title: "Milky Way Lagoon",
+      description: "Uma lagoa natural com águas esverdeadas e fundo de calcário branco, famoso por seu ‘banho de lama’ rejuvenescedor — um spa natural no meio do oceano.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Milky%20Way%20Lagoon%20Palau.jpg",
+    },
+    {
+      city: "Peleliu Island",
+      title: "Peleliu Island",
+      description: "Conhecida por sua importância histórica na Segunda Guerra Mundial, a ilha de Peleliu abriga memoriais, ruínas e belas praias tranquilas.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Peleliu%20Island%20Palau.jpg",
+    },
+    {
+      city: "Long Beach (Koror)",
+      title: "Long Beach (Koror)",
+      description: "Uma das praias mais icônicas de Palau, famosa por aparecer apenas durante a maré baixa, formando uma faixa de areia que conecta pequenas ilhas em meio às águas cristalinas.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Long%20Beach%20Rock%20Islands%20Palau.jpg",
+    },
+  ],
   Spain: [
     {
       city: "Barcelona",
@@ -1706,7 +1762,7 @@ const baseDestinations: Record<string, Destination[]> = {
       city: "Madri",
       title: "Madri",
       description:
-        "A capital espanhola combina elegância e cultura, com museus renomados como o Prado e o Reina Sofía, além de praças e pal��cios impressionantes.",
+        "A capital espanhola combina elegância e cultura, com museus renomados como o Prado e o Reina Sofía, além de praças e palácios impressionantes.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/Plaza%20Mayor%20Madrid%20Spain.jpg",
     },
@@ -6812,7 +6868,7 @@ const extraRaw: {
       {
         name: "Mesquita Sultan Omar Ali Saifuddien",
         description:
-          "Opulência arquitetônica à beira-mar — símbolo do patrimônio muçulmano local.",
+          "Opulência arquitetônica à beira-mar — símbolo do patrimônio mu��ulmano local.",
         image:
           "https://commons.wikimedia.org/wiki/Special:Search?search=Sultan+Omar+Ali+Saifuddien+Mosque",
       },
@@ -7634,7 +7690,7 @@ export const brazilRegionDestinations: Record<string, Destination[]> = {
       city: "Pirâmides de Gizé",
       title: "Pirâmides de Gizé",
       description:
-        "O símbolo máximo do Egito, abrigando as Pir��mides de Quéops, Quéfren e Miquerinos, além da icônica Esfinge.",
+        "O símbolo máximo do Egito, abrigando as Pir��mides de Quéops, Quéfren e Miquerinos, além da ic��nica Esfinge.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/Pyramids%20of%20Giza%20Egypt.jpg",
     },
