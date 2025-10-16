@@ -1805,6 +1805,62 @@ const baseDestinations: Record<string, Destination[]> = {
       image: "https://commons.wikimedia.org/wiki/Special:FilePath/Ant%20Atoll%20Pohnpei%20Micronesia.jpg",
     },
   ],
+  Nauru: [
+    {
+      city: "Baía de Anibare",
+      title: "Baía de Anibare",
+      description: "Uma das áreas mais belas e tranquilas de Nauru, com praia de areia branca e mar azul-turquesa, perfeita para nadar, relaxar e apreciar o nascer do sol.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Anibare%20Bay%20Nauru.jpg",
+    },
+    {
+      city: "Comand Ridge",
+      title: "Comand Ridge",
+      description: "O ponto mais alto da ilha, oferecendo vistas panorâmicas de Nauru. Também abriga bunkers e artefatos da Segunda Guerra Mundial, testemunhos do passado histórico do país.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Command%20Ridge%20Nauru.jpg",
+    },
+    {
+      city: "Lago Buada",
+      title: "Lago Buada",
+      description: "Um lago interior cercado por vegetação tropical densa, localizado em uma antiga cratera de fosfato. Um oásis verde no coração da ilha.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Buada%20Lagoon%20Nauru.jpg",
+    },
+    {
+      city: "District of Aiwo",
+      title: "District of Aiwo",
+      description: "Centro industrial e portuário de Nauru, onde é possível ver de perto a história da mineração de fosfato e visitar áreas urbanas movimentadas da ilha.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Aiwo%20District%20Nauru.jpg",
+    },
+    {
+      city: "Centro de Governo de Yaren",
+      title: "Centro de Governo de Yaren",
+      description: "Embora Nauru não tenha uma capital oficial, Yaren é o centro administrativo e político, com edifícios governamentais, o aeroporto e marcos nacionais.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Yaren%20District%20Nauru.jpg",
+    },
+    {
+      city: "Tribo de Meneng",
+      title: "Tribo de Meneng",
+      description: "Região costeira com belas praias e pousadas locais, ideal para quem quer experimentar a hospitalidade nauruana e aproveitar o mar calmo do Pacífico.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Meneng%20District%20Nauru.jpg",
+    },
+    {
+      city: "Topside Plateau",
+      title: "Topside Plateau",
+      description: "Área central da ilha coberta por formações de calcário e antigas minas de fosfato, oferecendo uma visão única da geografia e história ambiental de Nauru.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Topside%20Plateau%20Nauru.jpg",
+    },
+    {
+      city: "Baía de Anetan",
+      title: "Baía de Anetan",
+      description: "Local tranquilo e menos visitado ao norte da ilha, ótimo para contemplar o pôr do sol e observar aves marinhas locais.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Anetan%20District%20Nauru.jpg",
+    },
+    {
+      city: "Trilha Cênica ao Redor da Ilha",
+      title: "Trilha Cênica ao Redor da Ilha",
+      description: "Com apenas 19 km de circunferência, é possível percorrer toda Nauru de bicicleta ou carro, explorando praias, vilas e paisagens tropicais em um único dia.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Nauru%20Coastal%20Road.jpg",
+    },
+  ],
   Spain: [
     {
       city: "Barcelona",
@@ -1990,7 +2046,7 @@ const baseDestinations: Record<string, Destination[]> = {
       city: "Ilha de Páscoa (Rapa Nui)",
       title: "Ilha de Páscoa (Rapa Nui)",
       description:
-        "Uma das ilhas mais isoladas do mundo, famosa pelos misteriosos moais e pela cultura polinésia ��nica.",
+        "Uma das ilhas mais isoladas do mundo, famosa pelos misteriosos moais e pela cultura polinésia única.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/Moai%20statues%20Easter%20Island.jpg",
     },
@@ -2344,7 +2400,7 @@ const baseDestinations: Record<string, Destination[]> = {
       city: "Medellín",
       title: "Medellín",
       description:
-        "Conhecida como a 'Cidade da Eterna Primavera', é moderna, inovadora e cercada por montanhas.",
+        "Conhecida como a 'Cidade da Eterna Primavera', �� moderna, inovadora e cercada por montanhas.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/Medellin%20City.jpg",
     },
@@ -4890,7 +4946,7 @@ const baseDestinations: Record<string, Destination[]> = {
       city: "Hoi An",
       title: "Hoi An",
       description:
-        "Cidade hist��rica famosa por suas lanternas coloridas, arquitetura preservada e charme �� beira do rio.",
+        "Cidade histórica famosa por suas lanternas coloridas, arquitetura preservada e charme �� beira do rio.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/Hoi%20An%20Ancient%20Town%20Vietnam%20Night.jpg",
     },
@@ -5458,7 +5514,7 @@ const baseDestinations: Record<string, Destination[]> = {
       city: "Tóquio",
       title: "Tóquio",
       description:
-        "A capital do Jap��o é uma metrópole vibrante, onde a tecnologia futurista encontra tradi��ões antigas. Destaques incluem Shibuya, Akihabara e o Templo Senso-ji em Asakusa.",
+        "A capital do Jap��o é uma metrópole vibrante, onde a tecnologia futurista encontra tradições antigas. Destaques incluem Shibuya, Akihabara e o Templo Senso-ji em Asakusa.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/Tokyo%20Shibuya%20crossing%20at%20night.jpg",
     },
