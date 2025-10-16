@@ -70,7 +70,7 @@ const baseDestinations: Record<string, Destination[]> = {
       city: "Chicago",
       title: "Chicago",
       description:
-        "Cidade ��s margens do Lago Michigan, conhecida por sua arquitetura, blues e pizza deep dish.",
+        "Cidade às margens do Lago Michigan, conhecida por sua arquitetura, blues e pizza deep dish.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/Chicago%20skyline%20from%20North%20Avenue%20Beach.jpg",
     },
@@ -538,7 +538,7 @@ const baseDestinations: Record<string, Destination[]> = {
       city: "Kitzbühel",
       title: "Kitzbühel",
       description:
-        "Um dos resorts de esqui mais famosos da Europa, Kitzbühel oferece luxo, tradição tirolesa e paisagens de tirar o fôlego durante o ano inteiro.",
+        "Um dos resorts de esqui mais famosos da Europa, Kitzb��hel oferece luxo, tradição tirolesa e paisagens de tirar o fôlego durante o ano inteiro.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/Kitzbühel%20winter%20Austria.jpg",
     },
@@ -794,7 +794,7 @@ const baseDestinations: Record<string, Destination[]> = {
       city: "Antuérpia (Antwerp)",
       title: "Antuérpia (Antwerp)",
       description:
-        "Capital mundial dos diamantes e berço de Rubens, Antuérpia é um centro artístico e de moda com arquitetura impressionante e uma vibe cosmopolita.",
+        "Capital mundial dos diamantes e ber��o de Rubens, Antuérpia é um centro artístico e de moda com arquitetura impressionante e uma vibe cosmopolita.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/Antwerp%20Cathedral%20of%20Our%20Lady.jpg",
     },
@@ -1523,6 +1523,62 @@ const baseDestinations: Record<string, Destination[]> = {
       title: "Pangaimotu Island",
       description: "Ilha próxima à capital, famosa por sua atmosfera relaxada, praias douradas e o icônico navio naufragado Royal Sunset.",
       image: "https://commons.wikimedia.org/wiki/Special:FilePath/Pangaimotu%20Island%20Tonga.jpg",
+    },
+  ],
+  "Papua New Guinea": [
+    {
+      city: "Port Moresby",
+      title: "Port Moresby",
+      description: "A capital e principal porta de entrada do país, Port Moresby mistura cultura local, mercados coloridos e o belo Parque Natural de Varirata.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Port%20Moresby%20aerial%20view.jpg",
+    },
+    {
+      city: "Kokoda Track",
+      title: "Kokoda Track",
+      description: "Uma das trilhas mais lendárias do mundo, atravessando florestas tropicais e montanhas, repleta de história da Segunda Guerra Mundial.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Kokoda%20Track%20Papua%20New%20Guinea.jpg",
+    },
+    {
+      city: "Rabaul",
+      title: "Rabaul",
+      description: "Cidade costeira na ilha de New Britain, conhecida por seus vulcões ativos, mergulho em naufrágios e paisagens dramáticas.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Rabaul%20Harbour%20Papua%20New%20Guinea.jpg",
+    },
+    {
+      city: "Mount Hagen",
+      title: "Mount Hagen",
+      description: "Coração das terras altas, Mount Hagen é famoso por suas plantações de café, feiras tribais e o vibrante Mount Hagen Cultural Show.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Mount%20Hagen%20Cultural%20Show%20Papua%20New%20Guinea.jpg",
+    },
+    {
+      city: "Madang",
+      title: "Madang",
+      description: "Cidade costeira charmosa, ideal para mergulho e snorkel, com recifes de corais coloridos, cavernas marinhas e lagos serenos.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Madang%20Harbour%20Papua%20New%20Guinea.jpg",
+    },
+    {
+      city: "Tufi",
+      title: "Tufi",
+      description: "Um paraíso isolado entre fiordes e colinas verdejantes, Tufi é conhecido por mergulhos espetaculares e vilas tradicionais.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Tufi%20fiord%20Papua%20New%20Guinea.jpg",
+    },
+    {
+      city: "Sepik River",
+      title: "Sepik River",
+      description: "Um dos maiores rios do país, o Sepik é uma imersão cultural, com aldeias tradicionais e esculturas tribais únicas.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Sepik%20River%20Papua%20New%20Guinea.jpg",
+    },
+    {
+      city: "Alotau",
+      title: "Alotau",
+      description: "Porta de entrada para as Ilhas Milne Bay, Alotau é perfeita para quem busca cultura, praias remotas e mergulho de nível mundial.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Alotau%20Milne%20Bay%20Papua%20New%20Guinea.jpg",
+    },
+    {
+      city: "Goroka",
+      title: "Goroka",
+      description: "Famosa pelo Goroka Show, festival cultural que celebra as tradições tribais com danças, pinturas corporais e trajes vibrantes.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Goroka%20Show%20Papua%20New%20Guinea.jpg",
     },
   ],
   Spain: [
@@ -2678,7 +2734,7 @@ const baseDestinations: Record<string, Destination[]> = {
       city: "Kangerlussuaq",
       title: "Kangerlussuaq",
       description:
-        "Ponto de acesso à calota de gelo da Groenlândia, ideal para trilhas e passeios sobre geleiras.",
+        "Ponto de acesso à calota de gelo da Groenl��ndia, ideal para trilhas e passeios sobre geleiras.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/Kangerlussuaq%20Greenland.jpg",
     },
@@ -5548,7 +5604,7 @@ const baseDestinations: Record<string, Destination[]> = {
       city: "Serengeti National Park",
       title: "Serengeti National Park",
       description:
-        "Um dos parques mais famosos do mundo, conhecido pela Grande Migração e pela abundância de leões, leopardos e elefantes.",
+        "Um dos parques mais famosos do mundo, conhecido pela Grande Migração e pela abundância de le��es, leopardos e elefantes.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/Serengeti%20National%20Park%20Tanzania.jpg",
     },
@@ -6596,7 +6652,7 @@ const extraRaw: {
       {
         name: "Monastério de Paro Taktsang (Ninho do Tigre)",
         description:
-          "Um mosteiro pendurado na falésia ��� espiritualidade e vistas arrebatadoras.",
+          "Um mosteiro pendurado na falésia — espiritualidade e vistas arrebatadoras.",
         image:
           "https://commons.wikimedia.org/wiki/Special:Search?search=Paro+Taktsang",
       },
@@ -6985,7 +7041,7 @@ export const brazilRegionDestinations: Record<string, Destination[]> = {
     },
     {
       city: "Cidade de Goiás (Goiás Velho)",
-      title: "Cidade de Goiás (Goiás Velho)",
+      title: "Cidade de Goi��s (Goiás Velho)",
       description:
         "Patrimônio histórico com arquitetura colonial preservada e museus.",
       image:
