@@ -1423,7 +1423,7 @@ const baseDestinations: Record<string, Destination[]> = {
     {
       city: "To Sua Ocean Trench",
       title: "To Sua Ocean Trench",
-      description: "Uma das atrações mais icônicas de Samoa, esse buraco natural gigante forma uma piscina de ��gua azul-turquesa cercada por vegetação tropical.",
+      description: "Uma das atrações mais icônicas de Samoa, esse buraco natural gigante forma uma piscina de água azul-turquesa cercada por vegetação tropical.",
       image: "https://commons.wikimedia.org/wiki/Special:FilePath/To%20Sua%20Ocean%20Trench%20Samoa.jpg",
     },
     {
@@ -1473,7 +1473,7 @@ const baseDestinations: Record<string, Destination[]> = {
     {
       city: "Nuku'alofa",
       title: "Nuku'alofa",
-      description: "A capital do Reino de Tonga, localizada na ilha de Tongatapu, é o centro pol��tico e cultural do país, com o Palácio Real, mercados locais e belas igrejas.",
+      description: "A capital do Reino de Tonga, localizada na ilha de Tongatapu, é o centro político e cultural do país, com o Palácio Real, mercados locais e belas igrejas.",
       image: "https://commons.wikimedia.org/wiki/Special:FilePath/Nuku'alofa%20harbour%20Tonga.jpg",
     },
     {
@@ -1749,6 +1749,62 @@ const baseDestinations: Record<string, Destination[]> = {
       image: "https://commons.wikimedia.org/wiki/Special:FilePath/Long%20Beach%20Rock%20Islands%20Palau.jpg",
     },
   ],
+  "Federated States of Micronesia": [
+    {
+      city: "Nan Madol (Pohnpei)",
+      title: "Nan Madol (Pohnpei)",
+      description: "Conhecida como a 'Veneza do Pacífico', Nan Madol é uma antiga cidade construída sobre pequenas ilhotas artificiais, com ruínas de pedra e canais misteriosos que datam do século XIII.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Nan%20Madol%20Pohnpei.jpg",
+    },
+    {
+      city: "Pohnpei Island",
+      title: "Pohnpei Island",
+      description: "A ilha mais verde e montanhosa da Micronésia, lar de cachoeiras exuberantes, florestas tropicais e locais históricos, além de uma cultura vibrante e acolhedora.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Pohnpei%20Island%20Micronesia.jpg",
+    },
+    {
+      city: "Sokehs Rock (Pohnpei)",
+      title: "Sokehs Rock (Pohnpei)",
+      description: "Uma impressionante formação rochosa que lembra uma montanha gigante emergindo da selva — ponto de trilha popular com vistas panorâmicas de Pohnpei.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Sokehs%20Rock%20Pohnpei.jpg",
+    },
+    {
+      city: "Chuuk Lagoon",
+      title: "Chuuk Lagoon",
+      description: "Um dos destinos de mergulho mais famosos do mundo, repleto de destroços de navios e aviões japoneses da Segunda Guerra Mundial, agora transformados em recifes artificiais.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Chuuk%20Lagoon%20Micronesia.jpg",
+    },
+    {
+      city: "Yap Island",
+      title: "Yap Island",
+      description: "Conhecida por suas tradições culturais e pela moeda de pedra gigante chamada 'rai stones', Yap também oferece excelentes locais de mergulho e snorkel.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Yap%20Island%20Micronesia.jpg",
+    },
+    {
+      city: "Colonia (Yap)",
+      title: "Colonia (Yap)",
+      description: "A pequena capital de Yap combina cultura local, mercados tradicionais e acesso a belas praias e vilas preservadas.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Colonia%20Yap%20Micronesia.jpg",
+    },
+    {
+      city: "Kosrae Island",
+      title: "Kosrae Island",
+      description: "A ilha mais oriental da Micronésia é um refúgio de tranquilidade com montanhas cobertas de floresta tropical, recifes intocados e sítios arqueológicos antigos.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Kosrae%20Island%20Micronesia.jpg",
+    },
+    {
+      city: "Utwe-Walung Marine Park (Kosrae)",
+      title: "Utwe-Walung Marine Park (Kosrae)",
+      description: "Uma reserva marinha espetacular, perfeita para caiaque e mergulho entre manguezais, corais e cardumes coloridos em águas cristalinas.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Utwe%20Walung%20Marine%20Park%20Kosrae.jpg",
+    },
+    {
+      city: "Ant Atoll (Pohnpei)",
+      title: "Ant Atoll (Pohnpei)",
+      description: "Um atol isolado e protegido pela UNESCO, com lagoas turquesa e vida marinha abundante — considerado um dos locais mais intocados do Pacífico.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Ant%20Atoll%20Pohnpei%20Micronesia.jpg",
+    },
+  ],
   Spain: [
     {
       city: "Barcelona",
@@ -1934,7 +1990,7 @@ const baseDestinations: Record<string, Destination[]> = {
       city: "Ilha de Páscoa (Rapa Nui)",
       title: "Ilha de Páscoa (Rapa Nui)",
       description:
-        "Uma das ilhas mais isoladas do mundo, famosa pelos misteriosos moais e pela cultura polinésia única.",
+        "Uma das ilhas mais isoladas do mundo, famosa pelos misteriosos moais e pela cultura polinésia ��nica.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/Moai%20statues%20Easter%20Island.jpg",
     },
@@ -4834,7 +4890,7 @@ const baseDestinations: Record<string, Destination[]> = {
       city: "Hoi An",
       title: "Hoi An",
       description:
-        "Cidade histórica famosa por suas lanternas coloridas, arquitetura preservada e charme �� beira do rio.",
+        "Cidade hist��rica famosa por suas lanternas coloridas, arquitetura preservada e charme �� beira do rio.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/Hoi%20An%20Ancient%20Town%20Vietnam%20Night.jpg",
     },
@@ -5402,7 +5458,7 @@ const baseDestinations: Record<string, Destination[]> = {
       city: "Tóquio",
       title: "Tóquio",
       description:
-        "A capital do Jap��o é uma metrópole vibrante, onde a tecnologia futurista encontra tradições antigas. Destaques incluem Shibuya, Akihabara e o Templo Senso-ji em Asakusa.",
+        "A capital do Jap��o é uma metrópole vibrante, onde a tecnologia futurista encontra tradi��ões antigas. Destaques incluem Shibuya, Akihabara e o Templo Senso-ji em Asakusa.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/Tokyo%20Shibuya%20crossing%20at%20night.jpg",
     },
@@ -6868,7 +6924,7 @@ const extraRaw: {
       {
         name: "Mesquita Sultan Omar Ali Saifuddien",
         description:
-          "Opulência arquitetônica à beira-mar — símbolo do patrimônio mu��ulmano local.",
+          "Opulência arquitetônica à beira-mar — símbolo do patrimônio muçulmano local.",
         image:
           "https://commons.wikimedia.org/wiki/Special:Search?search=Sultan+Omar+Ali+Saifuddien+Mosque",
       },
@@ -7690,7 +7746,7 @@ export const brazilRegionDestinations: Record<string, Destination[]> = {
       city: "Pirâmides de Gizé",
       title: "Pirâmides de Gizé",
       description:
-        "O símbolo máximo do Egito, abrigando as Pir��mides de Quéops, Quéfren e Miquerinos, além da ic��nica Esfinge.",
+        "O símbolo máximo do Egito, abrigando as Pir��mides de Quéops, Quéfren e Miquerinos, além da icônica Esfinge.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/Pyramids%20of%20Giza%20Egypt.jpg",
     },
