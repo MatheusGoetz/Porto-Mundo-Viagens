@@ -260,7 +260,7 @@ const baseDestinations: Record<string, Destination[]> = {
       city: "Nice",
       title: "Nice",
       description:
-        "Pérola da Riviera Francesa, Nice combina mar azul-turquesa, calçadões elegantes e um charme mediterrâneo vibrante.",
+        "P��rola da Riviera Francesa, Nice combina mar azul-turquesa, calçadões elegantes e um charme mediterrâneo vibrante.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/Nice%20France%20Promenade%20des%20Anglais.jpg",
     },
@@ -876,7 +876,7 @@ const baseDestinations: Record<string, Destination[]> = {
       city: "Giethoorn",
       title: "Giethoorn",
       description:
-        "Conhecida como a 'Veneza do Norte', Giethoorn é uma vila encantadora sem ruas — o transporte é feito por barcos entre canais e casas de palha.",
+        "Conhecida como a 'Veneza do Norte', Giethoorn �� uma vila encantadora sem ruas — o transporte é feito por barcos entre canais e casas de palha.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/Giethoorn%20Netherlands%20village.jpg",
     },
@@ -1971,6 +1971,62 @@ const baseDestinations: Record<string, Destination[]> = {
       title: "Mili Atoll",
       description: "Famoso por suas paisagens remotas e águas claras, Mili é um destino isolado, ideal para quem busca tranquilidade e natureza intocada.",
       image: "https://commons.wikimedia.org/wiki/Special:FilePath/Mili%20Atoll%20Marshall%20Islands.jpg",
+    },
+  ],
+  "New Caledonia": [
+    {
+      city: "Nouméa",
+      title: "Nouméa",
+      description: "A capital da Nova Caledônia é um ponto de fusão entre a cultura francesa e o charme do Pacífico. Possui belas praias como Anse Vata e Baie des Citrons, além de ótimos restaurantes e vida noturna vibrante.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Nouméa%20New%20Caledonia.jpg",
+    },
+    {
+      city: "Ilha dos Pinheiros (Île des Pins)",
+      title: "Ilha dos Pinheiros (Île des Pins)",
+      description: "Conhecida como a 'joia do Pacífico', a Ilha dos Pinheiros encanta com praias de areia branca, águas turquesa e os emblemáticos pinheiros coloniais. A Baía de Kuto e a Baía de Kanuméra são imperdíveis.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Île%20des%20Pins%20New%20Caledonia.jpg",
+    },
+    {
+      city: "Parque da Lagoa da Nova Caledônia",
+      title: "Parque da Lagoa da Nova Caledônia",
+      description: "Patrimônio Mundial da UNESCO, esta imensa lagoa abriga recifes de corais coloridos e rica biodiversidade marinha, sendo um paraíso para mergulho e snorkel.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/New%20Caledonia%20lagoon.jpg",
+    },
+    {
+      city: "Grande Terre",
+      title: "Grande Terre",
+      description: "A ilha principal da Nova Caledônia oferece montanhas, florestas tropicais e paisagens áridas no norte. Ideal para trilhas, ecoturismo e imersão na cultura Kanak.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Grande%20Terre%20New%20Caledonia.jpg",
+    },
+    {
+      city: "Hienghène",
+      title: "Hienghène",
+      description: "Localizada na costa leste, Hienghène é famosa por suas formações rochosas de calcário negro, cachoeiras e vilas tradicionais Kanak. Um dos destinos mais fotogênicos do país.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Hienghène%20New%20Caledonia.jpg",
+    },
+    {
+      city: "Lifou (Ilhas Loyalty)",
+      title: "Lifou (Ilhas Loyalty)",
+      description: "A maior das Ilhas Loyalty, Lifou encanta com suas falésias, cavernas marinhas e vilarejos acolhedores. Um ótimo local para mergulhar entre recifes e jardins de coral.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Lifou%20Loyalty%20Islands%20New%20Caledonia.jpg",
+    },
+    {
+      city: "Ouvéa (Ilhas Loyalty)",
+      title: "Ouvéa (Ilhas Loyalty)",
+      description: "Muitas vezes chamada de 'ilha mais próxima do paraíso', Ouvéa tem uma das praias mais longas do Pacífico, com 25 km de areia branca e mar azul-turquesa cristalino.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Ouvéa%20Loyalty%20Islands%20New%20Caledonia.jpg",
+    },
+    {
+      city: "Bourail",
+      title: "Bourail",
+      description: "Região popular entre surfistas e aventureiros, Bourail oferece praias como Poé Beach e a icônica formação natural de 'La Roche Percée', além de trilhas e esportes aquáticos.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Bourail%20New%20Caledonia.jpg",
+    },
+    {
+      city: "Yaté e o Parque Provincial da Rivière Bleue",
+      title: "Yaté e o Parque Provincial da Rivière Bleue",
+      description: "Um paraíso ecológico com florestas densas, o famoso lago Yaté e trilhas que passam por pontes suspensas e árvores centenárias. Ideal para ecoturismo e fotografia.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Parc%20Provincial%20de%20la%20Rivière%20Bleue%20New%20Caledonia.jpg",
     },
   ],
   Spain: [
@@ -5108,7 +5164,7 @@ const baseDestinations: Record<string, Destination[]> = {
       city: "Palawan",
       title: "Palawan",
       description:
-        "Ilha paradisíaca com lagoas turquesa, falésias de calcário e o famoso rio subterrâneo de Puerto Princesa.",
+        "Ilha paradisíaca com lagoas turquesa, falésias de calc��rio e o famoso rio subterrâneo de Puerto Princesa.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/El%20Nido%20Palawan%20Philippines%20Lagoon.jpg",
     },
@@ -5574,7 +5630,7 @@ const baseDestinations: Record<string, Destination[]> = {
     },
     {
       city: "Plain of Jars (Planície dos Jarros)",
-      title: "Plain of Jars (Planície dos Jarros)",
+      title: "Plain of Jars (Plan��cie dos Jarros)",
       description:
         "Sítio arqueológico misterioso com centenas de jarros de pedra milenares espalhados por colinas na região de Phonsavan.",
       image:
@@ -5864,7 +5920,7 @@ const baseDestinations: Record<string, Destination[]> = {
       city: "Luxor",
       title: "Luxor",
       description:
-        "Conhecida como o maior museu a céu aberto do mundo, com templos grandiosos como Karnak e Luxor, al��m do Vale dos Reis.",
+        "Conhecida como o maior museu a céu aberto do mundo, com templos grandiosos como Karnak e Luxor, além do Vale dos Reis.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/Luxor%20Temple%20Egypt.jpg",
     },
@@ -7092,7 +7148,7 @@ const extraRaw: {
       {
         name: "Mesquita Sultan Omar Ali Saifuddien",
         description:
-          "Opulência arquitetônica à beira-mar — símbolo do patrimônio muçulmano local.",
+          "Opulência arquitetônica à beira-mar ��� símbolo do patrimônio muçulmano local.",
         image:
           "https://commons.wikimedia.org/wiki/Special:Search?search=Sultan+Omar+Ali+Saifuddien+Mosque",
       },
