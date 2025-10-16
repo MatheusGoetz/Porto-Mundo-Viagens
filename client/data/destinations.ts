@@ -538,7 +538,7 @@ const baseDestinations: Record<string, Destination[]> = {
       city: "Kitzbühel",
       title: "Kitzbühel",
       description:
-        "Um dos resorts de esqui mais famosos da Europa, Kitzbühel oferece luxo, tradição tirolesa e paisagens de tirar o fôlego durante o ano inteiro.",
+        "Um dos resorts de esqui mais famosos da Europa, Kitzbühel oferece luxo, tradição tirolesa e paisagens de tirar o f��lego durante o ano inteiro.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/Kitzbühel%20winter%20Austria.jpg",
     },
@@ -1204,7 +1204,7 @@ const baseDestinations: Record<string, Destination[]> = {
       city: "Snaefellsnes",
       title: "Snaefellsnes",
       description:
-        "Península que reúne o melhor da Islândia em um só lugar — vulcões, glaciares, praias negras e o icônico monte Kirkjufell, cartão-postal do país.",
+        "Península que reúne o melhor da Islândia em um só lugar — vulcões, glaciares, praias negras e o ic��nico monte Kirkjufell, cartão-postal do país.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/Kirkjufell%20mountain%20Iceland.jpg",
     },
@@ -1413,12 +1413,68 @@ const baseDestinations: Record<string, Destination[]> = {
       image: "https://commons.wikimedia.org/wiki/Special:FilePath/Savusavu%20harbour%20Fiji.jpg",
     },
   ],
+  Samoa: [
+    {
+      city: "Apia",
+      title: "Apia",
+      description: "A capital de Samoa, localizada na ilha de Upolu, mistura tradição e modernidade com mercados vibrantes, arquitetura colonial e o Museu Robert Louis Stevenson.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Apia%20harbour%20Samoa.jpg",
+    },
+    {
+      city: "To Sua Ocean Trench",
+      title: "To Sua Ocean Trench",
+      description: "Uma das atrações mais icônicas de Samoa, esse buraco natural gigante forma uma piscina de água azul-turquesa cercada por vegetação tropical.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/To%20Sua%20Ocean%20Trench%20Samoa.jpg",
+    },
+    {
+      city: "Lalomanu Beach",
+      title: "Lalomanu Beach",
+      description: "Considerada uma das praias mais lindas do Pacífico Sul, Lalomanu encanta com suas águas cristalinas e atmosfera relaxante.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Lalomanu%20Beach%20Samoa.jpg",
+    },
+    {
+      city: "Papaseea Sliding Rocks",
+      title: "Papaseea Sliding Rocks",
+      description: "Formações rochosas naturais que funcionam como escorregadores, levando a piscinas refrescantes no meio da floresta tropical.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Papaseea%20Sliding%20Rocks%20Samoa.jpg",
+    },
+    {
+      city: "Piula Cave Pool",
+      title: "Piula Cave Pool",
+      description: "Uma caverna subterrânea com águas cristalinas e sagradas, perfeita para mergulho e relaxamento.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Piula%20Cave%20Pool%20Samoa.jpg",
+    },
+    {
+      city: "Alofaaga Blowholes",
+      title: "Alofaaga Blowholes",
+      description: "Impressionantes buracos naturais que jorram água do mar a vários metros de altura com a força das ondas.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Alofaaga%20Blowholes%20Savai'i%20Samoa.jpg",
+    },
+    {
+      city: "Togitogiga Waterfall",
+      title: "Togitogiga Waterfall",
+      description: "Cachoeira pitoresca dentro do Parque Nacional O Le Pupu-Pu'e, cercada por florestas e trilhas exuberantes.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Togitogiga%20Waterfall%20Samoa.jpg",
+    },
+    {
+      city: "Manono Island",
+      title: "Manono Island",
+      description: "Ilha sem carros e com uma forte cultura local, ideal para imersão na vida tradicional samoana.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Manono%20Island%20Samoa.jpg",
+    },
+    {
+      city: "Saleaula Lava Fields",
+      title: "Saleaula Lava Fields",
+      description: "Campos de lava solidificada de erupções antigas, onde ruínas de igrejas e aldeias contam a história da força da natureza.",
+      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Saleaula%20lava%20fields%20Savai'i%20Samoa.jpg",
+    },
+  ],
   Spain: [
     {
       city: "Barcelona",
       title: "Barcelona",
       description:
-        "Cidade vibrante e artística, famosa pelas obras de Gaudí, como a Sagrada Família e o Parque Güell, além de praias e vida noturna intensa.",
+        "Cidade vibrante e artística, famosa pelas obras de Gaud��, como a Sagrada Família e o Parque Güell, além de praias e vida noturna intensa.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/Sagrada%20Familia%20Barcelona%20Spain.jpg",
     },
@@ -1458,7 +1514,7 @@ const baseDestinations: Record<string, Destination[]> = {
       city: "Bilbao",
       title: "Bilbao",
       description:
-        "Símbolo da modernidade no País Basco, Bilbao é lar do icônico Museu Guggenheim e de uma cena gastronômica de alto n��vel.",
+        "Símbolo da modernidade no País Basco, Bilbao é lar do icônico Museu Guggenheim e de uma cena gastronômica de alto nível.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/Guggenheim%20Museum%20Bilbao%20Spain.jpg",
     },
@@ -1622,7 +1678,7 @@ const baseDestinations: Record<string, Destination[]> = {
       city: "La Serena",
       title: "La Serena",
       description:
-        "Cidade litorânea histórica com belas praias, observatórios astronômicos e arquitetura colonial.",
+        "Cidade litorânea histórica com belas praias, observatórios astron��micos e arquitetura colonial.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/La%20Serena%20Coquimbo%20Chile.jpg",
     },
@@ -3108,7 +3164,7 @@ const baseDestinations: Record<string, Destination[]> = {
       city: "Placencia",
       title: "Placencia",
       description:
-        "Vilarejo costeiro famoso por suas praias e resorts à beira-mar, além de ser ótimo ponto para explorar ilhas próximas.",
+        "Vilarejo costeiro famoso por suas praias e resorts à beira-mar, al��m de ser ótimo ponto para explorar ilhas próximas.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/Placencia%20Belize.jpg",
     },
@@ -3298,7 +3354,7 @@ const baseDestinations: Record<string, Destination[]> = {
       city: "León",
       title: "León",
       description:
-        "Centro histórico e cultural com catedrais barrocas, arte urbana vibrante e acesso fácil ao vulc��o Cerro Negro.",
+        "Centro histórico e cultural com catedrais barrocas, arte urbana vibrante e acesso fácil ao vulcão Cerro Negro.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/Leon%20Cathedral%20Nicaragua.jpg",
     },
@@ -4194,7 +4250,7 @@ const baseDestinations: Record<string, Destination[]> = {
       city: "Phuket",
       title: "Phuket",
       description:
-        "A maior ilha da Tailândia e um dos principais destinos de praia do país, com vida noturna vibrante e resorts luxuosos.",
+        "A maior ilha da Tailândia e um dos principais destinos de praia do pa��s, com vida noturna vibrante e resorts luxuosos.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/Patong%20Beach%20Phuket%20Thailand.jpg",
     },
@@ -5000,7 +5056,7 @@ const baseDestinations: Record<string, Destination[]> = {
       city: "Vientiane",
       title: "Vientiane",
       description:
-        "A capital do Laos oferece uma mistura relaxante de cultura budista, cafés à beira do rio Mekong e o ic��nico monumento Pha That Luang.",
+        "A capital do Laos oferece uma mistura relaxante de cultura budista, cafés à beira do rio Mekong e o icônico monumento Pha That Luang.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/Pha%20That%20Luang%20Vientiane.jpg",
     },
@@ -5056,7 +5112,7 @@ const baseDestinations: Record<string, Destination[]> = {
       city: "Muang Ngoi Neua",
       title: "Muang Ngoi Neua",
       description:
-        "Vila isolada acessível apenas de barco, rodeada por montanhas e rios, ideal para trilhas e imers��o na vida rural laociana.",
+        "Vila isolada acessível apenas de barco, rodeada por montanhas e rios, ideal para trilhas e imersão na vida rural laociana.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/Muang%20Ngoi%20Neua%20Laos.jpg",
     },
@@ -7613,7 +7669,7 @@ export const countryDisplayName = (name: string) => {
     Egypt: "Egito",
     Kenya: "Quênia",
     Tanzania: "Tanzânia",
-    Tunisia: "Tunísia",
+    Tunisia: "Tun��sia",
     Namibia: "Namíbia",
     Seychelles: "Seicheles",
     "United Arab Emirates": "Emirados Árabes Unidos",
