@@ -32,7 +32,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Conhecida como a cidade que nunca dorme, é famosa pela Times Square, Central Park e a Estátua da Liberdade.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Statue%20of%20Liberty%20in%20New%20York%20City.jpg",
+        "https://i.pinimg.com/736x/61/43/6e/61436e92302c995063ebb034cfa67635.jpg",
     },
     {
       city: "Los Angeles",
@@ -40,7 +40,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Centro da indústria cinematográfica de Hollywood, também conhecida por praias e vida cultural vibrante.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Hollywood%20Sign%20(Los%20Angeles).jpg",
+        "https://i.pinimg.com/736x/96/e1/46/96e146bbbc9b698d077bb356fc6d10e6.jpg",
     },
     {
       city: "Las Vegas",
@@ -64,7 +64,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Destino tropical nos EUA, famoso por suas praias, vida noturna e influência cultural latina.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Ocean%20Drive%20in%20Miami%20Beach.jpg",
+        "https://i.pinimg.com/736x/c3/2a/4d/c32a4d0fb9f5070cf9ac2526fc3150a2.jpg",
     },
     {
       city: "Chicago",
@@ -72,7 +72,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Cidade às margens do Lago Michigan, conhecida por sua arquitetura, blues e pizza deep dish.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Chicago%20skyline%20from%20North%20Avenue%20Beach.jpg",
+        "https://i.pinimg.com/1200x/10/3f/a3/103fa32a398e8eac3d0b7abbacc1cdd5.jpg",
     },
     {
       city: "Orlando",
@@ -106,7 +106,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "A maior cidade do Canadá, famosa pela CN Tower, diversidade cultural e vida urbana vibrante.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Toronto%20-%20ON%20-%20Toronto%20skyline%20viewed%20from%20Centre%20Island.jpg",
+        "https://i.pinimg.com/1200x/c6/df/e4/c6dfe4e7c4d2b9637d987a6993df545b.jpg",
     },
     {
       city: "Vancouver",
@@ -114,7 +114,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Cidade costeira entre montanhas e o oceano, conhecida por sua beleza natural e qualidade de vida.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Vancouver%20skyline%20from%20Stanley%20Park.jpg",
+        "https://i.pinimg.com/1200x/51/39/f8/5139f8728aafe7fd1f1b9d95b54cba10.jpg",
     },
     {
       city: "Montreal",
@@ -122,7 +122,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Cidade bilíngue com forte influência francesa, famosa por sua cena gastronômica e cultural.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Montreal%20skyline%20at%20night.jpg",
+        "https://i.pinimg.com/1200x/f2/f9/34/f2f934d53f74a905ae733ea4ac405776.jpg",
     },
     {
       city: "Quebec City",
@@ -130,7 +130,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Cidade histórica com arquitetura colonial francesa e o icônico Château Frontenac.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Quebec%20City%20-%20Chateau%20Frontenac.jpg",
+        "https://i.pinimg.com/1200x/1c/d5/f7/1cd5f7da56b6f7ae6dafbed2e5997407.jpg",
     },
     {
       city: "Niagara Falls",
@@ -138,7 +138,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Uma das cataratas mais famosas do mundo, na fronteira entre Canadá e EUA.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Niagara%20Falls%20from%20Skylon%20Tower.jpg",
+        "https://i.pinimg.com/1200x/71/73/4a/71734aaf0238587ee26e618bbcf669c4.jpg",
     },
     {
       city: "Ottawa",
@@ -146,7 +146,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "A capital do Canadá, conhecida pelo Parlamento e museus nacionais.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Parliament%20Hill%20in%20Ottawa.jpg",
+        "https://i.pinimg.com/1200x/c8/0f/28/c80f28ac941c30489e489d0cf1c3cc86.jpg",
     },
     {
       city: "Calgary",
@@ -154,7 +154,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Cidade próxima às Montanhas Rochosas, famosa pelo rodeio Calgary Stampede.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Downtown%20Calgary%20from%20Scotsman%27s%20Hill.jpg",
+        "https://i.pinimg.com/736x/79/2e/0e/792e0ef2b0330ef1ffee857de791ab30.jpg",
     },
     {
       city: "Banff",
@@ -162,7 +162,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Localizado no Parque Nacional Banff, é um destino alpino com lagos cristalinos e montanhas imponentes.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Lake%20Louise%20(Banff%20National%20Park).jpg",
+        "https://i.pinimg.com/736x/99/08/d8/9908d8dbc42f3362c90321991a7494b1.jpg",
     },
     {
       city: "Whistler",
@@ -170,7 +170,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Resort de montanha famoso por esqui, snowboard e paisagens deslumbrantes durante todo o ano.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Whistler%20Village.jpg",
+        "https://i.pinimg.com/1200x/2b/ad/ab/2badab8cb7a5db09989f0bf3e11030d9.jpg",
     },
   ],
   Portugal: [
@@ -2400,7 +2400,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "A capital da Argentina, famosa pela arquitetura europeia, tango, vida noturna vibrante e bairros icônicos como San Telmo e Recoleta.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Obelisco%20de%20Buenos%20Aires%20(2).jpg",
+        "https://cdn2.paraty.es/parkroyal-corpo/images/29581ba3c89a845",
     },
     {
       city: "Bariloche",
@@ -2408,7 +2408,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Localizada na Patagônia, é conhecida por suas montanhas, lagos cristalinos, esportes de inverno e pela produção de chocolates artesanais.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Bariloche%20Lake.jpg",
+        "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcSikxuRPvJDkQP3sO0n-v9-2RPJ2WALGFqokbYt9Leaae_ipJ9SaGrgpVCNg8Im66DL5pGApj-OGfYBtZQT-Juh2kGviKeHrcZVVm3iBAA",
     },
     {
       city: "Mendoza",
@@ -2424,7 +2424,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Conhecida como a cidade mais austral do mundo, é porta de entrada para a Antártida e famosa por paisagens geladas e passeios de barco.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Ushuaia%20Harbor.jpg",
+        "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcQQWvChRqUSwGwF0VH4JFNq2xkKcG_cDzPr4KNM8Erh6vJmDEGOAZEcVgJC-oGeNalELR-JBRwjcHEGgIII-y6NniP18GniISfRyZ6FAQ",
     },
     {
       city: "El Calafate",
@@ -2432,7 +2432,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Destino da Patagônia famoso pelo Parque Nacional Los Glaciares e o impressionante Glaciar Perito Moreno.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Perito%20Moreno%20Glacier%20(3).jpg",
+        "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcQP4VMkmmJ72bl8omypqimJJlplj9WrffdT_CiRD_ZhqG5BMseuP5eLuzAp6C-NNquWD7LId0AlVFVJwvxbNRdUbKUtuTY1zpDCJ6glSg",
     },
     {
       city: "Salta",
@@ -2448,7 +2448,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Lar das Cataratas do Iguaçu, uma das Sete Maravilhas Naturais do Mundo, localizada na tríplice fronteira com Brasil e Paraguai.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Iguazu%20Falls%20Argentina%20side.jpg",
+        "https://m.ahstatic.com/is/image/accorhotels/puerto-iguazu-como-ir-e-o-que-fazer-na-cidade-argentina-2024-1:16by9?fmt=webp&op_usm=1.75,0.3,2,0&resMode=sharp2&iccEmbed=true&icc=sRGB&dpr=on,1.3&wid=1459&hei=820&qlt=80",
     },
     {
       city: "Mar del Plata",
@@ -2464,7 +2464,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Cidade histórica e universitária, com arquitetura colonial, serras próximas e rica vida cultural.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/C%C3%B3rdoba%20Cathedral%20Argentina.jpg",
+        "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcSohukG6ZO3CqTc5lr_hHn_i0K-MVS69QAq1e00TcZhSTh8fGTrvAabVahGX2oShwZHx-p5ip7r26poxQi-LSjFGvXVCbjBsx6Fy5lkSA",
     },
   ],
   Chile: [
@@ -2474,7 +2474,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "A capital do Chile, localizada entre a Cordilheira dos Andes e o Oceano Pacífico, famosa por sua vida cultural, vinícolas próximas e centros de esqui.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Santiago%20de%20Chile%20Cityscape.jpg",
+        "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npRjLqL5LMehwNjaN6eP1P80xkFYSSJXigb4rtFRhWY3gKW1aDD-l6S57kDehK4i_KSOxcX0BsTXLlESeOShaMKGedqv_hc3AZOQDrqd7zL8Ahy1tMJ-vf7V0b2EEgYvDLimbU=w675-h390-n-k-no",
     },
     {
       city: "Valparaíso",
@@ -2482,7 +2482,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Cidade portuária com morros coloridos, arte de rua vibrante e um importante patrimônio histórico e cultural.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Valparaiso%20Cerro%20Concepcion.jpg",
+        "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcT7ynTp396YYcalURC7sl375v3B7WJc9Y1voJi9K7c_HpAgOKkhp0zkr3Wdjyje8n6C11D-mZZvokrjWpNhjIH4p-q_lWvONKxBjp072g",
     },
     {
       city: "Viña del Mar",
@@ -2490,7 +2490,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Destino litorâneo elegante conhecido como 'Cidade Jardim', com praias, cassinos e o famoso Festival Internacional da Canção.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Vina%20del%20Mar%20beach.jpg",
+        "https://turistik.com/wp-content/uploads/2023/06/tourvalpayvina-gal-gen-7.webp",
     },
     {
       city: "Atacama (San Pedro de Atacama)",
@@ -2498,7 +2498,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Um dos desertos mais áridos do mundo, famoso por paisagens lunares, salares, gêiseres e observação astronômica.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Valle%20de%20la%20Luna%20Atacama.jpg",
+        "https://www.brasildemochila.com/images/blog/san-pedro-de-atacama.jpg",
     },
     {
       city: "Ilha de Páscoa (Rapa Nui)",
@@ -2506,7 +2506,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Uma das ilhas mais isoladas do mundo, famosa pelos misteriosos moais e pela cultura polinésia única.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Moai%20statues%20Easter%20Island.jpg",
+        "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcQRoEBSTFbIOaC1aiPDCxPRaI_IM9w9--hZ-Cwd5qoh_HBVZ3mXFB7REFqS2wuWGQYGAKd2gwzl2FrYKuQ6lO7g-DRkz0T4fzPKleewPw",
     },
     {
       city: "Puerto Varas",
@@ -2514,7 +2514,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Cidade charmosa às margens do Lago Llanquihue, com vista para vulcões nevados e influência cultural alemã.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Puerto%20Varas%20and%20Osorno%20Volcano.jpg",
+        "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcTbIau_Ayao8L_iXJYD4VvE998zhG35l6XqZiRXiOag027YhsELWxP1DBMfxC74wefm4xc2TXU_v_U8ETIf0VQUjk8DZwrL9xJQIiDW-A",
     },
     {
       city: "Torres del Paine",
@@ -2530,7 +2530,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Cidade litorânea histórica com belas praias, observatórios astronômicos e arquitetura colonial.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/La%20Serena%20Coquimbo%20Chile.jpg",
+        "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcTLUNRn_p8Zh2BI109eGpDbAGuJz5U10Sl0QjUeL7lw2CZoWJIodM7K44dXes1ml2Vkq01q4cc7gCy9LUanNcs0U38MwAku0votEdJ2fQ",
     },
     {
       city: "Chiloé",
@@ -2538,7 +2538,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Arquipélago com tradições únicas, casas coloridas sobre palafitas e igrejas de madeira consideradas Patrimônio Mundial da UNESCO.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Palafitos%20de%20Castro%20Chiloe.jpg",
+        "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcT1DQZmEaQfNOvkauGrHH4xn22a6gNdN55X19ygBroG3nl2Wn-chFbr4H2pEtX6aCLL3umA4oDDPXZ1CefbniscmuaptuhyBJOt-lEujA",
     },
   ],
   Bolivia: [
@@ -2548,7 +2548,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "A capital administrativa da Bolívia, localizada a mais de 3.600 metros de altitude, famosa pelo teleférico urbano e pelo Vale da Lua.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/La%20Paz%20Bolivia%20Cityscape.jpg",
+        "https://content.r9cdn.net/rimg/dimg/bc/c4/40691bb8-city-13346-16d3f0364a4.jpg?width=1366&height=768&xhint=2771&yhint=1944&crop=true",
     },
     {
       city: "Sucre",
@@ -2556,7 +2556,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Capital constitucional da Bolívia, conhecida por sua arquitetura colonial bem preservada e charme histórico.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Sucre%20Bolivia%20Plaza%2025%20de%20Mayo.jpg",
+        "https://luporai.com.br/wp-content/uploads/2022/07/20220526_152113-2-1024x577.jpg",
     },
     {
       city: "Santa Cruz de la Sierra",
@@ -2564,7 +2564,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Principal centro econômico da Bolívia, com vida noturna vibrante e uma mistura de modernidade e tradição.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Santa%20Cruz%20de%20la%20Sierra%20Bolivia.jpg",
+        "https://i0.wp.com/guialugaresturisticos.com/wp-content/uploads/2020/04/Guembe-piscina2.jpg?w=800&ssl=1",
     },
     {
       city: "Uyuni",
@@ -2575,28 +2575,20 @@ const baseDestinations: Record<string, Destination[]> = {
         "https://commons.wikimedia.org/wiki/Special:FilePath/Salar%20de%20Uyuni%20Bolivia.jpg",
     },
     {
-      city: "Potosí",
-      title: "Potosí",
-      description:
-        "Antiga cidade mineradora, conhecida pelas minas de prata do Cerro Rico e sua história colonial.",
-      image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Potosi%20Bolivia.jpg",
-    },
-    {
       city: "Copacabana",
       title: "Copacabana",
       description:
         "Às margens do Lago Titicaca, é famosa pelo Santuário de Nossa Senhora de Copacabana e pela Isla del Sol.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Copacabana%20Bolivia.jpg",
+        "https://perderelrumbo.com/wp-content/uploads/2023/08/Copacabana-Bolivia-un-tesoro-a-orillas-del-titicaca_-768x512.jpg",
     },
     {
       city: "Cochabamba",
       title: "Cochabamba",
       description:
-        "Cidade no centro da Bol��via, conhecida pelo Cristo de la Concordia e clima agradável.",
+        "Cidade no centro da Bolívia, conhecida pelo Cristo de la Concordia e clima agradável.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Cochabamba%20Bolivia%20Christo%20de%20la%20Concordia.jpg",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/116156333.jpg?k=05c8ec05c7e107da2d90bc1bcef7f59b45862fa32d2558e79df25e1259ad996c&o=",
     },
     {
       city: "Tarija",
@@ -2604,7 +2596,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Região vinícola da Bolívia, famosa por seus vinhos e clima tranquilo nas montanhas.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Tarija%20Bolivia%20Plaza.jpg",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/34863342.jpg?k=00712d97207ec1c484d409d153a28bd4df63c90dc611ea5f11e581a68907ce6f&o=&hp=1",
     },
     {
       city: "Oruro",
@@ -2612,7 +2604,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Cidade conhecida pelo Carnaval de Oruro, declarado Patrimônio Imaterial da Humanidade pela UNESCO.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Oruro%20Carnival%20Bolivia.jpg",
+        "https://images.myguide-cdn.com/content/1/large/oruro-1425685.jpeg",
     },
   ],
   Ecuador: [
@@ -2622,7 +2614,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "A capital do Equador, localizada a 2.850 metros de altitude, famosa pelo centro histórico colonial, Patrimônio da UNESCO.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Quito%20Ecuador%20Cityscape.jpg",
+        "https://i.pinimg.com/736x/df/0c/f4/df0cf452d068ec38cce3f6a26cb3721a.jpg",
     },
     {
       city: "Guayaquil",
@@ -2630,7 +2622,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Principal porto do país, com o Malecón 2000, vida noturna animada e acesso às Ilhas Galápagos.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Guayaquil%20Ecuador.jpg",
+        "https://i.pinimg.com/1200x/b9/40/35/b94035f2dad4095b536add9ea5b2d97c.jpg",
     },
     {
       city: "Cuenca",
@@ -2638,7 +2630,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Cidade colonial famosa por sua arquitetura, igrejas históricas e tradição dos chapéus Panamá.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Cuenca%20Ecuador%20Cathedral.jpg",
+        "https://i.pinimg.com/1200x/f1/57/55/f15755a44e17043080972afb2af66009.jpg",
     },
     {
       city: "Galápagos",
@@ -2646,7 +2638,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Arquipélago único, Patrimônio Natural da Humanidade, famoso por sua biodiversidade e estudos de Darwin.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Galapagos%20Islands%20Ecuador.jpg",
+        "https://i.pinimg.com/736x/eb/c4/7f/ebc47f624a34134ff1ba359ebfb0a2fd.jpg",
     },
     {
       city: "Baños de Agua Santa",
@@ -2654,7 +2646,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Cidade turística famosa por cachoeiras, esportes de aventura e termas vulcânicas.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Banos%20Ecuador%20Waterfall.jpg",
+        "https://i.pinimg.com/1200x/89/af/1a/89af1a76bb2979cea85d52e0b1d1b105.jpg",
     },
     {
       city: "Otavalo",
@@ -2662,15 +2654,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Cidade conhecida pelo mercado indígena e tradições culturais andinas.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Otavalo%20Market%20Ecuador.jpg",
-    },
-    {
-      city: "Mindo",
-      title: "Mindo",
-      description:
-        "Destino ecológico nos Andes, famoso por observação de aves, cachoeiras e florestas nubladas.",
-      image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Mindo%20Ecuador.jpg",
+        "https://i.pinimg.com/736x/4e/ba/7d/4eba7d94c2f88600cb69089527138fe8.jpg",
     },
     {
       city: "Montañita",
@@ -2678,7 +2662,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Praia famosa por surf, vida noturna e atmosfera jovem e descontraída.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Montanita%20Ecuador.jpg",
+        "https://i.pinimg.com/1200x/85/0b/e4/850be40d44a3314f6a8dd6e3b8ea563e.jpg",
     },
     {
       city: "Loja",
@@ -2686,7 +2670,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Cidade cultural conhecida por música, tradições artísticas e proximidade com a natureza.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Loja%20Ecuador.jpg",
+        "https://i.pinimg.com/736x/64/07/f2/6407f26d85d3c104a8595d297672f649.jpg",
     },
   ],
   Venezuela: [
@@ -2720,7 +2704,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Cidade andina conhecida pelo teleférico mais alto e longo do mundo e paisagens montanhosas.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Merida%20Venezuela.jpg",
+        "https://i.pinimg.com/736x/cf/14/7b/cf147b28f2464c6461cfa880256cdb32.jpg",
     },
     {
       city: "Canaima",
@@ -2728,7 +2712,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Parque Nacional Canaima, famoso pelo Salto Ángel, a maior queda d’água do mundo.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Salto%20Angel%20Venezuela.jpg",
+        "https://i.pinimg.com/1200x/27/25/62/272562814b8bad7ec0dc3b46897c204f.jpg",
     },
     {
       city: "Maracaibo",
@@ -2736,7 +2720,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Importante cidade venezuelana, conhecida pelo Lago de Maracaibo e o fenômeno natural Relâmpago do Catatumbo.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Maracaibo%20Venezuela.jpg",
+        "https://i.pinimg.com/736x/c0/74/ef/c074efe69f9d4b185b15946048cc0a18.jpg",
     },
     {
       city: "Coro",
@@ -2744,7 +2728,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Cidade colonial, Patrimônio Mundial da UNESCO, famosa por suas ruas históricas e casas coloridas.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Coro%20Venezuela.jpg",
+        "https://i.pinimg.com/1200x/8e/b2/5b/8eb25b7b9eae9d84288969ebb35c2e9b.jpg",
     },
     {
       city: "Puerto La Cruz",
@@ -2752,7 +2736,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Cidade costeira com belas praias e porta de entrada para as Ilhas do Caribe venezuelano.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Puerto%20La%20Cruz%20Venezuela.jpg",
+        "https://i.pinimg.com/736x/02/a4/0d/02a40d12c4e0cebc1788c56d71e05edf.jpg",
     },
     {
       city: "Choroní",
@@ -2760,7 +2744,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Vila costeira charmosa no Caribe, cercada por montanhas e praias tropicais.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Choroni%20Venezuela.jpg",
+        "https://i.pinimg.com/736x/5d/94/54/5d94544aa0f2b1119c56313edaadd522.jpg",
     },
   ],
   Peru: [
@@ -2770,7 +2754,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "A cidade perdida dos incas, Patrimônio Mundial da UNESCO e uma das Sete Maravilhas do Mundo Moderno.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Machu%20Picchu%20Peru.jpg",
+        "https://p2.trrsf.com/image/fget/cf/1548/0/images.terra.com/2022/12/26/142392359-shutterstock168497345.jpg",
     },
     {
       city: "Cusco",
@@ -2802,15 +2786,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "O lago navegável mais alto do mundo, famoso pelas ilhas flutuantes dos Uros e tradições ancestrais.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Lake%20Titicaca%20Puno.jpg",
-    },
-    {
-      city: "Nazca",
-      title: "Nazca",
-      description:
-        "Conhecida pelas misteriosas Linhas de Nazca, enormes geoglifos visíveis apenas do alto.",
-      image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Nazca%20Lines%20Monkey.jpg",
+        "https://www.salkantaytrilha.com/blog/wp-content/uploads/2024/09/Puno-seus-misterios-e-as-ilhas-do-Titicaca.jpg",
     },
     {
       city: "Iquitos",
@@ -2818,7 +2794,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Porta de entrada para a Amazônia peruana, acessível apenas por avião ou barco, com rica biodiversidade.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Iquitos%20Amazon%20Peru.jpg",
+        "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcTeA8zQ12aiEFthOOe7SwAOVgeFPA7AVUFpg1DTDocJIgLwAhnN_d9GHUMJiY37FSmYsiqWoK_6SX5WY0dGAskz5LpgNqsWmCV2jVWdaA",
     },
     {
       city: "Paracas",
@@ -2826,7 +2802,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Famosa pela Reserva Nacional de Paracas e pelas Ilhas Ballestas, chamadas de 'Galápagos do Peru'.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Paracas%20Peru.jpg",
+        "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcSQgwuHKONqoRH_WFPiet6w1bthxwpiBIQvM3Le-uHsKpkrvNjqSFUZ51wJsgcweW1F1goK5Lk8XJW7Xa0Qs6r4KYpb2oqfHLgWiDJSHQ",
     },
     {
       city: "Huaraz",
@@ -2834,7 +2810,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Cidade andina cercada pela Cordilheira Branca, ideal para trekking e aventuras em alta montanha.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Huascaran%20Huaraz.jpg",
+        "https://pohcdn.com/sites/default/files/styles/node__blog_post__bp_banner/public/live_banner/Huaraz.jpg",
     },
   ],
   Colombia: [
@@ -2852,7 +2828,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "A capital da Colômbia, localizada a 2.600 metros de altitude, com o famoso Museu do Ouro e o bairro histórico La Candelaria.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Bogota%20Panorama.jpg",
+        "https://media.istockphoto.com/id/1453256961/pt/foto/aerial-view-of-modern-bogota-cityscape-in-colombia-in-the-afternoon.jpg?s=612x612&w=0&k=20&c=NTKna8CCPrIAbJPdw0UKBHc8vmW_318ZRlZJkMwNsyI=",
     },
     {
       city: "Medellín",
@@ -2860,7 +2836,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Conhecida como a 'Cidade da Eterna Primavera', é moderna, inovadora e cercada por montanhas.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Medellin%20City.jpg",
+        "https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/ff/86/68.jpg",
     },
     {
       city: "San Andrés",
@@ -2868,7 +2844,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Ilha paradisíaca no Caribe colombiano, famosa pelo mar de sete cores e mergulhos incríveis.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/San%20Andres%20Island%20Colombia.jpg",
+        "https://dicasdacolombia.com.br/wp-content/uploads/sites/22/2018/07/san-andres-colombia-passeios-jpg.webp",
     },
     {
       city: "Santa Marta",
@@ -2884,7 +2860,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Parque nacional com praias selvagens, florestas tropicais e rica biodiversidade.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Tayrona%20National%20Park%20Colombia.jpg",
+        "https://www.descubraturismo.com.br/wp-content/uploads/2019/08/tudo-sobre-o-parque-tayrona-foto.jpg",
     },
     {
       city: "Cali",
@@ -2892,7 +2868,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Capital mundial da salsa, famosa por sua vida noturna, festivais de dança e cultura afro-colombiana.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Cali%20Colombia%20Panorama.jpg",
+        "https://i0.wp.com/passporterapp.com/pt/blog/wp-content/uploads/2024/08/O-que-fazer-em-Cali.jpg?resize=1140%2C708&ssl=1",
     },
     {
       city: "Villa de Leyva",
@@ -2900,7 +2876,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Cidade colonial preservada com ruas de pedra e uma das maiores praças da América Latina.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Villa%20de%20Leyva%20Main%20Square.jpg",
+        "https://mediaim.expedia.com/destination/1/aea1a89ec1f2cf2742d6b30fc85eb88b.jpg",
     },
     {
       city: "Guatapé",
@@ -2908,7 +2884,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Vila colorida famosa pelo monólito El Peñol, que oferece uma das vistas mais impressionantes do país.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Guatape%20El%20Penol.jpg",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/8e/0a/63/colombia-and-experience.jpg?w=900&h=500&s=1",
     },
   ],
   Uruguay: [
@@ -2926,15 +2902,15 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "O balneário mais famoso do país, conhecido por suas praias badaladas, cassinos e vida noturna vibrante.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Punta%20del%20Este%20Beach.jpg",
+        "https://melhoresmomentosdavida.com/wp-content/uploads/2022/07/onde-ficar-em-punta-del-este-3.jpg",
     },
     {
-      city: "Col��nia do Sacramento",
+      city: "Colônia do Sacramento",
       title: "Colônia do Sacramento",
       description:
         "Cidade histórica com ruas de pedra e arquitetura colonial portuguesa, Patrimônio da UNESCO.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Colonia%20del%20Sacramento%20Street.jpg",
+        "https://www.civitatis.com/f/uruguay/colonia-del-sacramento/colonia-del-sacramento.jpg",
     },
     {
       city: "Cabo Polônio",
@@ -2942,15 +2918,15 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Vilarejo isolado sem energia elétrica convencional, famoso por dunas, leões marinhos e farol icônico.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Cabo%20Polonio%20Uruguay.jpg",
+        "https://cdn-clubecandeias.s3.sa-east-1.amazonaws.com/uploads/featured_images/imagem_destaque_7109.jpeg",
     },
     {
-      city: "Piri��polis",
-      title: "Piri��polis",
+      city: "Piriápolis",
+      title: "Piriápolis",
       description:
         "Balneário com praias tranquilas, morros e um clima mais familiar que Punta del Este.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Piriapolis%20Uruguay.jpg",
+        "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/177000/177108-Piriapolis.jpg",
     },
     {
       city: "La Paloma",
@@ -2958,7 +2934,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Destino de surfistas e amantes da natureza, com praias extensas e atmosfera descontraída.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/La%20Paloma%20Uruguay.jpg",
+        "https://buquebus.com/media/la_paloma-06.jpg",
     },
     {
       city: "José Ignacio",
@@ -2966,15 +2942,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Vilarejo sofisticado que virou point de luxo, famoso por pousadas elegantes e gastronomia refinada.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Jose%20Ignacio%20Lighthouse.jpg",
-    },
-    {
-      city: "Paysandú",
-      title: "Paysandú",
-      description:
-        "Cidade às margens do Rio Uruguai, famosa por termas, turismo histórico e eventos culturais.",
-      image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Paysandu%20Uruguay.jpg",
+        "https://simonde.com.br/wp-content/uploads/2018/07/vik-hoteis-retreats-playa-vik-jose-ignacio-uruguai-onde-ficar-dicas-uruguay-1200-3-1024x683.jpg.webp",
     },
     {
       city: "Salto",
@@ -2982,7 +2950,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Cidade termal com águas quentes relaxantes e um dos principais destinos de turismo de bem-estar do país.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Salto%20Thermal%20Pools.jpg",
+        "https://www.oviajante.com/wp-content/uploads/2016/08/DSC_6197-Salto-Acuamania-e1471626512561.jpg",
     },
   ],
   Paraguay: [
@@ -2992,7 +2960,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "A capital do Paraguai, localizada às margens do Rio Paraguai, com arquitetura colonial, praças e vida cultural vibrante.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Palacio%20de%20los%20L%C3%B3pez%20Asunci%C3%B3n.jpg",
+        "https://media.gazetadopovo.com.br/2022/12/02123544/shutterstock_1223606968.png",
     },
     {
       city: "Ciudad del Este",
@@ -3000,7 +2968,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Cidade de fronteira com o Brasil, conhecida pelo comércio intenso e pela proximidade com as Cataratas do Iguaçu.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Ciudad%20del%20Este%20Skyline.jpg",
+        "https://media.gazetadopovo.com.br/2022/12/15113105/Shutterstock_1979868044-1280x720.jpg",
     },
     {
       city: "Encarnación",
@@ -3008,7 +2976,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Famosa por suas praias às margens do Rio Paraná e pelo Carnaval, considerado o melhor do país.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Encarnacion%20Beach%20Paraguay.jpg",
+        "https://content.r9cdn.net/rimg/dimg/70/74/1ec65d41-city-43094-1694ed912ce.jpg?crop=true&width=1366&height=768&xhint=1350&yhint=977",
     },
     {
       city: "Saltos del Monday",
@@ -3016,7 +2984,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Impressionantes quedas d’água com mais de 40 metros de altura, localizadas próximas a Ciudad del Este.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Saltos%20del%20Monday%20Paraguay.jpg",
+        "https://lp-cms-production.imgix.net/2019-06/e92149cf3a85ad5e88c45a6b83f51b21-parque-nacional-iguazu.jpg?fit=crop&ar=1%3A1&w=1200&auto=format&q=75",
     },
     {
       city: "Trinidad",
@@ -3024,23 +2992,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Ruínas jesuíticas de Santísima Trinidad del Paraná, Patrimônio Mundial da UNESCO, testemunho da história colonial.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Trinidad%20Jesuit%20Ruins%20Paraguay.jpg",
-    },
-    {
-      city: "Jesús de Tavarangüe",
-      title: "Jesús de Tavarangüe",
-      description:
-        "Outro importante sítio jesuítico, preservado e reconhecido pela UNESCO, parte do circuito missioneiro.",
-      image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Jesus%20de%20Tavarangue%20Ruins.jpg",
-    },
-    {
-      city: "Filadélfia (Chaco)",
-      title: "Filadélfia (Chaco)",
-      description:
-        "Cidade no coração do Chaco paraguaio, conhecida por sua cultura menonita e paisagens ��ridas.",
-      image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Filadelfia%20Chaco%20Paraguay.jpg",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/db/7f/5d/piscina.jpg?w=1000&h=600&s=1",
     },
     {
       city: "Areguá",
@@ -3048,7 +3000,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Charmosa cidade colonial às margens do Lago Ypacaraí, famosa por seu artesanato em cerâmica e festival de morangos.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Aregua%20Paraguay.jpg",
+        "https://lh5.googleusercontent.com/p/AF1QipMMYQIru-4q3BFqtPhbKvPrsQdw8lz6x8YIM1_S=w397-h298-k-no",
     },
     {
       city: "Ybycuí",
@@ -3056,7 +3008,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Parque Nacional Ybycuí, com florestas subtropicais, trilhas e cachoeiras, ideal para ecoturismo.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Ybycui%20National%20Park.jpg",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/37/0d/93/alta-gracia-parque-hotel.jpg?w=600&h=400&s=1",
     },
   ],
   Guiana: [
@@ -3098,47 +3050,6 @@ const baseDestinations: Record<string, Destination[]> = {
       description: "Praia remota famosa pela desova de tartarugas marinhas.",
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/Shell%20Beach%20Guyana.jpg",
-    },
-  ],
-  Suriname: [
-    {
-      city: "Paramaribo",
-      title: "Paramaribo",
-      description:
-        "A capital do Suriname, com arquitetura colonial holandesa e diversidade cultural.",
-      image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Paramaribo%20Suriname.jpg",
-    },
-    {
-      city: "Palumeu",
-      title: "Palumeu",
-      description:
-        "Vila indígena e destino de ecoturismo na floresta amazônica.",
-      image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Palumeu%20Suriname.jpg",
-    },
-    {
-      city: "Brownsberg",
-      title: "Brownsberg",
-      description:
-        "Parque Natural com trilhas, cachoeiras e avistamento de aves.",
-      image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Brownsberg%20Suriname.jpg",
-    },
-    {
-      city: "Galibi",
-      title: "Galibi",
-      description: "Área costeira protegida, famosa por tartarugas marinhas.",
-      image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Galibi%20Beach%20Suriname.jpg",
-    },
-    {
-      city: "Central Suriname Nature Reserve",
-      title: "Central Suriname Nature Reserve",
-      description:
-        "Patrimônio da UNESCO, uma das maiores reservas florestais do mundo.",
-      image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Central%20Suriname%20Nature%20Reserve.jpg",
     },
   ],
   "Guiana Francesa": [
@@ -3318,7 +3229,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Praia movimentada com resorts de luxo, cassinos, vida noturna e esportes aquáticos.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Palm%20Beach%20Aruba.jpg",
+        "https://i.pinimg.com/1200x/0b/5f/d4/0b5fd4e97710a5773922b3e1a70f4c77.jpg",
     },
     {
       city: "Oranjestad",
@@ -3326,15 +3237,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "A capital colorida de Aruba, com arquitetura colonial holandesa, lojas e vida cultural.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Oranjestad%20Aruba%20downtown.jpg",
-    },
-    {
-      city: "Arikok National Park",
-      title: "Arikok National Park",
-      description:
-        "Parque nacional que cobre quase 20% da ilha, com cavernas, trilhas e formações rochosas únicas.",
-      image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Arikok%20National%20Park%20Aruba.jpg",
+        "https://i.pinimg.com/736x/3d/6c/51/3d6c5185efbf2e024d3623748adab14b.jpg",
     },
     {
       city: "Baby Beach",
@@ -3358,7 +3261,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Capela histórica de Aruba, localizada em uma colina com vista para o mar.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Alto%20Vista%20Chapel%20Aruba.jpg",
+        "https://i.pinimg.com/1200x/b0/92/b1/b092b1969cc886d859a2c5f46054971a.jpg",
     },
     {
       city: "Natural Pool (Conchi)",
@@ -3366,7 +3269,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Piscina natural escondida entre rochas vulcânicas no Parque Arikok, acessível por trilha ou 4x4.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Natural%20Pool%20Conchi%20Aruba.jpg",
+        "https://i.pinimg.com/1200x/af/ef/34/afef34006c792514aa0e05e2d7ccf76d.jpg",
     },
     {
       city: "Bushiribana Gold Mill Ruins",
@@ -3384,7 +3287,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "A capital vibrante das Bermudas, conhecida por suas ruas coloridas, lojas, restaurantes e o porto movimentado.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Hamilton%20Bermuda%20Harbor.jpg",
+        "https://i.pinimg.com/736x/6c/15/93/6c1593067b9b5015f8d054f762290633.jpg",
     },
     {
       city: "St. George's",
@@ -3392,7 +3295,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Cidade histórica e Patrimônio Mundial da UNESCO, famosa por suas ruas coloniais e a St. Peter’s Church.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/St.%20George%27s%20Bermuda.jpg",
+        "https://i.pinimg.com/736x/4f/7b/ce/4f7bce0c0b127f373c6f8fc0ab05ac20.jpg",
     },
     {
       city: "Horseshoe Bay Beach",
@@ -3400,7 +3303,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Uma das praias mais famosas das Bermudas, com areias rosadas e mar azul-turquesa.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Horseshoe%20Bay%20Beach%20Bermuda.jpg",
+        "https://i.pinimg.com/1200x/5a/c7/9f/5ac79f275736b97b7547bd8738c2ac8c.jpg",
     },
     {
       city: "Royal Naval Dockyard",
@@ -3408,7 +3311,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Antiga base naval britânica transformada em complexo turístico com museus, lojas e atrações culturais.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Royal%20Naval%20Dockyard%20Bermuda.jpg",
+        "https://i.pinimg.com/1200x/cb/19/de/cb19de7ce1d1673c3582d9744cf64f89.jpg",
     },
     {
       city: "Crystal and Fantasy Caves",
@@ -3416,15 +3319,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Cavernas com estalactites e lagos subterrâneos cristalinos, um dos pontos naturais mais visitados.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Crystal%20Cave%20-%20Bermuda.jpg",
-    },
-    {
-      city: "Gibb’s Hill Lighthouse",
-      title: "Gibb’s Hill Lighthouse",
-      description:
-        "Farol histórico de ferro fundido, com vista panorâmica das ilhas Bermudas.",
-      image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Gibb%27s%20Hill%20Lighthouse%20Bermuda.jpg",
+        "https://i.pinimg.com/1200x/ec/07/9d/ec079d93971631752a7a5843d9951613.jpg",
     },
     {
       city: "Elbow Beach",
@@ -3432,7 +3327,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Praia famosa por sua beleza natural e resorts de luxo, ideal para mergulho com snorkel.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Elbow%20Beach%20Bermuda.jpg",
+        "https://i.pinimg.com/736x/cc/bc/4c/ccbc4ce10dbbab1df2587ef7de057757.jpg",
     },
     {
       city: "Botanical Gardens",
@@ -3440,7 +3335,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Jardins botânicos em Paget Parish, com flora tropical, esculturas e estufas.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Bermuda%20Botanical%20Gardens.jpg",
+        "https://i.pinimg.com/736x/18/e3/5c/18e35c5db1054dc444e2a05b537a4541.jpg",
     },
     {
       city: "Fort St. Catherine",
@@ -3448,7 +3343,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Forte hist��rico do século XVII, com museu e vista para praias cristalinas.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Fort%20St.%20Catherine%20Bermuda.jpg",
+        "https://i.pinimg.com/1200x/96/af/48/96af48a387ea7b0c36ce51a6ee55c2c8.jpg",
     },
   ],
   Greenland: [
@@ -3458,7 +3353,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "A capital da Groenlândia, mistura modernidade com tradição inuíte e possui museus, arquitetura colorida e vistas para fiordes.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Nuuk%20-%20Greenland.jpg",
+        "https://guidetogreenland.com/wp-content/uploads/2020/04/Downtown-nuuk-at-dusk-with-store-malene-in-the-background-Guide-to-Greenland-scaled.jpg",
     },
     {
       city: "Ilulissat",
@@ -3466,7 +3361,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Famosa pelo Ilulissat Icefjord, Patrimônio Mundial da UNESCO, com enormes icebergs flutuantes.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Ilulissat%20Icefjord%20Greenland.jpg",
+        "https://i.pinimg.com/1200x/5b/a1/2f/5ba12fd6b22e864cb281716453025ca8.jpg",
     },
     {
       city: "Kangerlussuaq",
@@ -3474,7 +3369,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Ponto de acesso à calota de gelo da Groenlândia, ideal para trilhas e passeios sobre geleiras.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Kangerlussuaq%20Greenland.jpg",
+        "https://i.pinimg.com/1200x/c8/9a/c5/c89ac5c7d4a0281e5a205f01a1cf31de.jpg",
     },
     {
       city: "Qaqortoq",
@@ -3482,7 +3377,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "A maior cidade do sul da Groenlândia, conhecida por esculturas ao ar livre e casas coloridas.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Qaqortoq%20Greenland.jpg",
+        "https://i.pinimg.com/1200x/a6/26/c8/a626c89dc5fb3fb4619e89a633a7bc8d.jpg",
     },
     {
       city: "Sisimiut",
@@ -3490,7 +3385,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "A segunda maior cidade, famosa por atividades de inverno como trenós puxados por cães e esqui.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Sisimiut%20-%20Greenland.jpg",
+        "https://i.pinimg.com/1200x/57/e6/a6/57e6a6e75add5e22bf8eaafab5ced648.jpg",
     },
     {
       city: "Narsaq",
@@ -3498,7 +3393,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Cidade pitoresca rodeada por montanhas, geleiras e fiordes, ideal para caminhadas e pesca.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Narsaq%20-%20Greenland.jpg",
+        "https://i.pinimg.com/736x/84/e4/b4/84e4b4695c5c96b414bafefa22988303.jpg",
     },
     {
       city: "Tasiilaq",
@@ -3506,7 +3401,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "A maior cidade da costa leste, cercada por montanhas e glaciares, famosa por paisagens intocadas.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Tasiilaq%20-%20Greenland.jpg",
+        "https://i.pinimg.com/736x/14/76/d0/1476d00bb1e210086b7a5c91010f1f0c.jpg",
     },
     {
       city: "Kulusuk",
@@ -3514,7 +3409,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Pequena vila tradicional inuíte na costa leste, porta de entrada para aventuras árticas.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Kulusuk%20village%20-%20Greenland.jpg",
+        "https://i.pinimg.com/1200x/e2/5c/ec/e25cec8ce8a07a341e61655688ea6d1d.jpg",
     },
     {
       city: "Uummannaq",
@@ -3522,7 +3417,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Cidade insular dominada pela impressionante montanha em formato de coração, ícone da Groenlândia.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Uummannaq%20Mountain%20-%20Greenland.jpg",
+        "https://i.pinimg.com/1200x/25/dc/e5/25dce5725e0c174a7db301a4a93a333e.jpg",
     },
   ],
   "The Bahamas": [
@@ -3532,7 +3427,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "A capital das Bahamas, famosa por suas praias, resorts, arquitetura colonial e o movimentado Straw Market.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Nassau%20Bahamas%20harbor.jpg",
+        "https://i.pinimg.com/736x/87/0e/49/870e497ac19196763af437354f673bd1.jpg",
     },
     {
       city: "Paradise Island",
@@ -3540,7 +3435,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Conectada a Nassau por pontes, abriga o famoso resort Atlantis, cassinos e aquários gigantes.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Atlantis%20Paradise%20Island%20Bahamas.jpg",
+        "https://i.pinimg.com/1200x/be/9c/86/be9c86eac0cb3935f3f4efce25951553.jpg",
     },
     {
       city: "Exuma Cays",
@@ -3548,7 +3443,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Arquipélago de ilhotas com águas cristalinas e os famosos porquinhos que nadam em Big Major Cay.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Swimming%20pigs%20Exuma%20Bahamas.jpg",
+        "https://i.pinimg.com/1200x/a7/e5/db/a7e5dbbc73f412d12d7729833b150706.jpg",
     },
     {
       city: "Grand Bahama",
@@ -3556,7 +3451,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Uma das ilhas mais visitadas, com praias de areia branca, cavernas e parques naturais.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Grand%20Bahama%20Island%20beach.jpg",
+        "https://i.pinimg.com/736x/fa/65/21/fa65210b2b1fb504ec6ae8b7dbe5f7e2.jpg",
     },
     {
       city: "Harbour Island",
@@ -3564,7 +3459,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Conhecida por sua praia de areia rosa (Pink Sands Beach) e charme caribenho autêntico.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Pink%20Sands%20Beach%20Harbour%20Island.jpg",
+        "https://i.pinimg.com/736x/47/4e/1e/474e1e214b373e5547335bc19486781b.jpg",
     },
     {
       city: "Andros Island",
@@ -3572,7 +3467,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Maior ilha das Bahamas, famosa por mergulho em recifes, blue holes e natureza selvagem.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Blue%20Hole%20Andros%20Bahamas.jpg",
+        "https://i.pinimg.com/1200x/7a/c5/9c/7ac59c029774131b2ae8010c4ca25da6.jpg",
     },
     {
       city: "Bimini",
@@ -3580,7 +3475,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Ilha próxima à Flórida, popular para pesca esportiva e mergulho em águas cristalinas.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Bimini%20Bahamas%20beach.jpg",
+        "https://i.pinimg.com/736x/01/4c/c4/014cc4af57ec2f6eb35fa411ecf9b454.jpg",
     },
     {
       city: "Long Island",
@@ -3588,7 +3483,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Famosa pelo Dean’s Blue Hole, um dos buracos azuis mais profundos do mundo.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Dean%27s%20Blue%20Hole%20Long%20Island%20Bahamas.jpg",
+        "https://i.pinimg.com/1200x/35/23/4e/35234eeace62f0e9140bbb6382d5f546.jpg",
     },
     {
       city: "Eleuthera",
@@ -3596,7 +3491,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Ilha estreita com quilômetros de praias intocadas, famosa por sua beleza natural e tranquilidade.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Eleuthera%20Bahamas%20beach.jpg",
+        "https://i.pinimg.com/1200x/9d/c8/0a/9dc80a1afbd742e9da06a6a6e3f497a4.jpg",
     },
   ],
   "Puerto Rico": [
@@ -3606,15 +3501,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "A capital de Porto Rico, com a charmosa cidade velha (Old San Juan), muralhas históricas e forte El Morro.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Old%20San%20Juan%20Puerto%20Rico.jpg",
-    },
-    {
-      city: "El Yunque",
-      title: "El Yunque",
-      description:
-        "Única floresta tropical do sistema de parques nacionais dos EUA, com cachoeiras e trilhas exuberantes.",
-      image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/El%20Yunque%20Rainforest%20Puerto%20Rico.jpg",
+        "https://i.pinimg.com/736x/a9/f3/90/a9f390f9213b0672880d61a0e68802d7.jpg",
     },
     {
       city: "Vieques",
@@ -3622,7 +3509,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Ilha paradisíaca conhecida por suas praias intocadas e pela famosa Baía Bioluminescente.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Vieques%20Puerto%20Rico%20Bioluminescent%20Bay.jpg",
+        "https://i.pinimg.com/1200x/a1/64/59/a164595a9be26c465f5b96f833bd5165.jpg",
     },
     {
       city: "Culebra",
@@ -3630,7 +3517,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Ilha caribenha com a famosa Playa Flamenco, considerada uma das mais belas do mundo.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Flamenco%20Beach%20Culebra%20Puerto%20Rico.jpg",
+        "https://bigworldsmallgirl.com/wp-content/uploads/2022/03/best-beaches-in-puerto-rico-6-1170x776.jpg",
     },
     {
       city: "Ponce",
@@ -3638,7 +3525,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Conhecida como a 'Pérola do Sul', possui arquitetura neoclássica, museus e a famosa Plaza Las Delicias.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Ponce%20Puerto%20Rico%20Plaza%20Las%20Delicias.jpg",
+        "https://i.pinimg.com/1200x/d4/86/9c/d4869cfb58ab8359aa1dc1706e6560aa.jpg",
     },
     {
       city: "Cabo Rojo",
@@ -3646,7 +3533,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Destino costeiro famoso por falésias, salinas e a icônica praia Playa Sucia.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Cabo%20Rojo%20Puerto%20Rico.jpg",
+        "https://i.pinimg.com/1200x/8f/6a/5a/8f6a5a28367906083d34e34c99f4f240.jpg",
     },
     {
       city: "Rincón",
@@ -3654,7 +3541,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Paraíso dos surfistas, com ondas perfeitas e praias ideais para pôr do sol.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Rincon%20Puerto%20Rico%20surf%20beach.jpg",
+        "https://i.pinimg.com/1200x/b3/35/d0/b335d0a93b5e42a2565857330f633ad4.jpg",
     },
     {
       city: "Arecibo",
@@ -3662,7 +3549,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Famosa pelo antigo radiotelescópio e pela Cueva del Indio, com vistas incríveis do Atlântico.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Cueva%20del%20Indio%20Arecibo%20Puerto%20Rico.jpg",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/b7/e9/99/la-cueva-del-indio.jpg?w=500&h=400&s=1",
     },
     {
       city: "Isla Verde",
@@ -3670,7 +3557,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Região de resorts e praias badaladas próxima a San Juan, popular entre turistas internacionais.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Isla%20Verde%20Beach%20Puerto%20Rico.jpg",
+        "https://i.pinimg.com/1200x/fb/d6/b8/fbd6b86139bc31a18c62e0f5665e5f95.jpg",
     },
   ],
   Barbados: [
@@ -3680,7 +3567,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "A capital de Barbados, com arquitetura colonial, comércio vibrante e o histórico Garrison Savannah.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Bridgetown%20Barbados%20harbor.jpg",
+        "https://i.pinimg.com/736x/0b/e6/98/0be698dfe58b3badbebcddbbdd1ef69e.jpg",
     },
     {
       city: "Carlisle Bay",
@@ -3688,7 +3575,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Baía de águas calmas e cristalinas, excelente para mergulho e snorkeling entre naufrágios.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Carlisle%20Bay%20Barbados.jpg",
+        "https://i.pinimg.com/1200x/85/97/74/8597749c2b8947176fcb6f3abe6b6fbb.jpg",
     },
     {
       city: "Bathsheba",
@@ -3696,7 +3583,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Vila costeira no leste da ilha, famosa pelas formações rochosas e ondas perfeitas para surf.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Bathsheba%20Beach%20Barbados.jpg",
+        "https://i.pinimg.com/736x/33/38/9b/33389b188162c6d867648be147eabeb3.jpg",
     },
     {
       city: "Harrison’s Cave",
@@ -3704,7 +3591,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Sistema de cavernas com estalactites, estalagmites e riachos subterrâneos acessíveis por bonde.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Harrison%27s%20Cave%20Barbados.jpg",
+        "https://i.pinimg.com/1200x/42/a9/c2/42a9c22f40f6332b82a7721bd2557c68.jpg",
     },
     {
       city: "Oistins",
@@ -3712,7 +3599,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Cidade costeira famosa pela Fish Fry, evento de sexta-feira com música, dança e frutos do mar.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Oistins%20Barbados.jpg",
+        "https://i.pinimg.com/736x/50/9d/8e/509d8e8e94a73cc9c0a7ecc6c7e7b9a9.jpg",
     },
     {
       city: "St. Lawrence Gap",
@@ -3720,7 +3607,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Área tur��stica animada, conhecida por bares, restaurantes e vida noturna intensa.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/St.%20Lawrence%20Gap%20Barbados.jpg",
+        "https://i.pinimg.com/1200x/cc/39/10/cc39100b74d7857c713ebb6944640208.jpg",
     },
     {
       city: "Animal Flower Cave",
@@ -3728,7 +3615,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Caverna marinha com piscinas naturais e vistas espetaculares do oceano Atlântico.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Animal%20Flower%20Cave%20Barbados.jpg",
+        "https://i.pinimg.com/736x/c7/5b/1c/c75b1c90276c9cbc01be96cfc28c397d.jpg",
     },
     {
       city: "Crane Beach",
@@ -3744,7 +3631,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Jardim botânico exuberante em Bathsheba, com plantas tropicais raras e vistas para o mar.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Andromeda%20Botanic%20Gardens%20Barbados.jpg",
+        "https://i.pinimg.com/1200x/1a/90/eb/1a90ebace8fe344fdd52cfa7054ce91f.jpg",
     },
   ],
   "Saint Martin": [
@@ -3752,9 +3639,9 @@ const baseDestinations: Record<string, Destination[]> = {
       city: "Maho Beach",
       title: "Maho Beach",
       description:
-        "Praia famosa por ficar colada ao Aeroporto Princess Juliana, onde avi��es passam a poucos metros da areia.",
+        "Praia famosa por ficar colada ao Aeroporto Princess Juliana, onde aviões passam a poucos metros da areia.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Maho%20Beach%20St%20Maarten.jpg",
+        "https://i.pinimg.com/736x/7a/a3/81/7aa381d2b8a9aa0dfcf99f7152a84b99.jpg",
     },
     {
       city: "Philipsburg",
@@ -3762,7 +3649,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Capital do lado holandês, conhecida pela Front Street, cassinos, duty-free e o Great Bay Beach.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Philipsburg%20Sint%20Maarten.jpg",
+        "https://i.pinimg.com/1200x/a7/03/3c/a7033cc0dcf42fefc1a147d919008d4a.jpg",
     },
     {
       city: "Marigot",
@@ -3770,7 +3657,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Capital do lado francês, charmosa com mercados, boutiques e arquitetura colonial.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Marigot%20Saint%20Martin.jpg",
+        "https://i.pinimg.com/1200x/b9/1e/32/b91e32728f3f16c994341c03e213e4c4.jpg",
     },
     {
       city: "Orient Bay Beach",
@@ -3778,7 +3665,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Praia popular no lado francês, conhecida por resorts, esportes aquáticos e áreas naturistas.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Orient%20Bay%20Saint%20Martin.jpg",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/4c/10/93/caption.jpg?w=1000&h=600&s=1",
     },
     {
       city: "Fort Louis",
@@ -3786,7 +3673,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Forte histórico construído pelos franceses em Marigot, com vistas panorâmicas da ilha.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Fort%20Louis%20Saint%20Martin.jpg",
+        "https://i.pinimg.com/1200x/cc/91/c0/cc91c09f89e287d512db6f5225a42970.jpg",
     },
     {
       city: "Simpson Bay",
@@ -3794,7 +3681,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Área turística com marina, restaurantes e vida noturna agitada no lado holandês.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Simpson%20Bay%20Sint%20Maarten.jpg",
+        "https://i.pinimg.com/1200x/51/48/70/51487094387a059d9bb4f67c0292427f.jpg",
     },
     {
       city: "Grand Case",
@@ -3802,7 +3689,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Vila gastronômica do lado francês, famosa por seus restaurantes de alta qualidade.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Grand%20Case%20Saint%20Martin.jpg",
+        "https://i.pinimg.com/1200x/b0/5c/66/b05c661c5f8e8a7905ffce600bd97507.jpg",
     },
     {
       city: "Pinel Island",
@@ -3810,7 +3697,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Pequena ilha acessível de barco, com praias tranquilas, snorkel e bares à beira-mar.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Pinel%20Island%20Saint%20Martin.jpg",
+        "https://i.pinimg.com/1200x/d3/e3/40/d3e34034a2149df9bd28e551f8ff01c7.jpg",
     },
     {
       city: "Loterie Farm",
@@ -3818,7 +3705,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Reserva natural com trilhas, tirolesas e piscinas, localizada no interior montanhoso da ilha.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Loterie%20Farm%20Saint%20Martin.jpg",
+        "https://i.pinimg.com/736x/6d/f3/86/6df386fade41cad4115b8ced34b72458.jpg",
     },
   ],
   "Cayman Islands": [
@@ -3828,7 +3715,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Praia icônica de areia branca e águas azul-turquesa, considerada uma das mais bonitas do Caribe.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Seven%20Mile%20Beach%20Grand%20Cayman.jpg",
+        "https://i.pinimg.com/1200x/7e/51/72/7e5172b6e8359920570ddad9554e2efa.jpg",
     },
     {
       city: "Stingray City",
@@ -3836,7 +3723,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Banco de areia no mar onde visitantes podem interagir com arraias em seu habitat natural.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Stingray%20City%20Grand%20Cayman.jpg",
+        "https://i.pinimg.com/1200x/21/35/b6/2135b6b84b16fe11646e785db643e31d.jpg",
     },
     {
       city: "George Town",
@@ -3844,7 +3731,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Capital das Ilhas Cayman, centro financeiro e cultural, com lojas, museus e portos de cruzeiros.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/George%20Town%20Grand%20Cayman.jpg",
+        "https://i.pinimg.com/1200x/a0/7f/a7/a07fa767b9a736f06644d62d4a9925a7.jpg",
     },
     {
       city: "Rum Point",
@@ -3852,7 +3739,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Praia relaxante em Grand Cayman, ideal para esportes aquáticos e saborear coquetéis tropicais.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Rum%20Point%20Grand%20Cayman.jpg",
+        "https://i.pinimg.com/736x/a6/b0/37/a6b037b6c329f84401b090d4241ff3e8.jpg",
     },
     {
       city: "Cayman Turtle Centre",
@@ -3868,15 +3755,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Histórico casarão colonial do século XVIII, considerado o 'berço da democracia' nas Ilhas Cayman.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Pedro%20St.%20James%20Castle.jpg",
-    },
-    {
-      city: "Cayman Crystal Caves",
-      title: "Cayman Crystal Caves",
-      description:
-        "Sistema de cavernas em meio à floresta tropical com estalactites, estalagmites e lago subterrâneo.",
-      image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Cayman%20Crystal%20Caves.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTepfqwrErPPsYomGfrk4LHY5DMHV2v1BwSAilQjIY150idocnoG0BH_eeaH7c6Xpz9c8A&usqp=CAU",
     },
     {
       city: "Little Cayman",
@@ -3884,7 +3763,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Ilha paradisíaca e pouco habitada, famosa pelo mergulho no Bloody Bay Wall e praias desertas.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Little%20Cayman%20beach.jpg",
+        "https://i.pinimg.com/1200x/06/ff/81/06ff81c9182bb3c80ad66f0125619366.jpg",
     },
     {
       city: "Cayman Brac",
@@ -3892,7 +3771,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Ilha com falésias dramáticas, cavernas e trilhas, além de ótimos pontos de mergulho.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Cayman%20Brac%20cliffs.jpg",
+        "https://i.pinimg.com/1200x/ac/d0/38/acd03827759c0ad7671892975a9e181b.jpg",
     },
   ],
   Guadeloupe: [
@@ -3902,7 +3781,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Principal cidade e centro econômico de Guadalupe, famosa pelos mercados coloridos e vida cultural.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Pointe-a-Pitre%20Guadeloupe.jpg",
+        "https://i.pinimg.com/736x/3f/3b/8c/3f3b8c62b1b4c94c036759ce4bdb97cb.jpg",
     },
     {
       city: "Parque Nacional de Guadalupe",
@@ -3918,7 +3797,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Vulcão ativo em Basse-Terre, conhecido como ‘La Vieille Dame���, com trilhas e vistas panorâmicas.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/La%20Soufriere%20Guadeloupe.jpg",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/5d/70/ca/la-soufriere-volcano.jpg?w=1000&h=-1&s=1",
     },
     {
       city: "Praia de Grande Anse",
@@ -3926,7 +3805,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Uma das mais belas praias de Guadalupe, com areias douradas e mar azul intenso em Deshaies.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Grande-Anse%20Deshaies%20Guadeloupe.jpg",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/a5/3a/5f/grand-anse-beach.jpg?w=1200&h=-1&s=1",
     },
     {
       city: "Îles des Saintes",
@@ -3934,7 +3813,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Arquipélago ao sul de Guadalupe, conhecido por praias idílicas e vilas pitorescas.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Iles%20des%20Saintes.jpg",
+        "https://i.pinimg.com/1200x/7a/88/a8/7a88a8743c5dfd3b4dece59208124eeb.jpg",
     },
     {
       city: "Marie-Galante",
@@ -3942,7 +3821,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Ilha de atmosfera tranquila, famosa por canaviais, praias isoladas e destilarias de rum.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Marie-Galante%20beach.jpg",
+        "https://i.pinimg.com/736x/f0/b6/70/f0b6703d7e14ffad0783c6c4dc326d9c.jpg",
     },
     {
       city: "Deshaies",
@@ -3958,7 +3837,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "��rea marinha protegida em torno das Ilhas Pigeon, famosa pelo mergulho e snorkel.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Reserve%20Cousteau%20Guadeloupe.jpg",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/ae/c1/d8/reserve-cousteau-et-ilets.jpg?w=1200&h=-1&s=1",
     },
     {
       city: "Praia de Sainte-Anne",
@@ -3966,7 +3845,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Praia movimentada e turística de areia branca, palmeiras e mercados locais.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Sainte-Anne%20Guadeloupe.jpg",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/29/54/03/photo1jpg.jpg?w=300&h=-1&s=1",
     },
   ],
   Belize: [
@@ -4864,7 +4743,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "A capital do país, repleta de museus, arquitetura colonial e o imponente Zócalo.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Palacio%20de%20Bellas%20Artes%20-%20Ciudad%20de%20M%C3%A9xico.jpg",
+        "https://i.pinimg.com/736x/2d/a9/29/2da929a9aea8dae1c23a4a678d962632.jpg",
     },
     {
       city: "Cancún",
@@ -4880,7 +4759,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Uma das novas maravilhas do mundo, antiga cidade maia com a icônica pirâmide de Kukulcán.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Chichen%20Itza%20-%20El%20Castillo.jpg",
+        "https://i.pinimg.com/1200x/5d/b6/f5/5db6f597b4dce453120f8f1645c05d50.jpg",
     },
     {
       city: "Guadalajara",
@@ -4888,7 +4767,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Berço do mariachi e da tequila, famosa por sua cultura e arquitetura colonial.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Catedral%20de%20Guadalajara.jpg",
+        "https://i.pinimg.com/1200x/88/8e/ed/888eedf120dc4b78eb517d10518e1ce1.jpg",
     },
     {
       city: "Tulum",
@@ -4896,7 +4775,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Cidade costeira com ruínas maias à beira-mar e praias de águas cristalinas.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Tulum%20ruins%20and%20beach.jpg",
+        "https://i.pinimg.com/736x/01/f4/63/01f463391c772f6dd30ebff3390d95f1.jpg",
     },
     {
       city: "Oaxaca",
@@ -4904,7 +4783,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Região cultural com culinária marcante, artesanato e sítios arqueológicos como Monte Albán.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Mont%C3%A9%20Alb%C3%A1n%20ruins%20-%20Oaxaca.jpg",
+        "https://i.pinimg.com/736x/6d/d5/3c/6dd53c3002ec0eb7b662c382fe8fabd2.jpg",
     },
     {
       city: "Cabo San Lucas",
@@ -4912,7 +4791,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Famoso pelo arco natural de pedra e resorts de luxo na península da Baixa Califórnia.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/El%20Arco%20de%20Cabo%20San%20Lucas.jpg",
+        "https://i.pinimg.com/1200x/9b/7a/23/9b7a23a69fcbc8088807ac4e9a03c225.jpg",
     },
     {
       city: "Playa del Carmen",
@@ -4920,7 +4799,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Destino do Caribe mexicano com praias de areia branca e mergulho em recifes de corais.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Playa%20del%20Carmen%20beach.jpg",
+        "https://i.pinimg.com/736x/46/8a/9e/468a9eaeb672e08a636e716016235d90.jpg",
     },
     {
       city: "Mérida",
@@ -4928,7 +4807,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Capital de Yucatán, conhecida por sua herança colonial espanhola e proximidade com cenotes.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Catedral%20de%20M%C3%A9rida%20-%20Yucat%C3%A1n.jpg",
+        "https://i.pinimg.com/1200x/06/d7/3f/06d73f5634a3dea8d355e3cbdb21f195.jpg",
     },
   ],
   China: [
@@ -7167,6 +7046,7 @@ const extraRaw: {
           "Lagoas turquesa em um cenário de montanhas—um tesouro natural remoto e hipnotizante.",
         image:
           "https://commons.wikimedia.org/wiki/Special:Search?search=Band-e+Amir",
+        image: "https://upload.wikimedia.org/wikipedia/commons/c/c5/Band-e_Amir.jpg",
       },
     ],
   },
@@ -7214,7 +7094,7 @@ const extraRaw: {
           "Selva, savana e safáris costeiros — vida selvagem surpreendente em expansão.",
         image:
           "https://commons.wikimedia.org/wiki/Special:Search?search=Kissama+National+Park",
-      },
+      }
     ],
   },
   {
@@ -7237,7 +7117,7 @@ const extraRaw: {
         description:
           "Uma cortina colossal de água — espetáculo natural que atrai e impressiona.",
         image:
-          "https://commons.wikimedia.org/wiki/Special:Search?search=Iguazu+Falls",
+          "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/ed/a5/17/foz-do-iguacu.jpg?w=1400&h=800&s=1",
       },
     ],
   },
