@@ -180,7 +180,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "A capital portuguesa encanta com seus miradouros, bondinhos, o bairro de Alfama e o icônico Mosteiro dos Jerónimos em Belém.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Lisbon%20Baixa%20Chiado%20view.jpg",
+        "https://i.pinimg.com/1200x/47/b0/98/47b09888bed90612ea2c8512c8306fe2.jpg",
     },
     {
       city: "Porto",
@@ -188,7 +188,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Famosa por suas caves de vinho do Porto e pela ponte Dom Luís I, a cidade combina arquitetura histórica e um clima acolhedor às margens do Douro.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Porto%20city%20view%20from%20Vila%20Nova%20de%20Gaia.jpg",
+        "https://i.pinimg.com/736x/fc/5b/d7/fc5bd7c784cfd6c7f48dbbcd35129d71.jpg",
     },
     {
       city: "Sintra",
@@ -196,7 +196,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Patrimônio Mundial da UNESCO, Sintra é um conto de fadas real, com palácios coloridos, castelos e florestas misteriosas.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Pena%20Palace%20Sintra%20Portugal.jpg",
+        "https://i.pinimg.com/1200x/13/2a/a4/132aa4997a5de51893add9ef1b501908.jpg",
     },
     {
       city: "Coimbra",
@@ -204,7 +204,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Cidade universitária histórica, lar de uma das universidades mais antigas da Europa e rica em tradições acadêmicas e musicais.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/University%20of%20Coimbra%20Portugal.jpg",
+        "https://i.pinimg.com/1200x/d2/6a/2f/d26a2fd6028002272bf2b1c08471b8ca.jpg",
     },
     {
       city: "Évora",
@@ -212,7 +212,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "No coração do Alentejo, Évora é um museu a céu aberto com ruínas romanas, capelas singulares e arquitetura medieval preservada.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Evora%20Roman%20Temple%20Portugal.jpg",
+        "https://i.pinimg.com/736x/36/9f/9e/369f9e07379996b85dde2faf5b782309.jpg",
     },
     {
       city: "Algarve",
@@ -220,7 +220,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Região de praias paradisíacas, falésias douradas e mar azul-turquesa — o destino perfeito para relaxar sob o sol português.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Lagos%20Algarve%20Ponta%20da%20Piedade.jpg",
+        "https://i.pinimg.com/1200x/e7/55/51/e75551c108c20955004a8ed49f629a02.jpg",
     },
     {
       city: "Madeira",
@@ -228,7 +228,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Ilha montanhosa no Atlântico, famosa por suas paisagens exuberantes, trilhas e o vinho Madeira.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Madeira%20Island%20Portugal%20cliffs.jpg",
+        "https://i.pinimg.com/1200x/c5/7a/e0/c57ae0f30eb01def97bcb71c41398ee4.jpg",
     },
     {
       city: "Açores",
@@ -236,7 +236,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Arquipélago vulcânico com crateras, lagos e miradouros impressionantes — um paraíso para quem ama natureza e aventura.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/S%C3%A3o%20Miguel%20Sete%20Cidades%20Azores.jpg",
+        "https://i.pinimg.com/1200x/17/54/08/17540891bd83b763f0cab62925ad25e6.jpg",
     },
     {
       city: "Braga",
@@ -244,7 +244,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Uma das cidades mais antigas do país, Braga é rica em igrejas barrocas, jardins e espiritualidade, com destaque para o Santuário do Bom Jesus do Monte.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Bom%20Jesus%20do%20Monte%20Braga%20Portugal.jpg",
+        "https://i.pinimg.com/1200x/f7/57/a0/f757a0d2cc80431c8b2c980a422e3573.jpg",
     },
   ],
   France: [
@@ -262,7 +262,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Pérola da Riviera Francesa, Nice combina mar azul-turquesa, calçadões elegantes e um charme mediterrâneo vibrante.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Nice%20France%20Promenade%20des%20Anglais.jpg",
+        "https://i.pinimg.com/1200x/c4/98/f6/c498f6662fdf462fed9772f0f14b15d1.jpg",
     },
     {
       city: "Lyon",
@@ -270,7 +270,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Capital gastronômica da França, Lyon oferece uma mistura de arquitetura renascentista, colinas históricas e bistrôs premiados.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Lyon%20Panorama%20Fourvi%C3%A8re.jpg",
+        "https://i.pinimg.com/736x/95/de/c0/95dec028d8464950f26b66da4660fe45.jpg",
     },
     {
       city: "Marselha",
@@ -278,7 +278,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Porta do Mediterrâneo, Marselha combina o antigo porto Vieux-Port com uma cena multicultural e vistas impressionantes do mar.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Old%20Port%20of%20Marseille%20France.jpg",
+        "https://i.pinimg.com/1200x/8e/50/de/8e50de6ad8c838ca1d1c6381da261e5f.jpg",
     },
     {
       city: "Bordeaux",
@@ -286,7 +286,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Destino imperdível para amantes do vinho, Bordeaux é uma cidade refinada rodeada por vinhedos mundialmente famosos.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Bordeaux%20Place%20de%20la%20Bourse.jpg",
+        "https://i.pinimg.com/736x/d6/16/c7/d616c7a7ec37241f2e4d977338c75f2b.jpg",
     },
     {
       city: "Estrasburgo",
@@ -302,7 +302,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Ilha rochosa coroada por uma abadia medieval, o Mont Saint-Michel é um dos locais mais icônicos e fotogênicos da França.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Mont%20Saint-Michel%20France%20at%20high%20tide.jpg",
+        "https://i.pinimg.com/1200x/6c/40/31/6c40312541b26916e11700d529c8fe9f.jpg",
     },
     {
       city: "Vale do Loire",
@@ -310,7 +310,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Região repleta de castelos renascentistas, jardins e vinhedos — um verdadeiro passeio pela história real francesa.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Ch%C3%A2teau%20de%20Chambord%20Loire%20Valley.jpg",
+        "https://i.pinimg.com/1200x/ed/f7/ec/edf7eca7ad1af2906cb54a4e1db165c7.jpg",
     },
     {
       city: "Provence",
@@ -318,7 +318,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Famosa por seus campos de lavanda, vilas medievais e gastronomia típica, a Provence é o retrato do charme do sul da França.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Provence%20Lavender%20Fields%20France.jpg",
+        "https://i.pinimg.com/1200x/c5/d5/a7/c5d5a79e565d50f9046a687830ba6434.jpg",
     },
   ],
   Italy: [
@@ -328,7 +328,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "A capital italiana é um verdadeiro museu a céu aberto, lar do Coliseu, do Vaticano, da Fontana di Trevi e de séculos de hist��ria.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Colosseum%20in%20Rome%20Italy%20April%202007.jpg",
+        "https://i.pinimg.com/1200x/31/bc/52/31bc52ee9a8a14d88b49d8696c5fbdbe.jpg",
     },
     {
       city: "Veneza",
@@ -336,7 +336,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Construída sobre canais, Veneza encanta com suas gôndolas, arquitetura renascentista e a icônica Praça de São Marcos.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Venice%20Grand%20Canal%20and%20Santa%20Maria%20della%20Salute.jpg",
+        "https://i.pinimg.com/736x/9d/b5/ab/9db5ab78bbcd472e95d9fd6ea5a067cf.jpg",
     },
     {
       city: "Florença",
@@ -344,7 +344,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Berço do Renascimento, Florença abriga obras de Michelangelo e Leonardo da Vinci, além da magnífica Catedral de Santa Maria del Fiore.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Florence%20Duomo%20Santa%20Maria%20del%20Fiore.jpg",
+        "https://i.pinimg.com/1200x/ec/1e/d8/ec1ed841147a7d73a85593999d40be64.jpg",
     },
     {
       city: "Milão",
@@ -352,7 +352,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Centro mundial da moda e do design, Milão impressiona com sua catedral gótica, galerias luxuosas e o afresco ‘A Última Ceia’.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Milan%20Cathedral%20Duomo%20di%20Milano.jpg",
+        "https://i.pinimg.com/736x/93/81/1d/93811dfc0ff907fc94ad556ec0f2b381.jpg",
     },
     {
       city: "Nápoles",
@@ -360,7 +360,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Vibrante e autêntica, Nápoles é a porta de entrada para Pompeia, o Vesúvio e a Costa Amalfitana — e o berço da pizza!",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Napoli%20panorama%20Vesuvio.jpg",
+        "https://i.pinimg.com/1200x/28/43/1d/28431d9e02a0340179813ff85a87b605.jpg",
     },
     {
       city: "Costa Amalfitana",
@@ -368,7 +368,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Com falésias deslumbrantes, vilas coloridas e vistas para o Mediterrâneo, a Costa Amalfitana é um dos destinos mais românticos do mundo.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Positano%20Amalfi%20Coast%20Italy.jpg",
+        "https://i.pinimg.com/1200x/5f/ae/69/5fae69a5618759f61913fd83d24240dc.jpg",
     },
     {
       city: "Pisa",
@@ -384,7 +384,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Cidade de Romeu e Julieta, Verona é charmosa e histórica, com ruínas romanas e praças encantadoras.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Verona%20Arena%20Italy.jpg",
+        "https://i.pinimg.com/736x/21/56/b1/2156b1e1a248f8794870b048d1442332.jpg",
     },
     {
       city: "Cinque Terre",
@@ -392,7 +392,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Cinco vilas coloridas à beira-mar formam uma das paisagens mais pitorescas da Itália, ideais para trilhas e fotografia.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Cinque%20Terre%20Vernazza%20Italy.jpg",
+        "https://i.pinimg.com/1200x/75/3e/7a/753e7ababcb9c14915bd3a5ae1623833.jpg",
     },
   ],
   Germany: [
@@ -402,7 +402,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "A capital alemã é vibrante e repleta de história, arte e inovação. O Muro de Berlim, o Portão de Brandemburgo e o Reichstag são ícones imperdíveis.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Brandenburg%20Gate%20Berlin%20Germany.jpg",
+        "https://i.pinimg.com/736x/79/05/6b/79056b286f85ce63bf3ed98455eacecb.jpg",
     },
     {
       city: "Munique",
@@ -410,7 +410,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Lar da Oktoberfest, Munique combina tradição bávara com modernidade, cercada pelos Alpes e cheia de cervejarias lendárias.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Marienplatz%20Munich%20Germany.jpg",
+        "https://i.pinimg.com/736x/c0/0e/dd/c00edd38eee833601f1ff44c76e7980e.jpg",
     },
     {
       city: "Hamburgo",
@@ -418,7 +418,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Importante cidade portuária, Hamburgo encanta com seus canais, a moderna Elbphilharmonie e uma atmosfera cosmopolita.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Hamburg%20Elbphilharmonie%20and%20harbour.jpg",
+        "https://i.pinimg.com/1200x/82/3d/8a/823d8a6b1ea5094a4ec51f571dda54f4.jpg",
     },
     {
       city: "Colônia (Köln)",
@@ -426,7 +426,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Famosa por sua imponente catedral gótica às margens do Reno, Colônia é uma cidade vibrante e cheia de festivais.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Cologne%20Cathedral%20Germany.jpg",
+        "https://i.pinimg.com/1200x/ba/8c/7f/ba8c7ffe4db0d31b5a5f9c9e955498e0.jpg",
     },
     {
       city: "Heidelberg",
@@ -434,7 +434,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Cidade universitária romântica, conhecida por seu castelo em ruínas e pela charmosa cidade velha às margens do rio Neckar.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Heidelberg%20Castle%20Germany.jpg",
+        "https://i.pinimg.com/1200x/ab/ca/b4/abcab409184b4ffad5e3941209f4a0c2.jpg",
     },
     {
       city: "Dresden",
@@ -442,7 +442,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Reconstruída após a Segunda Guerra, Dresden é uma joia barroca com igrejas e palácios deslumbrantes às margens do rio Elba.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Dresden%20skyline%20at%20night.jpg",
+        "https://i.pinimg.com/1200x/6c/85/8a/6c858a199fa6e407f316b217ae8e4982.jpg",
     },
     {
       city: "Nuremberg (Nürnberg)",
@@ -450,7 +450,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Cheia de história medieval e mercados de Natal famosos, Nuremberg combina charme antigo e importância histórica moderna.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Nuremberg%20castle%20view.jpg",
+        "https://i.pinimg.com/1200x/43/9e/4b/439e4bdf4941cde5003045869076571c.jpg",
     },
     {
       city: "Rota Romântica (Romantische Straße)",
@@ -458,7 +458,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Rota cênica que liga Würzburg a Füssen, passando por vilas medievais, castelos e paisagens dos Alpes bávaros.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Rothenburg%20ob%20der%20Tauber%20Germany.jpg",
+        "https://midias-turismo.eurodicas.com.br/wp-content/uploads/2025/02/rota-romantica-1.jpg.webp",
     },
     {
       city: "Castelo de Neuschwanstein",
@@ -466,7 +466,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Inspirou o castelo da Disney e é um dos cartões-postais mais famosos do mundo, situado entre montanhas e lagos da Baviera.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Neuschwanstein%20Castle%20Bavaria%20Germany.jpg",
+        "https://i.pinimg.com/1200x/d1/cd/d9/d1cdd94e017ded3d59db67ede40f4970.jpg",
     },
   ],
   Austria: [
@@ -698,7 +698,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "A capital britânica é uma metrópole global repleta de ícones como o Big Ben, o Palácio de Buckingham, o London Eye e o Museu Britânico.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Houses%20of%20Parliament%20London%20-%20Feb%202007.jpg",
+        "https://i.pinimg.com/1200x/63/bc/26/63bc262afdbe0cbbfe5f0a23e67ee5eb.jpg",
     },
     {
       city: "Edimburgo",
@@ -714,7 +714,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Um dos lagos mais famosos do mundo, cercado por montanhas e lendas sobre o misterioso monstro Nessie, no coração das Highlands escocesas.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Loch%20Ness%20Urquhart%20Castle%20view.jpg",
+        "https://i.pinimg.com/1200x/57/7e/5d/577e5d329334ea8baf351294457e6c47.jpg",
     },
     {
       city: "Stonehenge",
@@ -722,7 +722,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Um dos monumentos pré-históricos mais enigmáticos do planeta, localizado no condado de Wiltshire, na Inglaterra.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Stonehenge2007%2007%2029.jpg",
+        "https://i.pinimg.com/1200x/79/fa/fa/79fafaba2de702cbf1a83f065fd02a8a.jpg",
     },
     {
       city: "Liverpool",
@@ -730,7 +730,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Cidade natal dos Beatles, Liverpool é um centro cultural com museus, pubs musicais e uma rica herança marítima.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Liverpool%20Waterfront%202015.jpg",
+        "https://i.pinimg.com/1200x/90/9d/4e/909d4e512fa4c47ae932205fb2442827.jpg",
     },
     {
       city: "Oxford",
@@ -738,7 +738,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Famosa por sua universidade centenária, Oxford é uma cidade encantadora repleta de arquitetura gótica e tradição acadêmica.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Oxford%20Radcliffe%20Camera%20from%20St%20Marys%20Church.jpg",
+        "https://i.pinimg.com/1200x/42/11/cc/4211cc9592d7c220476035327f780662.jpg",
     },
     {
       city: "Bath",
@@ -746,7 +746,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Cidade romana com banhos termais históricos e arquitetura georgiana elegante, reconhecida como Patrimônio Mundial da UNESCO.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Roman%20Baths%20Bath%20England%20-%20July%202006.jpg",
+        "https://i.pinimg.com/1200x/f6/db/09/f6db093852413af738d055d6b2605fed.jpg",
     },
     {
       city: "Cardiff",
@@ -754,7 +754,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "A capital do País de Gales combina castelos medievais, cultura galesa e uma vibrante cena moderna à beira-mar.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Cardiff%20Castle%20keep%20and%20walls.jpg",
+        "https://i.pinimg.com/1200x/e6/c0/1e/e6c01e98cfcfc81dea1fae3c196668b1.jpg",
     },
     {
       city: "Belfast",
@@ -762,7 +762,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Capital da Irlanda do Norte, famosa por sua história industrial e pelo Titanic Belfast, museu dedicado ao navio que ali foi construído.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Titanic%20Belfast%20Building%202012.jpg",
+        "https://i.pinimg.com/1200x/6f/fd/cf/6ffdcf392155296ff52a2c157d943260.jpg",
     },
   ],
   Belgium: [
@@ -2326,7 +2326,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Cidade vibrante e artística, famosa pelas obras de Gaudí, como a Sagrada Família e o Parque Güell, além de praias e vida noturna intensa.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Sagrada%20Familia%20Barcelona%20Spain.jpg",
+        "https://i.pinimg.com/1200x/d2/2b/6a/d22b6ad766a357cd95efc317d4e9833a.jpg",
     },
     {
       city: "Madri",
@@ -2334,7 +2334,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "A capital espanhola combina elegância e cultura, com museus renomados como o Prado e o Reina Sofía, além de praças e palácios impressionantes.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Plaza%20Mayor%20Madrid%20Spain.jpg",
+        "https://i.pinimg.com/1200x/17/3b/4c/173b4c95827d7394abec803afb27c4a9.jpg",
     },
     {
       city: "Sevilha",
@@ -2358,7 +2358,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Cidade futurista à beira-mar, famosa pela Cidade das Artes e das Ciências, e pela autêntica paella valenciana.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/City%20of%20Arts%20and%20Sciences%20Valencia.jpg",
+        "https://i.pinimg.com/1200x/b8/35/70/b83570228b50ecbe38571844ec25fb5f.jpg",
     },
     {
       city: "Bilbao",
@@ -2366,7 +2366,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Símbolo da modernidade no País Basco, Bilbao é lar do icônico Museu Guggenheim e de uma cena gastronômica de alto nível.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Guggenheim%20Museum%20Bilbao%20Spain.jpg",
+        "https://i.pinimg.com/1200x/b1/ad/85/b1ad851572db40b542400cc354a052ab.jpg",
     },
     {
       city: "Santiago de Compostela",
@@ -2374,7 +2374,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Destino final do famoso Caminho de Santiago, a cidade é marcada por espiritualidade, história e uma imponente catedral.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Cathedral%20of%20Santiago%20de%20Compostela%20Spain.jpg",
+        "https://i.pinimg.com/1200x/a6/1d/08/a61d08e48c3e1b87c55f678a0217199e.jpg",
     },
     {
       city: "Toledo",
@@ -2382,7 +2382,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Antiga capital espanhola, Toledo é um labirinto medieval que mistura heranças cristãs, judaicas e islâmicas.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Toledo%20Spain%20panorama.jpg",
+        "https://i.pinimg.com/1200x/c9/e3/e1/c9e3e1390b4c020db5d8dc839bbcd02c.jpg",
     },
     {
       city: "Ilhas Baleares (Mallorca, Ibiza, Menorca)",
@@ -2390,7 +2390,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Arquipélago paradisíaco no Mediterrâneo, com praias cristalinas, vida noturna animada e paisagens deslumbrantes.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Ibiza%20old%20town%20and%20harbour.jpg",
+        "https://i.pinimg.com/1200x/e8/e7/b9/e8e7b9227cb2fe73978c5545fde0fd2b.jpg",
     },
   ],
   Argentina: [
@@ -4801,7 +4801,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Capital da China e centro histórico do país, lar da Cidade Proibida, do Templo do Céu e da Praça Tiananmen.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Forbidden%20City%20Beijing%20China.jpg",
+        "https://i.pinimg.com/1200x/73/e3/56/73e35632ebf2255332d8abd6fbfb400c.jpg",
     },
     {
       city: "Xangai (Shanghai)",
@@ -4809,7 +4809,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "A metrópole mais moderna da China, famosa por sua arquitetura futurista, o Bund e o distrito de Pudong.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Shanghai%20skyline%20at%20night%20from%20the%20Bund.jpg",
+        "https://i.pinimg.com/1200x/ac/1e/35/ac1e3544a885d553411e83642dca02be.jpg",
     },
     {
       city: "Xi’an",
@@ -4817,7 +4817,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Antiga capital imperial e berço da civilização chinesa, famosa pelos Guerreiros de Terracota.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Terracotta%20Army%20Xi%27an%20China.jpg",
+        "https://i.pinimg.com/1200x/34/c8/fa/34c8fa78264bfc353d3b20997d86d24a.jpg",
     },
     {
       city: "Grande Muralha da China",
@@ -4825,7 +4825,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Uma das Sete Maravilhas do Mundo, estendendo-se por milhares de quilômetros através de montanhas e vales.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Great%20Wall%20of%20China%20at%20Mutianyu.jpg",
+        "https://i.pinimg.com/736x/d8/f5/79/d8f579c57ae24802deea580b1bcef0fe.jpg",
     },
     {
       city: "Guilin",
@@ -4833,7 +4833,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Conhecida por suas formações de montanhas cársticas e o belíssimo Rio Li, é um dos destinos naturais mais icônicos da China.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Li%20River%20Guilin%20China.jpg",
+        "https://i.pinimg.com/736x/61/ee/bb/61eebb5f6f1ed7286feeb2be45fae73a.jpg",
     },
     {
       city: "Chengdu",
@@ -4841,7 +4841,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Cidade natal dos pandas gigantes e famosa por sua gastronomia picante e atmosfera descontraída.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Giant%20Panda%20Chengdu%20Research%20Base.jpg",
+        "https://i.pinimg.com/1200x/08/45/cc/0845cc38e44fa5259e41443e0009601c.jpg",
     },
     {
       city: "Suzhou",
@@ -4849,7 +4849,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Famosa por seus jardins clássicos, canais e arquitetura tradicional, muitas vezes chamada de 'Veneza do Oriente'.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Suzhou%20classical%20garden%20China.jpg",
+        "https://i.pinimg.com/1200x/ea/42/68/ea4268a84d4138d479c92ec2eb688f77.jpg",
     },
     {
       city: "Hong Kong",
@@ -4857,15 +4857,15 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Região vibrante com horizonte espetacular, mercados noturnos, templos e o famoso Pico Victoria.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Hong%20Kong%20Victoria%20Harbour%20night.jpg",
+        "https://i.pinimg.com/1200x/87/41/88/874188fa18f12a43d9cb0ecdbd032004.jpg",
     },
     {
       city: "Zhangjiajie",
       title: "Zhangjiajie",
       description:
-        "Parque Nacional com formaç��es rochosas que inspiraram as montanhas flutuantes de 'Avatar'. Um dos lugares mais surreais da Ásia.",
+        "Parque Nacional com formações rochosas que inspiraram as montanhas flutuantes de 'Avatar'. Um dos lugares mais surreais da Ásia.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Zhangjiajie%20National%20Forest%20Park%20China.jpg",
+        "https://i.pinimg.com/1200x/f0/2e/0d/f02e0d0b46e5c2208d95d7dd781a3b0e.jpg",
     },
   ],
   India: [
@@ -4891,7 +4891,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Capital vibrante da Índia, repleta de monumentos históricos como o Qutub Minar, o Forte Vermelho e o India Gate.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/India%20Gate%20New%20Delhi%20India.jpg",
+        "https://i.pinimg.com/736x/33/c5/48/33c548e0167435a1555de2e0a3ff8743.jpg",
     },
     {
       city: "Varanasi",
@@ -4899,7 +4899,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Cidade sagrada às margens do Rio Ganges, onde peregrinos realizam rituais milenares — um dos lugares mais espirituais do mundo.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Varanasi%20ghats%20on%20the%20Ganges.jpg",
+        "https://i.pinimg.com/1200x/59/09/8f/59098fabd1513e48f7449ae89f057a7a.jpg",
     },
     {
       city: "Kerala (Alleppey e Munnar)",
@@ -4907,7 +4907,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Conhecido como 'o próprio país de Deus', Kerala oferece cruzeiros pelos backwaters e plantações de chá em Munnar.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Alleppey%20Backwaters%20Kerala%20India.jpg",
+        "https://i.pinimg.com/736x/56/f9/07/56f907b4774df90ee7655843d35beb91.jpg",
     },
     {
       city: "Goa",
@@ -4915,7 +4915,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Antiga colônia portuguesa, famosa por suas praias tropicais, vida noturna animada e arquitetura colonial.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Palolem%20Beach%20Goa%20India.jpg",
+        "https://i.pinimg.com/1200x/3e/4f/86/3e4f864d616e5408035d037c8ca50115.jpg",
     },
     {
       city: "Mumbai (Bombaim)",
@@ -4931,7 +4931,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Capital mundial do yoga, às margens do Ganges e cercada pelos Himalaias — mistura espiritualidade e aventura.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Rishikesh%20Lakshman%20Jhula%20Bridge.jpg",
+        "https://i.pinimg.com/1200x/f2/ba/1c/f2ba1cde545fbdc7558cf63616dd8294.jpg",
     },
     {
       city: "Amritsar",
@@ -4949,7 +4949,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "A capital tailandesa combina templos espetaculares como o Wat Arun e o Grand Palace com arranha-céus modernos e mercados flutuantes.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Wat%20Arun%20Bangkok%20Thailand.jpg",
+        "https://i.pinimg.com/1200x/c3/5b/7a/c35b7a434ab1a8a1ddf7a8c2cf8079d2.jpg",
     },
     {
       city: "Chiang Mai",
@@ -4965,7 +4965,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "A maior ilha da Tailândia e um dos principais destinos de praia do país, com vida noturna vibrante e resorts luxuosos.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Patong%20Beach%20Phuket%20Thailand.jpg",
+        "https://i.pinimg.com/1200x/ab/71/85/ab71853d08e18e48b999f97343b1df7d.jpg",
     },
     {
       city: "Krabi",
@@ -4973,7 +4973,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Famosa por suas falésias de calcário, praias paradisíacas e ilhas como Railay Beach e as Phi Phi Islands.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Railay%20Beach%20Krabi%20Thailand.jpg",
+        "https://i.pinimg.com/1200x/90/70/03/90700345cefc581242ee79628760a49e.jpg",
     },
     {
       city: "Ayutthaya",
@@ -4981,7 +4981,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Antiga capital do Reino do Sião, hoje é um parque histórico com templos e ruínas impressionantes, Patrimônio Mundial da UNESCO.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Ayutthaya%20Historical%20Park%20Thailand.jpg",
+        "https://i.pinimg.com/1200x/6e/b8/3f/6eb83f8eb60e33678f3f853e0fce79c3.jpg",
     },
     {
       city: "Pattaya",
@@ -4989,7 +4989,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Cidade costeira próxima a Bangkok, conhecida por suas praias, vida noturna e esportes aquáticos.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Pattaya%20Bay%20Thailand.jpg",
+        "https://i.pinimg.com/1200x/0a/90/c6/0a90c65a78471a710cf701c460669614.jpg",
     },
     {
       city: "Sukhothai",
@@ -5005,15 +5005,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Ilha tropical com praias perfeitas, templos budistas e um clima ideal para relaxar ou explorar cachoeiras.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Koh%20Samui%20Beach%20Thailand.jpg",
-    },
-    {
-      city: "Pai",
-      title: "Pai",
-      description:
-        "Pequena cidade nas montanhas do norte, famosa por suas paisagens naturais, atmosfera alternativa e cachoeiras.",
-      image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Pai%20Canyon%20Mae%20Hong%20Son%20Thailand.jpg",
+        "https://i.pinimg.com/1200x/e6/22/b1/e622b19b34a939afe2c2c7de9c51c8e7.jpg",
     },
   ],
   Indonesia: [
@@ -5023,7 +5015,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Centro cultural e espiritual de Bali, cercado por arrozais, templos e florestas tropicais. Famoso pelo Monkey Forest e seus retiros de yoga.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Ubud%20rice%20terraces%20Bali%20Indonesia.jpg",
+        "https://i.pinimg.com/1200x/2f/3f/9b/2f3f9b9985340dc38c285a27c0991729.jpg",
     },
     {
       city: "Seminyak",
@@ -5031,7 +5023,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Área sofisticada com resorts de luxo, beach clubs, lojas elegantes e uma das melhores cenas gastronômicas da ilha.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Seminyak%20Beach%20Bali%20Indonesia.jpg",
+        "https://i.pinimg.com/736x/f6/a8/d9/f6a8d939570081ba6905c10b8f7225de.jpg",
     },
     {
       city: "Canggu",
@@ -5039,7 +5031,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Destino moderno e descontraído, com praias ideais para surfe, cafés estilosos e uma comunidade vibrante de nômades digitais.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Canggu%20Beach%20Bali%20Indonesia.jpg",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/7e/85/a1/finns-beach-party.jpg?w=900&h=500&s=1",
     },
     {
       city: "Uluwatu",
@@ -5047,7 +5039,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Conhecida por seus penhascos dramáticos, templos sagrados e ondas perfeitas para surfar. O pôr do sol no templo de Uluwatu é lendário.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Uluwatu%20Temple%20Bali%20Indonesia.jpg",
+        "https://i.pinimg.com/1200x/10/39/d5/1039d58dc1b28f9f33cf7abd8748edd7.jpg",
     },
     {
       city: "Kuta",
@@ -5055,7 +5047,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Um dos destinos mais populares de Bali, com praias animadas, bares e um ambiente jovem e vibrante.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Kuta%20Beach%20Bali%20Indonesia.jpg",
+        "https://i.pinimg.com/1200x/01/bc/43/01bc43460dd8cc8f1829d46d5a1e4497.jpg",
     },
     {
       city: "Nusa Penida",
@@ -5063,7 +5055,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Ilha vizinha de Bali, famosa por suas falésias impressionantes e pela praia em formato de T-Rex em Kelingking Beach.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Kelingking%20Beach%20Nusa%20Penida%20Indonesia.jpg",
+        "https://i.pinimg.com/1200x/4d/35/85/4d358513a3e4729ac28894ddd1b9253a.jpg",
     },
     {
       city: "Mount Batur",
@@ -5071,7 +5063,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Vulcão ativo em Kintamani, um dos locais mais procurados para trilhas e nasceres do sol panorâmicos sobre o lago.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Mount%20Batur%20Bali%20Indonesia.jpg",
+        "https://i.pinimg.com/736x/13/0c/81/130c813304cdb510c7af6b2a9dc9150a.jpg",
     },
     {
       city: "Tanah Lot",
@@ -5079,7 +5071,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Templo icônico construído sobre uma formação rochosa à beira-mar, um dos cartões-postais mais conhecidos de Bali.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Tanah%20Lot%20Temple%20Bali%20Indonesia.jpg",
+        "https://i.pinimg.com/1200x/c6/bb/f6/c6bbf67e6978d3765a411406fa866444.jpg",
     },
     {
       city: "Jimbaran",
@@ -5087,7 +5079,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Conhecida por suas praias calmas, resorts de luxo e restaurantes à beira-mar que servem frutos do mar ao pôr do sol.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Jimbaran%20Beach%20Bali%20Indonesia.jpg",
+        "https://i.pinimg.com/1200x/80/f4/67/80f46799e77e8f4ed96572e5a432faee.jpg",
     },
   ],
   Malaysia: [
@@ -5097,7 +5089,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "A capital da Malásia é um centro cosmopolita famoso pelas Torres Petronas, mercados vibrantes e gastronomia de rua espetacular.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Petronas%20Towers%20Kuala%20Lumpur%20Malaysia.jpg",
+        "https://i.pinimg.com/1200x/be/b5/c2/beb5c20d3379476696a237da0b296824.jpg",
     },
     {
       city: "Penang (George Town)",
@@ -5105,7 +5097,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Patrimônio Mundial da UNESCO, George Town é conhecida por sua arquitetura colonial, arte de rua e uma das melhores culinárias da Ásia.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/George%20Town%20Penang%20Street%20Art.jpg",
+        "https://i.pinimg.com/1200x/60/bd/7d/60bd7dc5c7b69230db6f6c0382b43285.jpg",
     },
     {
       city: "Langkawi",
@@ -5113,7 +5105,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Arquipélago de 99 ilhas com praias paradisíacas, florestas tropicais e o famoso Sky Bridge com vistas deslumbrantes.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Langkawi%20Sky%20Bridge%20Malaysia.jpg",
+        "https://i.pinimg.com/1200x/da/51/4b/da514b2e27953b2d26d1696f7f67104a.jpg",
     },
     {
       city: "Cameron Highlands",
@@ -5121,7 +5113,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Região montanhosa coberta por plantações de chá, morangos e vilas coloniais — um refúgio fresco nas alturas.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Cameron%20Highlands%20tea%20plantations%20Malaysia.jpg",
+        "https://i.pinimg.com/736x/57/66/a4/5766a446c7302f4364e8891f065c88ab.jpg",
     },
     {
       city: "Borneo (Sabah e Sarawak)",
@@ -5129,7 +5121,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Selva exuberante com orangotangos, cavernas gigantes e o Monte Kinabalu, o ponto mais alto do Sudeste Asiático.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Mount%20Kinabalu%20Sabah%20Malaysia.jpg",
+        "https://i.pinimg.com/1200x/02/c1/f3/02c1f3717b39f0b4bea588ec96ce39d6.jpg",
     },
     {
       city: "Malaca (Melaka)",
@@ -5137,7 +5129,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Antiga cidade portuária com forte influência portuguesa, holandesa e britânica, repleta de história e charme.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Stadthuys%20Melaka%20Malaysia.jpg",
+        "https://i.pinimg.com/1200x/94/39/2c/94392c85de73f77ad141dda15e1f923a.jpg",
     },
     {
       city: "Perhentian Islands",
@@ -5145,7 +5137,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Ilhas paradisíacas com águas cristalinas, perfeitas para mergulho e snorkeling, ideais para quem busca tranquilidade tropical.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Perhentian%20Islands%20Malaysia.jpg",
+        "https://i.pinimg.com/1200x/2c/89/d3/2c89d3d0cf98cd6fe9000d1654d288ff.jpg",
     },
     {
       city: "Kota Kinabalu",
@@ -5153,7 +5145,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Capital do estado de Sabah, serve como base para explorar parques nacionais, ilhas e o Monte Kinabalu.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Kota%20Kinabalu%20waterfront%20Malaysia.jpg",
+        "https://i.pinimg.com/1200x/b3/ce/6f/b3ce6fe076c2e33b501936c72a5eb15c.jpg",
     },
     {
       city: "Taman Negara",
@@ -5161,7 +5153,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Uma das florestas tropicais mais antigas do mundo, ideal para trilhas, passeios de barco e observação da fauna selvagem.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Taman%20Negara%20Rainforest%20Malaysia.jpg",
+        "https://i.pinimg.com/736x/49/86/59/498659fe5417ad658d2b7b3d7343d8ac.jpg",
     },
   ],
   Singapore: [
@@ -5171,7 +5163,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Complexo icônico com hotel, shopping e o famoso SkyPark, que oferece uma vista panorâmica de Singapura.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Marina%20Bay%20Sands%20Hotel%20Singapore.jpg",
+        "https://i.pinimg.com/736x/01/f6/8d/01f68d1be31ed0207e158230b2535283.jpg",
     },
     {
       city: "Gardens by the Bay",
@@ -5179,7 +5171,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Parque futurista com estufas gigantes e as famosas árvores metálicas iluminadas à noite.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Gardens%20by%20the%20Bay%20Singapore%20Supertree%20Grove.jpg",
+        "https://i.pinimg.com/736x/a9/ff/8e/a9ff8e1de1bf4224891ed285fc773dc6.jpg",
     },
     {
       city: "Sentosa Island",
@@ -5187,7 +5179,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Ilha resort com praias artificiais, o Universal Studios Singapore e diversas atrações turísticas.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Sentosa%20Island%20Singapore%20Beach.jpg",
+        "https://i.pinimg.com/1200x/37/85/d8/3785d8909b1fb522fe41dc93f0657a93.jpg",
     },
     {
       city: "Merlion Park",
@@ -5203,7 +5195,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Bairro histórico vibrante, repleto de templos, mercados e uma mistura única de tradição e modernidade.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Chinatown%20Singapore%20Pagoda%20Street.jpg",
+        "https://i.pinimg.com/1200x/02/48/68/0248683f34c9ed287248a541c5697b92.jpg",
     },
     {
       city: "Little India",
@@ -5211,7 +5203,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Colorido bairro indiano com templos, lojas e o incrível Mustafa Centre, aberto 24 horas.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Little%20India%20Singapore%20Serangoon%20Road.jpg",
+        "https://i.pinimg.com/1200x/f1/49/20/f14920c3a15c7c0c30d07d631db72af6.jpg",
     },
     {
       city: "Singapore Botanic Gardens",
@@ -5219,7 +5211,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Patrimônio Mundial da UNESCO com jardins tropicais e o famoso National Orchid Garden.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Singapore%20Botanic%20Gardens%20Orchid%20Garden.jpg",
+        "https://cdn-imgix.headout.com/mircobrands-content/image/bfd57916ba91b7d3b7029c790eee0eb9-National%20Orchid%20Garden.jpg",
     },
     {
       city: "Clarke Quay",
@@ -5227,7 +5219,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Área animada às margens do rio, repleta de bares, restaurantes e vida noturna vibrante.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Clarke%20Quay%20Singapore%20Riverside%20at%20Night.jpg",
+        "https://i.pinimg.com/1200x/df/d3/07/dfd307ae2a0bd3a2111835152cb7924a.jpg",
     },
     {
       city: "Orchard Road",
@@ -5235,7 +5227,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Principal avenida comercial de Singapura, com shoppings de luxo, cafés e lojas internacionais.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Orchard%20Road%20Singapore%20Night.jpg",
+        "https://i.pinimg.com/736x/2d/4d/84/2d4d84e1945eac70ad25d0ff36f1df76.jpg",
     },
   ],
   Vietnam: [
@@ -5245,7 +5237,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Maravilha natural com milhares de ilhas de calcário e águas esverdeadas, considerada Patrimônio Mundial da UNESCO.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Ha%20Long%20Bay%20Vietnam%202018.jpg",
+        "https://i.pinimg.com/736x/72/dd/f6/72ddf698e154e9f8ae6f2e98fb0d3bae.jpg",
     },
     {
       city: "Hanói",
@@ -5253,7 +5245,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Capital vibrante que mistura arquitetura colonial francesa, templos antigos e vida urbana caótica e charmosa.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Hanoi%20Old%20Quarter%20Vietnam.jpg",
+        "https://i.pinimg.com/736x/f8/b1/66/f8b166287e51f263e8ce5f05b2c8d181.jpg",
     },
     {
       city: "Cidade de Ho Chi Minh (Saigon)",
@@ -5269,7 +5261,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Cidade histórica famosa por suas lanternas coloridas, arquitetura preservada e charme �� beira do rio.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Hoi%20An%20Ancient%20Town%20Vietnam%20Night.jpg",
+        "https://i.pinimg.com/1200x/f5/3d/7d/f53d7d2b3edef915a0baaf49d807a3da.jpg",
     },
     {
       city: "Hue",
@@ -5277,7 +5269,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Antiga capital imperial, repleta de templos, palácios e a impressionante Cidade Proibida de Hue.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Hue%20Imperial%20City%20Vietnam.jpg",
+        "https://cdn.vietnamisawesome.com/wp-content/uploads/2023/06/best-time-to-visit-hue.jpeg",
     },
     {
       city: "Da Nang",
@@ -5285,7 +5277,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Cidade moderna costeira com belas praias e a famosa Ponte Dourada sustentada por mãos gigantes.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Golden%20Bridge%20Ba%20Na%20Hills%20Da%20Nang%20Vietnam.jpg",
+        "https://i.pinimg.com/1200x/be/e8/23/bee8230b37a73e30e3a6968c033651db.jpg",
     },
     {
       city: "Sapa",
@@ -5293,7 +5285,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Região montanhosa no norte do país, conhecida por seus terraços de arroz e trilhas entre vilarejos étnicos.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Sapa%20Rice%20Terraces%20Vietnam.jpg",
+        "https://i.pinimg.com/1200x/99/8b/52/998b52abe140979b469f69398de52e65.jpg",
     },
     {
       city: "Nha Trang",
@@ -5301,7 +5293,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Destino de praia popular com águas cristalinas, resorts e excelente mergulho.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Nha%20Trang%20Beach%20Vietnam.jpg",
+        "https://i.pinimg.com/1200x/a1/66/bd/a166bd0285f58463143b30176a11e828.jpg",
     },
     {
       city: "Delta do Mekong",
@@ -5309,7 +5301,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Região fértil repleta de canais, vilarejos flutuantes e mercados locais únicos no sul do Vietnã.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Mekong%20Delta%20Floating%20Market%20Vietnam.jpg",
+        "https://i.pinimg.com/736x/37/37/fe/3737feda5378615337fe23ca86d736d4.jpg",
     },
   ],
   Philippines: [
@@ -5319,7 +5311,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Ilha paradisíaca com lagoas turquesa, falésias de calcário e o famoso rio subterrâneo de Puerto Princesa.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/El%20Nido%20Palawan%20Philippines%20Lagoon.jpg",
+        "https://i.pinimg.com/1200x/be/83/ab/be83ab4ded682f59870f55af5e626e01.jpg",
     },
     {
       city: "Boracay",
@@ -5327,7 +5319,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Pequena ilha famosa por sua praia de areia branca e vida noturna vibrante.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Boracay%20White%20Beach%20Philippines.jpg",
+        "https://i.pinimg.com/736x/6b/97/74/6b9774920b37a1d25b75df66c8794dbb.jpg",
     },
     {
       city: "Cebu",
@@ -5335,7 +5327,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Destino que combina praias, mergulho, cachoeiras e cultura histórica no coração das Filipinas.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Kawasan%20Falls%20Cebu%20Philippines.jpg",
+        "https://i.pinimg.com/1200x/40/e1/d4/40e1d42779fbcc68db4f0fe363f050d5.jpg",
     },
     {
       city: "Manila",
@@ -5343,7 +5335,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Capital frenética do país, com museus, igrejas históricas e uma mistura fascinante de tradição e modernidade.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Manila%20Skyline%20at%20Night.jpg",
+        "https://i.pinimg.com/1200x/13/b5/0a/13b50a3a04320e326a5ddf0c29ebc2be.jpg",
     },
     {
       city: "Bohol",
@@ -5359,7 +5351,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Paraíso dos surfistas com ondas perfeitas e lagoas naturais de beleza hipnotizante.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Siargao%20Cloud%209%20Surfing%20Philippines.jpg",
+        "https://i.pinimg.com/1200x/22/b6/0b/22b60b63d43c29f0ad8b2035d2bb050f.jpg",
     },
     {
       city: "Baguio",
@@ -5375,7 +5367,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Cidade colonial espanhola preservada, com ruas de paralelepípedo e arquitetura histórica.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Vigan%20Calle%20Crisologo%20Philippines.jpg",
+        "https://i.pinimg.com/1200x/e9/8e/2f/e98e2f1ef222a723bcac806743b85d27.jpg",
     },
     {
       city: "Coron",
@@ -5383,7 +5375,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Destino de mergulho mundialmente famoso, com naufrágios, lagoas secretas e águas cristalinas.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Coron%20Kayangan%20Lake%20Palawan%20Philippines.jpg",
+        "https://i.pinimg.com/1200x/11/b2/26/11b22614a098b6ce9f2daae763b59afe.jpg",
     },
   ],
   "South Korea": [
@@ -5393,7 +5385,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Capital vibrante com palácios reais, mercados tradicionais, vida noturna intensa e tecnologia por toda parte.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Seoul%20Skyline%20at%20Night%20South%20Korea.jpg",
+        "https://i.pinimg.com/736x/83/89/52/83895264750bf768114d2c65459641db.jpg",
     },
     {
       city: "Busan",
@@ -5401,7 +5393,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Cidade costeira com belas praias, templos nas montanhas e o famoso mercado de peixes Jagalchi.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Haeundae%20Beach%20Busan%20South%20Korea.jpg",
+        "https://i.pinimg.com/736x/39/49/36/39493696161d83eb5bad405a24fe231e.jpg",
     },
     {
       city: "Ilha de Jeju",
@@ -5409,7 +5401,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Destino natural com cachoeiras, cavernas de lava e o icônico Monte Hallasan, o ponto mais alto do país.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Jeju%20Island%20Hallasan%20South%20Korea.jpg",
+        "https://i.pinimg.com/736x/ff/55/d8/ff55d83fb3fc0dfa9a01dca277b5d9cf.jpg",
     },
     {
       city: "Gyeongju",
@@ -5417,7 +5409,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Antiga capital do reino de Silla, conhecida como o ‘museu sem paredes’ por seus templos e tumbas reais.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Bulguksa%20Temple%20Gyeongju%20South%20Korea.jpg",
+        "https://i.pinimg.com/1200x/24/38/2d/24382dffdf5cb59a94f89bfd1e7887d0.jpg",
     },
     {
       city: "Incheon",
@@ -5425,7 +5417,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Porta de entrada internacional do país, com ilhas, parques temáticos e a moderna Songdo City.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Songdo%20City%20Incheon%20South%20Korea.jpg",
+        "https://i.pinimg.com/1200x/e0/be/50/e0be50a75952c87d11df49efca205544.jpg",
     },
     {
       city: "Suwon",
@@ -5433,7 +5425,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Cidade histórica famosa pela Fortaleza Hwaseong, Patrimônio Mundial da UNESCO.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Hwaseong%20Fortress%20Suwon%20South%20Korea.jpg",
+        "https://i.pinimg.com/1200x/85/4e/c9/854ec9409a3d652d3235513c423a3e5f.jpg",
     },
     {
       city: "Andong",
@@ -5441,15 +5433,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Berço da cultura tradicional coreana, com vilarejos preservados e o festival de máscaras de Hahoe.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Hahoe%20Village%20Andong%20South%20Korea.jpg",
-    },
-    {
-      city: "DMZ (Zona Desmilitarizada)",
-      title: "DMZ (Zona Desmilitarizada)",
-      description:
-        "Fronteira entre as duas Coreias, onde é possível visitar pontos de observação e túneis históricos.",
-      image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/DMZ%20South%20Korea%20Panmunjom.jpg",
+        "https://i.pinimg.com/736x/ef/2b/37/ef2b37d0e051a8d734ed2a29c4733d95.jpg",
     },
     {
       city: "Gangneung",
@@ -5457,7 +5441,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Cidade costeira famosa pelas praias do Mar do Leste, cafés à beira-mar e esportes de inverno próximos.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Gyeongpo%20Beach%20Gangneung%20South%20Korea.jpg",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/95/e5/06/caption.jpg?w=1400&h=1400&s=1",
     },
   ],
   "Sri Lanka": [
@@ -5467,7 +5451,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Capital vibrante e porta de entrada do país, mistura modernidade, cultura colonial e vida costeira.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Colombo%20Skyline%20Sri%20Lanka.jpg",
+        "https://i.pinimg.com/736x/39/45/08/3945085935e9557b42f3beb7dba1dd6d.jpg",
     },
     {
       city: "Kandy",
@@ -5475,7 +5459,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Cidade sagrada no centro do país, lar do Templo do Dente de Buda e cercada por montanhas verdes.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Temple%20of%20the%20Tooth%20Kandy%20Sri%20Lanka.jpg",
+        "https://i.pinimg.com/1200x/4a/a2/a6/4aa2a645fc690426e433979ba11e2c9a.jpg",
     },
     {
       city: "Sigiriya",
@@ -5483,7 +5467,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Fortaleza rochosa impressionante, Patrimônio Mundial da UNESCO, com jardins e pinturas antigas.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Sigiriya%20Rock%20Sri%20Lanka.jpg",
+        "https://i.pinimg.com/736x/b5/f9/cc/b5f9cce095f1ff6cfa08168801dbe6e5.jpg",
     },
     {
       city: "Ella",
@@ -5491,7 +5475,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Pequena cidade nas montanhas, famosa por suas paisagens de tirar o fôlego e plantações de chá.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Ella%20Nine%20Arches%20Bridge%20Sri%20Lanka.jpg",
+        "https://i.pinimg.com/1200x/76/87/14/768714b6a2e2e46875fe132876b83ffc.jpg",
     },
     {
       city: "Galle",
@@ -5499,7 +5483,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Cidade costeira com uma fortaleza colonial holandesa bem preservada e charme histórico.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Galle%20Fort%20Sri%20Lanka.jpg",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/24/05/e0/galle-fort.jpg?w=600&h=400&s=1",
     },
     {
       city: "Nuwara Eliya",
@@ -5507,7 +5491,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Conhecida como ‘Pequena Inglaterra’, é uma região fria com plantações de chá e arquitetura colonial.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Nuwara%20Eliya%20Tea%20Plantations%20Sri%20Lanka.jpg",
+        "https://i.pinimg.com/736x/f2/69/3b/f2693b3fc0e98e2a66d43762a8fd764b.jpg",
     },
     {
       city: "Anuradhapura",
@@ -5515,7 +5499,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Antiga capital cingalesa, com ruínas de templos, estupas e estátuas de Buda milenares.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Anuradhapura%20Ruwanwelisaya%20Dagoba%20Sri%20Lanka.jpg",
+        "https://i.pinimg.com/1200x/31/d7/c1/31d7c1ab248c72905d3c200e49c028bc.jpg",
     },
     {
       city: "Mirissa",
@@ -5531,7 +5515,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "O parque mais famoso do país, conhecido pela grande população de leopardos e safáris impressionantes.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Yala%20National%20Park%20Leopard%20Sri%20Lanka.jpg",
+        "https://i.pinimg.com/1200x/77/1e/40/771e403434bf1a5f92397ed4bb8d64b9.jpg",
     },
   ],
   Nepal: [
@@ -5541,7 +5525,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Capital do Nepal, repleta de templos, stupas, mercados caóticos e rica herança cultural e espiritual.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Boudhanath%20Stupa%20Kathmandu%20Nepal.jpg",
+        "https://i.pinimg.com/1200x/52/be/04/52be040af36c41b82eb6c46a819d288b.jpg",
     },
     {
       city: "Pokhara",
@@ -5549,7 +5533,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Cidade à beira do lago Phewa, ponto de partida para trilhas no Annapurna e famosa por suas vistas montanhosas.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Phewa%20Lake%20Pokhara%20Nepal.jpg",
+        "https://i.pinimg.com/1200x/22/6b/a0/226ba05aa857a308b95d8a3758394270.jpg",
     },
     {
       city: "Monte Everest (Região de Khumbu)",
@@ -5557,7 +5541,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Lar da montanha mais alta do mundo, com trilhas lendárias e vilas sherpas cheias de cultura.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Mount%20Everest%20Nepal%20from%20Gokyo%20Ri.jpg",
+        "https://i.pinimg.com/736x/39/66/70/396670fbe62e0703667391ea71bc3def.jpg",
     },
     {
       city: "Lumbini",
@@ -5565,7 +5549,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Local de nascimento de Buda, Patrimônio Mundial da UNESCO, com templos e jardins sagrados.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Maya%20Devi%20Temple%20Lumbini%20Nepal.jpg",
+        "https://i.pinimg.com/736x/1a/6d/c3/1a6dc3a1f3123f3f04d55025ef348b5b.jpg",
     },
     {
       city: "Bhaktapur",
@@ -5581,7 +5565,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Parque nacional com safáris para ver rinocerontes, tigres e elefantes em ambiente natural.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Chitwan%20National%20Park%20Nepal%20Rhino.jpg",
+        "https://i.pinimg.com/736x/00/de/15/00de15de8584c13456381891b641bc8d.jpg",
     },
     {
       city: "Patan (Lalitpur)",
@@ -5597,7 +5581,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Ponto panorâmico nas montanhas, conhecido por oferecer vistas espetaculares do Himalaia ao amanhecer.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Nagarkot%20Sunrise%20View%20Nepal.jpg",
+        "https://i.pinimg.com/1200x/08/36/36/083636f4f5f0c29a4ec5008f3147da20.jpg",
     },
     {
       city: "Annapurna Circuit",
@@ -5605,7 +5589,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Uma das trilhas mais famosas do mundo, cruzando vilas montanhosas, templos e paisagens de tirar o fôlego.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Annapurna%20Circuit%20Trail%20Nepal.jpg",
+        "https://i.pinimg.com/736x/c0/78/f0/c078f0b1c4d179849997a55c24ad88f3.jpg",
     },
   ],
   Mongolia: [
@@ -5615,7 +5599,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Capital da Mongólia, mistura templos budistas, museus e modernidade em meio às montanhas.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Ulaanbaatar%20City%20Center%20Mongolia.jpg",
+        "https://i.pinimg.com/1200x/56/20/bc/5620bc15d369ce0a18acf8da87c0cafa.jpg",
     },
     {
       city: "Deserto de Gobi",
@@ -5623,7 +5607,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Um dos maiores desertos do mundo, famoso por suas dunas, fósseis de dinossauros e paisagens áridas impressionantes.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Khongoryn%20Els%20Dunes%20Gobi%20Desert%20Mongolia.jpg",
+        "https://i.pinimg.com/736x/13/10/80/131080fd199349e36a294c2f58a471e8.jpg",
     },
     {
       city: "Parque Nacional Terelj",
@@ -5631,7 +5615,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Parque próximo a Ulaanbaatar com formações rochosas únicas, rios e tradições nômades vivas.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Gorkhi-Terelj%20National%20Park%20Mongolia.jpg",
+        "https://i.pinimg.com/1200x/a2/28/b1/a228b111e04f9bd9d2bfe9947279d9f6.jpg",
     },
     {
       city: "Lago Khövsgöl",
@@ -5639,7 +5623,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Conhecido como o ‘irmão menor do Baikal’, é um lago cristalino cercado por montanhas e florestas.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Khovsgol%20Lake%20Mongolia.jpg",
+        "https://i.pinimg.com/1200x/36/d7/1c/36d71ce9c508a7279ea05da84f3d40ea.jpg",
     },
     {
       city: "Karakorum",
@@ -5647,7 +5631,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Antiga capital do Império Mongol, abriga ruínas históricas e o famoso mosteiro Erdene Zuu.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Erdene%20Zuu%20Monastery%20Karakorum%20Mongolia.jpg",
+        "https://i.pinimg.com/1200x/f7/ce/14/f7ce14cc86ac16eb5a7e79a0d5730111.jpg",
     },
     {
       city: "Vale de Orkhon",
@@ -5655,7 +5639,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Região Patrimônio Mundial da UNESCO com rios, cachoeiras e sítios arqueológicos do Império Mongol.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Orkhon%20Valley%20Mongolia.jpg",
+        "https://i.pinimg.com/1200x/8c/59/20/8c5920011876a59eb31f2bb9e3b8e13e.jpg",
     },
     {
       city: "Deserto de Khongoryn Els",
@@ -5663,7 +5647,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Famoso por suas enormes dunas de areia que produzem um som peculiar, conhecido como ‘dunas que cantam’.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Khongoryn%20Els%20Singing%20Dunes%20Mongolia.jpg",
+        "https://i.pinimg.com/736x/7c/82/e5/7c82e535f5693cb8ceba06f2904f8490.jpg",
     },
     {
       city: "Tsenkher Hot Springs",
@@ -5671,7 +5655,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Fontes termais naturais cercadas por montanhas, ideais para relaxar após longas jornadas.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Tsenkher%20Hot%20Springs%20Mongolia.jpg",
+        "https://i.pinimg.com/1200x/05/bf/1d/05bf1d7ed1a2aff04decf394ad12e1a8.jpg",
     },
     {
       city: "Altai Tavan Bogd National Park",
@@ -5679,7 +5663,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Parque montanhoso no oeste do país, lar dos picos mais altos da Mongólia e glaciares impressionantes.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Altai%20Tavan%20Bogd%20Mountains%20Mongolia.jpg",
+        "https://i.pinimg.com/1200x/e4/fe/ec/e4feec4fc7ab1dafe9e8f3e38927af20.jpg",
     },
   ],
   Cambodia: [
@@ -5697,7 +5681,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Cidade base para explorar Angkor, repleta de cafés, mercados noturnos e vida cultural vibrante.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Pub%20Street%20Siem%20Reap%20Cambodia.jpg",
+        "https://i.pinimg.com/736x/a7/80/d8/a780d8559074f16f87c23f0d6a9747ce.jpg",
     },
     {
       city: "Phnom Penh",
@@ -5705,7 +5689,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Capital do Camboja, combina templos budistas, palácios reais e memoriais da história recente do país.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Phnom%20Penh%20Royal%20Palace.jpg",
+        "https://i.pinimg.com/736x/77/50/f5/7750f57659bbe6ad29add44d31743463.jpg",
     },
     {
       city: "Sihanoukville",
@@ -5713,7 +5697,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Cidade costeira com belas praias, ilhas paradisíacas e resorts à beira-mar.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Otres%20Beach%20Sihanoukville%20Cambodia.jpg",
+        "https://i.pinimg.com/1200x/d2/7d/92/d27d92b9d768a5633e6717fc839a60e3.jpg",
     },
     {
       city: "Koh Rong",
@@ -5721,7 +5705,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Ilha tropical famosa por suas praias de areia branca, águas cristalinas e vida marinha exuberante.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Koh%20Rong%20Beach%20Cambodia.jpg",
+        "https://i.pinimg.com/1200x/f9/31/13/f93113c105c50139131ea81af47ed403.jpg",
     },
     {
       city: "Battambang",
@@ -5729,7 +5713,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Cidade charmosa com arquitetura colonial francesa, templos antigos e o famoso Bamboo Train.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Battambang%20Bamboo%20Train%20Cambodia.jpg",
+        "https://i.pinimg.com/736x/c7/b5/1e/c7b51ea0d76bdc6df3369a1d1169203c.jpg",
     },
     {
       city: "Kampot",
@@ -5737,7 +5721,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Cidade ribeirinha conhecida por sua atmosfera tranquila, plantações de pimenta e vistas do monte Bokor.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Kampot%20River%20Cambodia.jpg",
+        "https://i.pinimg.com/736x/67/7d/93/677d931368d881382d9bc82c0e822427.jpg",
     },
     {
       city: "Kep",
@@ -5745,7 +5729,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Antiga estância litorânea francesa famosa por seus frutos do mar, especialmente o caranguejo com pimenta de Kampot.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Kep%20Beach%20Cambodia.jpg",
+        "https://i.pinimg.com/1200x/3b/dd/c6/3bddc6a2f341ed20962fe6b9fb2540dd.jpg",
     },
     {
       city: "Tonlé Sap",
@@ -5753,7 +5737,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "O maior lago do Sudeste Asiático, abriga vilas flutuantes e comunidades que vivem em harmonia com o ciclo das águas.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Tonle%20Sap%20Floating%20Village%20Cambodia.jpg",
+        "https://i.pinimg.com/1200x/ab/b4/ae/abb4aece7138c4fd39928001d903203e.jpg",
     },
   ],
   Laos: [
@@ -5763,7 +5747,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Patrimônio Mundial da UNESCO, esta cidade encantadora combina templos dourados, arquitetura colonial e o ritual diário dos monges budistas.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Luang%20Prabang%20cityscape.jpg",
+        "https://i.pinimg.com/736x/85/5a/26/855a26fd7a3eb1800100cd12aa706325.jpg",
     },
     {
       city: "Vientiane",
@@ -5779,7 +5763,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Destino de aventura e natureza, famoso por seus rios, cavernas e formações cársticas cercadas por campos de arroz.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Vang%20Vieng%20Laos%20karst%20mountains.jpg",
+        "https://ychef.files.bbci.co.uk/1280x720/p0k70kbw.jpg",
     },
     {
       city: "Plain of Jars (Planície dos Jarros)",
@@ -5787,7 +5771,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Sítio arqueológico misterioso com centenas de jarros de pedra milenares espalhados por colinas na região de Phonsavan.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Plain%20of%20Jars%20Site%201%20Laos.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f2/20171115_Plain_of_Jars_Site_1_Laos_2521_DxO.jpg",
     },
     {
       city: "Pakse",
@@ -5795,7 +5779,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Porta de entrada para o planalto de Bolaven, conhecido por suas cachoeiras espetaculares e plantações de café.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Pakse%20Laos%20bridge%20over%20Mekong.jpg",
+        "https://static.rondreis.nl/rondreis-storage-production/media-22459-laos-vang-vieng-rivier-1-jpg/w640xh480/eyJidWNrZXQiOiJyb25kcmVpcy1zdG9yYWdlLXByb2R1Y3Rpb24iLCJrZXkiOiJtZWRpYVwvMjI0NTlcL0xhb3MtVmFuZy1WaWVuZy1yaXZpZXItMS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjY0MCwiaGVpZ2h0Ijo0ODB9fX0=",
     },
     {
       city: "Bolaven Plateau",
@@ -5803,7 +5787,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Região montanhosa com clima ameno, cachoeiras imponentes e fazendas de café — um refúgio natural e sereno.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Tad%20Fane%20Waterfall%20Bolaven%20Plateau%20Laos.jpg",
+        "https://i.pinimg.com/1200x/36/18/65/361865414837c0d6c1b7938c92771cc8.jpg",
     },
     {
       city: "Si Phan Don (4.000 Ilhas)",
@@ -5811,7 +5795,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Conjunto de ilhas no rio Mekong, com vilarejos tranquilos, cachoeiras e botes para avistar golfinhos de água doce.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Si%20Phan%20Don%20Laos%20Mekong%20Islands.jpg",
+        "https://www.holidify.com/images/bgImages/SI-PHAN-DON.jpg",
     },
     {
       city: "Wat Phou",
@@ -5819,7 +5803,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Antigo templo Khmer em Champasak, anterior a Angkor Wat, com vistas magníficas e importância espiritual milenar.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Wat%20Phou%20Champasak%20Laos.jpg",
+        "https://i.pinimg.com/736x/c9/dd/69/c9dd6901fc50e7f2384618ee227c0b0b.jpg",
     },
     {
       city: "Muang Ngoi Neua",
@@ -5827,7 +5811,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Vila isolada acessível apenas de barco, rodeada por montanhas e rios, ideal para trilhas e imersão na vida rural laociana.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Muang%20Ngoi%20Neua%20Laos.jpg",
+        "https://i.pinimg.com/1200x/0b/5d/93/0b5d93d31c1196c381aefddad8d3bfb9.jpg",
     },
   ],
   Japan: [
