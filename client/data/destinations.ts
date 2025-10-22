@@ -476,7 +476,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "A elegante capital austríaca é o coração da antiga monarquia dos Habsburgos, repleta de palácios, museus, cafés históricos e uma atmosfera musical que ecoa por toda parte.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Schönbrunn%20Palace%20Vienna.jpg",
+        "https://i.pinimg.com/1200x/02/11/d7/0211d7732709cc61481f7419881b4e45.jpg",
     },
     {
       city: "Salzburgo (Salzburg)",
@@ -484,7 +484,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Cidade natal de Mozart e cenário do filme 'A Noviça Rebelde', Salzburgo é famosa por sua arquitetura barroca, seu castelo e sua herança musical.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Hohensalzburg%20Fortress%20Salzburg.jpg",
+        "https://i.pinimg.com/1200x/c6/9f/35/c69f3532eb9417a2e23813486a12127e.jpg",
     },
     {
       city: "Innsbruck",
@@ -492,7 +492,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "No coração dos Alpes, Innsbruck combina esportes de inverno, beleza alpina e arquitetura histórica com o charme tirolês.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Innsbruck%20Old%20Town%20and%20Alps.jpg",
+        "https://i.pinimg.com/736x/ef/f4/a3/eff4a37d21bd4c0997d434f5faf16b9f.jpg",
     },
     {
       city: "Hallstatt",
@@ -500,7 +500,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Considerada uma das vilas mais bonitas do mundo, Hallstatt encanta com seu lago sereno, casas de madeira e montanhas que parecem abraçar a cidade.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Hallstatt%20village%20Austria.jpg",
+        "https://i.pinimg.com/1200x/ec/48/72/ec4872010ed997fe59632af6c348055d.jpg",
     },
     {
       city: "Graz",
@@ -508,7 +508,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Com uma mistura única de arquitetura renascentista e moderna, Graz é vibrante, criativa e conhecida por sua gastronomia e vida universitária.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Graz%20Old%20Town%20view.jpg",
+        "https://i.pinimg.com/1200x/08/45/b5/0845b5e86122212059d2c23e08da57a6.jpg",
     },
     {
       city: "Zell am See",
@@ -516,7 +516,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Destino perfeito para quem busca natureza e aventura, Zell am See combina lagos cristalinos, trilhas e esqui em meio a paisagens alpinas impressionantes.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Zell%20am%20See%20Lake%20Austria.jpg",
+        "https://i.pinimg.com/736x/ec/7e/8c/ec7e8c10b97b1d5dc67a5a8b5228e4ee.jpg",
     },
     {
       city: "Wachau",
@@ -524,7 +524,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Região vinícola pitoresca às margens do rio Danúbio, com castelos, mosteiros e vilarejos que parecem parados no tempo.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Wachau%20Valley%20Danube%20Austria.jpg",
+        "https://i.pinimg.com/1200x/6e/5f/4a/6e5f4ab52b043894fa24d1f8b67be9f7.jpg",
     },
     {
       city: "Linz",
@@ -532,7 +532,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Cidade moderna às margens do Danúbio, Linz é conhecida por seu foco em arte contemporânea, tecnologia e festivais culturais inovadores.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Linz%20city%20view%20Danube.jpg",
+        "https://i.pinimg.com/1200x/ee/54/8d/ee548d9e29a05117527cbd608d97c38c.jpg",
     },
     {
       city: "Kitzbühel",
@@ -540,7 +540,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Um dos resorts de esqui mais famosos da Europa, Kitzbühel oferece luxo, tradição tirolesa e paisagens de tirar o fôlego durante o ano inteiro.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Kitzbühel%20winter%20Austria.jpg",
+        "https://i.pinimg.com/1200x/79/ca/1a/79ca1a718c3637fb170fdd7830919f44.jpg",
     },
   ],
   Greece: [
@@ -558,7 +558,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Ilha vulcânica famosa por suas casas brancas com cúpulas azuis, vistas deslumbrantes do mar Egeu e pores do sol inesquecíveis sobre Oia.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Santorini%20Oia%20sunset.jpg",
+        "https://i.pinimg.com/1200x/26/09/9e/26099e34b7cb1f6e31ddeacf5a9872c1.jpg",
     },
     {
       city: "Mykonos",
@@ -566,7 +566,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Conhecida por suas praias animadas, moinhos de vento e vida noturna intensa, Mykonos é o destino mais cosmopolita das ilhas gregas.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Mykonos%20windmills%20Greece.jpg",
+        "https://i.pinimg.com/1200x/ac/75/27/ac75274ecc5e0201cc1754d1657ba16e.jpg",
     },
     {
       city: "Creta",
@@ -574,7 +574,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "A maior ilha grega oferece uma mistura fascinante de praias paradisíacas, montanhas, vilas tradicionais e sítios arqueológicos como o Palácio de Knossos.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Knossos%20palace%20Crete.jpg",
+        "https://i.pinimg.com/1200x/cc/91/3c/cc913c36e71e1507c62334d3283747ca.jpg",
     },
     {
       city: "Rodes (Rhodes)",
@@ -582,7 +582,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Famosa por suas muralhas medievais e praias ensolaradas, Rodes combina história, cultura e relaxamento em um só destino.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Rhodes%20Old%20Town%20Greece.jpg",
+        "https://i.pinimg.com/1200x/34/da/79/34da79c9b16c47e08ea3ff308eab514b.jpg",
     },
     {
       city: "Corfu",
@@ -590,7 +590,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Ilha verdejante no mar Jônico, Corfu encanta com sua mistura de influências venezianas, francesas e britânicas, além de praias e vilas pitorescas.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Corfu%20Old%20Town%20Greece.jpg",
+        "https://i.pinimg.com/1200x/c2/14/d3/c214d355e2efd9d472ebd74533d4ee55.jpg",
     },
     {
       city: "Meteora",
@@ -598,7 +598,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Um dos locais mais impressionantes da Grécia continental, com mosteiros ortodoxos construídos sobre enormes formações rochosas.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Meteora%20monasteries%20Greece.jpg",
+        "https://i.pinimg.com/1200x/9b/51/89/9b51898e11a6f6977a99504c68caf703.jpg",
     },
     {
       city: "Delphi",
@@ -606,7 +606,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Antigo centro espiritual do mundo grego, onde se localiza o famoso Oráculo de Delfos, cercado por montanhas e ruínas milenares.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Delphi%20ruins%20Greece.jpg",
+        "https://i.pinimg.com/736x/86/21/a7/8621a70d4128789f90c7be43bcb41002.jpg",
     },
     {
       city: "Nafplio",
@@ -614,7 +614,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Primeira capital da Grécia moderna, Nafplio é uma cidade costeira romântica, com ruas de pedra, fortalezas venezianas e vista para o mar Egeu.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Nafplio%20harbour%20Greece.jpg",
+        "https://i.pinimg.com/1200x/bd/c8/31/bdc831772cdb5b684ff61b2b43add6a4.jpg",
     },
   ],
   Switzerland: [
@@ -624,7 +624,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Centro financeiro e cultural da Suíça, Zurique combina modernidade e charme histórico, com ruas antigas, museus de arte e vida noturna vibrante às margens do lago.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Zürich%20Grossmünster%20and%20Limmat.jpg",
+        "https://i.pinimg.com/1200x/ad/62/e2/ad62e2b707e49617decdab77b2d462ff.jpg",
     },
     {
       city: "Genebra",
@@ -632,7 +632,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Sede de organizações internacionais, Genebra é cosmopolita, elegante e repleta de história, com o famoso Jet d’Eau e o Lago Léman.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Jet%20d%27Eau%20Geneva%20view.jpg",
+        "https://i.pinimg.com/1200x/ae/40/af/ae40af9eabb603b318a25975acfd4c32.jpg",
     },
     {
       city: "Lucerna",
@@ -640,7 +640,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Com sua icônica Kapellbrücke (Ponte da Capela) e o Lago Lucerna cercado pelos Alpes, a cidade é um dos cartões-postais mais famosos do país.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Lucerne%20Kapellbrücke%20and%20Water%20Tower.jpg",
+        "https://i.pinimg.com/736x/87/b9/fe/87b9fe774c1296d6b3eb27126abb8a6d.jpg",
     },
     {
       city: "Interlaken",
@@ -648,7 +648,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Entre dois lagos cristalinos e rodeada por montanhas, Interlaken é o destino perfeito para esportes radicais e passeios panorâmicos pelos Alpes.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Interlaken%20aerial%20view.jpg",
+        "https://i.pinimg.com/1200x/b9/0e/61/b90e61b253c1ee9f1d007095cc8e1308.jpg",
     },
     {
       city: "Zermatt",
@@ -656,7 +656,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Lar do icônico Matterhorn, Zermatt é um dos destinos alpinos mais prestigiados do mundo, ideal para esqui e trilhas de verão.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Matterhorn%20Zermatt%20sunset.jpg",
+        "https://i.pinimg.com/1200x/c3/99/5b/c3995b16b119b0dfbd7f4a3817216162.jpg",
     },
     {
       city: "Berna",
@@ -664,7 +664,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "A capital suíça encanta com seu centro histórico medieval preservado, o Zytglogge (torre do relógio) e o rio Aar serpenteando a cidade.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Bern%20Old%20Town%20view.jpg",
+        "https://i.pinimg.com/1200x/cf/e6/46/cfe64681de513b2c953e41af355e2e4f.jpg",
     },
     {
       city: "Montreux",
@@ -672,7 +672,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Cidade às margens do Lago Léman, famosa por seu festival de jazz e o Castelo de Chillon, um dos monumentos mais visitados da Suíça.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Chillon%20Castle%20Montreux.jpg",
+        "https://i.pinimg.com/1200x/51/3f/4d/513f4dca9a97f9d128964bf9b2e10bdf.jpg",
     },
     {
       city: "Lugano",
@@ -680,7 +680,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "No sul do país, próxima à fronteira italiana, Lugano oferece um clima mais mediterrâneo, com palmeiras, montanhas e gastronomia incrível.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Lugano%20Lake%20and%20city%20view.jpg",
+        "https://www.qualviagem.com.br/wp-content/uploads/2016/08/iStock_12702541_SMALL.jpg",
     },
     {
       city: "Grindelwald",
@@ -688,7 +688,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Uma vila alpina pitoresca no coração das montanhas Jungfrau, ideal para trilhas, esqui e paisagens cinematográficas.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Grindelwald%20Bernese%20Oberland.jpg",
+        "https://i.pinimg.com/1200x/89/eb/95/89eb95c44f99156d323b6c4f56fc636b.jpg",
     },
   ],
   "United Kingdom": [
@@ -772,7 +772,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "A capital da Bélgica e sede da União Europeia, Bruxelas combina arquitetura grandiosa, arte moderna e o irresistível aroma de chocolate e waffles nas ruas.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Grand%20Place%20Brussels%20Belgium.jpg",
+        "https://i.pinimg.com/736x/ab/88/32/ab8832f1607b19fa8af13d2be2d2efaa.jpg",
     },
     {
       city: "Bruges (Brugge)",
@@ -780,7 +780,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Conhecida como a 'Veneza do Norte', Bruges encanta com seus canais, construções medievais e atmosfera romântica que a torna um dos destinos mais visitados da Europa.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Bruges%20canals%20Belgium.jpg",
+        "https://i.pinimg.com/1200x/3f/41/c1/3f41c1fc8851b6a301872b8e31c3a65f.jpg",
     },
     {
       city: "Gante (Ghent)",
@@ -788,7 +788,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Uma joia medieval com vida universitária vibrante, Gante mistura castelos, igrejas góticas e uma cena cultural efervescente às margens do rio Leie.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Ghent%20Graslei%20and%20Korenlei.jpg",
+        "https://i.pinimg.com/1200x/e3/14/81/e31481207732a83e5ae6c27b1f3ecb63.jpg",
     },
     {
       city: "Antuérpia (Antwerp)",
@@ -796,7 +796,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Capital mundial dos diamantes e berço de Rubens, Antuérpia é um centro artístico e de moda com arquitetura impressionante e uma vibe cosmopolita.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Antwerp%20Cathedral%20of%20Our%20Lady.jpg",
+        "https://i.pinimg.com/1200x/70/b9/91/70b9913099c05a7f20708493c8321d20.jpg",
     },
     {
       city: "Leuven",
@@ -804,7 +804,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Cidade universitária com alma jovem e animada, Leuven é famosa pela cerveja Stella Artois e por sua rica herança acadêmica e arquitetônica.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Leuven%20Town%20Hall%20Belgium.jpg",
+        "https://i.pinimg.com/1200x/ec/37/89/ec37895a3f2a92fee13f9c0393245b50.jpg",
     },
     {
       city: "Namur",
@@ -812,15 +812,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Localizada na confluência dos rios Sambre e Meuse, Namur é conhecida por sua cidadela panorâmica e charme tranquilo no coração da Valônia.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Namur%20Citadel%20Belgium.jpg",
-    },
-    {
-      city: "Dinant",
-      title: "Dinant",
-      description:
-        "Encravada entre falésias e o rio Meuse, Dinant é uma das cidades mais fotogênicas da Bélgica e berço do inventor do saxofone, Adolphe Sax.",
-      image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Dinant%20Belgium%20view.jpg",
+        "https://i.pinimg.com/1200x/38/36/97/383697c0a855c12053954f859310b859.jpg",
     },
     {
       city: "Liège",
@@ -828,7 +820,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Importante cidade da Valônia com mistura de tradição e modernidade, Liège encanta com sua catedral, seu mercado La Batte e o famoso waffle local.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Liege%20Guillemins%20station%20Belgium.jpg",
+        "https://i.pinimg.com/1200x/b2/ad/e8/b2ade8f7fea634e36f5cc0805894e401.jpg",
     },
     {
       city: "Mechelen",
@@ -836,7 +828,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Entre Bruxelas e Antuérpia, Mechelen é um tesouro histórico com belas igrejas e uma atmosfera acolhedora, ideal para quem busca autenticidade belga.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Mechelen%20St%20Rumbold%27s%20Cathedral.jpg",
+        "https://i.pinimg.com/1200x/93/17/63/9317637521d129bde6a85a231ff8a891.jpg",
     },
   ],
   Netherlands: [
@@ -846,7 +838,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "A capital holandesa é famosa por seus canais pitorescos, museus renomados como o Rijksmuseum e o Van Gogh Museum, além da vibrante vida noturna e cultural.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Amsterdam%20canals%20at%20night.jpg",
+        "https://i.pinimg.com/736x/f6/b3/71/f6b3713229e7f5fbd5ec6fc4ae5ec0bc.jpg",
     },
     {
       city: "Roterdã (Rotterdam)",
@@ -854,7 +846,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Cidade moderna e inovadora, conhecida por sua arquitetura futurista, o porto mais movimentado da Europa e uma cena artística de ponta.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Rotterdam%20Erasmusbrug%20bridge.jpg",
+        "https://i.pinimg.com/736x/b9/55/38/b955387b99fefd22ad40daccc113bf5b.jpg",
     },
     {
       city: "Haia (Den Haag)",
@@ -862,7 +854,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Sede do governo holandês e da Corte Internacional de Justiça, Haia mistura elegância, praias urbanas e arte clássica como a do Mauritshuis.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Hague%20Binnenhof%20reflections.jpg",
+        "https://i.pinimg.com/736x/87/47/59/874759f8e1c1cc07845e37434155d6bd.jpg",
     },
     {
       city: "Utrecht",
@@ -870,7 +862,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Com canais únicos de dois níveis e uma atmosfera estudantil vibrante, Utrecht combina história medieval com inovação moderna.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Utrecht%20Oudegracht%20canal.jpg",
+        "https://i.pinimg.com/736x/7c/6c/3d/7c6c3da88ac742487e0790921b21a355.jpg",
     },
     {
       city: "Giethoorn",
@@ -878,7 +870,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Conhecida como a 'Veneza do Norte', Giethoorn é uma vila encantadora sem ruas — o transporte é feito por barcos entre canais e casas de palha.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Giethoorn%20Netherlands%20village.jpg",
+        "https://i.pinimg.com/1200x/3d/3d/bc/3d3dbca7328846d8a3d063b97c33aa8d.jpg",
     },
     {
       city: "Haarlem",
@@ -886,7 +878,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Próxima de Amsterdã, Haarlem é um charme histórico com ruas de paralelepípedo, canais, museus e o famoso campo de tulipas de Keukenhof nas proximidades.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Haarlem%20city%20center%20Netherlands.jpg",
+        "https://i.pinimg.com/1200x/1b/4e/6d/1b4e6d52fa52100a2a0670e59f632bcb.jpg",
     },
     {
       city: "Delft",
@@ -894,7 +886,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Cidade conhecida por sua porcelana azul e branca e por ter sido lar do pintor Vermeer. Um destino tranquilo e repleto de charme holandês clássico.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Delft%20canals%20Netherlands.jpg",
+        "https://i.pinimg.com/1200x/ad/dd/a3/addda34daad7d0fb49c549bd552f2e31.jpg",
     },
     {
       city: "Leiden",
@@ -902,7 +894,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Cidade universitária com rica herança científica e cultural, museus fascinantes e canais históricos que inspiraram Rembrandt.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Leiden%20canals%20Netherlands.jpg",
+        "https://i.pinimg.com/736x/3b/e9/18/3be91863e494f1cea4e94a214f50c5b1.jpg",
     },
     {
       city: "Eindhoven",
@@ -910,7 +902,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Centro da inovação e design na Holanda, Eindhoven é moderna, tecnológica e sede da Philips, combinando arte, luz e engenharia de ponta.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Eindhoven%20city%20center.jpg",
+        "https://i.pinimg.com/1200x/45/bf/fc/45bffc5d0d1a8f8bece2bc8716d0e3f9.jpg",
     },
   ],
   Croatia: [
@@ -920,7 +912,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Conhecida como a 'Pérola do Adriático', Dubrovnik é uma cidade murada à beira-mar, famosa por suas ruas de pedra, muralhas históricas e por ter sido cenário de Game of Thrones.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Dubrovnik%20Old%20Town%20Croatia.jpg",
+        "https://i.pinimg.com/1200x/2f/8d/ad/2f8dad12916fd18fe6cf53a7f19b95fc.jpg",
     },
     {
       city: "Split",
@@ -928,7 +920,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Centro vibrante da Dalmácia, Split combina ruínas romanas com uma atmosfera moderna, tendo o magnífico Palácio de Diocleciano como coração da cidade.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Split%20Croatia%20Diocletian%27s%20Palace.jpg",
+        "https://i.pinimg.com/1200x/c4/22/49/c4224977a112b92adf3954759332f9f0.jpg",
     },
     {
       city: "Zagreb",
@@ -936,7 +928,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "A capital croata é um mix encantador de elegância austro-húngara, cafés charmosos e uma vida cultural intensa, repleta de museus e festivais.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Zagreb%20Cathedral%20Croatia.jpg",
+        "https://i.pinimg.com/736x/9d/5b/1c/9d5b1c503456003cdb71926bc795b8a9.jpg",
     },
     {
       city: "Parque Nacional dos Lagos de Plitvice",
@@ -944,7 +936,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Um dos parques mais espetaculares da Europa, com 16 lagos interligados por cachoeiras e trilhas em meio a florestas exuberantes.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Plitvice%20Lakes%20National%20Park%20Croatia.jpg",
+        "https://i.pinimg.com/1200x/78/02/db/7802db7880cea88713c00e9b816e42c3.jpg",
     },
     {
       city: "Zadar",
@@ -952,7 +944,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Cidade costeira com ruínas romanas, arte moderna e o famoso Órgão do Mar, um instrumento que cria música com o movimento das ondas.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Zadar%20Sea%20Organ%20Croatia.jpg",
+        "https://i.pinimg.com/1200x/bc/43/ed/bc43ed7860ecbb0ca5849a2423c11bf8.jpg",
     },
     {
       city: "Rovinj",
@@ -960,7 +952,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Um dos destinos mais românticos do Adriático, Rovinj encanta com suas ruelas coloridas, porto pitoresco e atmosfera mediterrânea.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Rovinj%20Old%20Town%20Croatia.jpg",
+        "https://i.pinimg.com/736x/fd/96/7a/fd967a685b3746e76bb5901c61aa29d6.jpg",
     },
     {
       city: "Pula",
@@ -968,7 +960,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Famosa por seu impressionante anfiteatro romano, Pula é uma mistura fascinante de história antiga e vida praiana moderna.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Pula%20Arena%20Croatia.jpg",
+        "https://i.pinimg.com/1200x/e1/c9/4f/e1c94f0f47fc25528443be77ceb86588.jpg",
     },
     {
       city: "Hvar",
@@ -976,7 +968,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "A ilha mais badalada da Croácia, Hvar é sinônimo de praias paradisíacas, festas sofisticadas e vilas históricas banhadas por águas cristalinas.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Hvar%20Harbor%20Croatia.jpg",
+        "https://i.pinimg.com/1200x/77/b3/09/77b30939bf98e31252acd49a29e67193.jpg",
     },
     {
       city: "Korčula",
@@ -984,7 +976,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Conhecida como a 'pequena Dubrovnik', Korčula é uma ilha de charme medieval, cercada por vinhedos e lendas sobre Marco Polo.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Korcula%20Old%20Town%20Croatia.jpg",
+        "https://i.pinimg.com/1200x/64/2f/8a/642f8a117d0acf43b3485061f2714ccd.jpg",
     },
   ],
   Czechia: [
@@ -994,7 +986,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "A capital e joia da República Tcheca, Praga encanta com seu centro histórico medieval, a Ponte Carlos, o Castelo de Praga e a famosa Praça da Cidade Velha com o Relógio Astronômico.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Prague%20Charles%20Bridge%20Czech%20Republic.jpg",
+        "https://i.pinimg.com/1200x/00/38/9f/00389f19dd87d52c509dceecfc612474.jpg",
     },
     {
       city: "Český Krumlov",
@@ -1002,7 +994,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Uma cidade de conto de fadas no sul do país, com ruas de paralelepípedo, casas coloridas e um castelo magnífico que domina o rio Vltava.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Cesky%20Krumlov%20Czech%20Republic.jpg",
+        "https://i.pinimg.com/1200x/79/c7/84/79c78415bc4a0a0e42622a4871246a0c.jpg",
     },
     {
       city: "Karlovy Vary",
@@ -1010,7 +1002,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Famosa por suas águas termais e arquitetura elegante, Karlovy Vary é um destino de bem-estar e luxo, conhecida por spas e pelo festival internacional de cinema.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Karlovy%20Vary%20Czech%20Republic.jpg",
+        "https://i.pinimg.com/1200x/82/fc/b6/82fcb610c850a5711e634f8e6c74fb80.jpg",
     },
     {
       city: "Kutná Hora",
@@ -1018,7 +1010,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Patrimônio Mundial da UNESCO, Kutná Hora se destaca pela impressionante Igreja de Santa Bárbara e o Ossuário de Sedlec, decorado com ossos humanos.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Sedlec%20Ossuary%20Kutna%20Hora%20Czech%20Republic.jpg",
+        "https://i.pinimg.com/1200x/87/e9/cc/87e9cc019a6dd49a88c0bfe05749f2bb.jpg",
     },
     {
       city: "Brno",
@@ -1026,7 +1018,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "A segunda maior cidade do país é vibrante, moderna e cheia de vida estudantil, com destaque para a fortaleza de Špilberk e a arquitetura funcionalista da Villa Tugendhat.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Brno%20Spilberk%20Castle%20Czech%20Republic.jpg",
+        "https://i.pinimg.com/736x/bd/3a/96/bd3a9612f3e75f57f8b2993e32dc024d.jpg",
     },
     {
       city: "Olomouc",
@@ -1034,7 +1026,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Um tesouro histórico pouco conhecido, Olomouc possui uma das praças mais bonitas da Europa e uma atmosfera universitária animada.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Olomouc%20Holy%20Trinity%20Column%20Czech%20Republic.jpg",
+        "https://i.pinimg.com/1200x/a4/33/b2/a433b2947a2f7121ff60b9c6011a1fac.jpg",
     },
     {
       city: "Telč",
@@ -1042,7 +1034,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Pequena e encantadora, Telč é conhecida por sua praça principal renascentista, com fachadas coloridas e perfeitamente preservadas.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Telc%20Main%20Square%20Czech%20Republic.jpg",
+        "https://i.pinimg.com/1200x/0b/65/ec/0b65ec42c40d74676d77fd29e7319ac7.jpg",
     },
     {
       city: "Pilsen (Plzeň)",
@@ -1050,7 +1042,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Berço da mundialmente famosa cerveja Pilsner, Pilsen é um paraíso para amantes de cerveja e história industrial, com uma bela catedral e a fábrica original da Pilsner Urquell.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Pilsen%20Cathedral%20Czech%20Republic.jpg",
+        "https://i.pinimg.com/1200x/93/54/7d/93547d95f279e3ac17d2820f9699c5ea.jpg",
     },
     {
       city: "Karlštejn",
@@ -1058,7 +1050,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Pequena vila próxima de Praga, famosa pelo majestoso Castelo de Karlštejn, construído por Carlos IV para guardar joias da coroa e relíquias sagradas.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Karlstejn%20Castle%20Czech%20Republic.jpg",
+        "https://i.pinimg.com/1200x/2d/d2/80/2dd28046c9481deb4d77c93f5326cefd.jpg",
     },
   ],
   Hungary: [
@@ -1068,7 +1060,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "A capital da Hungria é dividida pelo rio Danúbio entre Buda e Peste, e encanta com sua arquitetura grandiosa, banhos termais, o Parlamento húngaro e a vista do Bastião dos Pescadores.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Budapest%20Parliament%20and%20Danube%20River.jpg",
+        "https://i.pinimg.com/1200x/e6/42/5c/e6425cb781752f65ae04c190c25b4eda.jpg",
     },
     {
       city: "Lago Balaton",
@@ -1076,7 +1068,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Conhecido como o 'Mar da Hungria', o Lago Balaton é o maior lago de água doce da Europa Central e um dos destinos de verão mais populares do país.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Lake%20Balaton%20Hungary.jpg",
+        "https://i.pinimg.com/1200x/34/cf/46/34cf469cc30c473608ccda8cd8a28891.jpg",
     },
     {
       city: "Debrecen",
@@ -1084,7 +1076,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Segunda maior cidade da Hungria, Debrecen é o centro cultural e religioso do leste do país, com bela arquitetura e o famoso Grande Templo Reformado.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Debrecen%20Great%20Reformed%20Church%20Hungary.jpg",
+        "https://i.pinimg.com/1200x/63/70/68/637068b05bbd052f57900b1b7c1bdefe.jpg",
     },
     {
       city: "Eger",
@@ -1092,7 +1084,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Cidade histórica cercada por vinhedos, Eger é famosa por seu castelo medieval, pelos banhos termais e pelo vinho tinto 'Sangue de Touro' (Egri Bikavér).",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Eger%20Castle%20Hungary.jpg",
+        "https://i.pinimg.com/1200x/d4/9e/8c/d49e8c296e684cf1ecc210524fff3824.jpg",
     },
     {
       city: "Pécs",
@@ -1100,7 +1092,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Localizada ao sul do país, Pécs é um centro artístico e multicultural, conhecida por sua catedral românica e mosaicos paleocristãos tombados pela UNESCO.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Pecs%20Cathedral%20Hungary.jpg",
+        "https://i.pinimg.com/1200x/12/52/63/1252639bd8e0d07f35adb727a7eb3b03.jpg",
     },
     {
       city: "Szentendre",
@@ -1108,7 +1100,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Charmosa cidade às margens do Danúbio, Szentendre é famosa por suas ruelas coloridas, galerias de arte e atmosfera boêmia próxima a Budapeste.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Szentendre%20Hungary%20Main%20Square.jpg",
+        "https://i.pinimg.com/1200x/f1/18/66/f11866acb6bb4979b696821fe859183e.jpg",
     },
     {
       city: "Szeged",
@@ -1116,7 +1108,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Conhecida como a 'Cidade do Sol', Szeged é vibrante e universitária, famosa por seu festival de teatro ao ar livre e por sua bela catedral neorromânica.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Szeged%20Cathedral%20Hungary.jpg",
+        "https://i.pinimg.com/1200x/a3/67/fd/a367fd714668302106a5244d969ba99a.jpg",
     },
     {
       city: "Győr",
@@ -1124,7 +1116,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Uma das cidades mais antigas da Hungria, Győr encanta com seu centro barroco bem preservado, igrejas históricas e localização estratégica entre Viena e Budapeste.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Gyor%20Old%20Town%20Hungary.jpg",
+        "https://i.pinimg.com/736x/46/9a/d0/469ad0263e78f8304c2089803e77c72e.jpg",
     },
     {
       city: "Hollókő",
@@ -1132,7 +1124,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Pequena vila tradicional listada como Patrimônio Mundial da UNESCO, Hollókő preserva o estilo de vida rural húngaro com casas de madeira e cultura folclórica autêntica.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Holloko%20village%20Hungary.jpg",
+        "https://i.pinimg.com/1200x/c5/28/5e/c5285ea161819af7abe8893cfdbfabcd.jpg",
     },
   ],
   Iceland: [
@@ -1142,7 +1134,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "A capital mais setentrional do mundo combina cultura moderna, arquitetura futurista e uma cena musical vibrante, com vista para montanhas e o mar do Norte.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Reykjavik%20Iceland%20Hallgrimskirkja.jpg",
+        "https://i.pinimg.com/1200x/47/44/a4/4744a4fa27485af2e219580faad0b79e.jpg",
     },
     {
       city: "Círculo Dourado (Golden Circle)",
@@ -1150,7 +1142,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Rota turística icônica que abrange o Parque Nacional Þingvellir, o gêiser Strokkur e a impressionante cachoeira Gullfoss — um trio imperdível da Islândia.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Gullfoss%20waterfall%20Iceland.jpg",
+        "https://i.pinimg.com/1200x/bb/c5/c7/bbc5c7d1ddad28f493de612296bf9062.jpg",
     },
     {
       city: "Blue Lagoon",
@@ -1158,7 +1150,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Spa geotermal mundialmente famoso com águas azul-turquesa ricas em sílica, perfeito para relaxar em meio a um cenário vulcânico surreal.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Blue%20Lagoon%20Iceland.jpg",
+        "https://i.pinimg.com/1200x/bf/49/33/bf4933a4d3bf1b23d7191f48aa1e4c6d.jpg",
     },
     {
       city: "Vík í Mýrdal",
@@ -1166,7 +1158,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Vila costeira famosa pela praia de areia preta de Reynisfjara, com formações rochosas basálticas e ondas poderosas do Atlântico Norte.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Reynisfjara%20black%20sand%20beach%20Iceland.jpg",
+        "https://i.pinimg.com/1200x/6c/63/3d/6c633d95c78b26a0a856bab1a4035ae8.jpg",
     },
     {
       city: "Jökulsárlón",
@@ -1174,7 +1166,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Lago glacial repleto de icebergs flutuantes vindos do glaciar Vatnajökull, oferecendo um dos cenários mais fotogênicos da Islândia.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Jokulsarlon%20glacial%20lagoon%20Iceland.jpg",
+        "https://i.pinimg.com/736x/7a/5e/79/7a5e79bd7f6c762b9248dfcb0272be54.jpg",
     },
     {
       city: "Akureyri",
@@ -1182,7 +1174,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Conhecida como a 'capital do norte', Akureyri é charmosa, cercada por montanhas e uma ótima base para explorar fiordes e avistar baleias.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Akureyri%20Iceland%20harbor.jpg",
+        "https://i.pinimg.com/736x/0a/54/6a/0a546adbbbe74b44adf766ae26b7f84e.jpg",
     },
     {
       city: "Landmannalaugar",
@@ -1190,7 +1182,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Região de montanhas coloridas e trilhas espetaculares nas Terras Altas islandesas, ideal para trekking e banhos em fontes termais naturais.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Landmannalaugar%20Iceland.jpg",
+        "https://i.pinimg.com/1200x/03/d0/cf/03d0cf2c4da6122575b1cdc9373242b7.jpg",
     },
     {
       city: "Dettifoss",
@@ -1198,7 +1190,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Considerada a cachoeira mais poderosa da Europa, Dettifoss impressiona com sua força brutal e o cenário lunar ao redor.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Dettifoss%20waterfall%20Iceland.jpg",
+        "https://i.pinimg.com/1200x/72/05/c1/7205c15784a5e6849f70bae62635bebd.jpg",
     },
     {
       city: "Snaefellsnes",
@@ -1206,7 +1198,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Península que reúne o melhor da Islândia em um só lugar — vulcões, glaciares, praias negras e o icônico monte Kirkjufell, cartão-postal do país.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Kirkjufell%20mountain%20Iceland.jpg",
+        "https://i.pinimg.com/1200x/53/73/11/53731153d47467e42657af89ced12bf7.jpg",
     },
   ],
   Australia: [
@@ -1224,7 +1216,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Capital cultural da Austrália, Melbourne é famosa por sua cena artística, cafés charmosos, eventos esportivos e o clima cosmopolita vibrante.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Melbourne%20city%20skyline%20Australia.jpg",
+        "https://i.pinimg.com/1200x/7e/2c/37/7e2c3712f9e3c22f6bac591e9a56a0b0.jpg",
     },
     {
       city: "Grande Barreira de Corais (Great Barrier Reef)",
@@ -1232,7 +1224,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Maior sistema de recifes de coral do mundo, a Grande Barreira é um paraíso de mergulho e biodiversidade marinha, visível até do espaço.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Great%20Barrier%20Reef%20Queensland%20Australia.jpg",
+        "https://i.pinimg.com/736x/3b/0e/d5/3b0ed5e9bcfa06fb2bbf9cc4d2b80b11.jpg",
     },
     {
       city: "Uluru (Ayers Rock)",
@@ -1240,7 +1232,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Símbolo espiritual da Austrália, o monólito vermelho localizado no coração do deserto é sagrado para os povos aborígenes e muda de cor ao pôr do sol.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Uluru%20Ayers%20Rock%20Australia.jpg",
+        "https://i.pinimg.com/1200x/98/bb/91/98bb9100b5e14683e4aedc13203c88ab.jpg",
     },
     {
       city: "Cairns",
@@ -1248,7 +1240,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Porta de entrada para a Grande Barreira de Corais e para as florestas tropicais de Daintree, Cairns é o destino ideal para aventureiros e mergulhadores.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Cairns%20Esplanade%20Lagoon%20Australia.jpg",
+        "https://i.pinimg.com/736x/db/07/90/db0790b5420e89cdd2cc9cad12f97a77.jpg",
     },
     {
       city: "Gold Coast",
@@ -1256,7 +1248,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Destino praiano famoso por suas ondas perfeitas, arranha-céus à beira-mar e parques temáticos que atraem turistas do mundo todo.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Gold%20Coast%20Queensland%20Australia.jpg",
+        "https://i.pinimg.com/1200x/7c/2a/b2/7c2ab2ce8d652dcd5115831080866e66.jpg",
     },
     {
       city: "Perth",
@@ -1264,7 +1256,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Capital da Austrália Ocidental, Perth combina praias tranquilas, vinícolas renomadas e uma cena cultural crescente às margens do rio Swan.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Perth%20skyline%20Australia.jpg",
+        "https://i.pinimg.com/1200x/8b/65/cf/8b65cfe5fde99e392aba9dd17b585920.jpg",
     },
     {
       city: "Tasmania",
@@ -1272,7 +1264,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Ilha australiana selvagem e exuberante, conhecida por seus parques nacionais, trilhas de aventura e pela fauna única — incluindo o diabo-da-tasmânia.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Tasmania%20Cradle%20Mountain%20Australia.jpg",
+        "https://i.pinimg.com/1200x/16/30/ed/1630ede581c7f24c6044d5351928297d.jpg",
     },
     {
       city: "Adelaide",
@@ -1280,7 +1272,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Cidade charmosa e planejada, cercada por vinhedos e praias, Adelaide é famosa por seus festivais culturais e pela gastronomia sofisticada.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Adelaide%20skyline%20Australia.jpg",
+        "https://i.pinimg.com/1200x/a1/d6/94/a1d69466a326dc7946ce8ed20bcb210d.jpg",
     },
   ],
   "New Zealand": [
@@ -1290,7 +1282,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Maior cidade da Nova Zelândia, Auckland é cercada por vulcões adormecidos e belas baías, sendo o ponto de partida perfeito para explorar o país.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Auckland%20skyline%20at%20night.jpg",
+        "https://i.pinimg.com/736x/d4/6c/a0/d46ca0d07fb887f260a9e1f419a3fc2a.jpg",
     },
     {
       city: "Queenstown",
@@ -1298,7 +1290,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Considerada a capital mundial da aventura, Queenstown é famosa por esportes radicais, paisagens alpinas e o magnífico Lago Wakatipu.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Queenstown%20New%20Zealand%20Lake%20Wakatipu.jpg",
+        "https://i.pinimg.com/1200x/33/7c/60/337c609a4cccd98b553ea3318ec8b734.jpg",
     },
     {
       city: "Rotorua",
@@ -1306,7 +1298,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Conhecida pela atividade geotérmica e cultura maori vibrante, Rotorua impressiona com geysers, piscinas de lama quente e aldeias tradicionais.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Champagne%20Pool%20Wai-O-Tapu%20Rotorua.jpg",
+        "https://i.pinimg.com/1200x/b0/77/c9/b077c9d82b7fd3f1dd8a406f7f3fe46d.jpg",
     },
     {
       city: "Milford Sound",
@@ -1314,7 +1306,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Um dos lugares mais icônicos do país, o fiorde de Milford Sound é cercado por montanhas íngremes e cachoeiras espetaculares.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Milford%20Sound%20New%20Zealand.jpg",
+        "https://i.pinimg.com/1200x/2f/b3/67/2fb36788971f85fa31798d3b966c7216.jpg",
     },
     {
       city: "Wellington",
@@ -1322,7 +1314,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "A capital da Nova Zelândia combina arte, política e natureza, com museus premiados, colinas verdes e uma baía pitoresca.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Wellington%20city%20and%20harbour.jpg",
+        "https://i.pinimg.com/1200x/2c/c7/c8/2cc7c865ed8c7d1f92b495d44db13f6a.jpg",
     },
     {
       city: "Christchurch",
@@ -1330,7 +1322,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Conhecida como a 'Cidade Jardim', Christchurch se destaca pela arquitetura moderna, parques amplos e a resiliência pós-terremoto.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Christchurch%20New%20Zealand%20Avon%20River.jpg",
+        "https://i.pinimg.com/1200x/8b/7a/06/8b7a06537af57d79471d2b43c5b3c10f.jpg",
     },
     {
       city: "Taupo",
@@ -1338,7 +1330,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Lar do maior lago da Nova Zelândia, Taupo é um paraíso para esportes aquáticos, pesca e trilhas próximas ao Parque Nacional de Tongariro.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Lake%20Taupo%20New%20Zealand.jpg",
+        "https://i.pinimg.com/1200x/c6/3a/c4/c63ac4207957d11e7d069d832d757f5c.jpg",
     },
     {
       city: "Franz Josef Glacier",
@@ -1346,7 +1338,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Um dos poucos glaciares do mundo que se estende até uma floresta tropical, oferecendo trilhas e passeios de helicóptero deslumbrantes.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Franz%20Josef%20Glacier%20New%20Zealand.jpg",
+        "https://i.pinimg.com/1200x/8c/76/83/8c7683c4f0b271bb7c3f6286436c8808.jpg",
     },
     {
       city: "Bay of Islands",
@@ -1354,7 +1346,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Região tropical com mais de 140 ilhas, praias de águas turquesa e uma história rica na colonização da Nova Zelândia.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Bay%20of%20Islands%20New%20Zealand.jpg",
+        "https://i.pinimg.com/736x/8a/ad/1d/8aad1d6e7c0352fded62029d99d0a302.jpg",
     },
   ],
   Fiji: [
@@ -1364,7 +1356,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Principal porta de entrada de Fiji, Nadi combina praias paradisíacas, resorts luxuosos e o impressionante Templo Sri Siva Subramaniya, o maior templo hindu do Hemisfério Sul.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Nadi%20Beach%20Fiji.jpg",
+        "https://i.pinimg.com/1200x/0f/d1/fd/0fd1fd54e5bf5794c1899cbbd68e1456.jpg",
     },
     {
       city: "Ilhas Mamanuca",
@@ -1372,7 +1364,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Um arquipélago de pequenas ilhas com águas cristalinas e recifes ideais para mergulho e snorkel — cenário de filmes como ‘O Náufrago’.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Mamanuca%20Islands%20Fiji.jpg",
+        "https://i.pinimg.com/1200x/2b/57/23/2b57238d28ef8a6cf26d5263aa967a39.jpg",
     },
     {
       city: "Ilhas Yasawa",
@@ -1380,7 +1372,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Famosas por suas praias intocadas e águas azul-turquesa, as Yasawa são perfeitas para quem busca isolamento, natureza e hospitalidade local.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Yasawa%20Islands%20Fiji.jpg",
+        "https://i.pinimg.com/1200x/72/e0/ee/72e0eee23d65471d97374270d0625573.jpg",
     },
     {
       city: "Suva",
@@ -1388,7 +1380,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "A capital das Fiji, localizada na ilha de Viti Levu, mistura cultura, vida urbana e história — com museus, mercados e arquitetura colonial britânica.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Suva%20harbour%20Fiji.jpg",
+        "https://i.pinimg.com/1200x/3a/37/9a/3a379ac18bb82d096f5ca35acd75cefb.jpg",
     },
     {
       city: "Coral Coast",
@@ -1396,7 +1388,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Faixa litorânea repleta de resorts, vilas tradicionais e recifes coloridos, ideal para mergulhadores e viajantes que buscam relaxamento e cultura.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Coral%20Coast%20Fiji.jpg",
+        "https://i.pinimg.com/736x/20/45/07/204507a203cb20b60defaa9cb0accbe2.jpg",
     },
     {
       city: "Taveuni",
@@ -1404,7 +1396,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Conhecida como a 'Ilha Jardim', Taveuni é um paraíso tropical de cachoeiras, florestas e trilhas, com destaque para o Bouma National Heritage Park.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Taveuni%20Island%20Fiji%20Bouma%20Falls.jpg",
+        "https://i.pinimg.com/736x/34/dd/fa/34ddfa3709c9c3f5bb518fc55d7aa5bd.jpg",
     },
     {
       city: "Vanua Levu",
@@ -1412,7 +1404,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "A segunda maior ilha de Fiji, com natureza exuberante, recifes de corais e uma atmosfera autêntica e menos turística.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Vanua%20Levu%20Fiji.jpg",
+        "https://i.pinimg.com/1200x/e1/07/cb/e107cbd13af9284940e41ce6f89c943c.jpg",
     },
     {
       city: "Pacific Harbour",
@@ -1420,7 +1412,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Conhecido como o 'centro da aventura de Fiji', Pacific Harbour oferece mergulho com tubarões, rafting e muita adrenalina.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Pacific%20Harbour%20Fiji.jpg",
+        "https://i.pinimg.com/1200x/56/93/cd/5693cd8a78fdedb3febef963900eda7c.jpg",
     },
     {
       city: "Savusavu",
@@ -1428,7 +1420,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Um charmoso vilarejo costeiro famoso por suas fontes termais, recifes vibrantes e atmosfera relaxada de ilha tropical.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Savusavu%20harbour%20Fiji.jpg",
+        "https://images.luxuryescapes.com/fl_progressive,q_auto:best,dpr_2.0/4j81rv692otsi0ahtv6",
     },
   ],
   Samoa: [
@@ -1438,7 +1430,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "A capital de Samoa, localizada na ilha de Upolu, mistura tradição e modernidade com mercados vibrantes, arquitetura colonial e o Museu Robert Louis Stevenson.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Apia%20harbour%20Samoa.jpg",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/62/df/32/immaculate-conception.jpg?w=1000&h=1000&s=1",
     },
     {
       city: "To Sua Ocean Trench",
@@ -1446,7 +1438,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Uma das atrações mais icônicas de Samoa, esse buraco natural gigante forma uma piscina de água azul-turquesa cercada por vegetação tropical.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/To%20Sua%20Ocean%20Trench%20Samoa.jpg",
+        "https://i.pinimg.com/1200x/9b/52/d4/9b52d478bacb8dcb5bb698e0d2592f8c.jpg",
     },
     {
       city: "Lalomanu Beach",
@@ -1454,7 +1446,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Considerada uma das praias mais lindas do Pacífico Sul, Lalomanu encanta com suas águas cristalinas e atmosfera relaxante.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Lalomanu%20Beach%20Samoa.jpg",
+        "https://i.pinimg.com/736x/ec/d6/c7/ecd6c728acaf7f5f017838e83e97c037.jpg",
     },
     {
       city: "Papaseea Sliding Rocks",
@@ -1462,7 +1454,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Formações rochosas naturais que funcionam como escorregadores, levando a piscinas refrescantes no meio da floresta tropical.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Papaseea%20Sliding%20Rocks%20Samoa.jpg",
+        "https://i.pinimg.com/1200x/5d/3f/fd/5d3ffd7ec83f0b5c62fb0a0eed8ed632.jpg",
     },
     {
       city: "Piula Cave Pool",
@@ -1470,7 +1462,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Uma caverna subterrânea com águas cristalinas e sagradas, perfeita para mergulho e relaxamento.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Piula%20Cave%20Pool%20Samoa.jpg",
+        "https://i.pinimg.com/736x/01/91/c7/0191c7f768f46bb1cee298e0fdd818fc.jpg",
     },
     {
       city: "Alofaaga Blowholes",
@@ -1478,7 +1470,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Impressionantes buracos naturais que jorram água do mar a vários metros de altura com a força das ondas.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Alofaaga%20Blowholes%20Savai'i%20Samoa.jpg",
+        "https://tripcarverbucket.s3.amazonaws.com/free_activities/Alofaanga_Blowholes_1_CREDIT_Samoa_Pocket_Guide_.jpg",
     },
     {
       city: "Togitogiga Waterfall",
@@ -1486,7 +1478,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Cachoeira pitoresca dentro do Parque Nacional O Le Pupu-Pu'e, cercada por florestas e trilhas exuberantes.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Togitogiga%20Waterfall%20Samoa.jpg",
+        "https://i.pinimg.com/736x/d9/30/03/d93003c9523a29de400104d43b017f50.jpg",
     },
     {
       city: "Manono Island",
@@ -1494,7 +1486,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Ilha sem carros e com uma forte cultura local, ideal para imersão na vida tradicional samoana.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Manono%20Island%20Samoa.jpg",
+        "https://i.pinimg.com/1200x/fe/bd/3f/febd3fa4bc28351311a7000df34d80fe.jpg",
     },
     {
       city: "Saleaula Lava Fields",
@@ -1502,7 +1494,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Campos de lava solidificada de erupções antigas, onde ruínas de igrejas e aldeias contam a história da força da natureza.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Saleaula%20lava%20fields%20Savai'i%20Samoa.jpg",
+        "https://i.pinimg.com/736x/92/58/74/925874c766f696cf00b2fdb108b8f56c.jpg",
     },
   ],
   Tonga: [
@@ -1512,15 +1504,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "A capital do Reino de Tonga, localizada na ilha de Tongatapu, é o centro político e cultural do país, com o Palácio Real, mercados locais e belas igrejas.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Nuku'alofa%20harbour%20Tonga.jpg",
-    },
-    {
-      city: "Ha'amonga 'a Maui Trilithon",
-      title: "Ha'amonga 'a Maui Trilithon",
-      description:
-        "Monumento megalítico construído no século XIII, conhecido como o 'Stonehenge do Pacífico', símbolo da história e engenhosidade do antigo reino.",
-      image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Ha'amonga%20'a%20Maui%20Trilithon%20Tonga.jpg",
+        "https://i.pinimg.com/1200x/14/fe/11/14fe115455ec52423940922a86fc4227.jpg",
     },
     {
       city: "Ha'apai Islands",
@@ -1528,7 +1512,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Arquipélago de ilhas praticamente intocadas, com praias desertas e águas ideais para mergulho e observação de baleias jubarte.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Ha'apai%20Islands%20Tonga.jpg",
+        "https://i.pinimg.com/736x/45/15/8e/45158e1b092eb930c5d167764b9ca7dd.jpg",
     },
     {
       city: "Vava'u Islands",
@@ -1536,7 +1520,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Famosas mundialmente por serem um dos melhores lugares do planeta para nadar com baleias jubarte, além de velejar e explorar cavernas marinhas.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Vava'u%20Islands%20Tonga.jpg",
+        "https://i.pinimg.com/736x/88/6d/92/886d92828492984ecba6fdabeb075c75.jpg",
     },
     {
       city: "Tongatapu",
@@ -1544,7 +1528,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "A principal ilha do país abriga ruínas antigas, praias incríveis e locais sagrados, sendo o coração histórico e espiritual de Tonga.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Tongatapu%20coast%20Tonga.jpg",
+        "https://i.pinimg.com/1200x/dd/84/d5/dd84d542531cfb97509e3877e92e9818.jpg",
     },
     {
       city: "Mapu'a 'a Vaea Blowholes",
@@ -1552,7 +1536,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Fenômeno natural impressionante onde jatos de água do mar são expelidos por buracos na costa, criando uma cena espetacular.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Mapu'a%20'a%20Vaea%20Blowholes%20Tonga.jpg",
+        "https://www.sophiesworld.net/wp-content/uploads/2011/09/6162104355_6999448401_z.jpg",
     },
     {
       city: "Eua Island",
@@ -1560,7 +1544,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Uma das ilhas mais antigas do Pacífico, Eua é um refúgio natural de trilhas, falésias, cavernas e florestas tropicais.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Eua%20Island%20Tonga.jpg",
+        "https://dxnews.com/upload/Image/Eua_A35RT.jpg",
     },
     {
       city: "Anahulu Cave",
@@ -1568,7 +1552,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Caverna impressionante com formações rochosas e uma piscina subterrânea de água doce, ideal para nadar em um ambiente único.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Anahulu%20Cave%20Tonga.jpg",
+        "https://i.pinimg.com/1200x/b5/f9/9e/b5f99ef451622914280a04cf19e35cfd.jpg",
     },
     {
       city: "Pangaimotu Island",
@@ -1576,7 +1560,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Ilha próxima à capital, famosa por sua atmosfera relaxada, praias douradas e o icônico navio naufragado Royal Sunset.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Pangaimotu%20Island%20Tonga.jpg",
+        "https://i.pinimg.com/1200x/20/7d/2d/207d2dbc1674f9611078ba76ced691c3.jpg",
     },
   ],
   "Papua New Guinea": [
@@ -1586,7 +1570,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "A capital e principal porta de entrada do país, Port Moresby mistura cultura local, mercados coloridos e o belo Parque Natural de Varirata.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Port%20Moresby%20aerial%20view.jpg",
+        "https://i.pinimg.com/1200x/df/1f/55/df1f5599f13fa4d277be656ac3a70443.jpg",
     },
     {
       city: "Kokoda Track",
@@ -1594,7 +1578,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Uma das trilhas mais lendárias do mundo, atravessando florestas tropicais e montanhas, repleta de história da Segunda Guerra Mundial.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Kokoda%20Track%20Papua%20New%20Guinea.jpg",
+        "https://i.pinimg.com/736x/9f/cc/a9/9fcca97030074d6b3c21a4b8818c6264.jpg",
     },
     {
       city: "Rabaul",
@@ -1602,7 +1586,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Cidade costeira na ilha de New Britain, conhecida por seus vulcões ativos, mergulho em naufrágios e paisagens dramáticas.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Rabaul%20Harbour%20Papua%20New%20Guinea.jpg",
+        "https://i.pinimg.com/1200x/70/71/c3/7071c3a17caacea3702c596902df6f6c.jpg",
     },
     {
       city: "Mount Hagen",
@@ -1610,7 +1594,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Coração das terras altas, Mount Hagen é famoso por suas plantações de café, feiras tribais e o vibrante Mount Hagen Cultural Show.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Mount%20Hagen%20Cultural%20Show%20Papua%20New%20Guinea.jpg",
+        "https://i.pinimg.com/1200x/e2/e8/c9/e2e8c96f101aaa3de724fdb87d3f630e.jpg",
     },
     {
       city: "Madang",
@@ -1618,7 +1602,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Cidade costeira charmosa, ideal para mergulho e snorkel, com recifes de corais coloridos, cavernas marinhas e lagos serenos.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Madang%20Harbour%20Papua%20New%20Guinea.jpg",
+        "https://i.pinimg.com/1200x/e6/ac/a5/e6aca5d153913fd13eb62218b587d108.jpg",
     },
     {
       city: "Tufi",
@@ -1626,7 +1610,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Um paraíso isolado entre fiordes e colinas verdejantes, Tufi é conhecido por mergulhos espetaculares e vilas tradicionais.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Tufi%20fiord%20Papua%20New%20Guinea.jpg",
+        "https://www.aqua-firma.com/contentFiles/image/2023/11/papua-new-guinea-reef-rainforest.jpg",
     },
     {
       city: "Sepik River",
@@ -1634,7 +1618,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Um dos maiores rios do país, o Sepik é uma imersão cultural, com aldeias tradicionais e esculturas tribais únicas.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Sepik%20River%20Papua%20New%20Guinea.jpg",
+        "https://i.pinimg.com/736x/fc/16/34/fc163435c1a2eb2b42027824f9ca325b.jpg",
     },
     {
       city: "Alotau",
@@ -1642,7 +1626,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Porta de entrada para as Ilhas Milne Bay, Alotau é perfeita para quem busca cultura, praias remotas e mergulho de nível mundial.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Alotau%20Milne%20Bay%20Papua%20New%20Guinea.jpg",
+        "https://www.oceaniacruises.com/Images/Ports/Medium/61287/GUR.jpg",
     },
     {
       city: "Goroka",
@@ -1650,7 +1634,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Famosa pelo Goroka Show, festival cultural que celebra as tradições tribais com danças, pinturas corporais e trajes vibrantes.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Goroka%20Show%20Papua%20New%20Guinea.jpg",
+        "https://i.pinimg.com/1200x/21/af/e0/21afe03d3bd1ab21509f9dfec3f98285.jpg",
     },
   ],
   "Cook Islands": [
@@ -1668,7 +1652,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Conhecida por sua impressionante lagoa azul-turquesa e ilhotas paradisíacas, Aitutaki é um dos lugares mais belos do Pacífico Sul — ideal para lua de mel e mergulho com snorkel.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Aitutaki%20Lagoon%20Cook%20Islands.jpg",
+        "https://i.pinimg.com/1200x/07/dd/5b/07dd5bc35528fbbc12bc72bce416157d.jpg",
     },
     {
       city: "Atiu",
@@ -1676,7 +1660,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Ilha menos turística e cheia de charme natural, com cavernas de calcário, plantações de café e vilas tradicionais que preservam a cultura polinésia autêntica.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Atiu%20Cook%20Islands.jpg",
+        "https://i.pinimg.com/736x/9e/04/98/9e04982daed94945be6d81dd6e3f04c8.jpg",
     },
     {
       city: "Mangaia",
@@ -1684,7 +1668,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Uma das ilhas mais antigas do Pacífico, Mangaia oferece paisagens dramáticas, cavernas de calcário e uma forte conexão com a herança cultural polinésia.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Mangaia%20Cook%20Islands%20coast.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy4E8iykSnw-a9KW3VhGb0JswsG1duspROHIOzNklFKV2b7NVyAd2kOvzo2Pa6R1VWKqM&usqp=CAU",
     },
     {
       city: "Mauke",
@@ -1692,7 +1676,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Chamada de “Ilha do Jardim”, Mauke encanta com suas flores tropicais, cavernas subterrâneas e atmosfera tranquila, ideal para quem busca isolamento e natureza.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Mauke%20Cook%20Islands.jpg",
+        "https://i.pinimg.com/1200x/3c/dc/b7/3cdcb771611213697dd433ccae6e78c5.jpg",
     },
     {
       city: "Mitiaro",
@@ -1700,7 +1684,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Uma pequena ilha de calcário com cavernas aquáticas cristalinas, lagoas interiores e hospitalidade polinésia autêntica — um verdadeiro refúgio remoto.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Mitiaro%20Cook%20Islands.jpg",
+        "https://i.pinimg.com/1200x/ca/f2/ad/caf2adbe6ce91a1723c97fa00adde0a2.jpg",
     },
     {
       city: "Manihiki",
@@ -1708,7 +1692,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Conhecida como a 'Ilha das Pérolas Negras', Manihiki é o centro da indústria de pérolas das Ilhas Cook, com lagoas profundas e mergulhos excepcionais.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Manihiki%20Lagoon%20Cook%20Islands.jpg",
+        "https://i.pinimg.com/1200x/6f/69/5e/6f695e8587c1fda77e0b6835841adb26.jpg",
     },
     {
       city: "Penrhyn (Tongareva)",
@@ -1716,7 +1700,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "A maior lagoa das Ilhas Cook, Penrhyn é um paraíso intocado de ilhotas isoladas, recifes e águas translúcidas ideais para explorar de barco.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Penrhyn%20atoll%20Cook%20Islands.jpg",
+        "https://i.pinimg.com/1200x/65/e7/35/65e73558e919a91ff3c6d3ba902db75f.jpg",
     },
     {
       city: "Palmerston",
@@ -1724,7 +1708,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Uma ilha remota com uma comunidade única descendente de um único inglês e suas esposas polinésias — um destino raro e fascinante para aventureiros.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Palmerston%20Island%20Cook%20Islands.jpg",
+        "https://i.pinimg.com/1200x/ee/05/88/ee058855699f472966b9673eb77a3cc1.jpg",
     },
   ],
   Vanuatu: [
@@ -1734,7 +1718,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "A capital de Vanuatu e principal porta de entrada do país. Port Vila combina paisagens tropicais, mercados locais vibrantes e resorts à beira-mar, com uma vista incrível da Baía de Mele.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Port%20Vila%20Harbour%20Vanuatu.jpg",
+        "https://i.pinimg.com/1200x/08/6b/55/086b550cadf849b0b88b5f0aaed7a9af.jpg",
     },
     {
       city: "Ilha de Espiritu Santo",
@@ -1742,7 +1726,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "A maior ilha do arquipélago, famosa por suas praias imaculadas como Champagne Beach e pelas cavernas subaquáticas do Blue Hole — um paraíso para mergulhadores e aventureiros.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Champagne%20Beach%20Espiritu%20Santo%20Vanuatu.jpg",
+        "https://i.pinimg.com/1200x/60/6f/14/606f1471ac34a1d13977f8d3d3e65a71.jpg",
     },
     {
       city: "Monte Yasur (Tanna)",
@@ -1750,7 +1734,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Um dos vulcões mais acessíveis do mundo, o Monte Yasur oferece uma experiência única de observar erupções ativas de perto — um espetáculo natural impressionante.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Mount%20Yasur%20eruption%20Vanuatu.jpg",
+        "https://i.pinimg.com/1200x/ea/06/2a/ea062aa0d38032e99dc6f3cb781283ff.jpg",
     },
     {
       city: "Ilha de Tanna",
@@ -1758,7 +1742,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Além do vulcão Yasur, Tanna é lar de vilas tradicionais, florestas tropicais e praias isoladas. Um mergulho profundo na cultura e natureza de Vanuatu.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Tanna%20Island%20Vanuatu.jpg",
+        "https://media.istockphoto.com/id/1195550350/pt/foto/seascape-view-in-sunny-weather-tanna-island-vanuatu.jpg?s=612x612&w=0&k=20&c=o5L0Ty9Peq7oM5SC-AJiOSKvLWnXpE6b6xF9H9mUvCQ=",
     },
     {
       city: "Champagne Beach",
@@ -1766,7 +1750,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Com areia branca e águas azul-turquesa que literalmente borbulham como champanhe devido às bolhas vulcânicas, esta praia é uma das mais belas do Pacífico Sul.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Champagne%20Beach%20Vanuatu.jpg",
+        "https://i.pinimg.com/736x/73/89/0f/73890f3713c51580515e0015a476a825.jpg",
     },
     {
       city: "Ilha de Pentecost",
@@ -1774,15 +1758,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Famosa por suas cerimônias de salto de torre (land diving), consideradas precursoras do bungee jump, e pela rica cultura tradicional preservada pelos nativos locais.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Pentecost%20Island%20land%20diving%20Vanuatu.jpg",
-    },
-    {
-      city: "Ilha de Malekula",
-      title: "Ilha de Malekula",
-      description:
-        "Conhecida por suas tribos tradicionais, trilhas selvagens e vilas culturais que mostram o estilo de vida melanesiano autêntico. Ideal para ecoturismo e imersão cultural.",
-      image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Malekula%20Island%20Vanuatu.jpg",
+        "https://media.istockphoto.com/id/2149691460/pt/foto/drone-view-of-sandy-beach-and-green-shore-near-turquoise-sea-tourist-settlement-sanma-vanuatu.jpg?s=612x612&w=0&k=20&c=3KU_NDM8SXFO7dPYF9UdxNq7k5ldKaXfu4qrqttYDvc=",
     },
     {
       city: "Blue Holes de Espiritu Santo",
@@ -1790,7 +1766,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Piscinas naturais de águas cristalinas e azuladas, cercadas por florestas tropicais, perfeitas para nadar, mergulhar e relaxar em meio à natureza.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Blue%20Hole%20Espiritu%20Santo%20Vanuatu.jpg",
+        "https://i.pinimg.com/1200x/c9/ff/c5/c9ffc5c54f7dd305c53e28e572ea095d.jpg",
     },
     {
       city: "Mele Cascades",
@@ -1798,7 +1774,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Uma série de belas cachoeiras próximas a Port Vila, onde é possível nadar em piscinas naturais e curtir um cenário de selva exuberante.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Mele%20Cascades%20Vanuatu.jpg",
+        "https://i.pinimg.com/736x/33/53/7c/33537c4cc9443c0a88a687605deb6e06.jpg",
     },
   ],
   Palau: [
@@ -1808,7 +1784,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Um dos maiores cartões-postais de Palau, as Rock Islands são formações de calcário cobertas de vegetação, cercadas por águas azul-turquesa ideais para caiaque, mergulho e snorkel.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Rock%20Islands%20Palau.jpg",
+        "https://i.pinimg.com/736x/99/c1/a6/99c1a6be853a4d4ded702df51224d00c.jpg",
     },
     {
       city: "Jellyfish Lake",
@@ -1824,7 +1800,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Principal centro urbano de Palau, Koror oferece museus, resorts, restaurantes e acesso fácil às ilhas vizinhas, sendo o ponto de partida para a maioria das aventuras no arquipélago.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Koror%20City%20Palau.jpg",
+        "https://www.outlooktravelmag.com/media/palau-1-1582549935.profileImage.2x-1536x884.webp",
     },
     {
       city: "Blue Corner",
@@ -1832,7 +1808,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Considerado um dos melhores pontos de mergulho do mundo, o Blue Corner é famoso pela abundância de tubarões, cardumes coloridos e corais vibrantes.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Blue%20Corner%20Palau.jpg",
+        "https://i.pinimg.com/1200x/bd/83/8a/bd838aae9028e1433cc53be2e62e00e8.jpg",
     },
     {
       city: "Ngardmau Waterfall",
@@ -1840,7 +1816,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "A maior cachoeira de Palau, cercada por floresta tropical densa e trilhas naturais, perfeita para quem busca aventura e contato direto com a natureza.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Ngardmau%20Waterfall%20Palau.jpg",
+        "https://i.pinimg.com/1200x/b1/2c/36/b12c36c529d270b3c4181baaa9948248.jpg",
     },
     {
       city: "German Channel",
@@ -1848,7 +1824,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Canal artificial criado durante a ocupação alemã, hoje um hotspot de mergulho onde é possível avistar arraias-jamanta e uma rica vida marinha.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/German%20Channel%20Palau.jpg",
+        "https://i.pinimg.com/1200x/ec/48/b0/ec48b072e94249c1aa748e9ad62cd394.jpg",
     },
     {
       city: "Milky Way Lagoon",
@@ -1856,15 +1832,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Uma lagoa natural com águas esverdeadas e fundo de calcário branco, famoso por seu ‘banho de lama’ rejuvenescedor — um spa natural no meio do oceano.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Milky%20Way%20Lagoon%20Palau.jpg",
-    },
-    {
-      city: "Peleliu Island",
-      title: "Peleliu Island",
-      description:
-        "Conhecida por sua importância histórica na Segunda Guerra Mundial, a ilha de Peleliu abriga memoriais, ruínas e belas praias tranquilas.",
-      image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Peleliu%20Island%20Palau.jpg",
+        "https://i.pinimg.com/1200x/d8/d7/97/d8d7976320733474e2793280d17f8236.jpg",
     },
     {
       city: "Long Beach (Koror)",
@@ -1872,7 +1840,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Uma das praias mais icônicas de Palau, famosa por aparecer apenas durante a maré baixa, formando uma faixa de areia que conecta pequenas ilhas em meio às águas cristalinas.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Long%20Beach%20Rock%20Islands%20Palau.jpg",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/8e/aa/85/long-beach-one-of-the.jpg?w=1200&h=-1&s=1",
     },
   ],
   "Federated States of Micronesia": [
@@ -1882,7 +1850,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Conhecida como a 'Veneza do Pacífico', Nan Madol é uma antiga cidade construída sobre pequenas ilhotas artificiais, com ruínas de pedra e canais misteriosos que datam do século XIII.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Nan%20Madol%20Pohnpei.jpg",
+        "https://i.pinimg.com/1200x/c6/37/86/c6378683558a3834d745839d7546b2a6.jpg",
     },
     {
       city: "Pohnpei Island",
@@ -1890,7 +1858,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "A ilha mais verde e montanhosa da Micronésia, lar de cachoeiras exuberantes, florestas tropicais e locais históricos, além de uma cultura vibrante e acolhedora.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Pohnpei%20Island%20Micronesia.jpg",
+        "https://paradises.com/wp-content/uploads/2024/03/pohnpei1-jpg.webp",
     },
     {
       city: "Sokehs Rock (Pohnpei)",
@@ -1898,7 +1866,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Uma impressionante formação rochosa que lembra uma montanha gigante emergindo da selva — ponto de trilha popular com vistas panorâmicas de Pohnpei.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Sokehs%20Rock%20Pohnpei.jpg",
+        "https://i.pinimg.com/736x/d8/7e/a4/d87ea4757d8074555052783cdaaff4a8.jpg",
     },
     {
       city: "Chuuk Lagoon",
@@ -1906,7 +1874,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Um dos destinos de mergulho mais famosos do mundo, repleto de destroços de navios e aviões japoneses da Segunda Guerra Mundial, agora transformados em recifes artificiais.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Chuuk%20Lagoon%20Micronesia.jpg",
+        "https://i.pinimg.com/736x/9c/46/67/9c4667a4f06143781884f6118e3cbb6e.jpg",
     },
     {
       city: "Yap Island",
@@ -1914,7 +1882,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Conhecida por suas tradições culturais e pela moeda de pedra gigante chamada 'rai stones', Yap também oferece excelentes locais de mergulho e snorkel.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Yap%20Island%20Micronesia.jpg",
+        "https://i.pinimg.com/1200x/11/8d/f0/118df0b78f99075120c2d02c1b444c77.jpg",
     },
     {
       city: "Colonia (Yap)",
@@ -1922,7 +1890,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "A pequena capital de Yap combina cultura local, mercados tradicionais e acesso a belas praias e vilas preservadas.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Colonia%20Yap%20Micronesia.jpg",
+        "https://i.pinimg.com/736x/2b/42/95/2b429573c36a3db651ac2bc5192cc738.jpg",
     },
     {
       city: "Kosrae Island",
@@ -1930,7 +1898,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "A ilha mais oriental da Micronésia é um refúgio de tranquilidade com montanhas cobertas de floresta tropical, recifes intocados e sítios arqueológicos antigos.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Kosrae%20Island%20Micronesia.jpg",
+        "https://www.hideawayholidays.com.au/wp-content/uploads/2019/10/Micronesia_522px.jpg",
     },
     {
       city: "Utwe-Walung Marine Park (Kosrae)",
@@ -1938,7 +1906,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Uma reserva marinha espetacular, perfeita para caiaque e mergulho entre manguezais, corais e cardumes coloridos em águas cristalinas.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Utwe%20Walung%20Marine%20Park%20Kosrae.jpg",
+        "https://sandee.com/_next/image?q=75&url=https%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMX57kLCoueFHNuJrVhwMqzVkW32Y_0J38_UC7I%3Ds1600-k-no&w=3840",
     },
     {
       city: "Ant Atoll (Pohnpei)",
@@ -1946,7 +1914,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Um atol isolado e protegido pela UNESCO, com lagoas turquesa e vida marinha abundante — considerado um dos locais mais intocados do Pacífico.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Ant%20Atoll%20Pohnpei%20Micronesia.jpg",
+        "https://i.pinimg.com/736x/f3/eb/b9/f3ebb976d306a7c7e391e8aea7ce10eb.jpg",
     },
   ],
   Nauru: [
@@ -1956,7 +1924,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Uma das áreas mais belas e tranquilas de Nauru, com praia de areia branca e mar azul-turquesa, perfeita para nadar, relaxar e apreciar o nascer do sol.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Anibare%20Bay%20Nauru.jpg",
+        "https://unviajeepico.com/wp-content/uploads/2024/03/winston-chen-bjJU61GHALI-unsplash-1024x768.jpg",
     },
     {
       city: "Comand Ridge",
@@ -1964,7 +1932,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "O ponto mais alto da ilha, oferecendo vistas panorâmicas de Nauru. Também abriga bunkers e artefatos da Segunda Guerra Mundial, testemunhos do passado histórico do país.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Command%20Ridge%20Nauru.jpg",
+        "https://www.traveladventures.org/countries/nauru/images/command-ridge06.jpg",
     },
     {
       city: "Lago Buada",
@@ -1972,7 +1940,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Um lago interior cercado por vegetação tropical densa, localizado em uma antiga cratera de fosfato. Um oásis verde no coração da ilha.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Buada%20Lagoon%20Nauru.jpg",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/44/fc/d3/caption.jpg?w=1200&h=-1&s=1",
     },
     {
       city: "District of Aiwo",
@@ -1980,47 +1948,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Centro industrial e portuário de Nauru, onde é possível ver de perto a história da mineração de fosfato e visitar áreas urbanas movimentadas da ilha.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Aiwo%20District%20Nauru.jpg",
-    },
-    {
-      city: "Centro de Governo de Yaren",
-      title: "Centro de Governo de Yaren",
-      description:
-        "Embora Nauru não tenha uma capital oficial, Yaren é o centro administrativo e político, com edifícios governamentais, o aeroporto e marcos nacionais.",
-      image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Yaren%20District%20Nauru.jpg",
-    },
-    {
-      city: "Tribo de Meneng",
-      title: "Tribo de Meneng",
-      description:
-        "Região costeira com belas praias e pousadas locais, ideal para quem quer experimentar a hospitalidade nauruana e aproveitar o mar calmo do Pacífico.",
-      image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Meneng%20District%20Nauru.jpg",
-    },
-    {
-      city: "Topside Plateau",
-      title: "Topside Plateau",
-      description:
-        "Área central da ilha coberta por formações de calcário e antigas minas de fosfato, oferecendo uma visão única da geografia e história ambiental de Nauru.",
-      image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Topside%20Plateau%20Nauru.jpg",
-    },
-    {
-      city: "Baía de Anetan",
-      title: "Baía de Anetan",
-      description:
-        "Local tranquilo e menos visitado ao norte da ilha, ótimo para contemplar o pôr do sol e observar aves marinhas locais.",
-      image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Anetan%20District%20Nauru.jpg",
-    },
-    {
-      city: "Trilha Cênica ao Redor da Ilha",
-      title: "Trilha Cênica ao Redor da Ilha",
-      description:
-        "Com apenas 19 km de circunferência, é possível percorrer toda Nauru de bicicleta ou carro, explorando praias, vilas e paisagens tropicais em um único dia.",
-      image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Nauru%20Coastal%20Road.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Od%27n_Aiwo_Hotel_%2815223072800%29.jpg/1200px-Od%27n_Aiwo_Hotel_%2815223072800%29.jpg",
     },
   ],
   Kiribati: [
@@ -2030,23 +1958,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Centro político e econômico de Kiribati, South Tarawa mistura vida local, história da Segunda Guerra Mundial e belas lagoas azul-turquesa. É o ponto de partida para explorar o país.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/South%20Tarawa%20Kiribati.jpg",
-    },
-    {
-      city: "Betio",
-      title: "Betio",
-      description:
-        "Local histórico da Batalha de Tarawa, Betio abriga memoriais de guerra, destroços navais e artefatos da Segunda Guerra Mundial, além de uma atmosfera vibrante e urbana.",
-      image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Betio%20Island%20Tarawa%20Kiribati.jpg",
-    },
-    {
-      city: "Atol de Abaiang",
-      title: "Atol de Abaiang",
-      description:
-        "Um paraíso natural ao norte de Tarawa, famoso por suas lagoas serenas, vilas tradicionais e experiências autênticas de vida insular.",
-      image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Abaiang%20Atoll%20Kiribati.jpg",
+        "https://i.pinimg.com/736x/16/d6/7c/16d67cccb2797215f039dca86b65d158.jpg",
     },
     {
       city: "Atol de Butaritari",
@@ -2054,7 +1966,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Conhecido por sua vegetação exuberante, praias tranquilas e relevância histórica durante a Segunda Guerra Mundial. Ideal para relaxar e mergulhar na cultura local.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Butaritari%20Atoll%20Kiribati.jpg",
+        "https://i0.wp.com/rwayalkwn.com/app/uploads/2022/09/%D8%AC%D8%B2%D8%B1-%D9%83%D9%8A%D8%B1%D9%8A%D8%A8%D8%A7%D8%AA%D9%8A..jpg?fit=1110%2C484&ssl=1",
     },
     {
       city: "Atol de Kiritimati (Christmas Island)",
@@ -2062,7 +1974,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "A maior ilha de coral do mundo e destino famoso para pesca esportiva, observação de aves e mergulho. Também é um dos primeiros lugares do planeta a ver o nascer do Ano Novo.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Kiritimati%20Island%20Kiribati.jpg",
+        "https://i.pinimg.com/1200x/d3/24/b5/d324b547f530db347d1e607b984fd173.jpg",
     },
     {
       city: "Atol de Fanning (Tabuaeran)",
@@ -2070,31 +1982,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Conhecido por suas águas cristalinas e recifes preservados, é um refúgio remoto e pacífico, perfeito para snorkeling e contato com a natureza pura.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Fanning%20Island%20Kiribati.jpg",
-    },
-    {
-      city: "Atol de Arorae",
-      title: "Atol de Arorae",
-      description:
-        "A ilha mais meridional de Kiribati, famosa por suas tradições culturais, danças e artesanato local, além de vistas espetaculares do pôr do sol.",
-      image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Arorae%20Island%20Kiribati.jpg",
-    },
-    {
-      city: "Atol de Marakei",
-      title: "Atol de Marakei",
-      description:
-        "Ilha circular encantadora cercada por lagoas e vilas pacíficas, conhecida por seus rituais tradicionais de boas-vindas e hospitalidade calorosa.",
-      image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Marakei%20Atoll%20Kiribati.jpg",
-    },
-    {
-      city: "Atol de Tarawa Norte",
-      title: "Atol de Tarawa Norte",
-      description:
-        "Região mais tranquila e rural da ilha principal, ideal para quem busca praias desertas, aldeias autênticas e uma imersão completa na vida local.",
-      image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/North%20Tarawa%20Kiribati.jpg",
+        "https://i.pinimg.com/736x/2f/2a/e9/2f2ae92b1ded7fc25b62348bb59d5079.jpg",
     },
   ],
   "Marshall Islands": [
@@ -2104,7 +1992,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "A capital das Ilhas Marshall e principal porta de entrada do país. Majuro combina praias paradisíacas, vida local vibrante e ótimos pontos para mergulho e pesca.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Majuro%20Atoll%20Marshall%20Islands.jpg",
+        "https://i.pinimg.com/1200x/17/36/f0/1736f0ad83f5cc12c41e3f4cd30ed323.jpg",
     },
     {
       city: "Laura Beach (Majuro)",
@@ -2112,7 +2000,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "A praia mais famosa de Majuro, conhecida por suas águas cristalinas, palmeiras e clima tranquilo — um refúgio popular entre moradores e visitantes.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Laura%20Beach%20Majuro%20Marshall%20Islands.jpg",
+        "https://i.pinimg.com/1200x/74/d7/72/74d77207bdebb5dfcc54c13962dbcdbd.jpg",
     },
     {
       city: "Arno Atoll",
@@ -2120,15 +2008,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Localizado próximo a Majuro, Arno é famoso por suas lagoas duplas e praias intocadas. Perfeito para mergulho, caiaque e imersão na vida insular tradicional.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Arno%20Atoll%20Marshall%20Islands.jpg",
-    },
-    {
-      city: "Bikini Atoll",
-      title: "Bikini Atoll",
-      description:
-        "Patrimônio Mundial da UNESCO, Bikini é um destino lendário para mergulhadores, com destroços de navios de guerra e submarinos americanos usados em testes nucleares.",
-      image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Bikini%20Atoll%20Lagoon%20Marshall%20Islands.jpg",
+        "https://i.pinimg.com/1200x/80/32/18/803218944eb5d61215fb66fac8c63ce1.jpg",
     },
     {
       city: "Ailinglaplap Atoll",
@@ -2136,7 +2016,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Conhecido como o 'Coração das Marshall', o atol é famoso por sua beleza natural, tradições culturais e hospitalidade local.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Ailinglaplap%20Atoll%20Marshall%20Islands.jpg",
+        "https://i0.wp.com/www.infomarshallislands.com/wp-content/uploads/2019/03/beran-aerial.jpg?resize=640%2C427&ssl=1",
     },
     {
       city: "Kwajalein Atoll",
@@ -2146,30 +2026,6 @@ const baseDestinations: Record<string, Destination[]> = {
       image:
         "https://commons.wikimedia.org/wiki/Special:FilePath/Kwajalein%20Atoll%20Marshall%20Islands.jpg",
     },
-    {
-      city: "Likiep Atoll",
-      title: "Likiep Atoll",
-      description:
-        "Um dos atóis mais pitorescos das Marshall, conhecido por sua arquitetura colonial alemã e praias de areia branca com recifes coloridos.",
-      image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Likiep%20Atoll%20Marshall%20Islands.jpg",
-    },
-    {
-      city: "Jaluit Atoll",
-      title: "Jaluit Atoll",
-      description:
-        "Antigo centro administrativo alemão e japonês, Jaluit possui ruínas históricas, vilas tradicionais e uma lagoa espetacular cercada por ilhotas.",
-      image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Jaluit%20Atoll%20Marshall%20Islands.jpg",
-    },
-    {
-      city: "Mili Atoll",
-      title: "Mili Atoll",
-      description:
-        "Famoso por suas paisagens remotas e águas claras, Mili é um destino isolado, ideal para quem busca tranquilidade e natureza intocada.",
-      image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Mili%20Atoll%20Marshall%20Islands.jpg",
-    },
   ],
   "New Caledonia": [
     {
@@ -2178,7 +2034,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "A capital da Nova Caledônia é um ponto de fusão entre a cultura francesa e o charme do Pacífico. Possui belas praias como Anse Vata e Baie des Citrons, além de ótimos restaurantes e vida noturna vibrante.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Nouméa%20New%20Caledonia.jpg",
+        "https://i.pinimg.com/736x/b6/0d/20/b60d20e35aceaff415fca3ca539d2784.jpg",
     },
     {
       city: "Ilha dos Pinheiros (Île des Pins)",
@@ -2186,7 +2042,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Conhecida como a 'joia do Pacífico', a Ilha dos Pinheiros encanta com praias de areia branca, águas turquesa e os emblemáticos pinheiros coloniais. A Baía de Kuto e a Baía de Kanuméra são imperdíveis.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Île%20des%20Pins%20New%20Caledonia.jpg",
+        "https://i.pinimg.com/736x/76/42/07/764207b4e5d56ac239fd03152bed671a.jpg",
     },
     {
       city: "Parque da Lagoa da Nova Caledônia",
@@ -2202,7 +2058,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "A ilha principal da Nova Caledônia oferece montanhas, florestas tropicais e paisagens áridas no norte. Ideal para trilhas, ecoturismo e imersão na cultura Kanak.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Grande%20Terre%20New%20Caledonia.jpg",
+        "https://cdn.britannica.com/23/147123-050-95C1E75F/Turtle-Bay-New-Caledonia.jpg",
     },
     {
       city: "Hienghène",
@@ -2210,7 +2066,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Localizada na costa leste, Hienghène é famosa por suas formações rochosas de calcário negro, cachoeiras e vilas tradicionais Kanak. Um dos destinos mais fotogênicos do país.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Hienghène%20New%20Caledonia.jpg",
+        "https://i.pinimg.com/1200x/45/b6/b5/45b6b5cb5731d19a3e6d0ddfc933f0fe.jpg",
     },
     {
       city: "Lifou (Ilhas Loyalty)",
@@ -2218,7 +2074,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "A maior das Ilhas Loyalty, Lifou encanta com suas falésias, cavernas marinhas e vilarejos acolhedores. Um ótimo local para mergulhar entre recifes e jardins de coral.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Lifou%20Loyalty%20Islands%20New%20Caledonia.jpg",
+        "https://i.pinimg.com/736x/98/dd/9e/98dd9ee7221147dacb130e5edd51f333.jpg",
     },
     {
       city: "Ouvéa (Ilhas Loyalty)",
@@ -2226,7 +2082,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Muitas vezes chamada de 'ilha mais próxima do paraíso', Ouvéa tem uma das praias mais longas do Pacífico, com 25 km de areia branca e mar azul-turquesa cristalino.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Ouvéa%20Loyalty%20Islands%20New%20Caledonia.jpg",
+        "https://woody.cloudly.space/app/uploads/nouvelle-caledonie/2022/11/thumbs/Barefoot-Ouvea-%C2%A9-Dean-Cropp-Access-All-Angles-NCT3-1-1920x960-crop-1669158451.jpg",
     },
     {
       city: "Bourail",
@@ -2234,7 +2090,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Região popular entre surfistas e aventureiros, Bourail oferece praias como Poé Beach e a icônica formação natural de 'La Roche Percée', além de trilhas e esportes aquáticos.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Bourail%20New%20Caledonia.jpg",
+        "https://woody.cloudly.space/app/uploads/nouvelle-caledonie/2024/01/thumbs/Survol-du-Lagon-CAP-ULM-Bourail-2-1920x960-crop-1706131213.jpg",
     },
     {
       city: "Yaté e o Parque Provincial da Rivière Bleue",
@@ -2242,7 +2098,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Um paraíso ecológico com florestas densas, o famoso lago Yaté e trilhas que passam por pontes suspensas e árvores centenárias. Ideal para ecoturismo e fotografia.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Parc%20Provincial%20de%20la%20Rivière%20Bleue%20New%20Caledonia.jpg",
+        "https://i.pinimg.com/1200x/32/b3/9a/32b39abad539a276d647c4832be6d8b5.jpg",
     },
   ],
   "French Polynesia": [
@@ -2252,7 +2108,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "A maior ilha da Polinésia Francesa e o coração cultural do arquipélago. Papeete oferece mercados vibrantes, gastronomia polinésia e paisagens montanhosas deslumbrantes, como o Monte Orohena.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Papeete%20harbor%20Tahiti.jpg",
+        "https://i.pinimg.com/1200x/e1/ed/50/e1ed50786349730d6e9e6bf7eeeb4ab8.jpg",
     },
     {
       city: "Bora Bora",
@@ -2260,7 +2116,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Conhecida como a 'pérola do Pacífico', Bora Bora é o destino mais famoso da Polinésia Francesa, com resorts sobre a água, lagoas azul-turquesa e o icônico Monte Otemanu ao fundo.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Bora%20Bora%20lagoon%20and%20Mount%20Otemanu.jpg",
+        "https://i.pinimg.com/1200x/57/57/02/575702cbaedb61db904ca76c4361ab37.jpg",
     },
     {
       city: "Moorea",
@@ -2268,7 +2124,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "A apenas 30 minutos de barco do Taiti, Moorea é um refúgio de natureza exuberante com picos verdes, baías profundas e praias perfeitas para mergulho e snorkeling.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Moorea%20Cook%27s%20Bay.jpg",
+        "https://i.pinimg.com/736x/54/dc/e7/54dce7bc0b213e25066ea85b55973dcb.jpg",
     },
     {
       city: "Huahine",
@@ -2276,7 +2132,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Uma das ilhas mais autênticas da Polinésia Francesa, Huahine preserva tradições locais, ruínas arqueológicas e uma atmosfera tranquila cercada por uma lagoa cristalina.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Huahine%20lagoon.jpg",
+        "https://i.pinimg.com/1200x/0a/bb/f6/0abbf60f5a6d9ef16d38e5b55602a642.jpg",
     },
     {
       city: "Raiatea",
@@ -2284,7 +2140,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Considerada o berço espiritual da Polinésia, abriga o sagrado Marae Taputapuatea, Patrimônio Mundial da UNESCO. Também é um excelente ponto para velejar e explorar ilhotas vizinhas.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Raiatea%20island%20lagoon.jpg",
+        "https://i.pinimg.com/1200x/ff/9c/6a/ff9c6a1f027b0a42412934a78bb89ac2.jpg",
     },
     {
       city: "Taha’a",
@@ -2292,7 +2148,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Conhecida como a 'Ilha da Baunilha', Taha’a oferece plantações aromáticas, recifes de coral e pequenas ilhas desertas ideais para passeios de barco e mergulho.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Tahaa%20lagoon.jpg",
+        "https://www.tahititourisme.com/app/uploads/iris-images/17278/vue-en-drone-de-taha-a-a-karl-shakur-1600x1400-f50_50.webp",
     },
     {
       city: "Rangiroa",
@@ -2300,7 +2156,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "O segundo maior atol do mundo, Rangiroa é um paraíso para mergulhadores, com recifes repletos de vida marinha e águas tão transparentes que parecem irreais.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Rangiroa%20atoll%20lagoon.jpg",
+        "https://i.pinimg.com/1200x/3c/ef/3a/3cef3a5a019d3c861edae49356e687e3.jpg",
     },
     {
       city: "Fakarava",
@@ -2308,7 +2164,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Outro Patrimônio Mundial da UNESCO, Fakarava é um atol com um ecossistema preservado e uma das melhores experiências de mergulho do planeta, com tubarões, raias e corais coloridos.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Fakarava%20atoll%20Tuamotu%20Archipelago.jpg",
+        "https://i.pinimg.com/1200x/30/cd/34/30cd34ae69f6fce1cbb6001c11b2da7b.jpg",
     },
     {
       city: "Tetiaroa",
@@ -2316,7 +2172,7 @@ const baseDestinations: Record<string, Destination[]> = {
       description:
         "Antiga ilha particular do ator Marlon Brando, Tetiaroa é hoje um resort ecológico de luxo. Cercada por águas rasas e vida marinha abundante, é o epítome da exclusividade tropical.",
       image:
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Tetiaroa%20atoll%20French%20Polynesia.jpg",
+        "https://i.pinimg.com/1200x/7d/2a/bc/7d2abc514900a1ba8f5ab5eec9f7c22d.jpg",
     },
   ],
   Spain: [
@@ -7078,18 +6934,6 @@ const extraRaw: {
     ],
   },
   {
-    country: "Australia",
-    destinations: [
-      {
-        name: "Grande Barreira de Corais",
-        description:
-          "Mundo submarino espetacular — recifes vívidos e biodiversidade de tirar o fôlego.",
-        image:
-          "https://commons.wikimedia.org/wiki/Special:Search?search=Great+Barrier+Reef",
-      },
-    ],
-  },
-  {
     country: "Austria",
     destinations: [
       {
@@ -7097,7 +6941,7 @@ const extraRaw: {
         description:
           "Cafés elegantes, palácios imperiais e sinfonias — a capital da sofisticação cultural.",
         image:
-          "https://commons.wikimedia.org/wiki/Special:Search?search=Vienna",
+          "https://i.pinimg.com/736x/fc/15/ce/fc15cee1282097e8665e00b10be034b7.jpg",
       },
     ],
   },
@@ -7169,18 +7013,6 @@ const extraRaw: {
         description:
           "Praças amplas e museus — mistura de história recente e vida urbana emergente.",
         image: "https://commons.wikimedia.org/wiki/Special:Search?search=Minsk",
-      },
-    ],
-  },
-  {
-    country: "Belgium",
-    destinations: [
-      {
-        name: "Bruges (cidade medieval)",
-        description:
-          "Canais românticos, ruelas de pedra e chocolates artesanais — conto de fadas europeu.",
-        image:
-          "https://commons.wikimedia.org/wiki/Special:Search?search=Bruges",
       },
     ],
   },
