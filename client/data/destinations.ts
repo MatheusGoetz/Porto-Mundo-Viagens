@@ -6846,7 +6846,6 @@ const extraRaw: {
           "Lagoas turquesa em um cenário de montanhas—um tesouro natural remoto e hipnotizante.",
         image:
           "https://commons.wikimedia.org/wiki/Special:Search?search=Band-e+Amir",
-        image: "https://upload.wikimedia.org/wikipedia/commons/c/c5/Band-e_Amir.jpg",
       },
     ],
   },
