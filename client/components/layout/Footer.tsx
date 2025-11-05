@@ -17,8 +17,8 @@ export default function Footer() {
         <div>
           <h4 className="font-semibold">Contato</h4>
           <ul className="mt-3 space-y-2 text-primary-foreground/80">
-            <li className="flex items-center gap-2"><Phone className="h-4 w-4"/> WhatsApp: (51) 99642-0330</li>
-            <li className="flex items-center gap-2"><Mail className="h-4 w-4"/> contato@portomundo.com.br</li>
+            <li className="flex items-center gap-2"><Phone className="h-4 w-4"/> WhatsApp: (51) 99346-6251</li>
+            <li className="flex items-center gap-2"><Mail className="h-4 w-4"/> adriano@portomundo.net.br</li>
           </ul>
         </div>
         <div>
