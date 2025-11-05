@@ -1,0 +1,17 @@
+services:
+  - type: web
+    name: porto-mundo-backend
+    runtime: node
+    rootDir: server
+    buildCommand: npm install && npm run build
+    startCommand: node dist/server.js
+    autoDeploy: true
+    plan: free
+
+  - type: cron
+    name: porto-mundo-frontend
+    rootDir: client
+    buildCommand: npm install && npm run build
+    publishDir: dist
+    autoDeploy: true
+    plan: free
