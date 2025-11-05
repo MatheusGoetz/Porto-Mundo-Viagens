@@ -14,8 +14,12 @@ export default defineConfig(({ mode }) => ({
     },
   },
   build: {
-    outDir: "dist/spa",
-  },
+  outDir: 'dist',
+  rollupOptions: {
+    input: 'server/index.ts', // ou seu entry correto
+  }
+}
+,
   plugins: [react(), expressPlugin()],
   resolve: {
     alias: {
